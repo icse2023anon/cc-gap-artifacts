@@ -1,0 +1,20 @@
+#!/bin/bash
+
+echo "computing slice for TickLabelEntityTest"
+
+mkdir -p /home/stg/omc_experiments/slices/jfreechart/entity_slices/TickLabelEntityTest
+
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/TickLabelEntityTest.trace org.jfree.chart.entity.TickLabelEntityTest.testEquals:66:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/TickLabelEntityTest/TickLabelEntityTest1.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/TickLabelEntityTest.trace org.jfree.chart.entity.TickLabelEntityTest.testEquals:69:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/TickLabelEntityTest/TickLabelEntityTest2.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/TickLabelEntityTest.trace org.jfree.chart.entity.TickLabelEntityTest.testEquals:71:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/TickLabelEntityTest/TickLabelEntityTest3.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/TickLabelEntityTest.trace org.jfree.chart.entity.TickLabelEntityTest.testEquals:74:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/TickLabelEntityTest/TickLabelEntityTest4.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/TickLabelEntityTest.trace org.jfree.chart.entity.TickLabelEntityTest.testEquals:76:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/TickLabelEntityTest/TickLabelEntityTest5.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/TickLabelEntityTest.trace org.jfree.chart.entity.TickLabelEntityTest.testEquals:79:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/TickLabelEntityTest/TickLabelEntityTest6.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/TickLabelEntityTest.trace org.jfree.chart.entity.TickLabelEntityTest.testEquals:81:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/TickLabelEntityTest/TickLabelEntityTest7.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/TickLabelEntityTest.trace org.jfree.chart.entity.TickLabelEntityTest.testCloning:92:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/TickLabelEntityTest/TickLabelEntityTest8.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/TickLabelEntityTest.trace org.jfree.chart.entity.TickLabelEntityTest.testCloning:93:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/TickLabelEntityTest/TickLabelEntityTest9.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/TickLabelEntityTest.trace org.jfree.chart.entity.TickLabelEntityTest.testCloning:94:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/TickLabelEntityTest/TickLabelEntityTest10.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/TickLabelEntityTest.trace org.jfree.chart.entity.TickLabelEntityTest.testSerialization:105:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/TickLabelEntityTest/TickLabelEntityTest11.txt
+
+#Total Asserts in org.jfree.chart.entity/TickLabelEntityTest=============11
+#Total Tests in org.jfree.chart.entity/TickLabelEntityTest=============0

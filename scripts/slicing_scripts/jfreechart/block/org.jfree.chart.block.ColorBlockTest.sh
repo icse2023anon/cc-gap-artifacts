@@ -1,0 +1,23 @@
+#!/bin/bash
+
+echo "computing slice for ColorBlockTest"
+
+mkdir -p /home/stg/omc_experiments/slices/jfreechart/block_slices/ColorBlockTest
+
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/ColorBlockTest.trace org.jfree.chart.block.ColorBlockTest.testEquals:67:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/ColorBlockTest/ColorBlockTest1.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/ColorBlockTest.trace org.jfree.chart.block.ColorBlockTest.testEquals:68:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/ColorBlockTest/ColorBlockTest2.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/ColorBlockTest.trace org.jfree.chart.block.ColorBlockTest.testEquals:71:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/ColorBlockTest/ColorBlockTest3.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/ColorBlockTest.trace org.jfree.chart.block.ColorBlockTest.testEquals:73:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/ColorBlockTest/ColorBlockTest4.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/ColorBlockTest.trace org.jfree.chart.block.ColorBlockTest.testEquals:76:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/ColorBlockTest/ColorBlockTest5.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/ColorBlockTest.trace org.jfree.chart.block.ColorBlockTest.testEquals:78:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/ColorBlockTest/ColorBlockTest6.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/ColorBlockTest.trace org.jfree.chart.block.ColorBlockTest.testEquals:81:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/ColorBlockTest/ColorBlockTest7.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/ColorBlockTest.trace org.jfree.chart.block.ColorBlockTest.testEquals:83:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/ColorBlockTest/ColorBlockTest8.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/ColorBlockTest.trace org.jfree.chart.block.ColorBlockTest.testCloning:104:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/ColorBlockTest/ColorBlockTest9.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/ColorBlockTest.trace org.jfree.chart.block.ColorBlockTest.testCloning:105:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/ColorBlockTest/ColorBlockTest10.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/ColorBlockTest.trace org.jfree.chart.block.ColorBlockTest.testCloning:106:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/ColorBlockTest/ColorBlockTest11.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/ColorBlockTest.trace org.jfree.chart.block.ColorBlockTest.testCloning:110:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/ColorBlockTest/ColorBlockTest12.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/ColorBlockTest.trace org.jfree.chart.block.ColorBlockTest.testCloning:112:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/ColorBlockTest/ColorBlockTest13.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/ColorBlockTest.trace org.jfree.chart.block.ColorBlockTest.testSerialization:124:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/ColorBlockTest/ColorBlockTest14.txt
+
+#Total Asserts in org.jfree.chart.block/ColorBlockTest=============14
+#Total Tests in org.jfree.chart.block/ColorBlockTest=============0

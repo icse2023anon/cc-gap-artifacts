@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo "computing slice for Base64JAXBCodecTest"
+
+mkdir -p /home/stg/omc_experiments/slices/xstream/util_slices/Base64JAXBCodecTest
+
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/xstream/util_traces/Base64JAXBCodecTest.trace com.thoughtworks.xstream.core.util.Base64JAXBCodecTest.testEncodesEntireByteArrayAsString:24:*>/home/stg/omc_experiments/slices/xstream/util_slices/Base64JAXBCodecTest/Base64JAXBCodecTest1.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/xstream/util_traces/Base64JAXBCodecTest.trace com.thoughtworks.xstream.core.util.Base64JAXBCodecTest.testModeWithoutLineWraps:34:*>/home/stg/omc_experiments/slices/xstream/util_slices/Base64JAXBCodecTest/Base64JAXBCodecTest2.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/xstream/util_traces/Base64JAXBCodecTest.trace com.thoughtworks.xstream.core.util.Base64JAXBCodecTest.testPadsSingleMissingByteWhenNotMultipleOfThree:65:*>/home/stg/omc_experiments/slices/xstream/util_slices/Base64JAXBCodecTest/Base64JAXBCodecTest3.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/xstream/util_traces/Base64JAXBCodecTest.trace com.thoughtworks.xstream.core.util.Base64JAXBCodecTest.testPadsDoubleMissingByteWhenNotMultipleOfThree:72:*>/home/stg/omc_experiments/slices/xstream/util_slices/Base64JAXBCodecTest/Base64JAXBCodecTest4.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/xstream/util_traces/Base64JAXBCodecTest.trace com.thoughtworks.xstream.core.util.Base64JAXBCodecTest.testDoesNotPadWhenMultipleOfThree:79:*>/home/stg/omc_experiments/slices/xstream/util_slices/Base64JAXBCodecTest/Base64JAXBCodecTest5.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/xstream/util_traces/Base64JAXBCodecTest.trace com.thoughtworks.xstream.core.util.Base64JAXBCodecTest.testHandlesAllPositiveBytes:91:*>/home/stg/omc_experiments/slices/xstream/util_slices/Base64JAXBCodecTest/Base64JAXBCodecTest6.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/xstream/util_traces/Base64JAXBCodecTest.trace com.thoughtworks.xstream.core.util.Base64JAXBCodecTest.testHandlesAllNegativeBytes:103:*>/home/stg/omc_experiments/slices/xstream/util_slices/Base64JAXBCodecTest/Base64JAXBCodecTest7.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/xstream/util_traces/Base64JAXBCodecTest.trace com.thoughtworks.xstream.core.util.Base64JAXBCodecTest.testHandlesZeroByte:110:*>/home/stg/omc_experiments/slices/xstream/util_slices/Base64JAXBCodecTest/Base64JAXBCodecTest8.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/xstream/util_traces/Base64JAXBCodecTest.trace com.thoughtworks.xstream.core.util.Base64JAXBCodecTest.testProducesEmptyStringWhenNoBytesGiven:117:*>/home/stg/omc_experiments/slices/xstream/util_slices/Base64JAXBCodecTest/Base64JAXBCodecTest9.txt
+
+#Total Asserts in com.thoughtworks.xstream.core.util/Base64JAXBCodecTest=============9
+#Total Tests in com.thoughtworks.xstream.core.util/Base64JAXBCodecTest=============0

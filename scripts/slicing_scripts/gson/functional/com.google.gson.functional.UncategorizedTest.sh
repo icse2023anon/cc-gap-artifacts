@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "computing slice for UncategorizedTest"
+
+mkdir -p /home/stg/omc_experiments/slices/gson/functional_slices/UncategorizedTest
+
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/gson/functional_traces/UncategorizedTest.trace com.google.gson.functional.UncategorizedTest.testObjectEqualButNotSameSerialization:67:*>/home/stg/omc_experiments/slices/gson/functional_slices/UncategorizedTest/UncategorizedTest1.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/gson/functional_traces/UncategorizedTest.trace com.google.gson.functional.UncategorizedTest.testStaticFieldsAreNotSerialized:72:*>/home/stg/omc_experiments/slices/gson/functional_slices/UncategorizedTest/UncategorizedTest2.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/gson/functional_traces/UncategorizedTest.trace com.google.gson.functional.UncategorizedTest.testGsonInstanceReusableForSerializationAndDeserialization:79:*>/home/stg/omc_experiments/slices/gson/functional_slices/UncategorizedTest/UncategorizedTest3.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/gson/functional_traces/UncategorizedTest.trace com.google.gson.functional.UncategorizedTest.testReturningDerivedClassesDuringDeserialization:91:*>/home/stg/omc_experiments/slices/gson/functional_slices/UncategorizedTest/UncategorizedTest4.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/gson/functional_traces/UncategorizedTest.trace com.google.gson.functional.UncategorizedTest.testReturningDerivedClassesDuringDeserialization:92:*>/home/stg/omc_experiments/slices/gson/functional_slices/UncategorizedTest/UncategorizedTest5.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/gson/functional_traces/UncategorizedTest.trace com.google.gson.functional.UncategorizedTest.testReturningDerivedClassesDuringDeserialization:96:*>/home/stg/omc_experiments/slices/gson/functional_slices/UncategorizedTest/UncategorizedTest6.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/gson/functional_traces/UncategorizedTest.trace com.google.gson.functional.UncategorizedTest.testReturningDerivedClassesDuringDeserialization:97:*>/home/stg/omc_experiments/slices/gson/functional_slices/UncategorizedTest/UncategorizedTest7.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/gson/functional_traces/UncategorizedTest.trace com.google.gson.functional.UncategorizedTest.testTrailingWhitespace:107:*>/home/stg/omc_experiments/slices/gson/functional_slices/UncategorizedTest/UncategorizedTest8.txt
+
+#Total Asserts in com.google.gson.functional/UncategorizedTest=============8
+#Total Tests in com.google.gson.functional/UncategorizedTest=============0

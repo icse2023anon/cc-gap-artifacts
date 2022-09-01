@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo "computing slice for StandardEntityCollectionTest"
+
+mkdir -p /home/stg/omc_experiments/slices/jfreechart/entity_slices/StandardEntityCollectionTest
+
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/StandardEntityCollectionTest.trace org.jfree.chart.entity.StandardEntityCollectionTest.testEquals:66:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/StandardEntityCollectionTest/StandardEntityCollectionTest1.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/StandardEntityCollectionTest.trace org.jfree.chart.entity.StandardEntityCollectionTest.testEquals:72:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/StandardEntityCollectionTest/StandardEntityCollectionTest2.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/StandardEntityCollectionTest.trace org.jfree.chart.entity.StandardEntityCollectionTest.testEquals:77:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/StandardEntityCollectionTest/StandardEntityCollectionTest3.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/StandardEntityCollectionTest.trace org.jfree.chart.entity.StandardEntityCollectionTest.testCloning:91:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/StandardEntityCollectionTest/StandardEntityCollectionTest4.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/StandardEntityCollectionTest.trace org.jfree.chart.entity.StandardEntityCollectionTest.testCloning:92:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/StandardEntityCollectionTest/StandardEntityCollectionTest5.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/StandardEntityCollectionTest.trace org.jfree.chart.entity.StandardEntityCollectionTest.testCloning:93:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/StandardEntityCollectionTest/StandardEntityCollectionTest6.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/StandardEntityCollectionTest.trace org.jfree.chart.entity.StandardEntityCollectionTest.testCloning:97:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/StandardEntityCollectionTest/StandardEntityCollectionTest7.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/StandardEntityCollectionTest.trace org.jfree.chart.entity.StandardEntityCollectionTest.testCloning:99:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/StandardEntityCollectionTest/StandardEntityCollectionTest8.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/entity_traces/StandardEntityCollectionTest.trace org.jfree.chart.entity.StandardEntityCollectionTest.testSerialization:114:*>/home/stg/omc_experiments/slices/jfreechart/entity_slices/StandardEntityCollectionTest/StandardEntityCollectionTest9.txt
+
+#Total Asserts in org.jfree.chart.entity/StandardEntityCollectionTest=============9
+#Total Tests in org.jfree.chart.entity/StandardEntityCollectionTest=============0

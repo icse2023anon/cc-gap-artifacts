@@ -1,0 +1,19 @@
+#!/bin/bash
+
+echo "computing slice for NumberTest"
+
+mkdir -p /home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/NumberTest
+
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/NumberTest.trace org.jaxen.test.NumberTest.testNumberFunctionOperatesOnFirstNodeInDocumentOrder:108:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/NumberTest/NumberTest1.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/NumberTest.trace org.jaxen.test.NumberTest.testNumberFunctionOperatesOnFirstNodeInDocumentOrder:109:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/NumberTest/NumberTest2.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/NumberTest.trace org.jaxen.test.NumberTest.testNumberFunctionOperatesOnContextNode:122:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/NumberTest/NumberTest3.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/NumberTest.trace org.jaxen.test.NumberTest.testBooleanConvertedToNumber:129:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/NumberTest/NumberTest4.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/NumberTest.trace org.jaxen.test.NumberTest.testBooleanConvertedToNumber:130:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/NumberTest/NumberTest5.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/NumberTest.trace org.jaxen.test.NumberTest.testBooleanConvertedToNumber:131:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/NumberTest/NumberTest6.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/NumberTest.trace org.jaxen.test.NumberTest.testBooleanConvertedToNumber:132:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/NumberTest/NumberTest7.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/NumberTest.trace org.jaxen.test.NumberTest.testNumberFunctionRequiresAtMostOneArgument:146:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/NumberTest/NumberTest8.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/NumberTest.trace org.jaxen.test.NumberTest.testNumberFunctionAppliedToNonNumericString:158:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/NumberTest/NumberTest9.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/NumberTest.trace org.jaxen.test.NumberTest.testIsNan:163:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/NumberTest/NumberTest10.txt
+
+#Total Asserts in org.jaxen.test/NumberTest=============10
+#Total Tests in org.jaxen.test/NumberTest=============0

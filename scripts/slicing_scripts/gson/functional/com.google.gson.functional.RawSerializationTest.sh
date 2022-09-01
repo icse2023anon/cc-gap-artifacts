@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "computing slice for RawSerializationTest"
+
+mkdir -p /home/stg/omc_experiments/slices/gson/functional_slices/RawSerializationTest
+
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/gson/functional_traces/RawSerializationTest.trace com.google.gson.functional.RawSerializationTest.testCollectionOfPrimitives:44:*>/home/stg/omc_experiments/slices/gson/functional_slices/RawSerializationTest/RawSerializationTest1.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/gson/functional_traces/RawSerializationTest.trace com.google.gson.functional.RawSerializationTest.testCollectionOfObjects:50:*>/home/stg/omc_experiments/slices/gson/functional_slices/RawSerializationTest/RawSerializationTest2.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/gson/functional_traces/RawSerializationTest.trace com.google.gson.functional.RawSerializationTest.testParameterizedObject:58:*>/home/stg/omc_experiments/slices/gson/functional_slices/RawSerializationTest/RawSerializationTest3.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/gson/functional_traces/RawSerializationTest.trace com.google.gson.functional.RawSerializationTest.testParameterizedObject:61:*>/home/stg/omc_experiments/slices/gson/functional_slices/RawSerializationTest/RawSerializationTest4.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/gson/functional_traces/RawSerializationTest.trace com.google.gson.functional.RawSerializationTest.testTwoLevelParameterizedObject:69:*>/home/stg/omc_experiments/slices/gson/functional_slices/RawSerializationTest/RawSerializationTest5.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/gson/functional_traces/RawSerializationTest.trace com.google.gson.functional.RawSerializationTest.testTwoLevelParameterizedObject:72:*>/home/stg/omc_experiments/slices/gson/functional_slices/RawSerializationTest/RawSerializationTest6.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/gson/functional_traces/RawSerializationTest.trace com.google.gson.functional.RawSerializationTest.testThreeLevelParameterizedObject:80:*>/home/stg/omc_experiments/slices/gson/functional_slices/RawSerializationTest/RawSerializationTest7.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/gson/functional_traces/RawSerializationTest.trace com.google.gson.functional.RawSerializationTest.testThreeLevelParameterizedObject:83:*>/home/stg/omc_experiments/slices/gson/functional_slices/RawSerializationTest/RawSerializationTest8.txt
+
+#Total Asserts in com.google.gson.functional/RawSerializationTest=============8
+#Total Tests in com.google.gson.functional/RawSerializationTest=============0

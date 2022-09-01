@@ -1,0 +1,21 @@
+#!/bin/bash
+
+echo "computing slice for XYStepRendererTest"
+
+mkdir -p /home/stg/omc_experiments/slices/jfreechart/xy_slices/XYStepRendererTest
+
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/XYStepRendererTest.trace org.jfree.chart.renderer.xy.XYStepRendererTest.testEquals:71:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/XYStepRendererTest/XYStepRendererTest1.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/XYStepRendererTest.trace org.jfree.chart.renderer.xy.XYStepRendererTest.testEquals:74:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/XYStepRendererTest/XYStepRendererTest2.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/XYStepRendererTest.trace org.jfree.chart.renderer.xy.XYStepRendererTest.testEquals:76:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/XYStepRendererTest/XYStepRendererTest3.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/XYStepRendererTest.trace org.jfree.chart.renderer.xy.XYStepRendererTest.testEquals:80:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/XYStepRendererTest/XYStepRendererTest4.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/XYStepRendererTest.trace org.jfree.chart.renderer.xy.XYStepRendererTest.testEquals:82:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/XYStepRendererTest/XYStepRendererTest5.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/XYStepRendererTest.trace org.jfree.chart.renderer.xy.XYStepRendererTest.testHashcode:94:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/XYStepRendererTest/XYStepRendererTest6.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/XYStepRendererTest.trace org.jfree.chart.renderer.xy.XYStepRendererTest.testHashcode:97:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/XYStepRendererTest/XYStepRendererTest7.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/XYStepRendererTest.trace org.jfree.chart.renderer.xy.XYStepRendererTest.testCloning:107:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/XYStepRendererTest/XYStepRendererTest8.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/XYStepRendererTest.trace org.jfree.chart.renderer.xy.XYStepRendererTest.testCloning:108:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/XYStepRendererTest/XYStepRendererTest9.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/XYStepRendererTest.trace org.jfree.chart.renderer.xy.XYStepRendererTest.testCloning:109:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/XYStepRendererTest/XYStepRendererTest10.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/XYStepRendererTest.trace org.jfree.chart.renderer.xy.XYStepRendererTest.testPublicCloneable:118:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/XYStepRendererTest/XYStepRendererTest11.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/XYStepRendererTest.trace org.jfree.chart.renderer.xy.XYStepRendererTest.testSerialization:129:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/XYStepRendererTest/XYStepRendererTest12.txt
+
+#Total Asserts in org.jfree.chart.renderer.xy/XYStepRendererTest=============12
+#Total Tests in org.jfree.chart.renderer.xy/XYStepRendererTest=============0

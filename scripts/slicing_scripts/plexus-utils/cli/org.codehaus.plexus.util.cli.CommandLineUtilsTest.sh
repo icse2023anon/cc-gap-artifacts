@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "computing slice for CommandLineUtilsTest"
+
+mkdir -p /home/stg/omc_experiments/slices/plexus-utils/cli_slices/CommandLineUtilsTest
+
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/plexus-utils/cli_traces/CommandLineUtilsTest.trace org.codehaus.plexus.util.cli.CommandLineUtilsTest.testQuoteArguments:37:*>/home/stg/omc_experiments/slices/plexus-utils/cli_slices/CommandLineUtilsTest/CommandLineUtilsTest1.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/plexus-utils/cli_traces/CommandLineUtilsTest.trace org.codehaus.plexus.util.cli.CommandLineUtilsTest.testQuoteArguments:40:*>/home/stg/omc_experiments/slices/plexus-utils/cli_slices/CommandLineUtilsTest/CommandLineUtilsTest2.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/plexus-utils/cli_traces/CommandLineUtilsTest.trace org.codehaus.plexus.util.cli.CommandLineUtilsTest.testQuoteArguments:43:*>/home/stg/omc_experiments/slices/plexus-utils/cli_slices/CommandLineUtilsTest/CommandLineUtilsTest3.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/plexus-utils/cli_traces/CommandLineUtilsTest.trace org.codehaus.plexus.util.cli.CommandLineUtilsTest.testGetSystemEnvVarsCaseInsensitive:69:*>/home/stg/omc_experiments/slices/plexus-utils/cli_slices/CommandLineUtilsTest/CommandLineUtilsTest4.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/plexus-utils/cli_traces/CommandLineUtilsTest.trace org.codehaus.plexus.util.cli.CommandLineUtilsTest.testGetSystemEnvVarsWindows:87:*>/home/stg/omc_experiments/slices/plexus-utils/cli_slices/CommandLineUtilsTest/CommandLineUtilsTest5.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/plexus-utils/cli_traces/CommandLineUtilsTest.trace org.codehaus.plexus.util.cli.CommandLineUtilsTest.assertCmdLineArgs:114:*>/home/stg/omc_experiments/slices/plexus-utils/cli_slices/CommandLineUtilsTest/CommandLineUtilsTest6.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/plexus-utils/cli_traces/CommandLineUtilsTest.trace org.codehaus.plexus.util.cli.CommandLineUtilsTest.assertCmdLineArgs:115:*>/home/stg/omc_experiments/slices/plexus-utils/cli_slices/CommandLineUtilsTest/CommandLineUtilsTest7.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/plexus-utils/cli_traces/CommandLineUtilsTest.trace org.codehaus.plexus.util.cli.CommandLineUtilsTest.assertCmdLineArgs:116:*>/home/stg/omc_experiments/slices/plexus-utils/cli_slices/CommandLineUtilsTest/CommandLineUtilsTest8.txt
+
+#Total Asserts in org.codehaus.plexus.util.cli/CommandLineUtilsTest=============8
+#Total Tests in org.codehaus.plexus.util.cli/CommandLineUtilsTest=============0

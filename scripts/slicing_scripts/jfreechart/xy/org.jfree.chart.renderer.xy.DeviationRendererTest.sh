@@ -1,0 +1,20 @@
+#!/bin/bash
+
+echo "computing slice for DeviationRendererTest"
+
+mkdir -p /home/stg/omc_experiments/slices/jfreechart/xy_slices/DeviationRendererTest
+
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/DeviationRendererTest.trace org.jfree.chart.renderer.xy.DeviationRendererTest.testEquals:66:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/DeviationRendererTest/DeviationRendererTest1.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/DeviationRendererTest.trace org.jfree.chart.renderer.xy.DeviationRendererTest.testEquals:67:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/DeviationRendererTest/DeviationRendererTest2.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/DeviationRendererTest.trace org.jfree.chart.renderer.xy.DeviationRendererTest.testEquals:70:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/DeviationRendererTest/DeviationRendererTest3.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/DeviationRendererTest.trace org.jfree.chart.renderer.xy.DeviationRendererTest.testEquals:72:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/DeviationRendererTest/DeviationRendererTest4.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/DeviationRendererTest.trace org.jfree.chart.renderer.xy.DeviationRendererTest.testHashcode:82:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/DeviationRendererTest/DeviationRendererTest5.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/DeviationRendererTest.trace org.jfree.chart.renderer.xy.DeviationRendererTest.testHashcode:85:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/DeviationRendererTest/DeviationRendererTest6.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/DeviationRendererTest.trace org.jfree.chart.renderer.xy.DeviationRendererTest.testCloning:95:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/DeviationRendererTest/DeviationRendererTest7.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/DeviationRendererTest.trace org.jfree.chart.renderer.xy.DeviationRendererTest.testCloning:96:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/DeviationRendererTest/DeviationRendererTest8.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/DeviationRendererTest.trace org.jfree.chart.renderer.xy.DeviationRendererTest.testCloning:97:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/DeviationRendererTest/DeviationRendererTest9.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/DeviationRendererTest.trace org.jfree.chart.renderer.xy.DeviationRendererTest.testPublicCloneable:106:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/DeviationRendererTest/DeviationRendererTest10.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/xy_traces/DeviationRendererTest.trace org.jfree.chart.renderer.xy.DeviationRendererTest.testSerialization:116:*>/home/stg/omc_experiments/slices/jfreechart/xy_slices/DeviationRendererTest/DeviationRendererTest11.txt
+
+#Total Asserts in org.jfree.chart.renderer.xy/DeviationRendererTest=============11
+#Total Tests in org.jfree.chart.renderer.xy/DeviationRendererTest=============0

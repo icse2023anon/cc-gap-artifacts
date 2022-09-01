@@ -1,0 +1,19 @@
+#!/bin/bash
+
+echo "computing slice for ContainsTest"
+
+mkdir -p /home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/ContainsTest
+
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/ContainsTest.trace org.jaxen.test.ContainsTest.testContainsNumber:89:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/ContainsTest/ContainsTest1.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/ContainsTest.trace org.jaxen.test.ContainsTest.testContainsString:96:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/ContainsTest/ContainsTest2.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/ContainsTest.trace org.jaxen.test.ContainsTest.testContainsString3:103:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/ContainsTest/ContainsTest3.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/ContainsTest.trace org.jaxen.test.ContainsTest.testContainsNumber2:110:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/ContainsTest/ContainsTest4.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/ContainsTest.trace org.jaxen.test.ContainsTest.testContainsString2:117:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/ContainsTest/ContainsTest5.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/ContainsTest.trace org.jaxen.test.ContainsTest.testEmptyStringContainsNonEmptyString:125:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/ContainsTest/ContainsTest6.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/ContainsTest.trace org.jaxen.test.ContainsTest.testEmptyStringContainsEmptyString:132:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/ContainsTest/ContainsTest7.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/ContainsTest.trace org.jaxen.test.ContainsTest.testContainsEmptyString:139:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/ContainsTest/ContainsTest8.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/ContainsTest.trace org.jaxen.test.ContainsTest.testContainsFunctionRequiresAtLeastTwoArguments:152:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/ContainsTest/ContainsTest9.txt
+timeout $OMC_TRACE_TIMEOUT_SEC java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/fse-jaxen-1.2.0/test_traces/ContainsTest.trace org.jaxen.test.ContainsTest.testContainsFunctionRequiresAtMostTwoArguments:167:*>/home/stg/omc_experiments/slices/fse-jaxen-1.2.0/test_slices/ContainsTest/ContainsTest10.txt
+
+#Total Asserts in org.jaxen.test/ContainsTest=============10
+#Total Tests in org.jaxen.test/ContainsTest=============0

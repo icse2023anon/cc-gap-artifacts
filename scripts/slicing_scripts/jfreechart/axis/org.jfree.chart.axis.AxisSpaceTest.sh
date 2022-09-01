@@ -1,0 +1,23 @@
+#!/bin/bash
+
+echo "computing slice for AxisSpaceTest"
+
+mkdir -p /home/stg/omc_experiments/slices/jfreechart/axis_slices/AxisSpaceTest
+
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/axis_traces/AxisSpaceTest.trace org.jfree.chart.axis.AxisSpaceTest.testEquals:61:*>/home/stg/omc_experiments/slices/jfreechart/axis_slices/AxisSpaceTest/AxisSpaceTest1.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/axis_traces/AxisSpaceTest.trace org.jfree.chart.axis.AxisSpaceTest.testEquals:64:*>/home/stg/omc_experiments/slices/jfreechart/axis_slices/AxisSpaceTest/AxisSpaceTest2.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/axis_traces/AxisSpaceTest.trace org.jfree.chart.axis.AxisSpaceTest.testEquals:66:*>/home/stg/omc_experiments/slices/jfreechart/axis_slices/AxisSpaceTest/AxisSpaceTest3.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/axis_traces/AxisSpaceTest.trace org.jfree.chart.axis.AxisSpaceTest.testEquals:69:*>/home/stg/omc_experiments/slices/jfreechart/axis_slices/AxisSpaceTest/AxisSpaceTest4.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/axis_traces/AxisSpaceTest.trace org.jfree.chart.axis.AxisSpaceTest.testEquals:71:*>/home/stg/omc_experiments/slices/jfreechart/axis_slices/AxisSpaceTest/AxisSpaceTest5.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/axis_traces/AxisSpaceTest.trace org.jfree.chart.axis.AxisSpaceTest.testEquals:74:*>/home/stg/omc_experiments/slices/jfreechart/axis_slices/AxisSpaceTest/AxisSpaceTest6.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/axis_traces/AxisSpaceTest.trace org.jfree.chart.axis.AxisSpaceTest.testEquals:76:*>/home/stg/omc_experiments/slices/jfreechart/axis_slices/AxisSpaceTest/AxisSpaceTest7.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/axis_traces/AxisSpaceTest.trace org.jfree.chart.axis.AxisSpaceTest.testEquals:79:*>/home/stg/omc_experiments/slices/jfreechart/axis_slices/AxisSpaceTest/AxisSpaceTest8.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/axis_traces/AxisSpaceTest.trace org.jfree.chart.axis.AxisSpaceTest.testEquals:81:*>/home/stg/omc_experiments/slices/jfreechart/axis_slices/AxisSpaceTest/AxisSpaceTest9.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/axis_traces/AxisSpaceTest.trace org.jfree.chart.axis.AxisSpaceTest.testHashCode:91:*>/home/stg/omc_experiments/slices/jfreechart/axis_slices/AxisSpaceTest/AxisSpaceTest10.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/axis_traces/AxisSpaceTest.trace org.jfree.chart.axis.AxisSpaceTest.testHashCode:94:*>/home/stg/omc_experiments/slices/jfreechart/axis_slices/AxisSpaceTest/AxisSpaceTest11.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/axis_traces/AxisSpaceTest.trace org.jfree.chart.axis.AxisSpaceTest.testCloning:104:*>/home/stg/omc_experiments/slices/jfreechart/axis_slices/AxisSpaceTest/AxisSpaceTest12.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/axis_traces/AxisSpaceTest.trace org.jfree.chart.axis.AxisSpaceTest.testCloning:105:*>/home/stg/omc_experiments/slices/jfreechart/axis_slices/AxisSpaceTest/AxisSpaceTest13.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/axis_traces/AxisSpaceTest.trace org.jfree.chart.axis.AxisSpaceTest.testCloning:106:*>/home/stg/omc_experiments/slices/jfreechart/axis_slices/AxisSpaceTest/AxisSpaceTest14.txt
+
+#Total Asserts in org.jfree.chart.axis/AxisSpaceTest=============14
+#Total Tests in org.jfree.chart.axis/AxisSpaceTest=============0

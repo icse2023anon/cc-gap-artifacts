@@ -1,0 +1,21 @@
+#!/bin/bash
+
+echo "computing slice for FlowArrangementTest"
+
+mkdir -p /home/stg/omc_experiments/slices/jfreechart/block_slices/FlowArrangementTest
+
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/FlowArrangementTest.trace org.jfree.chart.block.FlowArrangementTest.testEquals:67:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/FlowArrangementTest/FlowArrangementTest1.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/FlowArrangementTest.trace org.jfree.chart.block.FlowArrangementTest.testEquals:68:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/FlowArrangementTest/FlowArrangementTest2.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/FlowArrangementTest.trace org.jfree.chart.block.FlowArrangementTest.testEquals:72:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/FlowArrangementTest/FlowArrangementTest3.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/FlowArrangementTest.trace org.jfree.chart.block.FlowArrangementTest.testEquals:75:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/FlowArrangementTest/FlowArrangementTest4.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/FlowArrangementTest.trace org.jfree.chart.block.FlowArrangementTest.testEquals:79:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/FlowArrangementTest/FlowArrangementTest5.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/FlowArrangementTest.trace org.jfree.chart.block.FlowArrangementTest.testEquals:82:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/FlowArrangementTest/FlowArrangementTest6.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/FlowArrangementTest.trace org.jfree.chart.block.FlowArrangementTest.testEquals:86:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/FlowArrangementTest/FlowArrangementTest7.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/FlowArrangementTest.trace org.jfree.chart.block.FlowArrangementTest.testEquals:89:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/FlowArrangementTest/FlowArrangementTest8.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/FlowArrangementTest.trace org.jfree.chart.block.FlowArrangementTest.testEquals:93:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/FlowArrangementTest/FlowArrangementTest9.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/FlowArrangementTest.trace org.jfree.chart.block.FlowArrangementTest.testEquals:96:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/FlowArrangementTest/FlowArrangementTest10.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/FlowArrangementTest.trace org.jfree.chart.block.FlowArrangementTest.testCloning:106:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/FlowArrangementTest/FlowArrangementTest11.txt
+java -Xmx30g -XX:-UseGCOverheadLimit  -XX:+UseG1GC -jar /home/stg/omcj/lib/slicer.jar -m=1 -p /home/stg/omc_experiments/traces/jfreechart/block_traces/FlowArrangementTest.trace org.jfree.chart.block.FlowArrangementTest.testSerialization:117:*>/home/stg/omc_experiments/slices/jfreechart/block_slices/FlowArrangementTest/FlowArrangementTest12.txt
+
+#Total Asserts in org.jfree.chart.block/FlowArrangementTest=============12
+#Total Tests in org.jfree.chart.block/FlowArrangementTest=============0
