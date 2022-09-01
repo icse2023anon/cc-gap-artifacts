@@ -1,0 +1,8 @@
+# set these properly
+export OMCJ=~/omcj
+
+export OMC_EXPERIMENTS=$PWD
+export OMC_SUBJECTS=$OMC_EXPERIMENTS/subjects
+export OMC_TRACE_TIMEOUT_SEC=1800
+
+export MAVEN_REPO=~/.m2/repository
