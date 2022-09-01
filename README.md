@@ -24,4 +24,4 @@ There are 13 subjects in the study: `commons-cli`, `commons-codec`, `commons-csv
 
 All are open-source Java projects.
 
-If accepted, the authors intend on participating in the ICSE 2023 Artifact Submissions.
+If accepted, the authors intend on participating in the **ICSE 2023 Artifact Submissions**.
