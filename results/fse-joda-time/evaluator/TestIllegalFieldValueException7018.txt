@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestIllegalFieldValueException.testOtherConstructors:333
+Methods call in assertion: [org/joda/time/IllegalFieldValueException.getDurationFieldType, org/joda/time/DurationFieldType.months]
+org/joda/time/IllegalFieldValueException.getDurationFieldType
+org/joda/time/DurationFieldType.months
+top 10 recommendations: 
+org/joda/time/IllegalFieldValueException.getDurationFieldType
+org/joda/time/DurationFieldType.months
+after post processing ......
+org/joda/time/IllegalFieldValueException.getDurationFieldType
+org/joda/time/DurationFieldType.months
+perfect match

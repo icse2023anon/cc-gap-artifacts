@@ -1,0 +1,8 @@
+slicing criterion: org.codehaus.plexus.util.FileUtilsTest.testNormalize:587
+Methods call in assertion: [org/codehaus/plexus/util/FileUtils.normalize]
+org/codehaus/plexus/util/FileUtils.normalize
+top 10 recommendations: 
+org/codehaus/plexus/util/FileUtils.normalize
+after post processing ......
+org/codehaus/plexus/util/FileUtils.normalize
+perfect match

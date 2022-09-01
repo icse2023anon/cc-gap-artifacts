@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.validator.routines.CodeValidatorTest.testLength:116
+Methods call in assertion: [org/apache/commons/validator/routines/CodeValidator.getMaxLength]
+org/apache/commons/validator/routines/CodeValidator.getMaxLength
+top 10 recommendations: 
+org/apache/commons/validator/routines/CodeValidator.getMaxLength
+after post processing ......
+org/apache/commons/validator/routines/CodeValidator.getMaxLength
+perfect match

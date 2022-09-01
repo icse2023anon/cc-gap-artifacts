@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.labels.StandardXYZToolTipGeneratorTest.testCloning:164
+Methods call in assertion: [org/jfree/chart/labels/StandardXYZToolTipGenerator.equals]
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.createItemArray
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/StandardXYZToolTipGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/labels/StandardXYZToolTipGenerator.equals
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.createItemArray
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/labels/StandardXYZToolTipGenerator.equals
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.createItemArray
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

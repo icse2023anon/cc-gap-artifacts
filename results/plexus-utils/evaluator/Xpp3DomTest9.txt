@@ -1,0 +1,11 @@
+slicing criterion: org.codehaus.plexus.util.xml.Xpp3DomTest.testShouldPerformSelfOverrideAtTopLevel:98
+Methods call in assertion: [org/codehaus/plexus/util/xml/Xpp3Dom.getValue]
+org/codehaus/plexus/util/xml/Xpp3Dom.getValue
+org/codehaus/plexus/util/xml/Xpp3Dom.mergeXpp3Dom
+top 10 recommendations: 
+org/codehaus/plexus/util/xml/Xpp3Dom.getValue
+org/codehaus/plexus/util/xml/Xpp3Dom.mergeXpp3Dom
+after post processing ......
+org/codehaus/plexus/util/xml/Xpp3Dom.getValue
+org/codehaus/plexus/util/xml/Xpp3Dom.mergeXpp3Dom
+perfect match

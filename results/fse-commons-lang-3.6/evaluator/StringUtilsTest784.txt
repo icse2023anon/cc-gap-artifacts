@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testToCodePoints:3365
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.toCodePoints]
+org/apache/commons/lang3/StringUtils.toCodePoints
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.toCodePoints
+after post processing ......
+org/apache/commons/lang3/StringUtils.toCodePoints
+perfect match

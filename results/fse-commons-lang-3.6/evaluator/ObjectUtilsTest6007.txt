@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.ObjectUtilsTest.testMin:371
+Methods call in assertion: [org/apache/commons/lang3/ObjectUtils.min]
+org/apache/commons/lang3/ObjectUtils.compare
+org/apache/commons/lang3/ObjectUtils.min
+top 10 recommendations: 
+org/apache/commons/lang3/ObjectUtils.min
+org/apache/commons/lang3/ObjectUtils.compare
+after post processing ......
+org/apache/commons/lang3/ObjectUtils.min
+org/apache/commons/lang3/ObjectUtils.compare
+perfect match

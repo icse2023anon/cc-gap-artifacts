@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testEqualsHashCode:382
+Methods call in assertion: [org/joda/time/LocalDateTime.equals]
+org/joda/time/LocalDateTime.equals
+top 10 recommendations: 
+org/joda/time/LocalDateTime.equals
+after post processing ......
+org/joda/time/LocalDateTime.equals
+perfect match

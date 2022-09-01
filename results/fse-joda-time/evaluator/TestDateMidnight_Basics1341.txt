@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateMidnight_Basics.testGet_DateTimeField:228
+Methods call in assertion: [org/joda/time/chrono/ISOChronology.clockhourOfHalfday, org/joda/time/DateMidnight.get]
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/AssembledChronology.clockhourOfHalfday
+top 10 recommendations: 
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/AssembledChronology.clockhourOfHalfday
+after post processing ......
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/AssembledChronology.clockhourOfHalfday
+perfect match

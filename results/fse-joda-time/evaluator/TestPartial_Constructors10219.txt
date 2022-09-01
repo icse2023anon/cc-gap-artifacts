@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestPartial_Constructors.testConstructor_TypeArray_intArray_Chrono:449
+Methods call in assertion: [org/joda/time/Partial.getChronology]
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/Partial.<init>
+org/joda/time/Partial.getChronology
+top 10 recommendations: 
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/Partial.<init>
+org/joda/time/Partial.getChronology
+after post processing ......
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/Partial.<init>
+org/joda/time/Partial.getChronology
+found in top 10

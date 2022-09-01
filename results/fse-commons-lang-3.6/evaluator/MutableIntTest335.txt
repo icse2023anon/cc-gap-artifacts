@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableIntTest.testGetSet:94
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableInt.getValue]
+org/apache/commons/lang3/mutable/MutableInt.getValue
+org/apache/commons/lang3/mutable/MutableLong.intValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableInt.getValue
+org/apache/commons/lang3/mutable/MutableLong.intValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableInt.getValue
+org/apache/commons/lang3/mutable/MutableLong.intValue
+perfect match

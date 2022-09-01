@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.labels.StandardCategoryToolTipGeneratorTest.testCloning:124
+Methods call in assertion: [org/jfree/chart/labels/StandardCategoryToolTipGenerator.equals]
+org/jfree/chart/labels/AbstractCategoryItemLabelGenerator.clone
+org/jfree/chart/labels/StandardCategoryToolTipGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/labels/AbstractCategoryItemLabelGenerator.clone
+org/jfree/chart/labels/StandardCategoryToolTipGenerator.equals
+after post processing ......
+org/jfree/chart/labels/AbstractCategoryItemLabelGenerator.clone
+org/jfree/chart/labels/StandardCategoryToolTipGenerator.equals
+found in top 10

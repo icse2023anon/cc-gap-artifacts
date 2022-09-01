@@ -1,0 +1,16 @@
+Aug 25, 2022 7:01:59 PM omc_ob.OMCob main
+INFO: total slices = total criteria = total assertions = 567
+Aug 25, 2022 7:02:06 PM omc_ob.OMCob printOMC_ob
+INFO: Total condition covered: 816
+Aug 25, 2022 7:02:06 PM omc_ob.OMCob printOMC_ob
+WARNING: org.jaxen.test.ExtensionFunctionTest$MinFunction class not found in the jacoco report report
+Aug 25, 2022 7:02:06 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per class coverage for object branch!
+Aug 25, 2022 7:02:06 PM omc_ob.OMCob printOMC_ob
+WARNING: org.jaxen.test.ExtensionFunctionTest$MinFunction.call not found in the jacoco report
+Aug 25, 2022 7:02:06 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per method coverage for object branch!
+Aug 25, 2022 7:02:06 PM omc_ob.OMCob main
+INFO: OBC :55.915279878971255
+Aug 25, 2022 7:02:06 PM omc_ob.OMCob main
+INFO: OMC_OBC :24.689863842662632

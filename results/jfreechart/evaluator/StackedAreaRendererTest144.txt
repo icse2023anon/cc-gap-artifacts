@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.renderer.category.StackedAreaRendererTest.testFindRangeBounds:81
+Methods call in assertion: [org/jfree/chart/renderer/category/StackedAreaRenderer.findRangeBounds]
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/chart/renderer/category/StackedAreaRenderer.findRangeBounds
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/general/DatasetUtils.findStackedRangeBounds
+org/jfree/data/category/DefaultCategoryDataset.getValue
+org/jfree/data/category/DefaultCategoryDataset.getColumnCount
+top 10 recommendations: 
+org/jfree/chart/renderer/category/StackedAreaRenderer.findRangeBounds
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/general/DatasetUtils.findStackedRangeBounds
+org/jfree/data/category/DefaultCategoryDataset.getValue
+org/jfree/data/category/DefaultCategoryDataset.getColumnCount
+after post processing ......
+org/jfree/chart/renderer/category/StackedAreaRenderer.findRangeBounds
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/general/DatasetUtils.findStackedRangeBounds
+org/jfree/data/category/DefaultCategoryDataset.getValue
+org/jfree/data/category/DefaultCategoryDataset.getColumnCount
+perfect match

@@ -1,0 +1,57 @@
+slicing criterion: org.jfree.chart.block.GridArrangementTest.testGridNotFull_FR:288
+Methods call in assertion: [org/jfree/chart/ui/Size2D.getHeight]
+org/jfree/chart/block/GridArrangement.arrangeFN
+org/jfree/chart/block/RectangleConstraint.calculateConstrainedSize
+org/jfree/chart/block/GridArrangement.arrangeFR
+org/jfree/chart/block/BlockContainer.add
+org/jfree/chart/block/AbstractBlock.calculateTotalHeight
+org/jfree/chart/block/RectangleConstraint.getHeightRange
+org/jfree/chart/block/BlockContainer.arrange
+org/jfree/data/Range.contains
+org/jfree/chart/block/AbstractBlock.getHeight
+org/jfree/chart/block/GridArrangement.arrange
+org/jfree/chart/ui/RectangleInsets.calculateBottomOutset
+org/jfree/chart/ui/Size2D.getHeight
+org/jfree/chart/block/BlockBorder.getInsets
+org/jfree/chart/block/RectangleConstraint.getWidthConstraintType
+org/jfree/chart/block/GridArrangement.arrangeFF
+org/jfree/chart/ui/RectangleInsets.extendHeight
+org/jfree/chart/block/RectangleConstraint.getHeightConstraintType
+org/jfree/chart/block/BlockContainer.getBlocks
+org/jfree/chart/ui/RectangleInsets.calculateTopOutset
+org/jfree/chart/block/RectangleConstraint.getHeight
+org/jfree/chart/block/RectangleConstraint.toUnconstrainedHeight
+top 10 recommendations: 
+org/jfree/chart/block/GridArrangement.arrangeFN
+org/jfree/chart/block/GridArrangement.arrangeFR
+org/jfree/chart/block/GridArrangement.arrange
+org/jfree/chart/block/AbstractBlock.calculateTotalHeight
+org/jfree/chart/block/GridArrangement.arrangeFF
+org/jfree/chart/ui/RectangleInsets.extendHeight
+org/jfree/chart/block/RectangleConstraint.calculateConstrainedSize
+org/jfree/chart/block/BlockContainer.add
+org/jfree/chart/block/RectangleConstraint.getHeightRange
+org/jfree/chart/block/BlockContainer.arrange
+after post processing ......
+org/jfree/chart/block/GridArrangement.arrangeFN
+org/jfree/chart/block/GridArrangement.arrangeFR
+org/jfree/chart/block/GridArrangement.arrange
+org/jfree/chart/block/AbstractBlock.calculateTotalHeight
+org/jfree/chart/block/GridArrangement.arrangeFF
+org/jfree/chart/ui/RectangleInsets.extendHeight
+org/jfree/chart/block/RectangleConstraint.calculateConstrainedSize
+org/jfree/chart/block/BlockContainer.add
+org/jfree/chart/block/RectangleConstraint.getHeightRange
+org/jfree/chart/block/BlockContainer.arrange
+org/jfree/data/Range.contains
+org/jfree/chart/block/AbstractBlock.getHeight
+org/jfree/chart/ui/RectangleInsets.calculateBottomOutset
+org/jfree/chart/ui/Size2D.getHeight
+org/jfree/chart/block/BlockBorder.getInsets
+org/jfree/chart/block/RectangleConstraint.getWidthConstraintType
+org/jfree/chart/block/RectangleConstraint.getHeightConstraintType
+org/jfree/chart/block/BlockContainer.getBlocks
+org/jfree/chart/ui/RectangleInsets.calculateTopOutset
+org/jfree/chart/block/RectangleConstraint.getHeight
+org/jfree/chart/block/RectangleConstraint.toUnconstrainedHeight
+all method calls are suggested

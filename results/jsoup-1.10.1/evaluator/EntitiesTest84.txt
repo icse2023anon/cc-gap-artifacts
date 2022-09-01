@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.nodes.EntitiesTest.getByName:68
+Methods call in assertion: [org/jsoup/nodes/Entities.getByName]
+org/jsoup/nodes/Entities.getByName
+top 10 recommendations: 
+org/jsoup/nodes/Entities.getByName
+after post processing ......
+org/jsoup/nodes/Entities.getByName
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.title.CompositeTitleTest.testEquals:104
+Methods call in assertion: [org/jfree/chart/title/CompositeTitle.equals]
+org/jfree/chart/title/CompositeTitle.equals
+top 10 recommendations: 
+org/jfree/chart/title/CompositeTitle.equals
+after post processing ......
+org/jfree/chart/title/CompositeTitle.equals
+perfect match

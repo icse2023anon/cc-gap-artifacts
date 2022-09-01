@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.annotations.XYPointerAnnotationTest.testCloning:166
+Methods call in assertion: [org/jfree/chart/annotations/XYPointerAnnotation.equals]
+org/jfree/chart/annotations/XYPointerAnnotation.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/annotations/XYPointerAnnotation.clone
+top 10 recommendations: 
+org/jfree/chart/annotations/XYPointerAnnotation.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/annotations/XYPointerAnnotation.clone
+after post processing ......
+org/jfree/chart/annotations/XYPointerAnnotation.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/annotations/XYPointerAnnotation.clone
+perfect match

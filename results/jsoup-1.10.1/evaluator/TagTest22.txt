@@ -1,0 +1,11 @@
+slicing criterion: org.jsoup.parser.TagTest.divSemantics:40
+Methods call in assertion: [org/jsoup/parser/Tag.formatAsBlock]
+org/jsoup/parser/Tag.formatAsBlock
+org/jsoup/parser/Tag.valueOf
+top 10 recommendations: 
+org/jsoup/parser/Tag.formatAsBlock
+org/jsoup/parser/Tag.valueOf
+after post processing ......
+org/jsoup/parser/Tag.formatAsBlock
+org/jsoup/parser/Tag.valueOf
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestLocalDate_Basics.testProperty:1450
+Methods call in assertion: [org/joda/time/LocalDate.property, org/joda/time/LocalDate.weekyear, org/joda/time/DateTimeFieldType.weekyear]
+org/joda/time/LocalDate.compareTo
+org/joda/time/DateTimeFieldType.weekyear
+top 10 recommendations: 
+org/joda/time/LocalDate.compareTo
+org/joda/time/DateTimeFieldType.weekyear
+after post processing ......
+org/joda/time/LocalDate.compareTo
+org/joda/time/DateTimeFieldType.weekyear
+not matched

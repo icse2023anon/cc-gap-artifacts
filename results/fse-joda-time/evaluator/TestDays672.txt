@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestDays.testDividedBy_int:432
+Methods call in assertion: [org/joda/time/Days.getDays, org/joda/time/Days.dividedBy]
+org/joda/time/Days.getDays
+org/joda/time/Days.days
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Days.dividedBy
+top 10 recommendations: 
+org/joda/time/Days.dividedBy
+org/joda/time/Days.getDays
+org/joda/time/Days.days
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+after post processing ......
+org/joda/time/Days.dividedBy
+org/joda/time/Days.getDays
+org/joda/time/Days.days
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+found in top 10

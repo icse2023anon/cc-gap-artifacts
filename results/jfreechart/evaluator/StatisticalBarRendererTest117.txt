@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.category.StatisticalBarRendererTest.testEquals:82
+Methods call in assertion: [org/jfree/chart/renderer/category/StatisticalBarRenderer.equals]
+org/jfree/chart/renderer/category/StatisticalBarRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+top 10 recommendations: 
+org/jfree/chart/renderer/category/StatisticalBarRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/renderer/category/StatisticalBarRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+perfect match

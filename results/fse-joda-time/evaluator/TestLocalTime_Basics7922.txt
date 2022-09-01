@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestLocalTime_Basics.testIsBefore_LocalTime:442
+Methods call in assertion: [org/joda/time/LocalTime.isBefore]
+org/joda/time/base/AbstractPartial.isBefore
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalTime.compareTo
+org/joda/time/chrono/ISOChronology.equals
+org/joda/time/LocalTime.<init>
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.isBefore
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalTime.compareTo
+org/joda/time/chrono/ISOChronology.equals
+org/joda/time/LocalTime.<init>
+after post processing ......
+org/joda/time/base/AbstractPartial.isBefore
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalTime.compareTo
+org/joda/time/chrono/ISOChronology.equals
+org/joda/time/LocalTime.<init>
+not matched

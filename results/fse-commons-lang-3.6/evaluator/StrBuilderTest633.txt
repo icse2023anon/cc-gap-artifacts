@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testEqualsIgnoreCase:1922
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.equalsIgnoreCase]
+org/apache/commons/lang3/text/StrBuilder.equalsIgnoreCase
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.equalsIgnoreCase
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.equalsIgnoreCase
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.IntervalMarkerTest.testEquals:86
+Methods call in assertion: [org/jfree/chart/plot/IntervalMarker.equals]
+org/jfree/chart/plot/IntervalMarker.equals
+top 10 recommendations: 
+org/jfree/chart/plot/IntervalMarker.equals
+after post processing ......
+org/jfree/chart/plot/IntervalMarker.equals
+perfect match

@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.validator.routines.ISBNValidatorTest.testNull:255
+Methods call in assertion: [org/apache/commons/validator/routines/ISBNValidator.validateISBN13]
+org/apache/commons/validator/routines/ISBNValidator.validateISBN13
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/ISBNValidator.getInstance
+top 10 recommendations: 
+org/apache/commons/validator/routines/ISBNValidator.validateISBN13
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/ISBNValidator.getInstance
+after post processing ......
+org/apache/commons/validator/routines/ISBNValidator.validateISBN13
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/ISBNValidator.getInstance
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.HashCodeBuilderTest.testReflectionHashCodeExcludeFields:544
+Methods call in assertion: [org/apache/commons/lang3/builder/HashCodeBuilder.reflectionHashCode]
+org/apache/commons/lang3/builder/HashCodeBuilder.toHashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.reflectionHashCode
+top 10 recommendations: 
+org/apache/commons/lang3/builder/HashCodeBuilder.reflectionHashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.toHashCode
+after post processing ......
+org/apache/commons/lang3/builder/HashCodeBuilder.reflectionHashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.toHashCode
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testBinaryBeMsb0ToHexDigit_2args:486
+Methods call in assertion: [org/apache/commons/lang3/Conversion.binaryBeMsb0ToHexDigit]
+org/apache/commons/lang3/Conversion.binaryBeMsb0ToHexDigit
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.binaryBeMsb0ToHexDigit
+after post processing ......
+org/apache/commons/lang3/Conversion.binaryBeMsb0ToHexDigit
+perfect match

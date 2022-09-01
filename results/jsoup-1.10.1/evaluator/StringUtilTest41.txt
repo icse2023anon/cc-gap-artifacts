@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.helper.StringUtilTest.normaliseWhiteSpace:65
+Methods call in assertion: [org/jsoup/helper/StringUtil.normaliseWhitespace]
+org/jsoup/helper/StringUtil.normaliseWhitespace
+top 10 recommendations: 
+org/jsoup/helper/StringUtil.normaliseWhitespace
+after post processing ......
+org/jsoup/helper/StringUtil.normaliseWhitespace
+perfect match

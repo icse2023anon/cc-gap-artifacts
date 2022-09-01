@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDateTimeZone.testToronto:1425
+Methods call in assertion: [org/joda/time/DateTime.toLocalDate]
+org/joda/time/LocalDate.compareTo
+top 10 recommendations: 
+org/joda/time/LocalDate.compareTo
+after post processing ......
+org/joda/time/LocalDate.compareTo
+not matched

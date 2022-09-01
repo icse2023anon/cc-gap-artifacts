@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Properties.testPropertyGetMaxMinValuesMonth:284
+Methods call in assertion: [org/joda/time/LocalDateTime.monthOfYear, org/joda/time/LocalDateTime$Property.getMinimumValue]
+org/joda/time/LocalDateTime.toDateTime
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMinimumValue
+org/joda/time/field/BaseDateTimeField.getMinimumValue
+org/joda/time/chrono/BasicMonthOfYearDateTimeField.getMinimumValue
+top 10 recommendations: 
+org/joda/time/LocalDateTime.toDateTime
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMinimumValue
+org/joda/time/field/BaseDateTimeField.getMinimumValue
+org/joda/time/chrono/BasicMonthOfYearDateTimeField.getMinimumValue
+after post processing ......
+org/joda/time/LocalDateTime.toDateTime
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMinimumValue
+org/joda/time/field/BaseDateTimeField.getMinimumValue
+org/joda/time/chrono/BasicMonthOfYearDateTimeField.getMinimumValue
+not matched

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestPeriodType.testWeeks:398
+Methods call in assertion: [org/joda/time/PeriodType.size]
+org/joda/time/PeriodType.size
+org/joda/time/PeriodType.weeks
+top 10 recommendations: 
+org/joda/time/PeriodType.size
+org/joda/time/PeriodType.weeks
+after post processing ......
+org/joda/time/PeriodType.size
+org/joda/time/PeriodType.weeks
+perfect match

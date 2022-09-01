@@ -1,0 +1,8 @@
+class,sc,omc_sc,cov_gap
+org.apache.commons.csv.CSVFormat,93.43284,42.686565,50.746273
+org.apache.commons.csv.Lexer,92.71523,56.29139,36.423843
+org.apache.commons.csv.Token,75.0,25.0,50.0
+org.apache.commons.csv.CSVRecord,62.857143,54.285717,8.571426
+org.apache.commons.csv.CSVParser,93.16239,60.68376,32.47863
+org.apache.commons.csv.ExtendedBufferedReader,100.0,88.09524,11.904762
+org.apache.commons.csv.CSVPrinter,91.935486,17.741936,74.19355

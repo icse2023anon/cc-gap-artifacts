@@ -1,0 +1,53 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_yearOfEra:493
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.parseLocalDate]
+org/joda/time/LocalDate.compareTo
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/format/DateTimeFormatterBuilder.estimateParsedLength
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.equals
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/format/DateTimeFormatter.withLocale
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatter.getLocale
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendEraText
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/chrono/GJCacheKey.hashCode
+org/joda/time/format/DateTimeFormatter.parseLocalDate
+org/joda/time/format/DateTimeFormatterBuilder.appendYearOfEra
+org/joda/time/chrono/GJChronology.getInstanceUTC
+top 10 recommendations: 
+org/joda/time/chrono/GJChronology.getInstanceUTC
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/format/DateTimeFormatter.withLocale
+org/joda/time/format/DateTimeFormatterBuilder.appendYearOfEra
+org/joda/time/LocalDate.compareTo
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/format/DateTimeFormatterBuilder.estimateParsedLength
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.equals
+after post processing ......
+org/joda/time/chrono/GJChronology.getInstanceUTC
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/format/DateTimeFormatter.withLocale
+org/joda/time/format/DateTimeFormatterBuilder.appendYearOfEra
+org/joda/time/LocalDate.compareTo
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/format/DateTimeFormatterBuilder.estimateParsedLength
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.equals
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatter.getLocale
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendEraText
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/chrono/GJCacheKey.hashCode
+org/joda/time/format/DateTimeFormatter.parseLocalDate
+all method calls are suggested

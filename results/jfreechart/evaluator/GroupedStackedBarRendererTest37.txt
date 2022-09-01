@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.category.GroupedStackedBarRendererTest.testCloning:96
+Methods call in assertion: [org/jfree/chart/renderer/category/GroupedStackedBarRenderer.equals]
+org/jfree/chart/renderer/category/GroupedStackedBarRenderer.equals
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.clone
+top 10 recommendations: 
+org/jfree/chart/renderer/category/GroupedStackedBarRenderer.equals
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.clone
+after post processing ......
+org/jfree/chart/renderer/category/GroupedStackedBarRenderer.equals
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.clone
+perfect match

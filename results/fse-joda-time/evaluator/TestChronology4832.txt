@@ -1,0 +1,32 @@
+slicing criterion: org.joda.time.TestChronology.testToString:244
+Methods call in assertion: [org/joda/time/chrono/GregorianChronology.toString, org/joda/time/chrono/GregorianChronology.getInstance]
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/CachedDateTimeZone.forZone
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/chrono/GregorianChronology.getInstance
+top 10 recommendations: 
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/CachedDateTimeZone.forZone
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/chrono/GregorianChronology.getInstance
+after post processing ......
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/CachedDateTimeZone.forZone
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/chrono/GregorianChronology.getInstance
+not matched

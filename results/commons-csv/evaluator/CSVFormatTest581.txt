@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testWithQuotePolicy:434
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getQuoteMode]
+org/apache/commons/csv/CSVFormat.getQuoteMode
+org/apache/commons/csv/CSVFormat.withQuoteMode
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.getQuoteMode
+org/apache/commons/csv/CSVFormat.withQuoteMode
+after post processing ......
+org/apache/commons/csv/CSVFormat.getQuoteMode
+org/apache/commons/csv/CSVFormat.withQuoteMode
+perfect match

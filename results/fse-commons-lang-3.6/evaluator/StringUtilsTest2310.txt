@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testPrependIfMissingIgnoreCase:3209
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.prependIfMissingIgnoreCase]
+org/apache/commons/lang3/StringUtils.prependIfMissingIgnoreCase
+org/apache/commons/lang3/StringUtils.prependIfMissing
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.prependIfMissingIgnoreCase
+org/apache/commons/lang3/StringUtils.prependIfMissing
+after post processing ......
+org/apache/commons/lang3/StringUtils.prependIfMissingIgnoreCase
+org/apache/commons/lang3/StringUtils.prependIfMissing
+perfect match

@@ -1,0 +1,23 @@
+slicing criterion: org.apache.commons.lang3.event.EventListenerSupportTest.testRemoveListenerDuringEvent:119
+Methods call in assertion: [org/apache/commons/lang3/event/EventListenerSupport.getListenerCount]
+org/apache/commons/lang3/event/EventListenerSupport.getListenerCount
+org/apache/commons/lang3/event/EventListenerSupport.<init>
+org/apache/commons/lang3/event/EventListenerSupport.removeListener
+org/apache/commons/lang3/event/EventListenerSupport.addListener
+org/apache/commons/lang3/event/EventListenerSupport.create
+org/apache/commons/lang3/event/EventListenerSupport.fire
+top 10 recommendations: 
+org/apache/commons/lang3/event/EventListenerSupport.create
+org/apache/commons/lang3/event/EventListenerSupport.getListenerCount
+org/apache/commons/lang3/event/EventListenerSupport.<init>
+org/apache/commons/lang3/event/EventListenerSupport.removeListener
+org/apache/commons/lang3/event/EventListenerSupport.addListener
+org/apache/commons/lang3/event/EventListenerSupport.fire
+after post processing ......
+org/apache/commons/lang3/event/EventListenerSupport.create
+org/apache/commons/lang3/event/EventListenerSupport.getListenerCount
+org/apache/commons/lang3/event/EventListenerSupport.<init>
+org/apache/commons/lang3/event/EventListenerSupport.removeListener
+org/apache/commons/lang3/event/EventListenerSupport.addListener
+org/apache/commons/lang3/event/EventListenerSupport.fire
+found in top 10

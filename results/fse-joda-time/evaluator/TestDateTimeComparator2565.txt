@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTimeComparator.testEqualsHashCode:300
+Methods call in assertion: [org/joda/time/DateTimeComparator.equals]
+org/joda/time/DateTimeComparator.getInstance
+org/joda/time/DateTimeComparator.equals
+top 10 recommendations: 
+org/joda/time/DateTimeComparator.getInstance
+org/joda/time/DateTimeComparator.equals
+after post processing ......
+org/joda/time/DateTimeComparator.getInstance
+org/joda/time/DateTimeComparator.equals
+found in top 10

@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Constructors.testConstructor_nullObject_Chronology:702
+Methods call in assertion: [org/joda/time/LocalDateTime.getMillisOfSecond]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/LocalDateTime.getMillisOfSecond
+top 10 recommendations: 
+org/joda/time/LocalDateTime.getMillisOfSecond
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/LocalDateTime.getLocalMillis
+after post processing ......
+org/joda/time/LocalDateTime.getMillisOfSecond
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/LocalDateTime.getLocalMillis
+perfect match

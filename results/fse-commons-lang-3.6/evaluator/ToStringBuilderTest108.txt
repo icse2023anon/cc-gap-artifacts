@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.builder.ToStringBuilderTest.testReflectionDoubleArray:312
+Methods call in assertion: [org/apache/commons/lang3/builder/ToStringBuilder.reflectionToString]
+org/apache/commons/lang3/builder/ToStringBuilder.getObject
+org/apache/commons/lang3/builder/ReflectionToStringBuilder.getUpToClass
+org/apache/commons/lang3/builder/ReflectionToStringBuilder.toString
+org/apache/commons/lang3/builder/ToStringBuilder.reflectionToString
+top 10 recommendations: 
+org/apache/commons/lang3/builder/ToStringBuilder.reflectionToString
+org/apache/commons/lang3/builder/ReflectionToStringBuilder.toString
+org/apache/commons/lang3/builder/ToStringBuilder.getObject
+org/apache/commons/lang3/builder/ReflectionToStringBuilder.getUpToClass
+after post processing ......
+org/apache/commons/lang3/builder/ToStringBuilder.reflectionToString
+org/apache/commons/lang3/builder/ReflectionToStringBuilder.toString
+org/apache/commons/lang3/builder/ToStringBuilder.getObject
+org/apache/commons/lang3/builder/ReflectionToStringBuilder.getUpToClass
+perfect match

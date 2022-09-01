@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatterBuilder.test_canBuildParser:176
+Methods call in assertion: [org/joda/time/format/DateTimeFormatterBuilder.canBuildParser]
+org/joda/time/format/DateTimeFormatterBuilder.canBuildParser
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatterBuilder.canBuildParser
+after post processing ......
+org/joda/time/format/DateTimeFormatterBuilder.canBuildParser
+perfect match

@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testIsAfter_LocalDateTime:524
+Methods call in assertion: [org/joda/time/LocalDateTime.isAfter]
+org/joda/time/LocalDateTime.compareTo
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/base/AbstractPartial.isAfter
+org/joda/time/LocalDateTime.<init>
+top 10 recommendations: 
+org/joda/time/LocalDateTime.compareTo
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/base/AbstractPartial.isAfter
+org/joda/time/LocalDateTime.<init>
+after post processing ......
+org/joda/time/LocalDateTime.compareTo
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/base/AbstractPartial.isAfter
+org/joda/time/LocalDateTime.<init>
+not matched

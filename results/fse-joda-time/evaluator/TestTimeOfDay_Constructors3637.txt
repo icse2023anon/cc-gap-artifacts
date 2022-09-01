@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Constructors.testConstructor_todObject:407
+Methods call in assertion: [org/joda/time/chrono/CopticChronology.getInstanceUTC, org/joda/time/TimeOfDay.getChronology]
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+top 10 recommendations: 
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+after post processing ......
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+found in top 10

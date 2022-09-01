@@ -1,0 +1,37 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testAsTokenizer:1780
+Methods call in assertion: [org/apache/commons/lang3/text/StrTokenizer.next]
+org/apache/commons/lang3/text/StrTokenizer.next
+org/apache/commons/lang3/text/StrTokenizer.cloneReset
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrTokenizer.getTokenArray
+org/apache/commons/lang3/text/StrMatcher.splitMatcher
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrBuilder.size
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.substring
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrTokenizer.next
+org/apache/commons/lang3/text/StrTokenizer.cloneReset
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrTokenizer.getTokenArray
+org/apache/commons/lang3/text/StrMatcher.splitMatcher
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrBuilder.size
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.substring
+after post processing ......
+org/apache/commons/lang3/text/StrTokenizer.next
+org/apache/commons/lang3/text/StrTokenizer.cloneReset
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrTokenizer.getTokenArray
+org/apache/commons/lang3/text/StrMatcher.splitMatcher
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrBuilder.size
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.substring
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+perfect match

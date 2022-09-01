@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.field.TestPreciseDateTimeField.test_getType:159
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.getType, org/joda/time/DateTimeFieldType.secondOfDay]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateTimeFieldType.secondOfDay
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateTimeFieldType.secondOfDay
+after post processing ......
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateTimeFieldType.secondOfDay
+found in top 10

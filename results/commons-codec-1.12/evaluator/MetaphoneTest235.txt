@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.codec.language.MetaphoneTest.assertIsMetaphoneEqual:41
+Methods call in assertion: [org/apache/commons/codec/language/Metaphone.isMetaphoneEqual]
+org/apache/commons/codec/language/Metaphone.isMetaphoneEqual
+org/apache/commons/codec/language/Metaphone.getMaxCodeLen
+org/apache/commons/codec/language/Metaphone.metaphone
+top 10 recommendations: 
+org/apache/commons/codec/language/Metaphone.isMetaphoneEqual
+org/apache/commons/codec/language/Metaphone.metaphone
+org/apache/commons/codec/language/Metaphone.getMaxCodeLen
+after post processing ......
+org/apache/commons/codec/language/Metaphone.isMetaphoneEqual
+org/apache/commons/codec/language/Metaphone.metaphone
+org/apache/commons/codec/language/Metaphone.getMaxCodeLen
+perfect match

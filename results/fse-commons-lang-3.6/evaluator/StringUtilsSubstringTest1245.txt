@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsSubstringTest.testLeft_String:104
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.left]
+org/apache/commons/lang3/StringUtils.left
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.left
+after post processing ......
+org/apache/commons/lang3/StringUtils.left
+perfect match

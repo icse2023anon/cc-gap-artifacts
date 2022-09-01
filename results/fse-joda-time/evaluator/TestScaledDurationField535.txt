@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.field.TestScaledDurationField.test_isSupported:125
+Methods call in assertion: [org/joda/time/field/ScaledDurationField.isSupported]
+org/joda/time/field/BaseDurationField.isSupported
+top 10 recommendations: 
+org/joda/time/field/BaseDurationField.isSupported
+after post processing ......
+org/joda/time/field/BaseDurationField.isSupported
+perfect match

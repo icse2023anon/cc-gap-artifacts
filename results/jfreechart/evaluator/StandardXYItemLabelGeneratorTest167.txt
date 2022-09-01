@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.labels.StandardXYItemLabelGeneratorTest.testEquals:86
+Methods call in assertion: [org/jfree/chart/labels/StandardXYItemLabelGenerator.equals]
+org/jfree/chart/labels/StandardXYItemLabelGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/labels/StandardXYItemLabelGenerator.equals
+after post processing ......
+org/jfree/chart/labels/StandardXYItemLabelGenerator.equals
+perfect match

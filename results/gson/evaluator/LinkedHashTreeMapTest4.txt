@@ -1,0 +1,8 @@
+slicing criterion: com.google.gson.internal.LinkedHashTreeMapTest.testClear:127
+Methods call in assertion: [com/google/gson/internal/LinkedHashTreeMap.size]
+com/google/gson/internal/LinkedHashTreeMap.size
+top 10 recommendations: 
+com/google/gson/internal/LinkedHashTreeMap.size
+after post processing ......
+com/google/gson/internal/LinkedHashTreeMap.size
+perfect match

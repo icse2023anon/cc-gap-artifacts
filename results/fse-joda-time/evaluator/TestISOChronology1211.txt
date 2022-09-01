@@ -1,0 +1,53 @@
+slicing criterion: org.joda.time.chrono.TestISOChronology.testDurationFields:246
+Methods call in assertion: [org/joda/time/DurationField.isPrecise, org/joda/time/chrono/ISOChronology.centuries]
+org/joda/time/DateTimeZone.forOffsetHoursMinutes
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/ZonedChronology.getInstance
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/chrono/ZonedChronology.useTimeArithmetic
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/tz/FixedDateTimeZone.hashCode
+org/joda/time/field/FieldUtils.safeMultiply
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/DateTimeZone.getID
+org/joda/time/field/ScaledDurationField.getUnitMillis
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/ZonedChronology.assemble
+org/joda/time/DateTimeZone.forOffsetMillis
+org/joda/time/chrono/AssembledChronology.centuries
+org/joda/time/DateTimeZone.forOffsetHours
+top 10 recommendations: 
+org/joda/time/DateTimeZone.forOffsetHours
+org/joda/time/DateTimeZone.forOffsetHoursMinutes
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/ZonedChronology.getInstance
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/chrono/ZonedChronology.useTimeArithmetic
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/tz/FixedDateTimeZone.hashCode
+org/joda/time/field/FieldUtils.safeMultiply
+after post processing ......
+org/joda/time/DateTimeZone.forOffsetHours
+org/joda/time/DateTimeZone.forOffsetHoursMinutes
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/ZonedChronology.getInstance
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/chrono/ZonedChronology.useTimeArithmetic
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/tz/FixedDateTimeZone.hashCode
+org/joda/time/field/FieldUtils.safeMultiply
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/DateTimeZone.getID
+org/joda/time/field/ScaledDurationField.getUnitMillis
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/ZonedChronology.assemble
+org/joda/time/DateTimeZone.forOffsetMillis
+org/joda/time/chrono/AssembledChronology.centuries
+not matched

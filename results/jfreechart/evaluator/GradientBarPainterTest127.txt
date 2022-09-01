@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.category.GradientBarPainterTest.testEquals:69
+Methods call in assertion: [org/jfree/chart/renderer/category/GradientBarPainter.equals]
+org/jfree/chart/renderer/category/GradientBarPainter.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/category/GradientBarPainter.equals
+after post processing ......
+org/jfree/chart/renderer/category/GradientBarPainter.equals
+perfect match

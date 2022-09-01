@@ -1,0 +1,26 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYAreaRendererTest.testGetLegendItemSeriesIndex:250
+Methods call in assertion: [org/jfree/chart/LegendItem.getLabel]
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/chart/plot/XYPlot.setDataset
+org/jfree/chart/labels/StandardXYSeriesLabelGenerator.generateLabel
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getPlot
+org/jfree/chart/LegendItem.getLabel
+org/jfree/chart/plot/XYPlot.getDataset
+org/jfree/chart/renderer/xy/XYAreaRenderer.getLegendItem
+top 10 recommendations: 
+org/jfree/chart/plot/XYPlot.setDataset
+org/jfree/chart/renderer/xy/XYAreaRenderer.getLegendItem
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/chart/labels/StandardXYSeriesLabelGenerator.generateLabel
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getPlot
+org/jfree/chart/LegendItem.getLabel
+org/jfree/chart/plot/XYPlot.getDataset
+after post processing ......
+org/jfree/chart/plot/XYPlot.setDataset
+org/jfree/chart/renderer/xy/XYAreaRenderer.getLegendItem
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/chart/labels/StandardXYSeriesLabelGenerator.generateLabel
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getPlot
+org/jfree/chart/LegendItem.getLabel
+org/jfree/chart/plot/XYPlot.getDataset
+found in top 10

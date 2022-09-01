@@ -1,0 +1,65 @@
+slicing criterion: org.joda.time.TestMutablePeriod_Constructors.testConstructor_long_Chronology2:366
+Methods call in assertion: [org/joda/time/MutablePeriod.getSeconds]
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractPeriod.getFieldType
+org/joda/time/MutablePeriod.getSeconds
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/PeriodType.standard
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/base/BasePeriod.getValue
+org/joda/time/field/PreciseDurationField.getDifferenceAsLong
+org/joda/time/field/FieldUtils.safeSubtract
+org/joda/time/field/PreciseDurationField.add
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/field/BaseDurationField.getDifference
+org/joda/time/chrono/AssembledChronology.minutes
+org/joda/time/field/FieldUtils.safeToInt
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/chrono/AssembledChronology.weeks
+org/joda/time/field/PreciseDurationField.isPrecise
+org/joda/time/chrono/AssembledChronology.seconds
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/MutablePeriod.getSeconds
+org/joda/time/field/PreciseDurationField.getDifferenceAsLong
+org/joda/time/field/PreciseDurationField.add
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/field/BaseDurationField.getDifference
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractPeriod.getFieldType
+after post processing ......
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/MutablePeriod.getSeconds
+org/joda/time/field/PreciseDurationField.getDifferenceAsLong
+org/joda/time/field/PreciseDurationField.add
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/field/BaseDurationField.getDifference
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractPeriod.getFieldType
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/PeriodType.standard
+org/joda/time/base/BasePeriod.getValue
+org/joda/time/field/FieldUtils.safeSubtract
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/chrono/AssembledChronology.minutes
+org/joda/time/field/FieldUtils.safeToInt
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/chrono/AssembledChronology.weeks
+org/joda/time/field/PreciseDurationField.isPrecise
+org/joda/time/chrono/AssembledChronology.seconds
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

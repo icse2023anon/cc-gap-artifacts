@@ -1,0 +1,14 @@
+slicing criterion: org.jsoup.nodes.AttributesTest.html:26
+Methods call in assertion: [org/jsoup/nodes/Attributes.hasKey]
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Attributes.hasKey
+top 10 recommendations: 
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Attributes.hasKey
+after post processing ......
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Attributes.hasKey
+found in top 10

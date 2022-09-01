@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestDateTimeComparator.testStaticGetDateOnlyInstance:242
+Methods call in assertion: [org/joda/time/DateTimeFieldType.dayOfYear, org/joda/time/DateTimeComparator.getLowerLimit]
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeComparator.getLowerLimit
+org/joda/time/DateTimeComparator.getDateOnlyInstance
+top 10 recommendations: 
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeComparator.getLowerLimit
+org/joda/time/DateTimeComparator.getDateOnlyInstance
+after post processing ......
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeComparator.getLowerLimit
+org/joda/time/DateTimeComparator.getDateOnlyInstance
+found in top 10

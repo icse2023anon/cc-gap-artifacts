@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.validator.routines.IBANValidatorTest.testSetValidatorLen_1:201
+Methods call in assertion: [org/apache/commons/validator/routines/IBANValidator.setValidator]
+org/apache/commons/validator/routines/IBANValidator.setValidator
+top 10 recommendations: 
+org/apache/commons/validator/routines/IBANValidator.setValidator
+after post processing ......
+org/apache/commons/validator/routines/IBANValidator.setValidator
+perfect match

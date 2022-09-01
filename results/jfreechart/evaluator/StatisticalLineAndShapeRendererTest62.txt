@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.category.StatisticalLineAndShapeRendererTest.test1562759:173
+Methods call in assertion: [org/jfree/chart/renderer/category/StatisticalLineAndShapeRenderer.getDefaultShapesVisible]
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultShapesVisible
+top 10 recommendations: 
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultShapesVisible
+after post processing ......
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultShapesVisible
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.xy.StackedXYAreaRenderer2Test.testFindRangeBounds:181
+Methods call in assertion: [org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.findRangeBounds]
+org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.findRangeBounds
+org/jfree/data/xy/DefaultTableXYDataset.getItemCount
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.findRangeBounds
+org/jfree/data/xy/DefaultTableXYDataset.getItemCount
+after post processing ......
+org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.findRangeBounds
+org/jfree/data/xy/DefaultTableXYDataset.getItemCount
+perfect match

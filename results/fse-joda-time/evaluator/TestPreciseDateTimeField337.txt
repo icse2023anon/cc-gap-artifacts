@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.field.TestPreciseDateTimeField.test_roundFloor_long:525
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.roundFloor]
+org/joda/time/field/PreciseDurationDateTimeField.roundFloor
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationDateTimeField.roundFloor
+after post processing ......
+org/joda/time/field/PreciseDurationDateTimeField.roundFloor
+perfect match

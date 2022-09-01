@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.axis.CategoryTickTest.testEquals:87
+Methods call in assertion: [org/jfree/chart/axis/CategoryTick.equals]
+org/jfree/chart/text/TextBlock.equals
+org/jfree/chart/axis/CategoryTick.equals
+org/jfree/chart/util/ObjectUtils.equal
+top 10 recommendations: 
+org/jfree/chart/axis/CategoryTick.equals
+org/jfree/chart/text/TextBlock.equals
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/axis/CategoryTick.equals
+org/jfree/chart/text/TextBlock.equals
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

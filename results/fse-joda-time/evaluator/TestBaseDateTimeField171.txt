@@ -1,0 +1,37 @@
+slicing criterion: org.joda.time.field.TestBaseDateTimeField.test_getAsShortText_RP_Locale:196
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.getAsShortText]
+org/joda/time/field/BaseDateTimeField.getAsShortText
+org/joda/time/base/BasePartial.getValue
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/TimeOfDay.getFieldType
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/DateTimeFieldType.secondOfMinute
+org/joda/time/TimeOfDay.size
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/field/BaseDateTimeField.getAsText
+org/joda/time/base/AbstractPartial.get
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.getAsShortText
+org/joda/time/base/AbstractPartial.get
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/field/BaseDateTimeField.getAsText
+org/joda/time/base/BasePartial.getValue
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/TimeOfDay.getFieldType
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/DateTimeFieldType.secondOfMinute
+after post processing ......
+org/joda/time/field/BaseDateTimeField.getAsShortText
+org/joda/time/base/AbstractPartial.get
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/field/BaseDateTimeField.getAsText
+org/joda/time/base/BasePartial.getValue
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/TimeOfDay.getFieldType
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/DateTimeFieldType.secondOfMinute
+org/joda/time/TimeOfDay.size
+perfect match

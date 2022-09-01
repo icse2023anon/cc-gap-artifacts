@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.plot.CompassPlotTest.testCloning:139
+Methods call in assertion: [org/jfree/chart/plot/CompassPlot.equals]
+org/jfree/chart/plot/CompassPlot.clone
+org/jfree/chart/needle/ArrowNeedle.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/plot/CompassPlot.getRevolutionDistance
+org/jfree/chart/plot/CompassPlot.equals
+top 10 recommendations: 
+org/jfree/chart/plot/CompassPlot.equals
+org/jfree/chart/plot/CompassPlot.clone
+org/jfree/chart/needle/ArrowNeedle.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/plot/CompassPlot.getRevolutionDistance
+after post processing ......
+org/jfree/chart/plot/CompassPlot.equals
+org/jfree/chart/plot/CompassPlot.clone
+org/jfree/chart/needle/ArrowNeedle.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/plot/CompassPlot.getRevolutionDistance
+perfect match

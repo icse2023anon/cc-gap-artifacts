@@ -1,0 +1,8 @@
+slicing criterion: com.google.gson.internal.bind.JsonTreeWriterTest.testEmptyWriter:120
+Methods call in assertion: [com/google/gson/internal/bind/JsonTreeWriter.get]
+com/google/gson/internal/bind/JsonTreeWriter.get
+top 10 recommendations: 
+com/google/gson/internal/bind/JsonTreeWriter.get
+after post processing ......
+com/google/gson/internal/bind/JsonTreeWriter.get
+perfect match

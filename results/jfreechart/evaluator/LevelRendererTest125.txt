@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.category.LevelRendererTest.testEquals:71
+Methods call in assertion: [org/jfree/chart/renderer/category/LevelRenderer.equals]
+org/jfree/chart/renderer/category/LevelRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/category/LevelRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/category/LevelRenderer.equals
+perfect match

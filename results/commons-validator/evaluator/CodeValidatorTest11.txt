@@ -1,0 +1,23 @@
+slicing criterion: org.apache.commons.validator.routines.CodeValidatorTest.testCheckDigit:76
+Methods call in assertion: [org/apache/commons/validator/routines/CodeValidator.validate]
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/checkdigit/EAN13CheckDigit.weightedValue
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/CodeValidator.<init>
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.toInt
+top 10 recommendations: 
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/EAN13CheckDigit.weightedValue
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/CodeValidator.<init>
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.toInt
+after post processing ......
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/EAN13CheckDigit.weightedValue
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/CodeValidator.<init>
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.toInt
+found in top 10

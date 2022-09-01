@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.helper.StringUtilTest.padding:22
+Methods call in assertion: [org/jsoup/helper/StringUtil.padding]
+org/jsoup/helper/StringUtil.padding
+top 10 recommendations: 
+org/jsoup/helper/StringUtil.padding
+after post processing ......
+org/jsoup/helper/StringUtil.padding
+perfect match

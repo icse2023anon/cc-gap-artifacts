@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestPeriodType.testYearWeekDayTime:257
+Methods call in assertion: [org/joda/time/PeriodType.getName]
+org/joda/time/PeriodType.yearWeekDayTime
+org/joda/time/PeriodType.getName
+top 10 recommendations: 
+org/joda/time/PeriodType.yearWeekDayTime
+org/joda/time/PeriodType.getName
+after post processing ......
+org/joda/time/PeriodType.yearWeekDayTime
+org/joda/time/PeriodType.getName
+found in top 10

@@ -1,0 +1,32 @@
+slicing criterion: org.apache.commons.lang3.reflect.TypeLiteralTest.testTyped:48
+Methods call in assertion: [org/apache/commons/lang3/reflect/TypeUtils.parameterize, org/apache/commons/lang3/reflect/TypeUtils.equals, org/apache/commons/lang3/reflect/Typed.getType]
+org/apache/commons/lang3/reflect/TypeUtils.parameterize
+org/apache/commons/lang3/reflect/TypeLiteral.getType
+org/apache/commons/lang3/reflect/TypeUtils.equals
+org/apache/commons/lang3/JavaVersion.atLeast
+org/apache/commons/lang3/ClassUtils.isAssignable
+org/apache/commons/lang3/SystemUtils.isJavaVersionAtLeast
+org/apache/commons/lang3/reflect/TypeUtils.getTypeArguments
+org/apache/commons/lang3/Validate.notNull
+org/apache/commons/lang3/reflect/TypeUtils.parameterizeWithOwner
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/TypeUtils.parameterize
+org/apache/commons/lang3/ClassUtils.isAssignable
+org/apache/commons/lang3/SystemUtils.isJavaVersionAtLeast
+org/apache/commons/lang3/reflect/TypeUtils.parameterizeWithOwner
+org/apache/commons/lang3/reflect/TypeLiteral.getType
+org/apache/commons/lang3/reflect/TypeUtils.equals
+org/apache/commons/lang3/JavaVersion.atLeast
+org/apache/commons/lang3/reflect/TypeUtils.getTypeArguments
+org/apache/commons/lang3/Validate.notNull
+after post processing ......
+org/apache/commons/lang3/reflect/TypeUtils.parameterize
+org/apache/commons/lang3/ClassUtils.isAssignable
+org/apache/commons/lang3/SystemUtils.isJavaVersionAtLeast
+org/apache/commons/lang3/reflect/TypeUtils.parameterizeWithOwner
+org/apache/commons/lang3/reflect/TypeLiteral.getType
+org/apache/commons/lang3/reflect/TypeUtils.equals
+org/apache/commons/lang3/JavaVersion.atLeast
+org/apache/commons/lang3/reflect/TypeUtils.getTypeArguments
+org/apache/commons/lang3/Validate.notNull
+found in top 10

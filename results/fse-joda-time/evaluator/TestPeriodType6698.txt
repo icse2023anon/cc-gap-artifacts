@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestPeriodType.testMaskYears:666
+Methods call in assertion: [org/joda/time/DurationFieldType.minutes, org/joda/time/PeriodType.getFieldType]
+org/joda/time/DurationFieldType.minutes
+org/joda/time/PeriodType.getFieldType
+org/joda/time/PeriodType.setIndexedField
+org/joda/time/PeriodType.size
+org/joda/time/PeriodType.standard
+org/joda/time/PeriodType.withYearsRemoved
+top 10 recommendations: 
+org/joda/time/PeriodType.standard
+org/joda/time/DurationFieldType.minutes
+org/joda/time/PeriodType.getFieldType
+org/joda/time/PeriodType.setIndexedField
+org/joda/time/PeriodType.size
+org/joda/time/PeriodType.withYearsRemoved
+after post processing ......
+org/joda/time/PeriodType.standard
+org/joda/time/DurationFieldType.minutes
+org/joda/time/PeriodType.getFieldType
+org/joda/time/PeriodType.setIndexedField
+org/joda/time/PeriodType.size
+org/joda/time/PeriodType.withYearsRemoved
+found in top 10

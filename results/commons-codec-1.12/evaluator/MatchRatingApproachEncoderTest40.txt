@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testleftTorightThenRightToLeft_EINSTEIN_MICHAELA_Returns0:142
+Methods call in assertion: [org/apache/commons/codec/language/MatchRatingApproachEncoder.leftToRightThenRightToLeftProcessing]
+org/apache/commons/codec/language/MatchRatingApproachEncoder.leftToRightThenRightToLeftProcessing
+top 10 recommendations: 
+org/apache/commons/codec/language/MatchRatingApproachEncoder.leftToRightThenRightToLeftProcessing
+after post processing ......
+org/apache/commons/codec/language/MatchRatingApproachEncoder.leftToRightThenRightToLeftProcessing
+perfect match

@@ -1,0 +1,39 @@
+slicing criterion: org.apache.commons.lang3.text.StrTokenizerTest.testBasicQuoted6:452
+Methods call in assertion: [org/apache/commons/lang3/text/StrTokenizer.next]
+org/apache/commons/lang3/text/StrTokenizer.next
+org/apache/commons/lang3/text/StrTokenizer.setQuoteMatcher
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrMatcher.quoteMatcher
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrBuilder.substring
+org/apache/commons/lang3/text/StrTokenizer.getQuoteMatcher
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+org/apache/commons/lang3/text/StrTokenizer.setDelimiterMatcher
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/text/StrTokenizer.next
+org/apache/commons/lang3/text/StrTokenizer.setQuoteMatcher
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrMatcher.quoteMatcher
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrBuilder.substring
+org/apache/commons/lang3/text/StrTokenizer.getQuoteMatcher
+after post processing ......
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/text/StrTokenizer.next
+org/apache/commons/lang3/text/StrTokenizer.setQuoteMatcher
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrMatcher.quoteMatcher
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrBuilder.substring
+org/apache/commons/lang3/text/StrTokenizer.getQuoteMatcher
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+org/apache/commons/lang3/text/StrTokenizer.setDelimiterMatcher
+found in top 10

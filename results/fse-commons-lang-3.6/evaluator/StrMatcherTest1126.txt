@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.text.StrMatcherTest.testTabMatcher:71
+Methods call in assertion: [org/apache/commons/lang3/text/StrMatcher.isMatch]
+org/apache/commons/lang3/text/StrMatcher.isMatch
+org/apache/commons/lang3/text/StrMatcher.tabMatcher
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrMatcher.isMatch
+org/apache/commons/lang3/text/StrMatcher.tabMatcher
+after post processing ......
+org/apache/commons/lang3/text/StrMatcher.isMatch
+org/apache/commons/lang3/text/StrMatcher.tabMatcher
+perfect match

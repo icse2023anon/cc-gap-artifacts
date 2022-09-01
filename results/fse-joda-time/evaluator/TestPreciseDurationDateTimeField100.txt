@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestPreciseDurationDateTimeField.test_constructor:111
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.getType, org/joda/time/DateTimeFieldType.secondOfMinute]
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateTimeFieldType.secondOfMinute
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateTimeFieldType.secondOfMinute
+after post processing ......
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateTimeFieldType.secondOfMinute
+perfect match

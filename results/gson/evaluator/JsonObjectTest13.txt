@@ -1,0 +1,20 @@
+slicing criterion: com.google.gson.JsonObjectTest.testAddingNullPropertyValue:55
+Methods call in assertion: [com/google/gson/JsonElement.isJsonNull]
+com/google/gson/JsonElement.isJsonNull
+com/google/gson/JsonObject.add
+com/google/gson/JsonObject.get
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/internal/LinkedTreeMap.find
+top 10 recommendations: 
+com/google/gson/JsonObject.get
+com/google/gson/JsonElement.isJsonNull
+com/google/gson/JsonObject.add
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/internal/LinkedTreeMap.find
+after post processing ......
+com/google/gson/JsonObject.get
+com/google/gson/JsonElement.isJsonNull
+com/google/gson/JsonObject.add
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/internal/LinkedTreeMap.find
+found in top 10

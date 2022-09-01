@@ -1,0 +1,32 @@
+slicing criterion: org.jfree.chart.title.LegendGraphicTest.testEquals:162
+Methods call in assertion: [org/jfree/chart/title/LegendGraphic.equals]
+org/jfree/chart/title/LegendGraphic.isShapeVisible
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/title/LegendGraphic.isShapeFilled
+org/jfree/chart/title/LegendGraphic.isShapeOutlineVisible
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/ui/StandardGradientPaintTransformer.equals
+org/jfree/chart/title/LegendGraphic.isLineVisible
+org/jfree/chart/title/LegendGraphic.equals
+top 10 recommendations: 
+org/jfree/chart/title/LegendGraphic.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/title/LegendGraphic.isShapeVisible
+org/jfree/chart/title/LegendGraphic.isShapeFilled
+org/jfree/chart/title/LegendGraphic.isShapeOutlineVisible
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/ui/StandardGradientPaintTransformer.equals
+org/jfree/chart/title/LegendGraphic.isLineVisible
+after post processing ......
+org/jfree/chart/title/LegendGraphic.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/title/LegendGraphic.isShapeVisible
+org/jfree/chart/title/LegendGraphic.isShapeFilled
+org/jfree/chart/title/LegendGraphic.isShapeOutlineVisible
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/ui/StandardGradientPaintTransformer.equals
+org/jfree/chart/title/LegendGraphic.isLineVisible
+perfect match

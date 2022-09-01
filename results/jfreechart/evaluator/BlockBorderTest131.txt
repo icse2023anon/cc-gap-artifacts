@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.block.BlockBorderTest.testEquals:77
+Methods call in assertion: [org/jfree/chart/block/BlockBorder.equals]
+org/jfree/chart/block/BlockBorder.equals
+top 10 recommendations: 
+org/jfree/chart/block/BlockBorder.equals
+after post processing ......
+org/jfree/chart/block/BlockBorder.equals
+perfect match

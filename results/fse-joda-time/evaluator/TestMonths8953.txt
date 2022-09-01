@@ -1,0 +1,61 @@
+slicing criterion: org.joda.time.TestMonths.testFactory_monthsBetween_RInstant_LocalDate_EndMonth:137
+Methods call in assertion: [org/joda/time/Months.getMonths, org/joda/time/Months.monthsBetween]
+org/joda/time/Months.months
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/ZonedChronology.getInstance
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/base/BaseSingleFieldPeriod.between
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/chrono/AssembledChronology.months
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/Months.getMonths
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DurationFieldType.months
+org/joda/time/field/BaseDurationField.getType
+org/joda/time/chrono/ZonedChronology.assemble
+org/joda/time/field/ScaledDurationField.hashCode
+org/joda/time/chrono/AssembledChronology.centuries
+org/joda/time/Months.monthsBetween
+org/joda/time/chrono/AssembledChronology.years
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/Months.monthsBetween
+org/joda/time/base/BaseSingleFieldPeriod.between
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/Months.months
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/ZonedChronology.getInstance
+org/joda/time/base/BaseDateTime.getChronology
+after post processing ......
+org/joda/time/Months.monthsBetween
+org/joda/time/base/BaseSingleFieldPeriod.between
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/Months.months
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/ZonedChronology.getInstance
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/chrono/AssembledChronology.months
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/Months.getMonths
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DurationFieldType.months
+org/joda/time/field/BaseDurationField.getType
+org/joda/time/chrono/ZonedChronology.assemble
+org/joda/time/field/ScaledDurationField.hashCode
+org/joda/time/chrono/AssembledChronology.centuries
+org/joda/time/chrono/AssembledChronology.years
+all method calls are suggested

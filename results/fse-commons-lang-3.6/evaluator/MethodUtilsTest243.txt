@@ -1,0 +1,45 @@
+slicing criterion: org.apache.commons.lang3.reflect.MethodUtilsTest.testInvokeExactMethod:519
+Methods call in assertion: [org/apache/commons/lang3/reflect/MethodUtils.invokeExactMethod]
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/reflect/MethodUtils.invokeExactMethod
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+org/apache/commons/lang3/reflect/MethodUtils.invokeMethod
+org/apache/commons/lang3/reflect/MemberUtils.compareMethodFit
+org/apache/commons/lang3/ArrayUtils.isSameLength
+org/apache/commons/lang3/reflect/MethodUtils.getAccessibleMethod
+org/apache/commons/lang3/ArrayUtils.nullToEmpty
+org/apache/commons/lang3/ClassUtils.toClass
+org/apache/commons/lang3/reflect/MemberUtils.isMatchingMethod
+org/apache/commons/lang3/ClassUtils.wrapperToPrimitive
+org/apache/commons/lang3/ClassUtils.isAssignable
+org/apache/commons/lang3/reflect/MethodUtils.invokeStaticMethod
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingAccessibleMethod
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/MethodUtils.invokeMethod
+org/apache/commons/lang3/reflect/MethodUtils.invokeStaticMethod
+org/apache/commons/lang3/reflect/MethodUtils.invokeExactMethod
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingAccessibleMethod
+org/apache/commons/lang3/ClassUtils.isAssignable
+org/apache/commons/lang3/ArrayUtils.nullToEmpty
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.isSameLength
+org/apache/commons/lang3/reflect/MethodUtils.getAccessibleMethod
+org/apache/commons/lang3/ArrayUtils.getLength
+after post processing ......
+org/apache/commons/lang3/reflect/MethodUtils.invokeMethod
+org/apache/commons/lang3/reflect/MethodUtils.invokeStaticMethod
+org/apache/commons/lang3/reflect/MethodUtils.invokeExactMethod
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingAccessibleMethod
+org/apache/commons/lang3/ClassUtils.isAssignable
+org/apache/commons/lang3/ArrayUtils.nullToEmpty
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.isSameLength
+org/apache/commons/lang3/reflect/MethodUtils.getAccessibleMethod
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+org/apache/commons/lang3/reflect/MemberUtils.compareMethodFit
+org/apache/commons/lang3/ClassUtils.toClass
+org/apache/commons/lang3/reflect/MemberUtils.isMatchingMethod
+org/apache/commons/lang3/ClassUtils.wrapperToPrimitive
+found in top 10

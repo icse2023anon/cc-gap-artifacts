@@ -1,0 +1,53 @@
+slicing criterion: org.joda.time.TestYears.testAddToLocalDate:344
+Methods call in assertion: [org/joda/time/LocalDate.plus]
+org/joda/time/Years.getFieldType
+org/joda/time/LocalDate.withLocalMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/base/BaseSingleFieldPeriod.getFieldType
+org/joda/time/LocalDate.getChronology
+org/joda/time/Years.years
+org/joda/time/base/BaseSingleFieldPeriod.size
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/LocalDate.isSupported
+org/joda/time/LocalDate.getLocalMillis
+org/joda/time/field/PreciseDurationDateTimeField.roundFloor
+org/joda/time/LocalDate.withPeriodAdded
+org/joda/time/DurationFieldType.years
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/LocalDate.plus
+org/joda/time/chrono/AssembledChronology.years
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/LocalDate.plus
+org/joda/time/LocalDate.withPeriodAdded
+org/joda/time/LocalDate.withLocalMillis
+org/joda/time/Years.getFieldType
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.isSupported
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/BaseSingleFieldPeriod.getFieldType
+org/joda/time/LocalDate.getChronology
+org/joda/time/Years.years
+after post processing ......
+org/joda/time/LocalDate.plus
+org/joda/time/LocalDate.withPeriodAdded
+org/joda/time/LocalDate.withLocalMillis
+org/joda/time/Years.getFieldType
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.isSupported
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/BaseSingleFieldPeriod.getFieldType
+org/joda/time/LocalDate.getChronology
+org/joda/time/Years.years
+org/joda/time/base/BaseSingleFieldPeriod.size
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/LocalDate.getLocalMillis
+org/joda/time/field/PreciseDurationDateTimeField.roundFloor
+org/joda/time/DurationFieldType.years
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/AssembledChronology.years
+org/joda/time/DateTimeUtils.getChronology
+perfect match

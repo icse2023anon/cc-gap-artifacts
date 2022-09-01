@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestYearMonth_Basics.testEqualsHashCode:236
+Methods call in assertion: [org/joda/time/YearMonth.hashCode]
+org/joda/time/YearMonth.size
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/AbstractPartial.hashCode
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/YearMonth.getFieldType
+top 10 recommendations: 
+org/joda/time/YearMonth.size
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/AbstractPartial.hashCode
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/YearMonth.getFieldType
+after post processing ......
+org/joda/time/YearMonth.size
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/AbstractPartial.hashCode
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/YearMonth.getFieldType
+not matched

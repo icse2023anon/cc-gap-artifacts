@@ -1,0 +1,8 @@
+slicing criterion: com.google.gson.FieldAttributesTest.testModifiers:54
+Methods call in assertion: [com/google/gson/FieldAttributes.hasModifier]
+com/google/gson/FieldAttributes.hasModifier
+top 10 recommendations: 
+com/google/gson/FieldAttributes.hasModifier
+after post processing ......
+com/google/gson/FieldAttributes.hasModifier
+perfect match

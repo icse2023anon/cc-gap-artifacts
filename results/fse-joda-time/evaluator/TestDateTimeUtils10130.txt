@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestDateTimeUtils.testGetInstantChronology_RI:374
+Methods call in assertion: [org/joda/time/chrono/ISOChronology.getInstanceUTC, org/joda/time/DateTimeUtils.getInstantChronology]
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/Instant.getChronology
+org/joda/time/DateTimeUtils.getInstantChronology
+top 10 recommendations: 
+org/joda/time/Instant.getChronology
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/DateTimeUtils.getInstantChronology
+after post processing ......
+org/joda/time/Instant.getChronology
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/DateTimeUtils.getInstantChronology
+found in top 10

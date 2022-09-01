@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testCompareTo:414
+Methods call in assertion: [org/joda/time/LocalDateTime.compareTo]
+org/joda/time/LocalDateTime.compareTo
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/ISOChronology.equals
+org/joda/time/LocalDateTime.<init>
+top 10 recommendations: 
+org/joda/time/LocalDateTime.compareTo
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/ISOChronology.equals
+org/joda/time/LocalDateTime.<init>
+after post processing ......
+org/joda/time/LocalDateTime.compareTo
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/ISOChronology.equals
+org/joda/time/LocalDateTime.<init>
+perfect match

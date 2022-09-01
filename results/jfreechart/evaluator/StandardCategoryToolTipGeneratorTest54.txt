@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.labels.StandardCategoryToolTipGeneratorTest.testEquals:82
+Methods call in assertion: [org/jfree/chart/labels/StandardCategoryToolTipGenerator.equals]
+org/jfree/chart/labels/StandardCategoryToolTipGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/labels/StandardCategoryToolTipGenerator.equals
+after post processing ......
+org/jfree/chart/labels/StandardCategoryToolTipGenerator.equals
+perfect match

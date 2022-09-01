@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestMonthDay_Constructors.testParse_noFormatter:114
+Methods call in assertion: [org/joda/time/MonthDay.parse]
+org/joda/time/MonthDay.parse
+top 10 recommendations: 
+org/joda/time/MonthDay.parse
+after post processing ......
+org/joda/time/MonthDay.parse
+perfect match

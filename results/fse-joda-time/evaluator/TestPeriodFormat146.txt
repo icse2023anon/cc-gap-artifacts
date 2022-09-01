@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.format.TestPeriodFormat.test_getDefault_cached:200
+Methods call in assertion: [org/joda/time/format/PeriodFormat.getDefault]
+org/joda/time/format/PeriodFormat.wordBased
+org/joda/time/format/PeriodFormat.getDefault
+top 10 recommendations: 
+org/joda/time/format/PeriodFormat.getDefault
+org/joda/time/format/PeriodFormat.wordBased
+after post processing ......
+org/joda/time/format/PeriodFormat.getDefault
+org/joda/time/format/PeriodFormat.wordBased
+perfect match

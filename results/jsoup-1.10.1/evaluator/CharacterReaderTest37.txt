@@ -1,0 +1,11 @@
+slicing criterion: org.jsoup.parser.CharacterReaderTest.matches:158
+Methods call in assertion: [org/jsoup/parser/CharacterReader.matches]
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/CharacterReader.matches
+top 10 recommendations: 
+org/jsoup/parser/CharacterReader.matches
+org/jsoup/parser/CharacterReader.isEmpty
+after post processing ......
+org/jsoup/parser/CharacterReader.matches
+org/jsoup/parser/CharacterReader.isEmpty
+perfect match

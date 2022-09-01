@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestYearMonth_Properties.testPropertyGetYear:118
+Methods call in assertion: [org/joda/time/YearMonth.year, org/joda/time/YearMonth$Property.getRangeDurationField]
+org/joda/time/field/AbstractPartialFieldProperty.getRangeDurationField
+org/joda/time/YearMonth.getField
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.year
+top 10 recommendations: 
+org/joda/time/field/AbstractPartialFieldProperty.getRangeDurationField
+org/joda/time/YearMonth.getField
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.year
+after post processing ......
+org/joda/time/field/AbstractPartialFieldProperty.getRangeDurationField
+org/joda/time/YearMonth.getField
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.year
+not matched

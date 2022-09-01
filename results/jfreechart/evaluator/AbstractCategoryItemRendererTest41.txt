@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.renderer.category.AbstractCategoryItemRendererTest.testCloning_LegendItemLabelGenerator:262
+Methods call in assertion: [org/jfree/chart/renderer/category/BarRenderer.getLegendItemLabelGenerator]
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItemLabelGenerator
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.clone
+org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.clone
+top 10 recommendations: 
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.clone
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItemLabelGenerator
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.clone
+after post processing ......
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.clone
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItemLabelGenerator
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.clone
+found in top 10

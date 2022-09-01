@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testByteArrayToLong:640
+Methods call in assertion: [org/apache/commons/lang3/Conversion.byteArrayToLong]
+org/apache/commons/lang3/Conversion.byteArrayToLong
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.byteArrayToLong
+after post processing ......
+org/apache/commons/lang3/Conversion.byteArrayToLong
+perfect match

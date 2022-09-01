@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYSplineRendererTest.testHashcode:102
+Methods call in assertion: [org/jfree/chart/renderer/xy/XYSplineRenderer.equals]
+org/jfree/chart/renderer/xy/XYSplineRenderer.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/ui/StandardGradientPaintTransformer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/XYSplineRenderer.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/ui/StandardGradientPaintTransformer.equals
+after post processing ......
+org/jfree/chart/renderer/xy/XYSplineRenderer.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/ui/StandardGradientPaintTransformer.equals
+perfect match

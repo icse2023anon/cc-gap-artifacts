@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.nodes.AttributesTest.html:30
+Methods call in assertion: [org/jsoup/nodes/Attributes.dataset]
+org/jsoup/nodes/Attributes.hasKeyIgnoreCase
+top 10 recommendations: 
+org/jsoup/nodes/Attributes.hasKeyIgnoreCase
+after post processing ......
+org/jsoup/nodes/Attributes.hasKeyIgnoreCase
+not matched

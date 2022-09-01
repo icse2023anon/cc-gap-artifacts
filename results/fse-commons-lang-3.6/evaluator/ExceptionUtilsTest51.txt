@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.lang3.exception.ExceptionUtilsTest.test_getRootCauseMessage_Throwable:514
+Methods call in assertion: [org/apache/commons/lang3/exception/ExceptionUtils.getRootCauseMessage]
+org/apache/commons/lang3/exception/ExceptionUtils.getMessage
+org/apache/commons/lang3/exception/ExceptionUtils.getRootCauseMessage
+org/apache/commons/lang3/exception/ExceptionUtils.getCause
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableList
+org/apache/commons/lang3/exception/ExceptionUtils.getRootCause
+top 10 recommendations: 
+org/apache/commons/lang3/exception/ExceptionUtils.getRootCauseMessage
+org/apache/commons/lang3/exception/ExceptionUtils.getRootCause
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableList
+org/apache/commons/lang3/exception/ExceptionUtils.getMessage
+org/apache/commons/lang3/exception/ExceptionUtils.getCause
+after post processing ......
+org/apache/commons/lang3/exception/ExceptionUtils.getRootCauseMessage
+org/apache/commons/lang3/exception/ExceptionUtils.getRootCause
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableList
+org/apache/commons/lang3/exception/ExceptionUtils.getMessage
+org/apache/commons/lang3/exception/ExceptionUtils.getCause
+perfect match

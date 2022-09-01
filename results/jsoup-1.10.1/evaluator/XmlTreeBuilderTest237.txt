@@ -1,0 +1,20 @@
+slicing criterion: org.jsoup.parser.XmlTreeBuilderTest.testDoesNotForceSelfClosingKnownTags:103
+Methods call in assertion: [org/jsoup/nodes/Document.html]
+org/jsoup/parser/Parser.parseInput
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/parser/TreeBuilder.currentElement
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Node.ownerDocument
+top 10 recommendations: 
+org/jsoup/parser/Parser.parseInput
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/parser/TreeBuilder.currentElement
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Node.ownerDocument
+after post processing ......
+org/jsoup/parser/Parser.parseInput
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/parser/TreeBuilder.currentElement
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Node.ownerDocument
+found in top 10

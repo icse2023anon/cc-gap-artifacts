@@ -1,0 +1,37 @@
+slicing criterion: org.codehaus.plexus.util.xml.pull.MXParserTest.testCustomEntities:115
+Methods call in assertion: [org/codehaus/plexus/util/xml/pull/MXParser.next]
+org/codehaus/plexus/util/xml/pull/MXParser.isNameStartChar
+org/codehaus/plexus/util/xml/pull/MXParser.parseProlog
+org/codehaus/plexus/util/xml/pull/MXParser.parseEntityRef
+org/codehaus/plexus/util/xml/pull/MXParser.fastHash
+org/codehaus/plexus/util/xml/pull/MXParser.setInput
+org/codehaus/plexus/util/xml/pull/MXParser.nextImpl
+org/codehaus/plexus/util/xml/pull/MXParser.isNameChar
+org/codehaus/plexus/util/xml/pull/MXParser.parseStartTag
+org/codehaus/plexus/util/xml/pull/MXParser.lookuEntityReplacement
+org/codehaus/plexus/util/xml/pull/MXParser.defineEntityReplacementText
+org/codehaus/plexus/util/xml/pull/MXParser.more
+top 10 recommendations: 
+org/codehaus/plexus/util/xml/pull/MXParser.nextImpl
+org/codehaus/plexus/util/xml/pull/MXParser.parseEntityRef
+org/codehaus/plexus/util/xml/pull/MXParser.parseProlog
+org/codehaus/plexus/util/xml/pull/MXParser.parseStartTag
+org/codehaus/plexus/util/xml/pull/MXParser.lookuEntityReplacement
+org/codehaus/plexus/util/xml/pull/MXParser.defineEntityReplacementText
+org/codehaus/plexus/util/xml/pull/MXParser.isNameStartChar
+org/codehaus/plexus/util/xml/pull/MXParser.fastHash
+org/codehaus/plexus/util/xml/pull/MXParser.setInput
+org/codehaus/plexus/util/xml/pull/MXParser.isNameChar
+after post processing ......
+org/codehaus/plexus/util/xml/pull/MXParser.nextImpl
+org/codehaus/plexus/util/xml/pull/MXParser.parseEntityRef
+org/codehaus/plexus/util/xml/pull/MXParser.parseProlog
+org/codehaus/plexus/util/xml/pull/MXParser.parseStartTag
+org/codehaus/plexus/util/xml/pull/MXParser.lookuEntityReplacement
+org/codehaus/plexus/util/xml/pull/MXParser.defineEntityReplacementText
+org/codehaus/plexus/util/xml/pull/MXParser.isNameStartChar
+org/codehaus/plexus/util/xml/pull/MXParser.fastHash
+org/codehaus/plexus/util/xml/pull/MXParser.setInput
+org/codehaus/plexus/util/xml/pull/MXParser.isNameChar
+org/codehaus/plexus/util/xml/pull/MXParser.more
+not matched

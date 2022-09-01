@@ -1,0 +1,32 @@
+slicing criterion: org.jfree.chart.renderer.category.AbstractCategoryItemRendererTest.test2947660:342
+Methods call in assertion: [org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItems, org/jfree/chart/LegendItemCollection.getItemCount]
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItems
+org/jfree/chart/LegendItemCollection.getItemCount
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/plot/CategoryPlot.getIndexOf
+org/jfree/chart/plot/CategoryPlot.getDataset
+org/jfree/chart/plot/CategoryPlot.getRowRenderingOrder
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/chart/plot/CategoryPlot.setDataset
+org/jfree/chart/plot/CategoryPlot.setRenderer
+top 10 recommendations: 
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItems
+org/jfree/chart/LegendItemCollection.getItemCount
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/plot/CategoryPlot.getIndexOf
+org/jfree/chart/plot/CategoryPlot.getDataset
+org/jfree/chart/plot/CategoryPlot.getRowRenderingOrder
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/chart/plot/CategoryPlot.setDataset
+org/jfree/chart/plot/CategoryPlot.setRenderer
+after post processing ......
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItems
+org/jfree/chart/LegendItemCollection.getItemCount
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/plot/CategoryPlot.getIndexOf
+org/jfree/chart/plot/CategoryPlot.getDataset
+org/jfree/chart/plot/CategoryPlot.getRowRenderingOrder
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/chart/plot/CategoryPlot.setDataset
+org/jfree/chart/plot/CategoryPlot.setRenderer
+found in top 10

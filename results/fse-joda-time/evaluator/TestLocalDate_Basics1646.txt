@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestLocalDate_Basics.testIsSupported_DateTimeFieldType:484
+Methods call in assertion: [org/joda/time/LocalDate.isSupported, org/joda/time/DateTimeFieldType.monthOfYear]
+org/joda/time/LocalDate.isSupported
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/DateTimeFieldType.monthOfYear
+top 10 recommendations: 
+org/joda/time/LocalDate.isSupported
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/DateTimeFieldType.monthOfYear
+after post processing ......
+org/joda/time/LocalDate.isSupported
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/DateTimeFieldType.monthOfYear
+found in top 10

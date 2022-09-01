@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.axis.QuarterDateFormatTest.testEquals:72
+Methods call in assertion: [org/jfree/chart/axis/QuarterDateFormat.equals]
+org/jfree/chart/axis/QuarterDateFormat.equals
+top 10 recommendations: 
+org/jfree/chart/axis/QuarterDateFormat.equals
+after post processing ......
+org/jfree/chart/axis/QuarterDateFormat.equals
+perfect match

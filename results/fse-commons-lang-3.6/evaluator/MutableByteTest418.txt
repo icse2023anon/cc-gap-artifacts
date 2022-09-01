@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableByteTest.testPrimitiveValues:156
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableByte.longValue]
+org/apache/commons/lang3/mutable/MutableByte.longValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableByte.longValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableByte.longValue
+perfect match

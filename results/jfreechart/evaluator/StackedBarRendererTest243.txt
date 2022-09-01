@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.renderer.category.StackedBarRendererTest.testFindRangeBounds:132
+Methods call in assertion: [org/jfree/chart/renderer/category/StackedBarRenderer.findRangeBounds]
+org/jfree/data/general/DatasetUtils.findStackedRangeBounds
+org/jfree/chart/renderer/category/StackedBarRenderer.findRangeBounds
+org/jfree/data/category/DefaultCategoryDataset.getColumnCount
+top 10 recommendations: 
+org/jfree/chart/renderer/category/StackedBarRenderer.findRangeBounds
+org/jfree/data/general/DatasetUtils.findStackedRangeBounds
+org/jfree/data/category/DefaultCategoryDataset.getColumnCount
+after post processing ......
+org/jfree/chart/renderer/category/StackedBarRenderer.findRangeBounds
+org/jfree/data/general/DatasetUtils.findStackedRangeBounds
+org/jfree/data/category/DefaultCategoryDataset.getColumnCount
+perfect match

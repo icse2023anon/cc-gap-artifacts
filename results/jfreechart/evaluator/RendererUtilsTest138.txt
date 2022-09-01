@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.renderer.RendererUtilsTest.testFindLiveItemsLowerBound_Unordered:104
+Methods call in assertion: [org/jfree/chart/renderer/RendererUtils.findLiveItemsLowerBound]
+org/jfree/data/xy/DefaultXYDataset.getItemCount
+org/jfree/data/xy/DefaultXYDataset.indexOf
+org/jfree/data/xy/DefaultXYDataset.getXValue
+org/jfree/data/xy/DefaultXYDataset.addSeries
+org/jfree/chart/renderer/RendererUtils.findLiveItemsLowerBound
+org/jfree/data/xy/DefaultXYDataset.getDomainOrder
+top 10 recommendations: 
+org/jfree/data/xy/DefaultXYDataset.addSeries
+org/jfree/data/xy/DefaultXYDataset.getItemCount
+org/jfree/data/xy/DefaultXYDataset.indexOf
+org/jfree/data/xy/DefaultXYDataset.getXValue
+org/jfree/chart/renderer/RendererUtils.findLiveItemsLowerBound
+org/jfree/data/xy/DefaultXYDataset.getDomainOrder
+after post processing ......
+org/jfree/data/xy/DefaultXYDataset.addSeries
+org/jfree/data/xy/DefaultXYDataset.getItemCount
+org/jfree/data/xy/DefaultXYDataset.indexOf
+org/jfree/data/xy/DefaultXYDataset.getXValue
+org/jfree/chart/renderer/RendererUtils.findLiveItemsLowerBound
+org/jfree/data/xy/DefaultXYDataset.getDomainOrder
+found in top 10

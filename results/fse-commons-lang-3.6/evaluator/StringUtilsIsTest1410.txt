@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsIsTest.testIsNumericSpace:177
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.isNumericSpace]
+org/apache/commons/lang3/StringUtils.isNumericSpace
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.isNumericSpace
+after post processing ......
+org/apache/commons/lang3/StringUtils.isNumericSpace
+perfect match

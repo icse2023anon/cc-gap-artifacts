@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_secondOfMinute:283
+Methods call in assertion: [org/joda/time/DateTimeFieldType.secondOfMinute]
+org/joda/time/DateTimeFieldType.secondOfMinute
+top 10 recommendations: 
+org/joda/time/DateTimeFieldType.secondOfMinute
+after post processing ......
+org/joda/time/DateTimeFieldType.secondOfMinute
+perfect match

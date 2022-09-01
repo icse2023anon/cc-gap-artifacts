@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.category.StatisticalBarRendererTest.testFindRangeBounds:264
+Methods call in assertion: [org/jfree/chart/renderer/category/StatisticalBarRenderer.findRangeBounds]
+org/jfree/chart/renderer/category/BarRenderer.findRangeBounds
+org/jfree/chart/renderer/category/StatisticalBarRenderer.findRangeBounds
+top 10 recommendations: 
+org/jfree/chart/renderer/category/BarRenderer.findRangeBounds
+org/jfree/chart/renderer/category/StatisticalBarRenderer.findRangeBounds
+after post processing ......
+org/jfree/chart/renderer/category/BarRenderer.findRangeBounds
+org/jfree/chart/renderer/category/StatisticalBarRenderer.findRangeBounds
+found in top 10

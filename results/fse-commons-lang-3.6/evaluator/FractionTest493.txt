@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.math.FractionTest.testToProperString:1393
+Methods call in assertion: [org/apache/commons/lang3/math/Fraction.toProperString, org/apache/commons/lang3/math/Fraction.getFraction]
+org/apache/commons/lang3/math/Fraction.toProperString
+org/apache/commons/lang3/math/Fraction.getReducedFraction
+org/apache/commons/lang3/math/Fraction.getFraction
+top 10 recommendations: 
+org/apache/commons/lang3/math/Fraction.getFraction
+org/apache/commons/lang3/math/Fraction.toProperString
+org/apache/commons/lang3/math/Fraction.getReducedFraction
+after post processing ......
+org/apache/commons/lang3/math/Fraction.getFraction
+org/apache/commons/lang3/math/Fraction.toProperString
+org/apache/commons/lang3/math/Fraction.getReducedFraction
+found in top 10

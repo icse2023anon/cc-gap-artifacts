@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestInterval_Basics.testToString:1138
+Methods call in assertion: [org/joda/time/Interval.toString]
+org/joda/time/base/AbstractInterval.toString
+top 10 recommendations: 
+org/joda/time/base/AbstractInterval.toString
+after post processing ......
+org/joda/time/base/AbstractInterval.toString
+perfect match

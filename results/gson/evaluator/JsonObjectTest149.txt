@@ -1,0 +1,29 @@
+slicing criterion: com.google.gson.JsonObjectTest.testAddingBooleanProperties:78
+Methods call in assertion: [com/google/gson/JsonElement.getAsBoolean]
+com/google/gson/JsonObject.get
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/JsonPrimitive.getAsBoolean
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/JsonObject.addProperty
+com/google/gson/JsonPrimitive.getAsBooleanWrapper
+top 10 recommendations: 
+com/google/gson/JsonPrimitive.getAsBoolean
+com/google/gson/JsonObject.get
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/JsonObject.addProperty
+com/google/gson/JsonPrimitive.getAsBooleanWrapper
+after post processing ......
+com/google/gson/JsonPrimitive.getAsBoolean
+com/google/gson/JsonObject.get
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/JsonObject.addProperty
+com/google/gson/JsonPrimitive.getAsBooleanWrapper
+not matched

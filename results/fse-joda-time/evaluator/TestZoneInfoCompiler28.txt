@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.tz.TestZoneInfoCompiler.testParseYearAndParseYearReturningNegativeOne:99
+Methods call in assertion: [org/joda/time/tz/ZoneInfoCompiler.parseYear]
+org/joda/time/tz/ZoneInfoCompiler.parseYear
+top 10 recommendations: 
+org/joda/time/tz/ZoneInfoCompiler.parseYear
+after post processing ......
+org/joda/time/tz/ZoneInfoCompiler.parseYear
+perfect match

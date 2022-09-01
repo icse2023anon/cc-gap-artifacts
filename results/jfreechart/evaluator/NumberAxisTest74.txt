@@ -1,0 +1,37 @@
+slicing criterion: org.jfree.chart.axis.NumberAxisTest.testAutoRange4:285
+Methods call in assertion: [org/jfree/chart/axis/NumberAxis.getUpperBound]
+org/jfree/data/general/DatasetChangeEvent.getDataset
+org/jfree/chart/plot/CategoryPlot.mapDatasetToDomainAxis
+org/jfree/chart/ChartFactory.createBarChart
+org/jfree/chart/axis/Axis.getPlot
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/axis/ValueAxis.isAutoRange
+org/jfree/chart/plot/CategoryPlot.getRangeAxis
+org/jfree/chart/plot/CategoryPlot.datasetChanged
+org/jfree/chart/plot/CategoryPlot.setDataset
+org/jfree/chart/axis/ValueAxis.getUpperBound
+org/jfree/chart/JFreeChart.getPlot
+top 10 recommendations: 
+org/jfree/chart/ChartFactory.createBarChart
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/plot/CategoryPlot.setDataset
+org/jfree/data/general/DatasetChangeEvent.getDataset
+org/jfree/chart/plot/CategoryPlot.mapDatasetToDomainAxis
+org/jfree/chart/axis/Axis.getPlot
+org/jfree/chart/axis/ValueAxis.isAutoRange
+org/jfree/chart/plot/CategoryPlot.getRangeAxis
+org/jfree/chart/plot/CategoryPlot.datasetChanged
+org/jfree/chart/axis/ValueAxis.getUpperBound
+after post processing ......
+org/jfree/chart/ChartFactory.createBarChart
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/plot/CategoryPlot.setDataset
+org/jfree/data/general/DatasetChangeEvent.getDataset
+org/jfree/chart/plot/CategoryPlot.mapDatasetToDomainAxis
+org/jfree/chart/axis/Axis.getPlot
+org/jfree/chart/axis/ValueAxis.isAutoRange
+org/jfree/chart/plot/CategoryPlot.getRangeAxis
+org/jfree/chart/plot/CategoryPlot.datasetChanged
+org/jfree/chart/axis/ValueAxis.getUpperBound
+org/jfree/chart/JFreeChart.getPlot
+found in top 10

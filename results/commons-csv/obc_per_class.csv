@@ -1,0 +1,9 @@
+class,missed_branch, covered_branch, total_branch  
+org.apache.commons.csv.CSVFormat,35,240,275
+org.apache.commons.csv.Lexer,9,119,128
+org.apache.commons.csv.CSVRecord,12,14,26
+org.apache.commons.csv.CSVParser,5,51,56
+org.apache.commons.csv.Assertions,0,2,2
+org.apache.commons.csv.CSVParser$1,0,12,12
+org.apache.commons.csv.CSVPrinter,7,38,45
+org.apache.commons.csv.ExtendedBufferedReader,1,31,32

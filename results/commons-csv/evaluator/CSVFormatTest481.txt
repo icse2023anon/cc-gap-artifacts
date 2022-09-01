@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testNewFormat:682
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getIgnoreEmptyLines]
+org/apache/commons/csv/CSVFormat.newFormat
+org/apache/commons/csv/CSVFormat.getIgnoreEmptyLines
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.newFormat
+org/apache/commons/csv/CSVFormat.getIgnoreEmptyLines
+after post processing ......
+org/apache/commons/csv/CSVFormat.newFormat
+org/apache/commons/csv/CSVFormat.getIgnoreEmptyLines
+found in top 10

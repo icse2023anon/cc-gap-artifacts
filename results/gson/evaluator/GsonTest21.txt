@@ -1,0 +1,8 @@
+slicing criterion: com.google.gson.GsonTest.testOverridesDefaultExcluder:50
+Methods call in assertion: [com/google/gson/Gson.fieldNamingStrategy]
+com/google/gson/Gson.fieldNamingStrategy
+top 10 recommendations: 
+com/google/gson/Gson.fieldNamingStrategy
+after post processing ......
+com/google/gson/Gson.fieldNamingStrategy
+perfect match

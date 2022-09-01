@@ -1,0 +1,29 @@
+slicing criterion: org.apache.commons.validator.routines.EmailValidatorTest.testVALIDATOR_278:147
+Methods call in assertion: [org/apache/commons/validator/routines/EmailValidator.isValid]
+org/apache/commons/validator/routines/DomainValidator.isValid
+org/apache/commons/validator/routines/EmailValidator.isValid
+org/apache/commons/validator/routines/RegexValidator.match
+org/apache/commons/validator/routines/EmailValidator.isValidDomain
+org/apache/commons/validator/routines/EmailValidator.getInstance
+org/apache/commons/validator/routines/DomainValidator.getInstance
+org/apache/commons/validator/routines/EmailValidator.isValidUser
+org/apache/commons/validator/routines/DomainValidator.unicodeToASCII
+top 10 recommendations: 
+org/apache/commons/validator/routines/EmailValidator.isValid
+org/apache/commons/validator/routines/EmailValidator.isValidDomain
+org/apache/commons/validator/routines/DomainValidator.isValid
+org/apache/commons/validator/routines/RegexValidator.match
+org/apache/commons/validator/routines/EmailValidator.getInstance
+org/apache/commons/validator/routines/DomainValidator.getInstance
+org/apache/commons/validator/routines/EmailValidator.isValidUser
+org/apache/commons/validator/routines/DomainValidator.unicodeToASCII
+after post processing ......
+org/apache/commons/validator/routines/EmailValidator.isValid
+org/apache/commons/validator/routines/EmailValidator.isValidDomain
+org/apache/commons/validator/routines/DomainValidator.isValid
+org/apache/commons/validator/routines/RegexValidator.match
+org/apache/commons/validator/routines/EmailValidator.getInstance
+org/apache/commons/validator/routines/DomainValidator.getInstance
+org/apache/commons/validator/routines/EmailValidator.isValidUser
+org/apache/commons/validator/routines/DomainValidator.unicodeToASCII
+perfect match

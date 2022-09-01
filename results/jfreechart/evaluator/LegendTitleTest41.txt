@@ -1,0 +1,61 @@
+slicing criterion: org.jfree.chart.title.LegendTitleTest.testSerialization:157
+Methods call in assertion: [org/jfree/chart/title/LegendTitle.getSources]
+org/jfree/chart/plot/XYPlot.mapDatasetToDomainAxes
+org/jfree/chart/title/Title.getVerticalAlignment
+org/jfree/chart/plot/XYPlot.mapDatasetToRangeAxes
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextPaint
+org/jfree/chart/plot/DefaultDrawingSupplier.<init>
+org/jfree/chart/plot/Plot.getNoDataMessagePaint
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/XYPlot.mapDatasetToRangeAxis
+org/jfree/chart/block/AbstractBlock.clone
+org/jfree/chart/title/LegendTitle.getSources
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/chart/util/SerialUtils.readShape
+org/jfree/chart/plot/XYPlot.equals
+org/jfree/chart/ui/RectangleInsets.equals
+org/jfree/chart/util/SerialUtils.readPoint2D
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/SerialUtils.writeStroke
+org/jfree/chart/util/SerialUtils.isSerializable
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/chart/util/SerialUtils.readStroke
+org/jfree/chart/plot/XYPlot.mapDatasetToDomainAxis
+org/jfree/chart/util/SerialUtils.writePaint
+top 10 recommendations: 
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/chart/plot/XYPlot.equals
+org/jfree/chart/plot/XYPlot.mapDatasetToRangeAxis
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/chart/plot/XYPlot.mapDatasetToDomainAxis
+org/jfree/chart/plot/XYPlot.mapDatasetToDomainAxes
+org/jfree/chart/title/Title.getVerticalAlignment
+org/jfree/chart/plot/XYPlot.mapDatasetToRangeAxes
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextPaint
+org/jfree/chart/plot/DefaultDrawingSupplier.<init>
+after post processing ......
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/chart/plot/XYPlot.equals
+org/jfree/chart/plot/XYPlot.mapDatasetToRangeAxis
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/chart/plot/XYPlot.mapDatasetToDomainAxis
+org/jfree/chart/plot/XYPlot.mapDatasetToDomainAxes
+org/jfree/chart/title/Title.getVerticalAlignment
+org/jfree/chart/plot/XYPlot.mapDatasetToRangeAxes
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextPaint
+org/jfree/chart/plot/DefaultDrawingSupplier.<init>
+org/jfree/chart/plot/Plot.getNoDataMessagePaint
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/block/AbstractBlock.clone
+org/jfree/chart/title/LegendTitle.getSources
+org/jfree/chart/util/SerialUtils.readShape
+org/jfree/chart/ui/RectangleInsets.equals
+org/jfree/chart/util/SerialUtils.readPoint2D
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/SerialUtils.writeStroke
+org/jfree/chart/util/SerialUtils.isSerializable
+org/jfree/chart/util/SerialUtils.readStroke
+org/jfree/chart/util/SerialUtils.writePaint
+all method calls are suggested

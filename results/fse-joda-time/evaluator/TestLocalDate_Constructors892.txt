@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestLocalDate_Constructors.testConstructor:228
+Methods call in assertion: [org/joda/time/LocalDate.now]
+org/joda/time/LocalDate.compareTo
+top 10 recommendations: 
+org/joda/time/LocalDate.compareTo
+after post processing ......
+org/joda/time/LocalDate.compareTo
+not matched

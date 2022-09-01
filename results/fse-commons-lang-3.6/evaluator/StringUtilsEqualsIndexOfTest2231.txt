@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsEqualsIndexOfTest.testIndexOf_String:392
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.indexOf]
+org/apache/commons/lang3/CharSequenceUtils.indexOf
+org/apache/commons/lang3/StringUtils.indexOf
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.indexOf
+org/apache/commons/lang3/CharSequenceUtils.indexOf
+after post processing ......
+org/apache/commons/lang3/StringUtils.indexOf
+org/apache/commons/lang3/CharSequenceUtils.indexOf
+perfect match

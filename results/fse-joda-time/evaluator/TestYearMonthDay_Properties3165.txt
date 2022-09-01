@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.TestYearMonthDay_Properties.testPropertyGetYear:130
+Methods call in assertion: [org/joda/time/YearMonthDay.year, org/joda/time/YearMonthDay$Property.getMaximumTextLength]
+org/joda/time/field/AbstractPartialFieldProperty.getRangeDurationField
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/YearMonthDay.getField
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumTextLength
+org/joda/time/chrono/AssembledChronology.year
+top 10 recommendations: 
+org/joda/time/field/AbstractPartialFieldProperty.getRangeDurationField
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/YearMonthDay.getField
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumTextLength
+org/joda/time/chrono/AssembledChronology.year
+after post processing ......
+org/joda/time/field/AbstractPartialFieldProperty.getRangeDurationField
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/YearMonthDay.getField
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumTextLength
+org/joda/time/chrono/AssembledChronology.year
+not matched

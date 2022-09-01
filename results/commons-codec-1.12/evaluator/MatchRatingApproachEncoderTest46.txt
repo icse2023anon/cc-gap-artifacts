@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testGetEncoding_SMITH_to_SMTH:261
+Methods call in assertion: [org/apache/commons/codec/language/MatchRatingApproachEncoder.encode]
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeDoubleConsonants
+org/apache/commons/codec/language/MatchRatingApproachEncoder.encode
+org/apache/commons/codec/language/MatchRatingApproachEncoder.getFirst3Last3
+top 10 recommendations: 
+org/apache/commons/codec/language/MatchRatingApproachEncoder.encode
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeDoubleConsonants
+org/apache/commons/codec/language/MatchRatingApproachEncoder.getFirst3Last3
+after post processing ......
+org/apache/commons/codec/language/MatchRatingApproachEncoder.encode
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeDoubleConsonants
+org/apache/commons/codec/language/MatchRatingApproachEncoder.getFirst3Last3
+perfect match

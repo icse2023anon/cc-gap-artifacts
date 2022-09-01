@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testChaining:196
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.clear]
+org/apache/commons/lang3/text/StrBuilder.clear
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.clear
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.clear
+perfect match

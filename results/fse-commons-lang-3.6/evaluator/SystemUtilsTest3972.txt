@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.SystemUtilsTest.testOSMatchesNameAndVersion:474
+Methods call in assertion: [org/apache/commons/lang3/SystemUtils.isOSMatch]
+org/apache/commons/lang3/SystemUtils.isOSNameMatch
+org/apache/commons/lang3/SystemUtils.isOSMatch
+top 10 recommendations: 
+org/apache/commons/lang3/SystemUtils.isOSMatch
+org/apache/commons/lang3/SystemUtils.isOSNameMatch
+after post processing ......
+org/apache/commons/lang3/SystemUtils.isOSMatch
+org/apache/commons/lang3/SystemUtils.isOSNameMatch
+perfect match

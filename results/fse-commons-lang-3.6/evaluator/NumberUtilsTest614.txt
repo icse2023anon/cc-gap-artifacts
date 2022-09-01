@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.math.NumberUtilsTest.testStringToDoubleStringD:224
+Methods call in assertion: [org/apache/commons/lang3/math/NumberUtils.toDouble]
+org/apache/commons/lang3/math/NumberUtils.toDouble
+top 10 recommendations: 
+org/apache/commons/lang3/math/NumberUtils.toDouble
+after post processing ......
+org/apache/commons/lang3/math/NumberUtils.toDouble
+perfect match

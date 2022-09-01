@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestLocalTime_Basics.testIsEqual_LocalTime:410
+Methods call in assertion: [org/joda/time/LocalTime.isEqual]
+org/joda/time/LocalTime.compareTo
+org/joda/time/base/AbstractPartial.isEqual
+top 10 recommendations: 
+org/joda/time/LocalTime.compareTo
+org/joda/time/base/AbstractPartial.isEqual
+after post processing ......
+org/joda/time/LocalTime.compareTo
+org/joda/time/base/AbstractPartial.isEqual
+not matched

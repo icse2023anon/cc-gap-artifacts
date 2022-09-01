@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.labels.BubbleXYItemLabelGeneratorTest.testHashCode:147
+Methods call in assertion: [org/jfree/chart/labels/BubbleXYItemLabelGenerator.hashCode]
+org/jfree/chart/labels/BubbleXYItemLabelGenerator.hashCode
+org/jfree/chart/HashUtils.hashCode
+top 10 recommendations: 
+org/jfree/chart/labels/BubbleXYItemLabelGenerator.hashCode
+org/jfree/chart/HashUtils.hashCode
+after post processing ......
+org/jfree/chart/labels/BubbleXYItemLabelGenerator.hashCode
+org/jfree/chart/HashUtils.hashCode
+perfect match

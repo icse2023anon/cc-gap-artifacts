@@ -1,0 +1,8 @@
+slicing criterion: com.thoughtworks.xstream.converters.basic.StringConverterTest.testCacheLimitationBasedOnStringLength:43
+Methods call in assertion: [com/thoughtworks/xstream/converters/basic/StringConverter.fromString]
+com/thoughtworks/xstream/converters/basic/StringConverter.fromString
+top 10 recommendations: 
+com/thoughtworks/xstream/converters/basic/StringConverter.fromString
+after post processing ......
+com/thoughtworks/xstream/converters/basic/StringConverter.fromString
+perfect match

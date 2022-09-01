@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.convert.TestReadableIntervalConverter.testGetDurationMillis_Object:119
+Methods call in assertion: [org/joda/time/convert/ReadableIntervalConverter.getDurationMillis]
+org/joda/time/field/FieldUtils.safeSubtract
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/convert/ReadableIntervalConverter.getDurationMillis
+org/joda/time/base/AbstractInterval.toDurationMillis
+org/joda/time/base/BaseInterval.getStartMillis
+top 10 recommendations: 
+org/joda/time/base/AbstractInterval.toDurationMillis
+org/joda/time/field/FieldUtils.safeSubtract
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/convert/ReadableIntervalConverter.getDurationMillis
+org/joda/time/base/BaseInterval.getStartMillis
+after post processing ......
+org/joda/time/base/AbstractInterval.toDurationMillis
+org/joda/time/field/FieldUtils.safeSubtract
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/convert/ReadableIntervalConverter.getDurationMillis
+org/joda/time/base/BaseInterval.getStartMillis
+found in top 10

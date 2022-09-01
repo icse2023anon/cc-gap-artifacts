@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.validator.routines.CodeValidatorTest.testNoInput:194
+Methods call in assertion: [org/apache/commons/validator/routines/CodeValidator.validate]
+org/apache/commons/validator/routines/CodeValidator.validate
+top 10 recommendations: 
+org/apache/commons/validator/routines/CodeValidator.validate
+after post processing ......
+org/apache/commons/validator/routines/CodeValidator.validate
+perfect match

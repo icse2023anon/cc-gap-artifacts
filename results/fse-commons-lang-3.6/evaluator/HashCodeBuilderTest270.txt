@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.builder.HashCodeBuilderTest.testReflectionObjectCycle:595
+Methods call in assertion: [org/apache/commons/lang3/builder/HashCodeBuilder.getRegistry]
+org/apache/commons/lang3/builder/HashCodeBuilder.getRegistry
+top 10 recommendations: 
+org/apache/commons/lang3/builder/HashCodeBuilder.getRegistry
+after post processing ......
+org/apache/commons/lang3/builder/HashCodeBuilder.getRegistry
+perfect match

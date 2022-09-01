@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.ArrayUtilsTest.testIsSortedBool:5277
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.isSorted]
+org/apache/commons/lang3/ArrayUtils.isSorted
+org/apache/commons/lang3/BooleanUtils.compare
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.isSorted
+org/apache/commons/lang3/BooleanUtils.compare
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.isSorted
+org/apache/commons/lang3/BooleanUtils.compare
+perfect match

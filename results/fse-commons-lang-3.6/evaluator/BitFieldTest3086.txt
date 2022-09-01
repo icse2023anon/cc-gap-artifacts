@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.BitFieldTest.testIsAllSet:131
+Methods call in assertion: [org/apache/commons/lang3/BitField.isAllSet]
+org/apache/commons/lang3/BitField.isAllSet
+top 10 recommendations: 
+org/apache/commons/lang3/BitField.isAllSet
+after post processing ......
+org/apache/commons/lang3/BitField.isAllSet
+perfect match

@@ -1,0 +1,20 @@
+slicing criterion: org.jsoup.nodes.DocumentTest.testTitles:45
+Methods call in assertion: [org/jsoup/nodes/Document.title]
+org/jsoup/select/Evaluator.matches
+org/jsoup/select/Collector.collect
+org/jsoup/nodes/Document.title
+org/jsoup/select/Elements.first
+org/jsoup/Jsoup.parse
+top 10 recommendations: 
+org/jsoup/nodes/Document.title
+org/jsoup/select/Evaluator.matches
+org/jsoup/select/Collector.collect
+org/jsoup/select/Elements.first
+org/jsoup/Jsoup.parse
+after post processing ......
+org/jsoup/nodes/Document.title
+org/jsoup/select/Evaluator.matches
+org/jsoup/select/Collector.collect
+org/jsoup/select/Elements.first
+org/jsoup/Jsoup.parse
+perfect match

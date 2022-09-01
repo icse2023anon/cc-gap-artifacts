@@ -1,0 +1,8 @@
+slicing criterion: com.google.gson.JsonArrayTest.testEqualsNonEmptyArray:51
+Methods call in assertion: [com/google/gson/JsonArray.equals]
+com/google/gson/JsonArray.equals
+top 10 recommendations: 
+com/google/gson/JsonArray.equals
+after post processing ......
+com/google/gson/JsonArray.equals
+perfect match

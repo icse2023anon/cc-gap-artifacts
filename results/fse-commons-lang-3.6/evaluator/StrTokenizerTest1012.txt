@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.StrTokenizerTest.testChaining:635
+Methods call in assertion: [org/apache/commons/lang3/text/StrTokenizer.setIgnoredMatcher]
+org/apache/commons/lang3/text/StrTokenizer.setIgnoredMatcher
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrTokenizer.setIgnoredMatcher
+after post processing ......
+org/apache/commons/lang3/text/StrTokenizer.setIgnoredMatcher
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testUuidToByteArray:1833
+Methods call in assertion: [org/apache/commons/lang3/Conversion.uuidToByteArray]
+org/apache/commons/lang3/Conversion.uuidToByteArray
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.uuidToByteArray
+after post processing ......
+org/apache/commons/lang3/Conversion.uuidToByteArray
+perfect match

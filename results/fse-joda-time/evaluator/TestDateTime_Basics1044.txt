@@ -1,0 +1,63 @@
+slicing criterion: org.joda.time.TestDateTime_Basics.testPlusMonths_intMin:1203
+Methods call in assertion: [org/joda/time/DateTime$Property.addToCopy, org/joda/time/DateTime.monthOfYear]
+org/joda/time/chrono/BasicChronology.getDateMidnightMillis
+org/joda/time/DateTime.getMillis
+org/joda/time/chrono/GregorianChronology.calculateFirstDayOfYearMillis
+org/joda/time/chrono/BasicGJChronology.getMonthOfYear
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/GregorianChronology.isLeapYear
+org/joda/time/chrono/BasicChronology.getYearMonthDayMillis
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/BasicChronology.getDayOfMonth
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/chrono/BasicChronology.getMillisOfDay
+org/joda/time/chrono/BasicChronology.getYearMillis
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/chrono/BasicChronology.getDateTimeMillis
+org/joda/time/chrono/BasicMonthOfYearDateTimeField.add
+org/joda/time/chrono/BasicGJChronology.getTotalMillisByYearMonth
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/chrono/BasicMonthOfYearDateTimeField.add
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/chrono/BasicChronology.getDateMidnightMillis
+org/joda/time/chrono/BasicChronology.getDayOfMonth
+org/joda/time/chrono/GregorianChronology.calculateFirstDayOfYearMillis
+org/joda/time/chrono/BasicChronology.getYearMonthDayMillis
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/DateTime.getMillis
+org/joda/time/chrono/BasicGJChronology.getMonthOfYear
+after post processing ......
+org/joda/time/chrono/BasicMonthOfYearDateTimeField.add
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/chrono/BasicChronology.getDateMidnightMillis
+org/joda/time/chrono/BasicChronology.getDayOfMonth
+org/joda/time/chrono/GregorianChronology.calculateFirstDayOfYearMillis
+org/joda/time/chrono/BasicChronology.getYearMonthDayMillis
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/DateTime.getMillis
+org/joda/time/chrono/BasicGJChronology.getMonthOfYear
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/GregorianChronology.isLeapYear
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/BasicChronology.getMillisOfDay
+org/joda/time/chrono/BasicChronology.getYearMillis
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/chrono/BasicChronology.getDateTimeMillis
+org/joda/time/chrono/BasicGJChronology.getTotalMillisByYearMonth
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/DateTimeUtils.getChronology
+not matched

@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.ObjectUtilsTest.testMax:352
+Methods call in assertion: [org/apache/commons/lang3/ObjectUtils.max]
+org/apache/commons/lang3/ObjectUtils.max
+org/apache/commons/lang3/ObjectUtils.identityToString
+org/apache/commons/lang3/ObjectUtils.compare
+org/apache/commons/lang3/Validate.notNull
+top 10 recommendations: 
+org/apache/commons/lang3/ObjectUtils.max
+org/apache/commons/lang3/ObjectUtils.identityToString
+org/apache/commons/lang3/ObjectUtils.compare
+org/apache/commons/lang3/Validate.notNull
+after post processing ......
+org/apache/commons/lang3/ObjectUtils.max
+org/apache/commons/lang3/ObjectUtils.identityToString
+org/apache/commons/lang3/ObjectUtils.compare
+org/apache/commons/lang3/Validate.notNull
+perfect match

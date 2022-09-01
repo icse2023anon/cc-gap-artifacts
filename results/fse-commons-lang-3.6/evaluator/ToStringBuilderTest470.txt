@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.builder.ToStringBuilderTest.testConstructToStringBuilder:947
+Methods call in assertion: [org/apache/commons/lang3/builder/ToStringBuilder.getStyle]
+org/apache/commons/lang3/builder/ToStringBuilder.<init>
+org/apache/commons/lang3/builder/ToStringBuilder.getDefaultStyle
+org/apache/commons/lang3/builder/ToStringBuilder.getStyle
+top 10 recommendations: 
+org/apache/commons/lang3/builder/ToStringBuilder.<init>
+org/apache/commons/lang3/builder/ToStringBuilder.getDefaultStyle
+org/apache/commons/lang3/builder/ToStringBuilder.getStyle
+after post processing ......
+org/apache/commons/lang3/builder/ToStringBuilder.<init>
+org/apache/commons/lang3/builder/ToStringBuilder.getDefaultStyle
+org/apache/commons/lang3/builder/ToStringBuilder.getStyle
+found in top 10

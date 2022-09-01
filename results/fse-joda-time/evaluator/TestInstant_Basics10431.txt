@@ -1,0 +1,63 @@
+slicing criterion: org.joda.time.TestInstant_Basics.testGet_DateTimeFieldType:165
+Methods call in assertion: [org/joda/time/DateTimeFieldType.dayOfYear, org/joda/time/Instant.get]
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/GregorianChronology.calculateFirstDayOfYearMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/chrono/BasicChronology.getDayOfYear
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/format/ISODateTimeFormat.dateTime
+org/joda/time/base/AbstractInstant.toString
+org/joda/time/Instant.getMillis
+org/joda/time/chrono/BasicChronology.getYearMillis
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/chrono/BasicDayOfYearDateTimeField.get
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/format/DateTimeFormatter.printTo
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/Instant.getChronology
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/chrono/AssembledChronology.dayOfYear
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/AbstractInstant.toString
+org/joda/time/chrono/BasicDayOfYearDateTimeField.get
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/chrono/BasicChronology.getDayOfYear
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/format/DateTimeFormatter.printTo
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/Instant.getChronology
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+after post processing ......
+org/joda/time/base/AbstractInstant.toString
+org/joda/time/chrono/BasicDayOfYearDateTimeField.get
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/chrono/BasicChronology.getDayOfYear
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/format/DateTimeFormatter.printTo
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/Instant.getChronology
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/GregorianChronology.calculateFirstDayOfYearMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/format/ISODateTimeFormat.dateTime
+org/joda/time/Instant.getMillis
+org/joda/time/chrono/BasicChronology.getYearMillis
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/chrono/AssembledChronology.dayOfYear
+org/joda/time/DateTimeUtils.getChronology
+all method calls are suggested

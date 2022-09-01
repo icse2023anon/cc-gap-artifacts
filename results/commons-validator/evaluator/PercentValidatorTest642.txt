@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.validator.routines.PercentValidatorTest.testInvalid:104
+Methods call in assertion: [org/apache/commons/validator/routines/BigDecimalValidator.isValid]
+org/apache/commons/validator/routines/AbstractNumberValidator.isValid
+org/apache/commons/validator/routines/AbstractFormatValidator.isValid
+org/apache/commons/validator/routines/PercentValidator.getInstance
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+top 10 recommendations: 
+org/apache/commons/validator/routines/AbstractNumberValidator.isValid
+org/apache/commons/validator/routines/AbstractFormatValidator.isValid
+org/apache/commons/validator/routines/PercentValidator.getInstance
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+after post processing ......
+org/apache/commons/validator/routines/AbstractNumberValidator.isValid
+org/apache/commons/validator/routines/AbstractFormatValidator.isValid
+org/apache/commons/validator/routines/PercentValidator.getInstance
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+found in top 10

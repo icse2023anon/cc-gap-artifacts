@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.convert.TestConverterSet.testAddNullRemoved3:166
+Methods call in assertion: [org/joda/time/convert/ConverterSet.size]
+org/joda/time/convert/ConverterSet.add
+org/joda/time/convert/ConverterSet.size
+top 10 recommendations: 
+org/joda/time/convert/ConverterSet.add
+org/joda/time/convert/ConverterSet.size
+after post processing ......
+org/joda/time/convert/ConverterSet.add
+org/joda/time/convert/ConverterSet.size
+found in top 10

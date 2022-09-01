@@ -1,0 +1,65 @@
+slicing criterion: org.jfree.chart.renderer.category.StatisticalLineAndShapeRendererTest.testFindRangeBounds:204
+Methods call in assertion: [org/jfree/chart/renderer/category/StatisticalLineAndShapeRenderer.findRangeBounds]
+org/jfree/data/statistics/DefaultStatisticalCategoryDataset.getRowIndex
+org/jfree/chart/renderer/AbstractRenderer.getDataBoundsIncludesVisibleSeriesOnly
+org/jfree/data/statistics/DefaultStatisticalCategoryDataset.getStdDevValue
+org/jfree/data/statistics/MeanAndStandardDeviation.getMean
+org/jfree/data/statistics/DefaultStatisticalCategoryDataset.add
+org/jfree/data/KeyedObjects.setObject
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/data/KeyedObject.getObject
+org/jfree/data/KeyedObject.getKey
+org/jfree/data/KeyedObjects.getIndex
+org/jfree/data/KeyedObjects2D.getObject
+org/jfree/data/general/DatasetUtils.iterateToFindRangeBounds
+org/jfree/data/KeyedObjects2D.setObject
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultLinesVisible
+org/jfree/data/statistics/MeanAndStandardDeviation.getStandardDeviation
+org/jfree/data/statistics/DefaultStatisticalCategoryDataset.getColumnCount
+org/jfree/data/statistics/DefaultStatisticalCategoryDataset.getRowCount
+org/jfree/data/KeyedObjects.getObject
+org/jfree/data/KeyedObjects2D.addObject
+org/jfree/chart/renderer/category/StatisticalLineAndShapeRenderer.getErrorIndicatorPaint
+org/jfree/data/statistics/DefaultStatisticalCategoryDataset.getMeanValue
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+org/jfree/chart/renderer/category/StatisticalLineAndShapeRenderer.findRangeBounds
+top 10 recommendations: 
+org/jfree/data/statistics/DefaultStatisticalCategoryDataset.getStdDevValue
+org/jfree/data/statistics/DefaultStatisticalCategoryDataset.getMeanValue
+org/jfree/data/statistics/DefaultStatisticalCategoryDataset.add
+org/jfree/data/KeyedObjects2D.getObject
+org/jfree/data/KeyedObjects2D.addObject
+org/jfree/data/KeyedObjects2D.setObject
+org/jfree/data/KeyedObjects.getObject
+org/jfree/data/KeyedObjects.setObject
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/data/KeyedObjects.getIndex
+after post processing ......
+org/jfree/data/statistics/DefaultStatisticalCategoryDataset.getStdDevValue
+org/jfree/data/statistics/DefaultStatisticalCategoryDataset.getMeanValue
+org/jfree/data/statistics/DefaultStatisticalCategoryDataset.add
+org/jfree/data/KeyedObjects2D.getObject
+org/jfree/data/KeyedObjects2D.addObject
+org/jfree/data/KeyedObjects2D.setObject
+org/jfree/data/KeyedObjects.getObject
+org/jfree/data/KeyedObjects.setObject
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/data/KeyedObjects.getIndex
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/data/statistics/DefaultStatisticalCategoryDataset.getRowIndex
+org/jfree/chart/renderer/AbstractRenderer.getDataBoundsIncludesVisibleSeriesOnly
+org/jfree/data/statistics/MeanAndStandardDeviation.getMean
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/data/KeyedObject.getObject
+org/jfree/data/KeyedObject.getKey
+org/jfree/data/general/DatasetUtils.iterateToFindRangeBounds
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultLinesVisible
+org/jfree/data/statistics/MeanAndStandardDeviation.getStandardDeviation
+org/jfree/data/statistics/DefaultStatisticalCategoryDataset.getColumnCount
+org/jfree/data/statistics/DefaultStatisticalCategoryDataset.getRowCount
+org/jfree/chart/renderer/category/StatisticalLineAndShapeRenderer.getErrorIndicatorPaint
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+org/jfree/chart/renderer/category/StatisticalLineAndShapeRenderer.findRangeBounds
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.axis.NumberAxisTest.testEquals:96
+Methods call in assertion: [org/jfree/chart/axis/NumberAxis.equals]
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/util/ObjectUtils.equal
+top 10 recommendations: 
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

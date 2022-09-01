@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeJson:679
+Methods call in assertion: [org/apache/commons/lang3/StringEscapeUtils.escapeJson]
+org/apache/commons/lang3/StringEscapeUtils.escapeJson
+top 10 recommendations: 
+org/apache/commons/lang3/StringEscapeUtils.escapeJson
+after post processing ......
+org/apache/commons/lang3/StringEscapeUtils.escapeJson
+perfect match

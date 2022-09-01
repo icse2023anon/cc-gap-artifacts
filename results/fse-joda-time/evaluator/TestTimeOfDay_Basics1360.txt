@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Basics.testGetFieldTypes:195
+Methods call in assertion: [org/joda/time/DateTimeFieldType.minuteOfHour]
+org/joda/time/TimeOfDay.getFieldTypes
+org/joda/time/DateTimeFieldType.minuteOfHour
+top 10 recommendations: 
+org/joda/time/TimeOfDay.getFieldTypes
+org/joda/time/DateTimeFieldType.minuteOfHour
+after post processing ......
+org/joda/time/TimeOfDay.getFieldTypes
+org/joda/time/DateTimeFieldType.minuteOfHour
+found in top 10

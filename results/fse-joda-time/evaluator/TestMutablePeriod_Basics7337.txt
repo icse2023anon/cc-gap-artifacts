@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestMutablePeriod_Basics.testToDurationFrom:501
+Methods call in assertion: [org/joda/time/MutablePeriod.toDurationFrom]
+org/joda/time/base/BasePeriod.toDurationFrom
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.toDurationFrom
+after post processing ......
+org/joda/time/base/BasePeriod.toDurationFrom
+perfect match

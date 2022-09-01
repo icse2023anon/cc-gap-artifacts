@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_dayOfYear:178
+Methods call in assertion: [org/joda/time/chrono/CopticChronology.dayOfYear, org/joda/time/DateTimeFieldType.dayOfYear, org/joda/time/DateTimeFieldType.isSupported, org/joda/time/chrono/CopticChronology.getInstanceUTC, org/joda/time/DateTimeField.isSupported]
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeFieldType.isSupported
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.dayOfYear
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeFieldType.isSupported
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.dayOfYear
+after post processing ......
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeFieldType.isSupported
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.dayOfYear
+not matched

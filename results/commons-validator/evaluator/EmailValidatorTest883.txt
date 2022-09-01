@@ -1,0 +1,39 @@
+slicing criterion: org.apache.commons.validator.routines.EmailValidatorTest.testValidator235:161
+Methods call in assertion: [org/apache/commons/validator/routines/EmailValidator.isValid]
+org/apache/commons/validator/routines/DomainValidator.isValid
+org/apache/commons/validator/routines/EmailValidator.isValid
+org/apache/commons/validator/routines/DomainValidator.isValidGenericTld
+org/apache/commons/validator/routines/DomainValidator.isValidInfrastructureTld
+org/apache/commons/validator/routines/DomainValidator.isValidTld
+org/apache/commons/validator/routines/RegexValidator.match
+org/apache/commons/validator/routines/EmailValidator.isValidDomain
+org/apache/commons/validator/routines/EmailValidator.getInstance
+org/apache/commons/validator/routines/DomainValidator.isValidCountryCodeTld
+org/apache/commons/validator/routines/DomainValidator.getInstance
+org/apache/commons/validator/routines/DomainValidator.unicodeToASCII
+org/apache/commons/validator/routines/EmailValidator.isValidUser
+top 10 recommendations: 
+org/apache/commons/validator/routines/EmailValidator.isValid
+org/apache/commons/validator/routines/EmailValidator.isValidDomain
+org/apache/commons/validator/routines/DomainValidator.isValid
+org/apache/commons/validator/routines/DomainValidator.isValidTld
+org/apache/commons/validator/routines/DomainValidator.isValidGenericTld
+org/apache/commons/validator/routines/DomainValidator.isValidInfrastructureTld
+org/apache/commons/validator/routines/DomainValidator.isValidCountryCodeTld
+org/apache/commons/validator/routines/RegexValidator.match
+org/apache/commons/validator/routines/EmailValidator.getInstance
+org/apache/commons/validator/routines/DomainValidator.getInstance
+after post processing ......
+org/apache/commons/validator/routines/EmailValidator.isValid
+org/apache/commons/validator/routines/EmailValidator.isValidDomain
+org/apache/commons/validator/routines/DomainValidator.isValid
+org/apache/commons/validator/routines/DomainValidator.isValidTld
+org/apache/commons/validator/routines/DomainValidator.isValidGenericTld
+org/apache/commons/validator/routines/DomainValidator.isValidInfrastructureTld
+org/apache/commons/validator/routines/DomainValidator.isValidCountryCodeTld
+org/apache/commons/validator/routines/RegexValidator.match
+org/apache/commons/validator/routines/EmailValidator.getInstance
+org/apache/commons/validator/routines/DomainValidator.getInstance
+org/apache/commons/validator/routines/DomainValidator.unicodeToASCII
+org/apache/commons/validator/routines/EmailValidator.isValidUser
+perfect match

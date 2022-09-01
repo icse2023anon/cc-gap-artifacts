@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.StrokeMapTest.testEquals:116
+Methods call in assertion: [org/jfree/chart/StrokeMap.equals]
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/StrokeMap.put
+top 10 recommendations: 
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/StrokeMap.put
+after post processing ......
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/StrokeMap.put
+perfect match

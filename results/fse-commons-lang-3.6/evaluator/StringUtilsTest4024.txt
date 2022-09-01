@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testGetFuzzyDistance:2653
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.getFuzzyDistance]
+org/apache/commons/lang3/StringUtils.getFuzzyDistance
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.getFuzzyDistance
+after post processing ......
+org/apache/commons/lang3/StringUtils.getFuzzyDistance
+perfect match

@@ -1,0 +1,14 @@
+slicing criterion: com.google.gson.FieldAttributesTest.testDeclaredTypeAndClass:74
+Methods call in assertion: [com/google/gson/FieldAttributes.getDeclaredType]
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/reflect/TypeToken.getSuperclassTypeParameter
+com/google/gson/FieldAttributes.getDeclaredType
+top 10 recommendations: 
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/reflect/TypeToken.getSuperclassTypeParameter
+com/google/gson/FieldAttributes.getDeclaredType
+after post processing ......
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/reflect/TypeToken.getSuperclassTypeParameter
+com/google/gson/FieldAttributes.getDeclaredType
+found in top 10

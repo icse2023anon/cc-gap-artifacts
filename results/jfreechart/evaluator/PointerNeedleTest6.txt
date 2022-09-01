@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.needle.PointerNeedleTest.testEquals:61
+Methods call in assertion: [org/jfree/chart/needle/PointerNeedle.equals]
+org/jfree/chart/needle/PointerNeedle.equals
+top 10 recommendations: 
+org/jfree/chart/needle/PointerNeedle.equals
+after post processing ......
+org/jfree/chart/needle/PointerNeedle.equals
+perfect match

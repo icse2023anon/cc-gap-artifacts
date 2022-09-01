@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.codec.digest.Md5CryptTest.testMd5CryptBytes:55
+Methods call in assertion: [org/apache/commons/codec/digest/Crypt.crypt]
+org/apache/commons/codec/digest/Crypt.crypt
+org/apache/commons/codec/digest/Md5Crypt.md5Crypt
+top 10 recommendations: 
+org/apache/commons/codec/digest/Crypt.crypt
+org/apache/commons/codec/digest/Md5Crypt.md5Crypt
+after post processing ......
+org/apache/commons/codec/digest/Crypt.crypt
+org/apache/commons/codec/digest/Md5Crypt.md5Crypt
+perfect match

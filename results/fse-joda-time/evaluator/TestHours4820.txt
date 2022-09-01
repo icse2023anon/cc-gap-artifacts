@@ -1,0 +1,45 @@
+slicing criterion: org.joda.time.TestHours.testFactory_hoursBetween_RPartial:136
+Methods call in assertion: [org/joda/time/Hours.getHours, org/joda/time/Hours.hoursBetween]
+org/joda/time/Hours.hours
+org/joda/time/Hours.getHours
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/BaseDurationField.getDifference
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/field/FieldUtils.safeToInt
+org/joda/time/field/PreciseDurationField.getDifferenceAsLong
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/Hours.hoursBetween
+org/joda/time/field/FieldUtils.safeSubtract
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/LocalTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/LocalTime.<init>
+top 10 recommendations: 
+org/joda/time/Hours.hoursBetween
+org/joda/time/field/BaseDurationField.getDifference
+org/joda/time/field/PreciseDurationField.getDifferenceAsLong
+org/joda/time/LocalTime.<init>
+org/joda/time/Hours.hours
+org/joda/time/Hours.getHours
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/field/FieldUtils.safeToInt
+after post processing ......
+org/joda/time/Hours.hoursBetween
+org/joda/time/field/BaseDurationField.getDifference
+org/joda/time/field/PreciseDurationField.getDifferenceAsLong
+org/joda/time/LocalTime.<init>
+org/joda/time/Hours.hours
+org/joda/time/Hours.getHours
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/field/FieldUtils.safeToInt
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/field/FieldUtils.safeSubtract
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/LocalTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

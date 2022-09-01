@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testNormalizeSpace:3011
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.normalizeSpace]
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/StringUtils.normalizeSpace
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.normalizeSpace
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/StringUtils.normalizeSpace
+org/apache/commons/lang3/StringUtils.isEmpty
+perfect match

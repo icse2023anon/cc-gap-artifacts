@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.chrono.TestCopticChronology.testSampleDate:543
+Methods call in assertion: [org/joda/time/DateTime$Property.getMaximumValueOverall]
+org/joda/time/DateTime.withChronology
+org/joda/time/DateTime.getMillis
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValueOverall
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/AssembledChronology.dayOfWeek
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/field/DecoratedDateTimeField.getMaximumValue
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/DateTime.withChronology
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.getMillis
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValueOverall
+org/joda/time/chrono/AssembledChronology.dayOfWeek
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/field/DecoratedDateTimeField.getMaximumValue
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/DateTime.withChronology
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.getMillis
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValueOverall
+org/joda/time/chrono/AssembledChronology.dayOfWeek
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/field/DecoratedDateTimeField.getMaximumValue
+org/joda/time/DateTimeUtils.getChronology
+not matched

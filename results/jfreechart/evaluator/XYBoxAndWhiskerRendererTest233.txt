@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYBoxAndWhiskerRendererTest.testHashcode:117
+Methods call in assertion: [org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.equals]
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.getBoxWidth
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.getBoxWidth
+after post processing ......
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.getBoxWidth
+perfect match

@@ -1,0 +1,1649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1661784076477" clover="4.0.6">
+   <project timestamp="1661784069878" name="Apache Commons CLI 1.4">
+      <metrics conditionals="468" methods="253" classes="25" files="22" packages="1" coveredstatements="836" complexity="561" loc="6245" ncloc="2698" coveredmethods="229" coveredconditionals="352" statements="1009" coveredelements="1417" elements="1730"/>
+      <package name="org.apache.commons.cli">
+         <metrics classes="25" methods="253" conditionals="468" files="22" ncloc="2698" coveredstatements="836" coveredmethods="229" complexity="561" coveredconditionals="352" statements="1009" loc="6245" coveredelements="1417" elements="1730"/>
+         <file name="AlreadySelectedException.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/AlreadySelectedException.java">
+            <metrics classes="1" methods="4" conditionals="0" ncloc="26" coveredstatements="6" coveredmethods="4" complexity="4" coveredconditionals="0" statements="6" loc="87" coveredelements="10" elements="10"/>
+            <class name="AlreadySelectedException">
+               <metrics methods="4" conditionals="0" coveredstatements="6" coveredmethods="4" complexity="4" coveredconditionals="0" statements="6" coveredelements="10" elements="10"/>
+            </class>
+            <line num="45" count="2" visibility="public" complexity="1" type="method" signature="AlreadySelectedException(String)"/>
+            <line num="47" count="2" type="stmt"/>
+            <line num="58" count="2" visibility="public" complexity="1" type="method" signature="AlreadySelectedException(OptionGroup,Option)"/>
+            <line num="60" count="2" type="stmt"/>
+            <line num="62" count="2" type="stmt"/>
+            <line num="63" count="2" type="stmt"/>
+            <line num="72" count="4" visibility="public" complexity="1" type="method" signature="getOptionGroup() : OptionGroup"/>
+            <line num="74" count="4" type="stmt"/>
+            <line num="83" count="2" visibility="public" complexity="1" type="method" signature="getOption() : Option"/>
+            <line num="85" count="2" type="stmt"/>
+         </file>
+         <file name="AmbiguousOptionException.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/AmbiguousOptionException.java">
+            <metrics classes="1" methods="3" conditionals="4" ncloc="36" coveredstatements="0" coveredmethods="0" complexity="5" coveredconditionals="0" statements="15" loc="88" coveredelements="0" elements="22"/>
+            <class name="AmbiguousOptionException">
+               <metrics methods="3" conditionals="4" coveredstatements="0" coveredmethods="0" complexity="5" coveredconditionals="0" statements="15" coveredelements="0" elements="22"/>
+            </class>
+            <line num="45" count="0" visibility="public" complexity="1" type="method" signature="AmbiguousOptionException(String,Collection&lt;String&gt;)"/>
+            <line num="47" count="0" type="stmt"/>
+            <line num="48" count="0" type="stmt"/>
+            <line num="55" count="0" visibility="public" complexity="1" type="method" signature="getMatchingOptions() : Collection&lt;String&gt;"/>
+            <line num="57" count="0" type="stmt"/>
+            <line num="67" count="0" visibility="private" complexity="3" type="method" signature="createMessage(String,Collection&lt;String&gt;) : String"/>
+            <line num="69" count="0" type="stmt"/>
+            <line num="70" count="0" type="stmt"/>
+            <line num="71" count="0" type="stmt"/>
+            <line num="73" count="0" type="stmt"/>
+            <line num="74" count="0" type="stmt"/>
+            <line num="74" falsecount="0" type="cond" truecount="0"/>
+            <line num="76" count="0" type="stmt"/>
+            <line num="77" count="0" type="stmt"/>
+            <line num="78" count="0" type="stmt"/>
+            <line num="79" count="0" type="stmt"/>
+            <line num="79" falsecount="0" type="cond" truecount="0"/>
+            <line num="81" count="0" type="stmt"/>
+            <line num="84" count="0" type="stmt"/>
+            <line num="86" count="0" type="stmt"/>
+         </file>
+         <file name="BasicParser.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/BasicParser.java">
+            <metrics classes="1" methods="1" conditionals="0" ncloc="12" coveredstatements="0" coveredmethods="0" complexity="1" coveredconditionals="0" statements="1" loc="51" coveredelements="0" elements="2"/>
+            <class name="BasicParser">
+               <metrics methods="1" conditionals="0" coveredstatements="0" coveredmethods="0" complexity="1" coveredconditionals="0" statements="1" coveredelements="0" elements="2"/>
+            </class>
+            <line num="43" count="0" visibility="protected" complexity="1" type="method" signature="flatten(Options,String[],boolean) : String[]"/>
+            <line num="49" count="0" type="stmt"/>
+         </file>
+         <file name="CommandLine.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/CommandLine.java">
+            <metrics classes="2" methods="23" conditionals="20" ncloc="168" coveredstatements="55" coveredmethods="23" complexity="37" coveredconditionals="20" statements="55" loc="425" coveredelements="98" elements="98"/>
+            <class name="CommandLine">
+               <metrics methods="20" conditionals="20" coveredstatements="50" coveredmethods="20" complexity="34" coveredconditionals="20" statements="50" coveredelements="90" elements="90"/>
+            </class>
+            <class name="CommandLine.Builder">
+               <metrics methods="3" conditionals="0" coveredstatements="5" coveredmethods="3" complexity="3" coveredconditionals="0" statements="5" coveredelements="8" elements="8"/>
+            </class>
+            <line num="54" count="89" visibility="protected" complexity="1" type="method" signature="CommandLine()"/>
+            <line num="65" count="101" visibility="public" complexity="1" type="method" signature="hasOption(String) : boolean"/>
+            <line num="67" count="101" type="stmt"/>
+            <line num="76" count="11" visibility="public" complexity="1" type="method" signature="hasOption(char) : boolean"/>
+            <line num="78" count="11" type="stmt"/>
+            <line num="88" count="30" visibility="public" complexity="2" type="method" signature="getOptionObject(String) : Object"/>
+            <line num="91" count="30" type="stmt"/>
+            <line num="93" count="30" type="stmt"/>
+            <line num="97" count="5" type="stmt"/>
+            <line num="98" count="5" type="stmt"/>
+            <line num="111" count="32" visibility="public" complexity="3" type="method" signature="getParsedOptionValue(String) : Object"/>
+            <line num="113" count="32" type="stmt"/>
+            <line num="114" count="32" type="stmt"/>
+            <line num="116" count="32" type="stmt"/>
+            <line num="116" falsecount="29" type="cond" truecount="3"/>
+            <line num="118" count="3" type="stmt"/>
+            <line num="121" count="29" type="stmt"/>
+            <line num="130" count="11" visibility="public" complexity="1" type="method" signature="getOptionObject(char) : Object"/>
+            <line num="132" count="11" type="stmt"/>
+            <line num="142" count="80" visibility="public" complexity="2" type="method" signature="getOptionValue(String) : String"/>
+            <line num="144" count="80" type="stmt"/>
+            <line num="146" count="80" type="stmt"/>
+            <line num="146" falsecount="69" type="cond" truecount="11"/>
+            <line num="156" count="9" visibility="public" complexity="1" type="method" signature="getOptionValue(char) : String"/>
+            <line num="158" count="9" type="stmt"/>
+            <line num="168" count="104" visibility="public" complexity="4" type="method" signature="getOptionValues(String) : String[]"/>
+            <line num="170" count="104" type="stmt"/>
+            <line num="172" count="104" type="stmt"/>
+            <line num="174" count="523" type="stmt"/>
+            <line num="174" falsecount="414" type="cond" truecount="109"/>
+            <line num="176" count="109" type="stmt"/>
+            <line num="180" count="104" type="stmt"/>
+            <line num="180" falsecount="91" type="cond" truecount="13"/>
+            <line num="189" count="133" visibility="private" complexity="3" type="method" signature="resolveOption(String) : Option"/>
+            <line num="191" count="133" type="stmt"/>
+            <line num="192" count="133" type="stmt"/>
+            <line num="194" count="347" type="stmt"/>
+            <line num="194" falsecount="260" type="cond" truecount="87"/>
+            <line num="196" count="87" type="stmt"/>
+            <line num="199" count="260" type="stmt"/>
+            <line num="199" falsecount="251" type="cond" truecount="9"/>
+            <line num="201" count="9" type="stmt"/>
+            <line num="205" count="37" type="stmt"/>
+            <line num="215" count="5" visibility="public" complexity="1" type="method" signature="getOptionValues(char) : String[]"/>
+            <line num="217" count="5" type="stmt"/>
+            <line num="229" count="3" visibility="public" complexity="2" type="method" signature="getOptionValue(String,String) : String"/>
+            <line num="231" count="3" type="stmt"/>
+            <line num="233" count="3" type="stmt"/>
+            <line num="233" falsecount="2" type="cond" truecount="1"/>
+            <line num="245" count="1" visibility="public" complexity="1" type="method" signature="getOptionValue(char,String) : String"/>
+            <line num="247" count="1" type="stmt"/>
+            <line num="263" count="2" visibility="public" complexity="5" type="method" signature="getOptionProperties(String) : Properties"/>
+            <line num="265" count="2" type="stmt"/>
+            <line num="267" count="2" type="stmt"/>
+            <line num="269" count="12" type="stmt"/>
+            <line num="269" falsecount="6" type="cond" truecount="6"/>
+            <line num="271" count="6" type="stmt"/>
+            <line num="272" count="6" type="stmt"/>
+            <line num="272" falsecount="2" type="cond" truecount="4"/>
+            <line num="275" count="4" type="stmt"/>
+            <line num="277" count="2" type="stmt"/>
+            <line num="277" falsecount="1" type="cond" truecount="1"/>
+            <line num="280" count="1" type="stmt"/>
+            <line num="285" count="2" type="stmt"/>
+            <line num="293" count="13" visibility="public" complexity="1" type="method" signature="getArgs() : String[]"/>
+            <line num="295" count="13" type="stmt"/>
+            <line num="297" count="13" type="stmt"/>
+            <line num="299" count="13" type="stmt"/>
+            <line num="307" count="8" visibility="public" complexity="1" type="method" signature="getArgList() : List&lt;String&gt;"/>
+            <line num="309" count="8" type="stmt"/>
+            <line num="339" count="31" visibility="protected" complexity="1" type="method" signature="addArg(String) : void"/>
+            <line num="341" count="31" type="stmt"/>
+            <line num="349" count="263" visibility="protected" complexity="1" type="method" signature="addOption(Option) : void"/>
+            <line num="351" count="263" type="stmt"/>
+            <line num="360" count="1" visibility="public" complexity="1" type="method" signature="iterator() : Iterator&lt;Option&gt;"/>
+            <line num="362" count="1" type="stmt"/>
+            <line num="370" count="4" visibility="public" complexity="1" type="method" signature="getOptions() : Option[]"/>
+            <line num="372" count="4" type="stmt"/>
+            <line num="375" count="4" type="stmt"/>
+            <line num="378" count="4" type="stmt"/>
+            <line num="401" count="1" visibility="public" complexity="1" type="method" signature="addOption(Option) : Builder"/>
+            <line num="403" count="1" type="stmt"/>
+            <line num="404" count="1" type="stmt"/>
+            <line num="414" count="2" visibility="public" complexity="1" type="method" signature="addArg(String) : Builder"/>
+            <line num="416" count="2" type="stmt"/>
+            <line num="417" count="2" type="stmt"/>
+            <line num="420" count="1" visibility="public" complexity="1" type="method" signature="build() : CommandLine"/>
+            <line num="422" count="1" type="stmt"/>
+         </file>
+         <file name="CommandLineParser.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/CommandLineParser.java">
+            <metrics classes="1" methods="0" conditionals="0" ncloc="6" coveredstatements="0" coveredmethods="0" complexity="0" coveredconditionals="0" statements="0" loc="98" coveredelements="0" elements="0"/>
+            <class name="CommandLineParser">
+               <metrics methods="0" conditionals="0" coveredstatements="0" coveredmethods="0" complexity="0" coveredconditionals="0" statements="0" coveredelements="0" elements="0"/>
+            </class>
+         </file>
+         <file name="DefaultParser.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/DefaultParser.java">
+            <metrics classes="1" methods="23" conditionals="102" ncloc="406" coveredstatements="86" coveredmethods="18" complexity="93" coveredconditionals="42" statements="175" loc="707" coveredelements="146" elements="300"/>
+            <class name="DefaultParser">
+               <metrics methods="23" conditionals="102" coveredstatements="86" coveredmethods="18" complexity="93" coveredconditionals="42" statements="175" coveredelements="146" elements="300"/>
+            </class>
+            <line num="58" count="4" visibility="public" complexity="1" type="method" signature="parse(Options,String[]) : CommandLine"/>
+            <line num="60" count="4" type="stmt"/>
+            <line num="74" count="4" visibility="public" complexity="1" type="method" signature="parse(Options,String[],Properties) : CommandLine"/>
+            <line num="76" count="4" type="stmt"/>
+            <line num="79" count="0" visibility="public" complexity="1" type="method" signature="parse(Options,String[],boolean) : CommandLine"/>
+            <line num="81" count="0" type="stmt"/>
+            <line num="99" count="4" visibility="public" complexity="2" type="method" signature="parse(Options,String[],Properties,boolean) : CommandLine"/>
+            <line num="102" count="4" type="stmt"/>
+            <line num="103" count="4" type="stmt"/>
+            <line num="104" count="4" type="stmt"/>
+            <line num="105" count="4" type="stmt"/>
+            <line num="106" count="4" type="stmt"/>
+            <line num="109" count="4" type="stmt"/>
+            <line num="111" count="0" type="stmt"/>
+            <line num="114" count="4" type="stmt"/>
+            <line num="116" count="4" type="stmt"/>
+            <line num="116" falsecount="0" type="cond" truecount="4"/>
+            <line num="118" count="4" type="stmt"/>
+            <line num="120" count="10" type="stmt"/>
+            <line num="125" count="4" type="stmt"/>
+            <line num="128" count="4" type="stmt"/>
+            <line num="130" count="4" type="stmt"/>
+            <line num="132" count="4" type="stmt"/>
+            <line num="140" count="4" visibility="private" complexity="12" type="method" signature="handleProperties(Properties) : void"/>
+            <line num="142" count="4" type="stmt"/>
+            <line num="142" falsecount="0" type="cond" truecount="4"/>
+            <line num="144" count="4" type="stmt"/>
+            <line num="147" count="0" type="stmt"/>
+            <line num="147" falsecount="0" type="cond" truecount="0"/>
+            <line num="149" count="0" type="stmt"/>
+            <line num="151" count="0" type="stmt"/>
+            <line num="152" count="0" type="stmt"/>
+            <line num="152" falsecount="0" type="cond" truecount="0"/>
+            <line num="154" count="0" type="stmt"/>
+            <line num="158" count="0" type="stmt"/>
+            <line num="159" count="0" type="stmt"/>
+            <line num="161" count="0" type="stmt"/>
+            <line num="161" falsecount="0" type="cond" truecount="0"/>
+            <line num="164" count="0" type="stmt"/>
+            <line num="166" count="0" type="stmt"/>
+            <line num="166" falsecount="0" type="cond" truecount="0"/>
+            <line num="168" count="0" type="stmt"/>
+            <line num="168" falsecount="0" type="cond" truecount="0"/>
+            <line num="170" count="0" type="stmt"/>
+            <line num="173" count="0" type="stmt"/>
+            <line num="173" falsecount="0" type="cond" truecount="0"/>
+            <line num="178" count="0" type="stmt"/>
+            <line num="181" count="0" type="stmt"/>
+            <line num="182" count="0" type="stmt"/>
+            <line num="194" count="4" visibility="private" complexity="2" type="method" signature="checkRequiredOptions() : void"/>
+            <line num="197" count="4" type="stmt"/>
+            <line num="197" falsecount="4" type="cond" truecount="0"/>
+            <line num="199" count="0" type="stmt"/>
+            <line num="207" count="12" visibility="private" complexity="3" type="method" signature="checkRequiredArgs() : void"/>
+            <line num="209" count="12" type="stmt"/>
+            <line num="209" falsecount="12" type="cond" truecount="0"/>
+            <line num="211" count="0" type="stmt"/>
+            <line num="221" count="10" visibility="private" complexity="11" type="method" signature="handleToken(String) : void"/>
+            <line num="223" count="10" type="stmt"/>
+            <line num="225" count="10" type="stmt"/>
+            <line num="225" falsecount="10" type="cond" truecount="0"/>
+            <line num="227" count="0" type="stmt"/>
+            <line num="229" count="10" type="stmt"/>
+            <line num="229" falsecount="10" type="cond" truecount="0"/>
+            <line num="231" count="0" type="stmt"/>
+            <line num="233" count="10" type="stmt"/>
+            <line num="233" falsecount="7" type="cond" truecount="3"/>
+            <line num="235" count="3" type="stmt"/>
+            <line num="237" count="7" type="stmt"/>
+            <line num="237" falsecount="7" type="cond" truecount="0"/>
+            <line num="239" count="0" type="stmt"/>
+            <line num="241" count="7" type="stmt"/>
+            <line num="241" falsecount="0" type="cond" truecount="7"/>
+            <line num="243" count="7" type="stmt"/>
+            <line num="247" count="0" type="stmt"/>
+            <line num="250" count="10" type="stmt"/>
+            <line num="250" falsecount="7" type="cond" truecount="3"/>
+            <line num="252" count="3" type="stmt"/>
+            <line num="261" count="5" visibility="private" complexity="1" type="method" signature="isArgument(String) : boolean"/>
+            <line num="263" count="5" type="stmt"/>
+            <line num="271" count="2" visibility="private" complexity="2" type="method" signature="isNegativeNumber(String) : boolean"/>
+            <line num="273" count="2" type="stmt"/>
+            <line num="275" count="2" type="stmt"/>
+            <line num="276" count="0" type="stmt"/>
+            <line num="280" count="2" type="stmt"/>
+            <line num="289" count="5" visibility="private" complexity="1" type="method" signature="isOption(String) : boolean"/>
+            <line num="291" count="5" type="stmt"/>
+            <line num="299" count="5" visibility="private" complexity="5" type="method" signature="isShortOption(String) : boolean"/>
+            <line num="302" count="5" type="stmt"/>
+            <line num="302" falsecount="2" type="cond" truecount="3"/>
+            <line num="304" count="3" type="stmt"/>
+            <line num="308" count="2" type="stmt"/>
+            <line num="309" count="2" type="stmt"/>
+            <line num="309" falsecount="0" type="cond" truecount="2"/>
+            <line num="310" count="2" type="stmt"/>
+            <line num="310" falsecount="1" type="cond" truecount="1"/>
+            <line num="312" count="1" type="stmt"/>
+            <line num="315" count="1" type="stmt"/>
+            <line num="323" count="5" visibility="private" complexity="7" type="method" signature="isLongOption(String) : boolean"/>
+            <line num="325" count="5" type="stmt"/>
+            <line num="325" falsecount="2" type="cond" truecount="3"/>
+            <line num="327" count="3" type="stmt"/>
+            <line num="330" count="2" type="stmt"/>
+            <line num="331" count="2" type="stmt"/>
+            <line num="331" falsecount="0" type="cond" truecount="2"/>
+            <line num="333" count="2" type="stmt"/>
+            <line num="333" falsecount="2" type="cond" truecount="0"/>
+            <line num="336" count="0" type="stmt"/>
+            <line num="338" count="2" type="stmt"/>
+            <line num="338" falsecount="2" type="cond" truecount="0"/>
+            <line num="341" count="0" type="stmt"/>
+            <line num="344" count="2" type="stmt"/>
+            <line num="356" count="0" visibility="private" complexity="5" type="method" signature="handleUnknownToken(String) : void"/>
+            <line num="358" count="0" type="stmt"/>
+            <line num="358" falsecount="0" type="cond" truecount="0"/>
+            <line num="360" count="0" type="stmt"/>
+            <line num="363" count="0" type="stmt"/>
+            <line num="364" count="0" type="stmt"/>
+            <line num="364" falsecount="0" type="cond" truecount="0"/>
+            <line num="366" count="0" type="stmt"/>
+            <line num="380" count="0" visibility="private" complexity="2" type="method" signature="handleLongOption(String) : void"/>
+            <line num="382" count="0" type="stmt"/>
+            <line num="382" falsecount="0" type="cond" truecount="0"/>
+            <line num="384" count="0" type="stmt"/>
+            <line num="388" count="0" type="stmt"/>
+            <line num="402" count="0" visibility="private" complexity="3" type="method" signature="handleLongOptionWithoutEqual(String) : void"/>
+            <line num="404" count="0" type="stmt"/>
+            <line num="405" count="0" type="stmt"/>
+            <line num="405" falsecount="0" type="cond" truecount="0"/>
+            <line num="407" count="0" type="stmt"/>
+            <line num="409" count="0" type="stmt"/>
+            <line num="409" falsecount="0" type="cond" truecount="0"/>
+            <line num="411" count="0" type="stmt"/>
+            <line num="415" count="0" type="stmt"/>
+            <line num="429" count="0" visibility="private" complexity="4" type="method" signature="handleLongOptionWithEqual(String) : void"/>
+            <line num="431" count="0" type="stmt"/>
+            <line num="433" count="0" type="stmt"/>
+            <line num="435" count="0" type="stmt"/>
+            <line num="437" count="0" type="stmt"/>
+            <line num="438" count="0" type="stmt"/>
+            <line num="438" falsecount="0" type="cond" truecount="0"/>
+            <line num="440" count="0" type="stmt"/>
+            <line num="442" count="0" type="stmt"/>
+            <line num="442" falsecount="0" type="cond" truecount="0"/>
+            <line num="444" count="0" type="stmt"/>
+            <line num="448" count="0" type="stmt"/>
+            <line num="450" count="0" type="stmt"/>
+            <line num="450" falsecount="0" type="cond" truecount="0"/>
+            <line num="452" count="0" type="stmt"/>
+            <line num="453" count="0" type="stmt"/>
+            <line num="454" count="0" type="stmt"/>
+            <line num="458" count="0" type="stmt"/>
+            <line num="482" count="7" visibility="private" complexity="13" type="method" signature="handleShortAndLongOption(String) : void"/>
+            <line num="484" count="7" type="stmt"/>
+            <line num="486" count="7" type="stmt"/>
+            <line num="488" count="7" type="stmt"/>
+            <line num="488" falsecount="5" type="cond" truecount="2"/>
+            <line num="491" count="2" type="stmt"/>
+            <line num="491" falsecount="0" type="cond" truecount="2"/>
+            <line num="493" count="2" type="stmt"/>
+            <line num="497" count="0" type="stmt"/>
+            <line num="500" count="5" type="stmt"/>
+            <line num="500" falsecount="0" type="cond" truecount="5"/>
+            <line num="503" count="5" type="stmt"/>
+            <line num="503" falsecount="1" type="cond" truecount="4"/>
+            <line num="505" count="4" type="stmt"/>
+            <line num="507" count="1" type="stmt"/>
+            <line num="507" falsecount="1" type="cond" truecount="0"/>
+            <line num="510" count="0" type="stmt"/>
+            <line num="515" count="1" type="stmt"/>
+            <line num="517" count="1" type="stmt"/>
+            <line num="517" falsecount="1" type="cond" truecount="0"/>
+            <line num="519" count="0" type="stmt"/>
+            <line num="520" count="0" type="stmt"/>
+            <line num="521" count="0" type="stmt"/>
+            <line num="523" count="1" type="stmt"/>
+            <line num="523" falsecount="1" type="cond" truecount="0"/>
+            <line num="526" count="0" type="stmt"/>
+            <line num="527" count="0" type="stmt"/>
+            <line num="528" count="0" type="stmt"/>
+            <line num="533" count="1" type="stmt"/>
+            <line num="540" count="0" type="stmt"/>
+            <line num="541" count="0" type="stmt"/>
+            <line num="543" count="0" type="stmt"/>
+            <line num="543" falsecount="0" type="cond" truecount="0"/>
+            <line num="546" count="0" type="stmt"/>
+            <line num="547" count="0" type="stmt"/>
+            <line num="547" falsecount="0" type="cond" truecount="0"/>
+            <line num="549" count="0" type="stmt"/>
+            <line num="550" count="0" type="stmt"/>
+            <line num="551" count="0" type="stmt"/>
+            <line num="555" count="0" type="stmt"/>
+            <line num="558" count="0" type="stmt"/>
+            <line num="558" falsecount="0" type="cond" truecount="0"/>
+            <line num="561" count="0" type="stmt"/>
+            <line num="562" count="0" type="stmt"/>
+            <line num="563" count="0" type="stmt"/>
+            <line num="564" count="0" type="stmt"/>
+            <line num="569" count="0" type="stmt"/>
+            <line num="579" count="3" visibility="private" complexity="3" type="method" signature="getLongPrefix(String) : String"/>
+            <line num="581" count="3" type="stmt"/>
+            <line num="583" count="3" type="stmt"/>
+            <line num="584" count="3" type="stmt"/>
+            <line num="585" count="3" type="stmt"/>
+            <line num="585" falsecount="3" type="cond" truecount="1"/>
+            <line num="587" count="1" type="stmt"/>
+            <line num="588" count="1" type="stmt"/>
+            <line num="588" falsecount="1" type="cond" truecount="0"/>
+            <line num="590" count="0" type="stmt"/>
+            <line num="591" count="0" type="stmt"/>
+            <line num="595" count="3" type="stmt"/>
+            <line num="601" count="1" visibility="private" complexity="1" type="method" signature="isJavaProperty(String) : boolean"/>
+            <line num="603" count="1" type="stmt"/>
+            <line num="604" count="1" type="stmt"/>
+            <line num="606" count="1" type="stmt"/>
+            <line num="609" count="8" visibility="private" complexity="2" type="method" signature="handleOption(Option) : void"/>
+            <line num="612" count="8" type="stmt"/>
+            <line num="614" count="8" type="stmt"/>
+            <line num="616" count="8" type="stmt"/>
+            <line num="618" count="8" type="stmt"/>
+            <line num="620" count="8" type="stmt"/>
+            <line num="620" falsecount="3" type="cond" truecount="5"/>
+            <line num="622" count="5" type="stmt"/>
+            <line num="626" count="3" type="stmt"/>
+            <line num="635" count="8" visibility="private" complexity="4" type="method" signature="updateRequiredOptions(Option) : void"/>
+            <line num="637" count="8" type="stmt"/>
+            <line num="637" falsecount="8" type="cond" truecount="0"/>
+            <line num="639" count="0" type="stmt"/>
+            <line num="643" count="8" type="stmt"/>
+            <line num="643" falsecount="8" type="cond" truecount="0"/>
+            <line num="645" count="0" type="stmt"/>
+            <line num="647" count="0" type="stmt"/>
+            <line num="647" falsecount="0" type="cond" truecount="0"/>
+            <line num="649" count="0" type="stmt"/>
+            <line num="652" count="0" type="stmt"/>
+            <line num="683" count="1" visibility="protected" complexity="7" type="method" signature="handleConcatenatedOptions(String) : void"/>
+            <line num="685" count="1" type="stmt"/>
+            <line num="685" falsecount="1" type="cond" truecount="2"/>
+            <line num="687" count="2" type="stmt"/>
+            <line num="689" count="2" type="stmt"/>
+            <line num="689" falsecount="0" type="cond" truecount="2"/>
+            <line num="691" count="2" type="stmt"/>
+            <line num="693" count="2" type="stmt"/>
+            <line num="693" falsecount="2" type="cond" truecount="0"/>
+            <line num="696" count="0" type="stmt"/>
+            <line num="697" count="0" type="stmt"/>
+            <line num="702" count="0" type="stmt"/>
+            <line num="702" falsecount="0" type="cond" truecount="0"/>
+            <line num="703" count="0" type="stmt"/>
+         </file>
+         <file name="GnuParser.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/GnuParser.java">
+            <metrics classes="1" methods="1" conditionals="18" ncloc="64" coveredstatements="21" coveredmethods="1" complexity="11" coveredconditionals="15" statements="26" loc="115" coveredelements="37" elements="45"/>
+            <class name="GnuParser">
+               <metrics methods="1" conditionals="18" coveredstatements="21" coveredmethods="1" complexity="11" coveredconditionals="15" statements="26" coveredelements="37" elements="45"/>
+            </class>
+            <line num="50" count="6" visibility="protected" complexity="11" type="method" signature="flatten(Options,String[],boolean) : String[]"/>
+            <line num="53" count="6" type="stmt"/>
+            <line num="55" count="6" type="stmt"/>
+            <line num="57" count="6" type="stmt"/>
+            <line num="57" falsecount="6" type="cond" truecount="20"/>
+            <line num="59" count="20" type="stmt"/>
+            <line num="61" count="20" type="stmt"/>
+            <line num="61" falsecount="20" type="cond" truecount="0"/>
+            <line num="63" count="0" type="stmt"/>
+            <line num="64" count="0" type="stmt"/>
+            <line num="66" count="20" type="stmt"/>
+            <line num="66" falsecount="20" type="cond" truecount="0"/>
+            <line num="68" count="0" type="stmt"/>
+            <line num="70" count="20" type="stmt"/>
+            <line num="70" falsecount="3" type="cond" truecount="17"/>
+            <line num="72" count="17" type="stmt"/>
+            <line num="74" count="17" type="stmt"/>
+            <line num="74" falsecount="7" type="cond" truecount="10"/>
+            <line num="76" count="10" type="stmt"/>
+            <line num="80" count="7" type="stmt"/>
+            <line num="80" falsecount="7" type="cond" truecount="0"/>
+            <line num="83" count="0" type="stmt"/>
+            <line num="84" count="0" type="stmt"/>
+            <line num="86" count="7" type="stmt"/>
+            <line num="86" falsecount="1" type="cond" truecount="6"/>
+            <line num="89" count="6" type="stmt"/>
+            <line num="90" count="6" type="stmt"/>
+            <line num="94" count="1" type="stmt"/>
+            <line num="95" count="1" type="stmt"/>
+            <line num="101" count="3" type="stmt"/>
+            <line num="104" count="20" type="stmt"/>
+            <line num="104" falsecount="19" type="cond" truecount="1"/>
+            <line num="106" count="1" type="stmt"/>
+            <line num="106" falsecount="1" type="cond" truecount="1"/>
+            <line num="108" count="1" type="stmt"/>
+            <line num="113" count="6" type="stmt"/>
+         </file>
+         <file name="HelpFormatter.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/HelpFormatter.java">
+            <metrics classes="2" methods="42" conditionals="94" ncloc="462" coveredstatements="169" coveredmethods="38" complexity="103" coveredconditionals="87" statements="174" loc="1094" coveredelements="294" elements="310"/>
+            <class name="HelpFormatter">
+               <metrics methods="41" conditionals="94" coveredstatements="168" coveredmethods="37" complexity="102" coveredconditionals="87" statements="173" coveredelements="292" elements="308"/>
+            </class>
+            <class name="HelpFormatter.OptionComparator">
+               <metrics methods="1" conditionals="0" coveredstatements="1" coveredmethods="1" complexity="1" coveredconditionals="0" statements="1" coveredelements="2" elements="2"/>
+            </class>
+            <line num="195" count="1" visibility="public" complexity="1" type="method" signature="setWidth(int) : void"/>
+            <line num="197" count="1" type="stmt"/>
+            <line num="205" count="4" visibility="public" complexity="1" type="method" signature="getWidth() : int"/>
+            <line num="207" count="4" type="stmt"/>
+            <line num="215" count="1" visibility="public" complexity="1" type="method" signature="setLeftPadding(int) : void"/>
+            <line num="217" count="1" type="stmt"/>
+            <line num="225" count="4" visibility="public" complexity="1" type="method" signature="getLeftPadding() : int"/>
+            <line num="227" count="4" type="stmt"/>
+            <line num="235" count="1" visibility="public" complexity="1" type="method" signature="setDescPadding(int) : void"/>
+            <line num="237" count="1" type="stmt"/>
+            <line num="245" count="4" visibility="public" complexity="1" type="method" signature="getDescPadding() : int"/>
+            <line num="247" count="4" type="stmt"/>
+            <line num="255" count="1" visibility="public" complexity="1" type="method" signature="setSyntaxPrefix(String) : void"/>
+            <line num="257" count="1" type="stmt"/>
+            <line num="265" count="29" visibility="public" complexity="1" type="method" signature="getSyntaxPrefix() : String"/>
+            <line num="267" count="29" type="stmt"/>
+            <line num="275" count="1" visibility="public" complexity="1" type="method" signature="setNewLine(String) : void"/>
+            <line num="277" count="1" type="stmt"/>
+            <line num="285" count="150" visibility="public" complexity="1" type="method" signature="getNewLine() : String"/>
+            <line num="287" count="150" type="stmt"/>
+            <line num="295" count="1" visibility="public" complexity="1" type="method" signature="setOptPrefix(String) : void"/>
+            <line num="297" count="1" type="stmt"/>
+            <line num="305" count="69" visibility="public" complexity="1" type="method" signature="getOptPrefix() : String"/>
+            <line num="307" count="69" type="stmt"/>
+            <line num="315" count="1" visibility="public" complexity="1" type="method" signature="setLongOptPrefix(String) : void"/>
+            <line num="317" count="1" type="stmt"/>
+            <line num="325" count="67" visibility="public" complexity="1" type="method" signature="getLongOptPrefix() : String"/>
+            <line num="327" count="67" type="stmt"/>
+            <line num="338" count="2" visibility="public" complexity="1" type="method" signature="setLongOptSeparator(String) : void"/>
+            <line num="340" count="2" type="stmt"/>
+            <line num="349" count="2" visibility="public" complexity="1" type="method" signature="getLongOptSeparator() : String"/>
+            <line num="351" count="2" type="stmt"/>
+            <line num="359" count="2" visibility="public" complexity="1" type="method" signature="setArgName(String) : void"/>
+            <line num="361" count="2" type="stmt"/>
+            <line num="369" count="43" visibility="public" complexity="1" type="method" signature="getArgName() : String"/>
+            <line num="371" count="43" type="stmt"/>
+            <line num="381" count="64" visibility="public" complexity="1" type="method" signature="getOptionComparator() : Comparator&lt;Option&gt;"/>
+            <line num="383" count="64" type="stmt"/>
+            <line num="393" count="2" visibility="public" complexity="1" type="method" signature="setOptionComparator(Comparator&lt;Option&gt;) : void"/>
+            <line num="395" count="2" type="stmt"/>
+            <line num="406" count="3" visibility="public" complexity="1" type="method" signature="printHelp(String,Options) : void"/>
+            <line num="408" count="3" type="stmt"/>
+            <line num="421" count="0" visibility="public" complexity="1" type="method" signature="printHelp(String,Options,boolean) : void"/>
+            <line num="423" count="0" type="stmt"/>
+            <line num="436" count="0" visibility="public" complexity="1" type="method" signature="printHelp(String,String,Options,String) : void"/>
+            <line num="438" count="0" type="stmt"/>
+            <line num="453" count="0" visibility="public" complexity="1" type="method" signature="printHelp(String,String,Options,String,boolean) : void"/>
+            <line num="455" count="0" type="stmt"/>
+            <line num="469" count="0" visibility="public" complexity="1" type="method" signature="printHelp(int,String,String,Options,String) : void"/>
+            <line num="471" count="0" type="stmt"/>
+            <line num="487" count="3" visibility="public" complexity="1" type="method" signature="printHelp(int,String,String,Options,String,boolean) : void"/>
+            <line num="490" count="3" type="stmt"/>
+            <line num="492" count="3" type="stmt"/>
+            <line num="493" count="1" type="stmt"/>
+            <line num="513" count="5" visibility="public" complexity="1" type="method" signature="printHelp(PrintWriter,int,String,String,Options,int,int,String) : void"/>
+            <line num="517" count="5" type="stmt"/>
+            <line num="540" count="13" visibility="public" complexity="8" type="method" signature="printHelp(PrintWriter,int,String,String,Options,int,int,String,boolean) : void"/>
+            <line num="544" count="13" type="stmt"/>
+            <line num="544" falsecount="11" type="cond" truecount="2"/>
+            <line num="546" count="2" type="stmt"/>
+            <line num="549" count="11" type="stmt"/>
+            <line num="549" falsecount="7" type="cond" truecount="4"/>
+            <line num="551" count="4" type="stmt"/>
+            <line num="555" count="7" type="stmt"/>
+            <line num="558" count="11" type="stmt"/>
+            <line num="558" falsecount="5" type="cond" truecount="6"/>
+            <line num="560" count="6" type="stmt"/>
+            <line num="563" count="11" type="stmt"/>
+            <line num="565" count="11" type="stmt"/>
+            <line num="565" falsecount="5" type="cond" truecount="6"/>
+            <line num="567" count="6" type="stmt"/>
+            <line num="579" count="14" visibility="public" complexity="6" type="method" signature="printUsage(PrintWriter,int,String,Options) : void"/>
+            <line num="582" count="14" type="stmt"/>
+            <line num="585" count="14" type="stmt"/>
+            <line num="587" count="14" type="stmt"/>
+            <line num="588" count="14" type="stmt"/>
+            <line num="588" falsecount="1" type="cond" truecount="13"/>
+            <line num="590" count="13" type="stmt"/>
+            <line num="593" count="14" type="stmt"/>
+            <line num="593" falsecount="14" type="cond" truecount="35"/>
+            <line num="596" count="35" type="stmt"/>
+            <line num="599" count="35" type="stmt"/>
+            <line num="602" count="35" type="stmt"/>
+            <line num="602" falsecount="29" type="cond" truecount="6"/>
+            <line num="605" count="6" type="stmt"/>
+            <line num="605" falsecount="4" type="cond" truecount="2"/>
+            <line num="608" count="2" type="stmt"/>
+            <line num="612" count="2" type="stmt"/>
+            <line num="622" count="29" type="stmt"/>
+            <line num="625" count="35" type="stmt"/>
+            <line num="625" falsecount="12" type="cond" truecount="23"/>
+            <line num="627" count="23" type="stmt"/>
+            <line num="633" count="14" type="stmt"/>
+            <line num="644" count="2" visibility="private" complexity="6" type="method" signature="appendOptionGroup(StringBuffer,OptionGroup) : void"/>
+            <line num="646" count="2" type="stmt"/>
+            <line num="646" falsecount="1" type="cond" truecount="1"/>
+            <line num="648" count="1" type="stmt"/>
+            <line num="651" count="2" type="stmt"/>
+            <line num="652" count="2" type="stmt"/>
+            <line num="652" falsecount="0" type="cond" truecount="2"/>
+            <line num="654" count="2" type="stmt"/>
+            <line num="657" count="2" type="stmt"/>
+            <line num="657" falsecount="2" type="cond" truecount="6"/>
+            <line num="660" count="6" type="stmt"/>
+            <line num="662" count="6" type="stmt"/>
+            <line num="662" falsecount="2" type="cond" truecount="4"/>
+            <line num="664" count="4" type="stmt"/>
+            <line num="668" count="2" type="stmt"/>
+            <line num="668" falsecount="1" type="cond" truecount="1"/>
+            <line num="670" count="1" type="stmt"/>
+            <line num="681" count="35" visibility="private" complexity="9" type="method" signature="appendOption(StringBuffer,Option,boolean) : void"/>
+            <line num="683" count="35" type="stmt"/>
+            <line num="683" falsecount="8" type="cond" truecount="27"/>
+            <line num="685" count="27" type="stmt"/>
+            <line num="688" count="35" type="stmt"/>
+            <line num="688" falsecount="3" type="cond" truecount="32"/>
+            <line num="690" count="32" type="stmt"/>
+            <line num="694" count="3" type="stmt"/>
+            <line num="698" count="35" type="stmt"/>
+            <line num="698" falsecount="26" type="cond" truecount="9"/>
+            <line num="700" count="9" type="stmt"/>
+            <line num="700" falsecount="7" type="cond" truecount="2"/>
+            <line num="701" count="9" type="stmt"/>
+            <line num="701" falsecount="8" type="cond" truecount="1"/>
+            <line num="705" count="35" type="stmt"/>
+            <line num="705" falsecount="8" type="cond" truecount="27"/>
+            <line num="707" count="27" type="stmt"/>
+            <line num="719" count="7" visibility="public" complexity="1" type="method" signature="printUsage(PrintWriter,int,String) : void"/>
+            <line num="721" count="7" type="stmt"/>
+            <line num="723" count="7" type="stmt"/>
+            <line num="738" count="11" visibility="public" complexity="1" type="method" signature="printOptions(PrintWriter,int,Options,int,int) : void"/>
+            <line num="741" count="11" type="stmt"/>
+            <line num="743" count="11" type="stmt"/>
+            <line num="744" count="11" type="stmt"/>
+            <line num="754" count="12" visibility="public" complexity="1" type="method" signature="printWrapped(PrintWriter,int,String) : void"/>
+            <line num="756" count="12" type="stmt"/>
+            <line num="767" count="33" visibility="public" complexity="1" type="method" signature="printWrapped(PrintWriter,int,int,String) : void"/>
+            <line num="769" count="33" type="stmt"/>
+            <line num="771" count="33" type="stmt"/>
+            <line num="772" count="33" type="stmt"/>
+            <line num="791" count="16" visibility="protected" complexity="14" type="method" signature="renderOptions(StringBuffer,int,Options,int,int) : StringBuffer"/>
+            <line num="793" count="16" type="stmt"/>
+            <line num="794" count="16" type="stmt"/>
+            <line num="800" count="16" type="stmt"/>
+            <line num="801" count="16" type="stmt"/>
+            <line num="803" count="16" type="stmt"/>
+            <line num="805" count="16" type="stmt"/>
+            <line num="805" falsecount="0" type="cond" truecount="16"/>
+            <line num="807" count="16" type="stmt"/>
+            <line num="810" count="16" type="stmt"/>
+            <line num="812" count="72" type="stmt"/>
+            <line num="814" count="72" type="stmt"/>
+            <line num="814" falsecount="68" type="cond" truecount="4"/>
+            <line num="816" count="4" type="stmt"/>
+            <line num="820" count="68" type="stmt"/>
+            <line num="822" count="68" type="stmt"/>
+            <line num="822" falsecount="6" type="cond" truecount="62"/>
+            <line num="824" count="62" type="stmt"/>
+            <line num="828" count="72" type="stmt"/>
+            <line num="828" falsecount="37" type="cond" truecount="35"/>
+            <line num="830" count="35" type="stmt"/>
+            <line num="831" count="35" type="stmt"/>
+            <line num="831" falsecount="35" type="cond" truecount="0"/>
+            <line num="834" count="0" type="stmt"/>
+            <line num="838" count="35" type="stmt"/>
+            <line num="838" falsecount="2" type="cond" truecount="33"/>
+            <line num="839" count="35" type="stmt"/>
+            <line num="839" falsecount="34" type="cond" truecount="1"/>
+            <line num="843" count="72" type="stmt"/>
+            <line num="844" count="72" type="stmt"/>
+            <line num="844" falsecount="45" type="cond" truecount="27"/>
+            <line num="847" count="16" type="stmt"/>
+            <line num="849" count="16" type="stmt"/>
+            <line num="849" falsecount="16" type="cond" truecount="72"/>
+            <line num="851" count="72" type="stmt"/>
+            <line num="852" count="72" type="stmt"/>
+            <line num="854" count="72" type="stmt"/>
+            <line num="854" falsecount="17" type="cond" truecount="55"/>
+            <line num="856" count="55" type="stmt"/>
+            <line num="859" count="72" type="stmt"/>
+            <line num="861" count="72" type="stmt"/>
+            <line num="863" count="72" type="stmt"/>
+            <line num="863" falsecount="0" type="cond" truecount="72"/>
+            <line num="865" count="72" type="stmt"/>
+            <line num="868" count="72" type="stmt"/>
+            <line num="870" count="72" type="stmt"/>
+            <line num="870" falsecount="14" type="cond" truecount="58"/>
+            <line num="872" count="58" type="stmt"/>
+            <line num="876" count="16" type="stmt"/>
+            <line num="890" count="114" visibility="protected" complexity="6" type="method" signature="renderWrappedText(StringBuffer,int,int,String) : StringBuffer"/>
+            <line num="893" count="114" type="stmt"/>
+            <line num="895" count="114" type="stmt"/>
+            <line num="895" falsecount="43" type="cond" truecount="71"/>
+            <line num="897" count="71" type="stmt"/>
+            <line num="899" count="71" type="stmt"/>
+            <line num="901" count="43" type="stmt"/>
+            <line num="903" count="43" type="stmt"/>
+            <line num="903" falsecount="42" type="cond" truecount="1"/>
+            <line num="906" count="1" type="stmt"/>
+            <line num="910" count="43" type="stmt"/>
+            <line num="912" count="43" type="stmt"/>
+            <line num="914" count="88" type="stmt"/>
+            <line num="915" count="88" type="stmt"/>
+            <line num="917" count="88" type="stmt"/>
+            <line num="917" falsecount="45" type="cond" truecount="43"/>
+            <line num="919" count="43" type="stmt"/>
+            <line num="921" count="43" type="stmt"/>
+            <line num="924" count="45" type="stmt"/>
+            <line num="924" falsecount="31" type="cond" truecount="14"/>
+            <line num="926" count="14" type="stmt"/>
+            <line num="929" count="45" type="stmt"/>
+            <line num="942" count="33" visibility="private" complexity="4" type="method" signature="renderWrappedTextBlock(StringBuffer,int,int,String) : Appendable"/>
+            <line num="944" count="33" type="stmt"/>
+            <line num="946" count="33" type="stmt"/>
+            <line num="947" count="33" type="stmt"/>
+            <line num="948" count="33" type="stmt"/>
+            <line num="949" count="33" type="stmt"/>
+            <line num="949" falsecount="0" type="cond" truecount="0"/>
+            <line num="951" count="36" type="stmt"/>
+            <line num="951" falsecount="33" type="cond" truecount="3"/>
+            <line num="953" count="3" type="stmt"/>
+            <line num="957" count="33" type="stmt"/>
+            <line num="959" count="36" type="stmt"/>
+            <line num="967" count="33" type="stmt"/>
+            <line num="984" count="209" visibility="protected" complexity="12" type="method" signature="findWrapPos(String,int,int) : int"/>
+            <line num="987" count="209" type="stmt"/>
+            <line num="988" count="209" type="stmt"/>
+            <line num="988" falsecount="202" type="cond" truecount="7"/>
+            <line num="990" count="7" type="stmt"/>
+            <line num="993" count="202" type="stmt"/>
+            <line num="994" count="202" type="stmt"/>
+            <line num="994" falsecount="201" type="cond" truecount="1"/>
+            <line num="996" count="1" type="stmt"/>
+            <line num="999" count="201" type="stmt"/>
+            <line num="999" falsecount="85" type="cond" truecount="116"/>
+            <line num="1001" count="116" type="stmt"/>
+            <line num="1005" count="85" type="stmt"/>
+            <line num="1005" falsecount="2" type="cond" truecount="645"/>
+            <line num="1007" count="645" type="stmt"/>
+            <line num="1008" count="645" type="stmt"/>
+            <line num="1008" falsecount="562" type="cond" truecount="83"/>
+            <line num="1010" count="83" type="stmt"/>
+            <line num="1015" count="85" type="stmt"/>
+            <line num="1015" falsecount="2" type="cond" truecount="83"/>
+            <line num="1017" count="83" type="stmt"/>
+            <line num="1021" count="2" type="stmt"/>
+            <line num="1023" count="2" type="stmt"/>
+            <line num="1023" falsecount="2" type="cond" truecount="0"/>
+            <line num="1033" count="136" visibility="protected" complexity="1" type="method" signature="createPadding(int) : String"/>
+            <line num="1035" count="136" type="stmt"/>
+            <line num="1036" count="136" type="stmt"/>
+            <line num="1038" count="136" type="stmt"/>
+            <line num="1048" count="162" visibility="protected" complexity="5" type="method" signature="rtrim(String) : String"/>
+            <line num="1050" count="162" type="stmt"/>
+            <line num="1050" falsecount="159" type="cond" truecount="3"/>
+            <line num="1052" count="3" type="stmt"/>
+            <line num="1055" count="159" type="stmt"/>
+            <line num="1057" count="159" type="stmt"/>
+            <line num="1057" falsecount="159" type="cond" truecount="18"/>
+            <line num="1059" count="18" type="stmt"/>
+            <line num="1062" count="159" type="stmt"/>
+            <line num="1088" count="242" visibility="public" complexity="1" type="method" signature="compare(Option,Option) : int"/>
+            <line num="1090" count="242" type="stmt"/>
+         </file>
+         <file name="MissingArgumentException.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/MissingArgumentException.java">
+            <metrics classes="1" methods="3" conditionals="0" ncloc="19" coveredstatements="4" coveredmethods="3" complexity="3" coveredconditionals="0" statements="4" loc="71" coveredelements="7" elements="7"/>
+            <class name="MissingArgumentException">
+               <metrics methods="3" conditionals="0" coveredstatements="4" coveredmethods="3" complexity="3" coveredconditionals="0" statements="4" coveredelements="7" elements="7"/>
+            </class>
+            <line num="42" count="2" visibility="public" complexity="1" type="method" signature="MissingArgumentException(String)"/>
+            <line num="44" count="2" type="stmt"/>
+            <line num="54" count="2" visibility="public" complexity="1" type="method" signature="MissingArgumentException(Option)"/>
+            <line num="56" count="2" type="stmt"/>
+            <line num="57" count="2" type="stmt"/>
+            <line num="67" count="1" visibility="public" complexity="1" type="method" signature="getOption() : Option"/>
+            <line num="69" count="1" type="stmt"/>
+         </file>
+         <file name="MissingOptionException.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/MissingOptionException.java">
+            <metrics classes="1" methods="4" conditionals="6" ncloc="37" coveredstatements="13" coveredmethods="4" complexity="7" coveredconditionals="6" statements="13" loc="96" coveredelements="23" elements="23"/>
+            <class name="MissingOptionException">
+               <metrics methods="4" conditionals="6" coveredstatements="13" coveredmethods="4" complexity="7" coveredconditionals="6" statements="13" coveredelements="23" elements="23"/>
+            </class>
+            <line num="42" count="5" visibility="public" complexity="1" type="method" signature="MissingOptionException(String)"/>
+            <line num="44" count="5" type="stmt"/>
+            <line num="54" count="5" visibility="public" complexity="1" type="method" signature="MissingOptionException(List)"/>
+            <line num="56" count="5" type="stmt"/>
+            <line num="57" count="5" type="stmt"/>
+            <line num="67" count="2" visibility="public" complexity="1" type="method" signature="getMissingOptions() : List"/>
+            <line num="69" count="2" type="stmt"/>
+            <line num="78" count="5" visibility="private" complexity="4" type="method" signature="createMessage(List&lt;?&gt;) : String"/>
+            <line num="80" count="5" type="stmt"/>
+            <line num="81" count="5" type="stmt"/>
+            <line num="81" falsecount="1" type="cond" truecount="4"/>
+            <line num="82" count="5" type="stmt"/>
+            <line num="84" count="5" type="stmt"/>
+            <line num="85" count="5" type="stmt"/>
+            <line num="85" falsecount="5" type="cond" truecount="6"/>
+            <line num="87" count="6" type="stmt"/>
+            <line num="88" count="6" type="stmt"/>
+            <line num="88" falsecount="5" type="cond" truecount="1"/>
+            <line num="90" count="1" type="stmt"/>
+            <line num="94" count="5" type="stmt"/>
+         </file>
+         <file name="Option.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/Option.java">
+            <metrics classes="2" methods="63" conditionals="54" ncloc="404" coveredstatements="120" coveredmethods="59" complexity="93" coveredconditionals="41" statements="136" loc="1015" coveredelements="220" elements="253"/>
+            <class name="Option">
+               <metrics methods="48" conditionals="50" coveredstatements="94" coveredmethods="45" complexity="75" coveredconditionals="37" statements="108" coveredelements="176" elements="206"/>
+            </class>
+            <class name="Option.Builder">
+               <metrics methods="15" conditionals="4" coveredstatements="26" coveredmethods="14" complexity="18" coveredconditionals="4" statements="28" coveredelements="44" elements="47"/>
+            </class>
+            <line num="88" count="87" visibility="private" complexity="1" type="method" signature="Option(Builder)"/>
+            <line num="90" count="87" type="stmt"/>
+            <line num="91" count="87" type="stmt"/>
+            <line num="92" count="87" type="stmt"/>
+            <line num="93" count="87" type="stmt"/>
+            <line num="94" count="87" type="stmt"/>
+            <line num="95" count="87" type="stmt"/>
+            <line num="96" count="87" type="stmt"/>
+            <line num="97" count="87" type="stmt"/>
+            <line num="98" count="87" type="stmt"/>
+            <line num="111" count="206" visibility="public" complexity="1" type="method" signature="Option(String,String)"/>
+            <line num="113" count="206" type="stmt"/>
+            <line num="126" count="6" visibility="public" complexity="1" type="method" signature="Option(String,boolean,String)"/>
+            <line num="128" count="6" type="stmt"/>
+            <line num="142" count="517" visibility="public" complexity="2" type="method" signature="Option(String,String,boolean,String)"/>
+            <line num="146" count="517" type="stmt"/>
+            <line num="148" count="513" type="stmt"/>
+            <line num="149" count="513" type="stmt"/>
+            <line num="152" count="513" type="stmt"/>
+            <line num="152" falsecount="419" type="cond" truecount="94"/>
+            <line num="154" count="94" type="stmt"/>
+            <line num="157" count="513" type="stmt"/>
+            <line num="167" count="2" visibility="public" complexity="1" type="method" signature="getId() : int"/>
+            <line num="169" count="2" type="stmt"/>
+            <line num="177" count="1601" visibility="package" complexity="2" type="method" signature="getKey() : String"/>
+            <line num="180" count="1601" type="stmt"/>
+            <line num="180" falsecount="1432" type="cond" truecount="169"/>
+            <line num="193" count="1161" visibility="public" complexity="1" type="method" signature="getOpt() : String"/>
+            <line num="195" count="1161" type="stmt"/>
+            <line num="203" count="46" visibility="public" complexity="1" type="method" signature="getType() : Object"/>
+            <line num="205" count="46" type="stmt"/>
+            <line num="217" count="0" visibility="public" complexity="1" type="method" signature="setType(Object) : void"/>
+            <line num="220" count="0" type="stmt"/>
+            <line num="229" count="189" visibility="public" complexity="1" type="method" signature="setType(Class&lt;?&gt;) : void"/>
+            <line num="231" count="189" type="stmt"/>
+            <line num="239" count="1180" visibility="public" complexity="1" type="method" signature="getLongOpt() : String"/>
+            <line num="241" count="1180" type="stmt"/>
+            <line num="249" count="189" visibility="public" complexity="1" type="method" signature="setLongOpt(String) : void"/>
+            <line num="251" count="189" type="stmt"/>
+            <line num="260" count="191" visibility="public" complexity="1" type="method" signature="setOptionalArg(boolean) : void"/>
+            <line num="262" count="191" type="stmt"/>
+            <line num="268" count="22" visibility="public" complexity="1" type="method" signature="hasOptionalArg() : boolean"/>
+            <line num="270" count="22" type="stmt"/>
+            <line num="278" count="662" visibility="public" complexity="1" type="method" signature="hasLongOpt() : boolean"/>
+            <line num="280" count="662" type="stmt"/>
+            <line num="288" count="664" visibility="public" complexity="1" type="method" signature="hasArg() : boolean"/>
+            <line num="290" count="664" type="stmt"/>
+            <line num="298" count="192" visibility="public" complexity="1" type="method" signature="getDescription() : String"/>
+            <line num="300" count="192" type="stmt"/>
+            <line num="309" count="1" visibility="public" complexity="1" type="method" signature="setDescription(String) : void"/>
+            <line num="311" count="1" type="stmt"/>
+            <line num="319" count="868" visibility="public" complexity="1" type="method" signature="isRequired() : boolean"/>
+            <line num="321" count="868" type="stmt"/>
+            <line num="329" count="295" visibility="public" complexity="1" type="method" signature="setRequired(boolean) : void"/>
+            <line num="331" count="295" type="stmt"/>
+            <line num="339" count="201" visibility="public" complexity="1" type="method" signature="setArgName(String) : void"/>
+            <line num="341" count="201" type="stmt"/>
+            <line num="349" count="72" visibility="public" complexity="1" type="method" signature="getArgName() : String"/>
+            <line num="351" count="72" type="stmt"/>
+            <line num="359" count="3" visibility="public" complexity="1" type="method" signature="hasArgName() : boolean"/>
+            <line num="361" count="3" type="stmt"/>
+            <line num="369" count="12" visibility="public" complexity="1" type="method" signature="hasArgs() : boolean"/>
+            <line num="371" count="12" type="stmt"/>
+            <line num="379" count="198" visibility="public" complexity="1" type="method" signature="setArgs(int) : void"/>
+            <line num="381" count="198" type="stmt"/>
+            <line num="390" count="189" visibility="public" complexity="1" type="method" signature="setValueSeparator(char) : void"/>
+            <line num="392" count="189" type="stmt"/>
+            <line num="400" count="61" visibility="public" complexity="1" type="method" signature="getValueSeparator() : char"/>
+            <line num="402" count="61" type="stmt"/>
+            <line num="411" count="194" visibility="public" complexity="1" type="method" signature="hasValueSeparator() : boolean"/>
+            <line num="413" count="194" type="stmt"/>
+            <line num="430" count="18" visibility="public" complexity="1" type="method" signature="getArgs() : int"/>
+            <line num="432" count="18" type="stmt"/>
+            <line num="440" count="194" visibility="package" complexity="2" type="method" signature="addValueForProcessing(String) : void"/>
+            <line num="442" count="194" type="stmt"/>
+            <line num="442" falsecount="194" type="cond" truecount="0"/>
+            <line num="444" count="0" type="stmt"/>
+            <line num="446" count="194" type="stmt"/>
+            <line num="460" count="194" visibility="private" complexity="4" type="method" signature="processValue(String) : void"/>
+            <line num="463" count="194" type="stmt"/>
+            <line num="463" falsecount="147" type="cond" truecount="47"/>
+            <line num="466" count="47" type="stmt"/>
+            <line num="469" count="47" type="stmt"/>
+            <line num="472" count="47" type="stmt"/>
+            <line num="472" falsecount="47" type="cond" truecount="44"/>
+            <line num="475" count="44" type="stmt"/>
+            <line num="475" falsecount="44" type="cond" truecount="0"/>
+            <line num="477" count="0" type="stmt"/>
+            <line num="481" count="44" type="stmt"/>
+            <line num="484" count="44" type="stmt"/>
+            <line num="487" count="44" type="stmt"/>
+            <line num="492" count="194" type="stmt"/>
+            <line num="504" count="238" visibility="private" complexity="2" type="method" signature="add(String) : void"/>
+            <line num="506" count="238" type="stmt"/>
+            <line num="506" falsecount="229" type="cond" truecount="9"/>
+            <line num="508" count="9" type="stmt"/>
+            <line num="512" count="229" type="stmt"/>
+            <line num="522" count="4" visibility="public" complexity="2" type="method" signature="getValue() : String"/>
+            <line num="524" count="4" type="stmt"/>
+            <line num="524" falsecount="2" type="cond" truecount="2"/>
+            <line num="539" count="7" visibility="public" complexity="2" type="method" signature="getValue(int) : String"/>
+            <line num="541" count="7" type="stmt"/>
+            <line num="541" falsecount="6" type="cond" truecount="1"/>
+            <line num="554" count="2" visibility="public" complexity="2" type="method" signature="getValue(String) : String"/>
+            <line num="556" count="2" type="stmt"/>
+            <line num="558" count="2" type="stmt"/>
+            <line num="558" falsecount="1" type="cond" truecount="1"/>
+            <line num="568" count="169" visibility="public" complexity="2" type="method" signature="getValues() : String[]"/>
+            <line num="570" count="169" type="stmt"/>
+            <line num="570" falsecount="160" type="cond" truecount="9"/>
+            <line num="577" count="119" visibility="public" complexity="1" type="method" signature="getValuesList() : List&lt;String&gt;"/>
+            <line num="579" count="119" type="stmt"/>
+            <line num="587" count="4" visibility="public" complexity="5" type="method" signature="toString() : String"/>
+            <line num="590" count="4" type="stmt"/>
+            <line num="592" count="4" type="stmt"/>
+            <line num="594" count="4" type="stmt"/>
+            <line num="594" falsecount="0" type="cond" truecount="4"/>
+            <line num="596" count="4" type="stmt"/>
+            <line num="599" count="4" type="stmt"/>
+            <line num="601" count="4" type="stmt"/>
+            <line num="601" falsecount="4" type="cond" truecount="0"/>
+            <line num="603" count="0" type="stmt"/>
+            <line num="605" count="4" type="stmt"/>
+            <line num="605" falsecount="2" type="cond" truecount="2"/>
+            <line num="607" count="2" type="stmt"/>
+            <line num="610" count="4" type="stmt"/>
+            <line num="612" count="4" type="stmt"/>
+            <line num="612" falsecount="0" type="cond" truecount="4"/>
+            <line num="614" count="4" type="stmt"/>
+            <line num="617" count="4" type="stmt"/>
+            <line num="619" count="4" type="stmt"/>
+            <line num="627" count="180" visibility="private" complexity="1" type="method" signature="hasNoValues() : boolean"/>
+            <line num="629" count="180" type="stmt"/>
+            <line num="632" count="231" visibility="public" complexity="8" type="method" signature="equals(Object) : boolean"/>
+            <line num="635" count="231" type="stmt"/>
+            <line num="635" falsecount="155" type="cond" truecount="76"/>
+            <line num="637" count="76" type="stmt"/>
+            <line num="639" count="155" type="stmt"/>
+            <line num="639" falsecount="155" type="cond" truecount="0"/>
+            <line num="641" count="0" type="stmt"/>
+            <line num="644" count="155" type="stmt"/>
+            <line num="647" count="155" type="stmt"/>
+            <line num="647" falsecount="2" type="cond" truecount="153"/>
+            <line num="647" falsecount="3" type="cond" truecount="152"/>
+            <line num="649" count="152" type="stmt"/>
+            <line num="651" count="3" type="stmt"/>
+            <line num="651" falsecount="1" type="cond" truecount="2"/>
+            <line num="651" falsecount="1" type="cond" truecount="2"/>
+            <line num="653" count="2" type="stmt"/>
+            <line num="656" count="1" type="stmt"/>
+            <line num="659" count="0" visibility="public" complexity="3" type="method" signature="hashCode() : int"/>
+            <line num="662" count="0" type="stmt"/>
+            <line num="663" count="0" type="stmt"/>
+            <line num="663" falsecount="0" type="cond" truecount="0"/>
+            <line num="664" count="0" type="stmt"/>
+            <line num="664" falsecount="0" type="cond" truecount="0"/>
+            <line num="665" count="0" type="stmt"/>
+            <line num="680" count="264" visibility="public" complexity="2" type="method" signature="clone() : Object"/>
+            <line num="683" count="264" type="stmt"/>
+            <line num="685" count="264" type="stmt"/>
+            <line num="686" count="264" type="stmt"/>
+            <line num="687" count="264" type="stmt"/>
+            <line num="691" count="0" type="stmt"/>
+            <line num="701" count="495" visibility="package" complexity="1" type="method" signature="clearValues() : void"/>
+            <line num="703" count="495" type="stmt"/>
+            <line num="715" count="0" visibility="public" complexity="1" type="method" signature="addValue(String) : boolean"/>
+            <line num="718" count="0" type="stmt"/>
+            <line num="728" count="251" visibility="package" complexity="1" type="method" signature="acceptsArg() : boolean"/>
+            <line num="730" count="251" type="stmt"/>
+            <line num="739" count="2" visibility="package" complexity="3" type="method" signature="requiresArg() : boolean"/>
+            <line num="741" count="2" type="stmt"/>
+            <line num="741" falsecount="0" type="cond" truecount="2"/>
+            <line num="743" count="2" type="stmt"/>
+            <line num="745" count="0" type="stmt"/>
+            <line num="745" falsecount="0" type="cond" truecount="0"/>
+            <line num="747" count="0" type="stmt"/>
+            <line num="749" count="0" type="stmt"/>
+            <line num="759" count="4" visibility="public" complexity="1" type="method" signature="builder() : Builder"/>
+            <line num="761" count="4" type="stmt"/>
+            <line num="773" count="89" visibility="public" complexity="1" type="method" signature="builder(String) : Builder"/>
+            <line num="775" count="89" type="stmt"/>
+            <line num="828" count="89" visibility="private" complexity="1" type="method" signature="Builder(String)"/>
+            <line num="830" count="89" type="stmt"/>
+            <line num="831" count="89" type="stmt"/>
+            <line num="840" count="20" visibility="public" complexity="1" type="method" signature="argName(String) : Builder"/>
+            <line num="842" count="20" type="stmt"/>
+            <line num="843" count="20" type="stmt"/>
+            <line num="852" count="27" visibility="public" complexity="1" type="method" signature="desc(String) : Builder"/>
+            <line num="854" count="27" type="stmt"/>
+            <line num="855" count="27" type="stmt"/>
+            <line num="864" count="16" visibility="public" complexity="1" type="method" signature="longOpt(String) : Builder"/>
+            <line num="866" count="16" type="stmt"/>
+            <line num="867" count="16" type="stmt"/>
+            <line num="876" count="4" visibility="public" complexity="1" type="method" signature="numberOfArgs(int) : Builder"/>
+            <line num="878" count="4" type="stmt"/>
+            <line num="879" count="4" type="stmt"/>
+            <line num="889" count="5" visibility="public" complexity="1" type="method" signature="optionalArg(boolean) : Builder"/>
+            <line num="891" count="5" type="stmt"/>
+            <line num="892" count="5" type="stmt"/>
+            <line num="900" count="4" visibility="public" complexity="1" type="method" signature="required() : Builder"/>
+            <line num="902" count="4" type="stmt"/>
+            <line num="911" count="33" visibility="public" complexity="1" type="method" signature="required(boolean) : Builder"/>
+            <line num="913" count="33" type="stmt"/>
+            <line num="914" count="33" type="stmt"/>
+            <line num="923" count="27" visibility="public" complexity="1" type="method" signature="type(Class&lt;?&gt;) : Builder"/>
+            <line num="925" count="27" type="stmt"/>
+            <line num="926" count="27" type="stmt"/>
+            <line num="934" count="5" visibility="public" complexity="1" type="method" signature="valueSeparator() : Builder"/>
+            <line num="936" count="5" type="stmt"/>
+            <line num="960" count="6" visibility="public" complexity="1" type="method" signature="valueSeparator(char) : Builder"/>
+            <line num="962" count="6" type="stmt"/>
+            <line num="963" count="6" type="stmt"/>
+            <line num="971" count="27" visibility="public" complexity="1" type="method" signature="hasArg() : Builder"/>
+            <line num="973" count="27" type="stmt"/>
+            <line num="982" count="65" visibility="public" complexity="2" type="method" signature="hasArg(boolean) : Builder"/>
+            <line num="985" count="65" type="stmt"/>
+            <line num="985" falsecount="15" type="cond" truecount="50"/>
+            <line num="986" count="65" type="stmt"/>
+            <line num="994" count="0" visibility="public" complexity="1" type="method" signature="hasArgs() : Builder"/>
+            <line num="996" count="0" type="stmt"/>
+            <line num="997" count="0" type="stmt"/>
+            <line num="1006" count="89" visibility="public" complexity="3" type="method" signature="build() : Option"/>
+            <line num="1008" count="89" type="stmt"/>
+            <line num="1008" falsecount="87" type="cond" truecount="2"/>
+            <line num="1010" count="2" type="stmt"/>
+            <line num="1012" count="87" type="stmt"/>
+         </file>
+         <file name="OptionBuilder.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/OptionBuilder.java">
+            <metrics classes="1" methods="22" conditionals="4" ncloc="148" coveredstatements="57" coveredmethods="20" complexity="24" coveredconditionals="4" statements="60" loc="396" coveredelements="81" elements="86"/>
+            <class name="OptionBuilder">
+               <metrics methods="22" conditionals="4" coveredstatements="57" coveredmethods="20" complexity="24" coveredconditionals="4" statements="60" coveredelements="81" elements="86"/>
+            </class>
+            <line num="62" count="1" visibility="package" complexity="1" type="method" signature="&lt;clinit&gt;, line 62()"/>
+            <line num="65" count="1" type="stmt"/>
+            <line num="71" count="1" visibility="private" complexity="1" type="method" signature="OptionBuilder()"/>
+            <line num="79" count="196" visibility="private" complexity="1" type="method" signature="reset() : void"/>
+            <line num="81" count="196" type="stmt"/>
+            <line num="82" count="196" type="stmt"/>
+            <line num="83" count="196" type="stmt"/>
+            <line num="84" count="196" type="stmt"/>
+            <line num="85" count="196" type="stmt"/>
+            <line num="86" count="196" type="stmt"/>
+            <line num="87" count="196" type="stmt"/>
+            <line num="88" count="196" type="stmt"/>
+            <line num="97" count="111" visibility="public" complexity="1" type="method" signature="withLongOpt(String) : OptionBuilder"/>
+            <line num="99" count="111" type="stmt"/>
+            <line num="101" count="111" type="stmt"/>
+            <line num="109" count="31" visibility="public" complexity="1" type="method" signature="hasArg() : OptionBuilder"/>
+            <line num="111" count="31" type="stmt"/>
+            <line num="113" count="31" type="stmt"/>
+            <line num="123" count="6" visibility="public" complexity="2" type="method" signature="hasArg(boolean) : OptionBuilder"/>
+            <line num="125" count="6" type="stmt"/>
+            <line num="125" falsecount="5" type="cond" truecount="1"/>
+            <line num="127" count="6" type="stmt"/>
+            <line num="136" count="8" visibility="public" complexity="1" type="method" signature="withArgName(String) : OptionBuilder"/>
+            <line num="138" count="8" type="stmt"/>
+            <line num="140" count="8" type="stmt"/>
+            <line num="148" count="6" visibility="public" complexity="1" type="method" signature="isRequired() : OptionBuilder"/>
+            <line num="150" count="6" type="stmt"/>
+            <line num="152" count="6" type="stmt"/>
+            <line num="174" count="16" visibility="public" complexity="1" type="method" signature="withValueSeparator(char) : OptionBuilder"/>
+            <line num="176" count="16" type="stmt"/>
+            <line num="178" count="16" type="stmt"/>
+            <line num="197" count="15" visibility="public" complexity="1" type="method" signature="withValueSeparator() : OptionBuilder"/>
+            <line num="199" count="15" type="stmt"/>
+            <line num="201" count="15" type="stmt"/>
+            <line num="211" count="0" visibility="public" complexity="1" type="method" signature="isRequired(boolean) : OptionBuilder"/>
+            <line num="213" count="0" type="stmt"/>
+            <line num="215" count="0" type="stmt"/>
+            <line num="223" count="34" visibility="public" complexity="1" type="method" signature="hasArgs() : OptionBuilder"/>
+            <line num="225" count="34" type="stmt"/>
+            <line num="227" count="34" type="stmt"/>
+            <line num="236" count="9" visibility="public" complexity="1" type="method" signature="hasArgs(int) : OptionBuilder"/>
+            <line num="238" count="9" type="stmt"/>
+            <line num="240" count="9" type="stmt"/>
+            <line num="248" count="29" visibility="public" complexity="1" type="method" signature="hasOptionalArg() : OptionBuilder"/>
+            <line num="250" count="29" type="stmt"/>
+            <line num="251" count="29" type="stmt"/>
+            <line num="253" count="29" type="stmt"/>
+            <line num="261" count="24" visibility="public" complexity="1" type="method" signature="hasOptionalArgs() : OptionBuilder"/>
+            <line num="263" count="24" type="stmt"/>
+            <line num="264" count="24" type="stmt"/>
+            <line num="266" count="24" type="stmt"/>
+            <line num="276" count="25" visibility="public" complexity="1" type="method" signature="hasOptionalArgs(int) : OptionBuilder"/>
+            <line num="278" count="25" type="stmt"/>
+            <line num="279" count="25" type="stmt"/>
+            <line num="281" count="25" type="stmt"/>
+            <line num="295" count="0" visibility="public" complexity="1" type="method" signature="withType(Object) : OptionBuilder"/>
+            <line num="298" count="0" type="stmt"/>
+            <line num="309" count="3" visibility="public" complexity="1" type="method" signature="withType(Class&lt;?&gt;) : OptionBuilder"/>
+            <line num="311" count="3" type="stmt"/>
+            <line num="313" count="3" type="stmt"/>
+            <line num="322" count="83" visibility="public" complexity="1" type="method" signature="withDescription(String) : OptionBuilder"/>
+            <line num="324" count="83" type="stmt"/>
+            <line num="326" count="83" type="stmt"/>
+            <line num="338" count="130" visibility="public" complexity="1" type="method" signature="create(char) : Option"/>
+            <line num="340" count="130" type="stmt"/>
+            <line num="349" count="46" visibility="public" complexity="2" type="method" signature="create() : Option"/>
+            <line num="351" count="46" type="stmt"/>
+            <line num="351" falsecount="44" type="cond" truecount="2"/>
+            <line num="353" count="2" type="stmt"/>
+            <line num="354" count="2" type="stmt"/>
+            <line num="357" count="44" type="stmt"/>
+            <line num="370" count="193" visibility="public" complexity="1" type="method" signature="create(String) : Option"/>
+            <line num="372" count="193" type="stmt"/>
+            <line num="373" count="193" type="stmt"/>
+            <line num="376" count="193" type="stmt"/>
+            <line num="379" count="189" type="stmt"/>
+            <line num="380" count="189" type="stmt"/>
+            <line num="381" count="189" type="stmt"/>
+            <line num="382" count="189" type="stmt"/>
+            <line num="383" count="189" type="stmt"/>
+            <line num="384" count="189" type="stmt"/>
+            <line num="385" count="189" type="stmt"/>
+            <line num="390" count="193" type="stmt"/>
+            <line num="394" count="189" type="stmt"/>
+         </file>
+         <file name="OptionGroup.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/OptionGroup.java">
+            <metrics classes="1" methods="8" conditionals="12" ncloc="86" coveredstatements="30" coveredmethods="8" complexity="15" coveredconditionals="11" statements="30" loc="179" coveredelements="49" elements="50"/>
+            <class name="OptionGroup">
+               <metrics methods="8" conditionals="12" coveredstatements="30" coveredmethods="8" complexity="15" coveredconditionals="11" statements="30" coveredelements="49" elements="50"/>
+            </class>
+            <line num="51" count="110" visibility="public" complexity="1" type="method" signature="addOption(Option) : OptionGroup"/>
+            <line num="55" count="110" type="stmt"/>
+            <line num="57" count="110" type="stmt"/>
+            <line num="64" count="4" visibility="public" complexity="1" type="method" signature="getNames() : Collection&lt;String&gt;"/>
+            <line num="67" count="4" type="stmt"/>
+            <line num="73" count="59" visibility="public" complexity="1" type="method" signature="getOptions() : Collection&lt;Option&gt;"/>
+            <line num="76" count="59" type="stmt"/>
+            <line num="86" count="57" visibility="public" complexity="4" type="method" signature="setSelected(Option) : void"/>
+            <line num="88" count="57" type="stmt"/>
+            <line num="88" falsecount="16" type="cond" truecount="41"/>
+            <line num="91" count="41" type="stmt"/>
+            <line num="92" count="41" type="stmt"/>
+            <line num="98" count="16" type="stmt"/>
+            <line num="98" falsecount="2" type="cond" truecount="14"/>
+            <line num="100" count="14" type="stmt"/>
+            <line num="104" count="2" type="stmt"/>
+            <line num="111" count="5" visibility="public" complexity="1" type="method" signature="getSelected() : String"/>
+            <line num="113" count="5" type="stmt"/>
+            <line num="119" count="6" visibility="public" complexity="1" type="method" signature="setRequired(boolean) : void"/>
+            <line num="121" count="6" type="stmt"/>
+            <line num="129" count="71" visibility="public" complexity="1" type="method" signature="isRequired() : boolean"/>
+            <line num="131" count="71" type="stmt"/>
+            <line num="139" count="6" visibility="public" complexity="5" type="method" signature="toString() : String"/>
+            <line num="142" count="6" type="stmt"/>
+            <line num="144" count="6" type="stmt"/>
+            <line num="146" count="6" type="stmt"/>
+            <line num="148" count="6" type="stmt"/>
+            <line num="148" falsecount="6" type="cond" truecount="12"/>
+            <line num="150" count="12" type="stmt"/>
+            <line num="152" count="12" type="stmt"/>
+            <line num="152" falsecount="4" type="cond" truecount="8"/>
+            <line num="154" count="8" type="stmt"/>
+            <line num="155" count="8" type="stmt"/>
+            <line num="159" count="4" type="stmt"/>
+            <line num="160" count="4" type="stmt"/>
+            <line num="163" count="12" type="stmt"/>
+            <line num="163" falsecount="0" type="cond" truecount="12"/>
+            <line num="165" count="12" type="stmt"/>
+            <line num="166" count="12" type="stmt"/>
+            <line num="169" count="12" type="stmt"/>
+            <line num="169" falsecount="6" type="cond" truecount="6"/>
+            <line num="171" count="6" type="stmt"/>
+            <line num="175" count="6" type="stmt"/>
+            <line num="177" count="6" type="stmt"/>
+         </file>
+         <file name="OptionValidator.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/OptionValidator.java">
+            <metrics classes="1" methods="3" conditionals="8" ncloc="38" coveredstatements="11" coveredmethods="3" complexity="7" coveredconditionals="8" statements="11" loc="99" coveredelements="22" elements="22"/>
+            <class name="OptionValidator">
+               <metrics methods="3" conditionals="8" coveredstatements="11" coveredmethods="3" complexity="7" coveredconditionals="8" statements="11" coveredelements="22" elements="22"/>
+            </class>
+            <line num="45" count="606" visibility="package" complexity="5" type="method" signature="validateOption(String) : void"/>
+            <line num="48" count="606" type="stmt"/>
+            <line num="48" falsecount="527" type="cond" truecount="79"/>
+            <line num="50" count="79" type="stmt"/>
+            <line num="54" count="527" type="stmt"/>
+            <line num="54" falsecount="30" type="cond" truecount="497"/>
+            <line num="56" count="497" type="stmt"/>
+            <line num="58" count="497" type="stmt"/>
+            <line num="58" falsecount="494" type="cond" truecount="3"/>
+            <line num="60" count="3" type="stmt"/>
+            <line num="67" count="30" type="stmt"/>
+            <line num="69" count="156" type="stmt"/>
+            <line num="69" falsecount="155" type="cond" truecount="1"/>
+            <line num="71" count="1" type="stmt"/>
+            <line num="84" count="497" visibility="private" complexity="1" type="method" signature="isValidOpt(char) : boolean"/>
+            <line num="86" count="497" type="stmt"/>
+            <line num="95" count="653" visibility="private" complexity="1" type="method" signature="isValidChar(char) : boolean"/>
+            <line num="97" count="653" type="stmt"/>
+         </file>
+         <file name="Options.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/Options.java">
+            <metrics classes="1" methods="17" conditionals="14" ncloc="143" coveredstatements="50" coveredmethods="15" complexity="24" coveredconditionals="14" statements="56" loc="367" coveredelements="79" elements="87"/>
+            <class name="Options">
+               <metrics methods="17" conditionals="14" coveredstatements="50" coveredmethods="15" complexity="24" coveredconditionals="14" statements="56" coveredelements="79" elements="87"/>
+            </class>
+            <line num="68" count="51" visibility="public" complexity="2" type="method" signature="addOptionGroup(OptionGroup) : Options"/>
+            <line num="70" count="51" type="stmt"/>
+            <line num="70" falsecount="45" type="cond" truecount="6"/>
+            <line num="72" count="6" type="stmt"/>
+            <line num="75" count="51" type="stmt"/>
+            <line num="80" count="104" type="stmt"/>
+            <line num="81" count="104" type="stmt"/>
+            <line num="83" count="104" type="stmt"/>
+            <line num="86" count="51" type="stmt"/>
+            <line num="94" count="89" visibility="package" complexity="1" type="method" signature="getOptionGroups() : Collection&lt;OptionGroup&gt;"/>
+            <line num="96" count="89" type="stmt"/>
+            <line num="111" count="0" visibility="public" complexity="1" type="method" signature="addOption(String,String) : Options"/>
+            <line num="113" count="0" type="stmt"/>
+            <line num="114" count="0" type="stmt"/>
+            <line num="129" count="74" visibility="public" complexity="1" type="method" signature="addOption(String,boolean,String) : Options"/>
+            <line num="131" count="74" type="stmt"/>
+            <line num="132" count="74" type="stmt"/>
+            <line num="148" count="187" visibility="public" complexity="1" type="method" signature="addOption(String,String,boolean,String) : Options"/>
+            <line num="150" count="187" type="stmt"/>
+            <line num="151" count="187" type="stmt"/>
+            <line num="176" count="0" visibility="public" complexity="1" type="method" signature="addRequiredOption(String,String,boolean,String) : Options"/>
+            <line num="178" count="0" type="stmt"/>
+            <line num="179" count="0" type="stmt"/>
+            <line num="180" count="0" type="stmt"/>
+            <line num="181" count="0" type="stmt"/>
+            <line num="190" count="559" visibility="public" complexity="4" type="method" signature="addOption(Option) : Options"/>
+            <line num="192" count="559" type="stmt"/>
+            <line num="195" count="559" type="stmt"/>
+            <line num="195" falsecount="214" type="cond" truecount="345"/>
+            <line num="197" count="345" type="stmt"/>
+            <line num="201" count="559" type="stmt"/>
+            <line num="201" falsecount="546" type="cond" truecount="13"/>
+            <line num="203" count="13" type="stmt"/>
+            <line num="203" falsecount="12" type="cond" truecount="1"/>
+            <line num="205" count="1" type="stmt"/>
+            <line num="207" count="13" type="stmt"/>
+            <line num="210" count="559" type="stmt"/>
+            <line num="212" count="559" type="stmt"/>
+            <line num="220" count="17" visibility="public" complexity="1" type="method" signature="getOptions() : Collection&lt;Option&gt;"/>
+            <line num="222" count="17" type="stmt"/>
+            <line num="230" count="117" visibility="package" complexity="1" type="method" signature="helpOptions() : List&lt;Option&gt;"/>
+            <line num="232" count="117" type="stmt"/>
+            <line num="240" count="87" visibility="public" complexity="1" type="method" signature="getRequiredOptions() : List"/>
+            <line num="242" count="87" type="stmt"/>
+            <line num="255" count="508" visibility="public" complexity="2" type="method" signature="getOption(String) : Option"/>
+            <line num="257" count="508" type="stmt"/>
+            <line num="259" count="508" type="stmt"/>
+            <line num="259" falsecount="12" type="cond" truecount="496"/>
+            <line num="261" count="496" type="stmt"/>
+            <line num="264" count="12" type="stmt"/>
+            <line num="274" count="90" visibility="public" complexity="3" type="method" signature="getMatchingOptions(String) : List&lt;String&gt;"/>
+            <line num="276" count="90" type="stmt"/>
+            <line num="278" count="90" type="stmt"/>
+            <line num="281" count="90" type="stmt"/>
+            <line num="281" falsecount="38" type="cond" truecount="52"/>
+            <line num="283" count="52" type="stmt"/>
+            <line num="286" count="38" type="stmt"/>
+            <line num="288" count="284" type="stmt"/>
+            <line num="288" falsecount="282" type="cond" truecount="2"/>
+            <line num="290" count="2" type="stmt"/>
+            <line num="294" count="38" type="stmt"/>
+            <line num="303" count="812" visibility="public" complexity="1" type="method" signature="hasOption(String) : boolean"/>
+            <line num="305" count="812" type="stmt"/>
+            <line num="307" count="812" type="stmt"/>
+            <line num="317" count="1" visibility="public" complexity="1" type="method" signature="hasLongOption(String) : boolean"/>
+            <line num="319" count="1" type="stmt"/>
+            <line num="321" count="1" type="stmt"/>
+            <line num="331" count="10" visibility="public" complexity="1" type="method" signature="hasShortOption(String) : boolean"/>
+            <line num="333" count="10" type="stmt"/>
+            <line num="335" count="10" type="stmt"/>
+            <line num="344" count="316" visibility="public" complexity="1" type="method" signature="getOptionGroup(Option) : OptionGroup"/>
+            <line num="346" count="316" type="stmt"/>
+            <line num="354" count="1" visibility="public" complexity="1" type="method" signature="toString() : String"/>
+            <line num="357" count="1" type="stmt"/>
+            <line num="359" count="1" type="stmt"/>
+            <line num="360" count="1" type="stmt"/>
+            <line num="361" count="1" type="stmt"/>
+            <line num="362" count="1" type="stmt"/>
+            <line num="363" count="1" type="stmt"/>
+            <line num="365" count="1" type="stmt"/>
+         </file>
+         <file name="ParseException.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/ParseException.java">
+            <metrics classes="1" methods="1" conditionals="0" ncloc="9" coveredstatements="1" coveredmethods="1" complexity="1" coveredconditionals="0" statements="1" loc="42" coveredelements="2" elements="2"/>
+            <class name="ParseException">
+               <metrics methods="1" conditionals="0" coveredstatements="1" coveredmethods="1" complexity="1" coveredconditionals="0" statements="1" coveredelements="2" elements="2"/>
+            </class>
+            <line num="38" count="14" visibility="public" complexity="1" type="method" signature="ParseException(String)"/>
+            <line num="40" count="14" type="stmt"/>
+         </file>
+         <file name="Parser.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/Parser.java">
+            <metrics classes="1" methods="12" conditionals="54" ncloc="221" coveredstatements="80" coveredmethods="12" complexity="48" coveredconditionals="42" statements="89" loc="430" coveredelements="134" elements="155"/>
+            <class name="Parser">
+               <metrics methods="12" conditionals="54" coveredstatements="80" coveredmethods="12" complexity="48" coveredconditionals="42" statements="89" coveredelements="134" elements="155"/>
+            </class>
+            <line num="45" count="83" visibility="protected" complexity="1" type="method" signature="setOptions(Options) : void"/>
+            <line num="47" count="83" type="stmt"/>
+            <line num="48" count="83" type="stmt"/>
+            <line num="51" count="1158" visibility="protected" complexity="1" type="method" signature="getOptions() : Options"/>
+            <line num="53" count="1158" type="stmt"/>
+            <line num="56" count="88" visibility="protected" complexity="1" type="method" signature="getRequiredOptions() : List"/>
+            <line num="58" count="88" type="stmt"/>
+            <line num="86" count="78" visibility="public" complexity="1" type="method" signature="parse(Options,String[]) : CommandLine"/>
+            <line num="88" count="78" type="stmt"/>
+            <line num="103" count="2" visibility="public" complexity="1" type="method" signature="parse(Options,String[],Properties) : CommandLine"/>
+            <line num="105" count="2" type="stmt"/>
+            <line num="121" count="3" visibility="public" complexity="1" type="method" signature="parse(Options,String[],boolean) : CommandLine"/>
+            <line num="123" count="3" type="stmt"/>
+            <line num="145" count="83" visibility="public" complexity="13" type="method" signature="parse(Options,String[],Properties,boolean) : CommandLine"/>
+            <line num="149" count="83" type="stmt"/>
+            <line num="151" count="494" type="stmt"/>
+            <line num="155" count="83" type="stmt"/>
+            <line num="157" count="41" type="stmt"/>
+            <line num="161" count="83" type="stmt"/>
+            <line num="163" count="83" type="stmt"/>
+            <line num="165" count="83" type="stmt"/>
+            <line num="167" count="83" type="stmt"/>
+            <line num="167" falsecount="82" type="cond" truecount="1"/>
+            <line num="169" count="1" type="stmt"/>
+            <line num="172" count="83" type="stmt"/>
+            <line num="174" count="83" type="stmt"/>
+            <line num="177" count="83" type="stmt"/>
+            <line num="177" falsecount="79" type="cond" truecount="282"/>
+            <line num="179" count="282" type="stmt"/>
+            <line num="182" count="282" type="stmt"/>
+            <line num="182" falsecount="282" type="cond" truecount="0"/>
+            <line num="184" count="0" type="stmt"/>
+            <line num="188" count="282" type="stmt"/>
+            <line num="188" falsecount="282" type="cond" truecount="0"/>
+            <line num="190" count="0" type="stmt"/>
+            <line num="190" falsecount="0" type="cond" truecount="0"/>
+            <line num="192" count="0" type="stmt"/>
+            <line num="196" count="0" type="stmt"/>
+            <line num="201" count="282" type="stmt"/>
+            <line num="201" falsecount="27" type="cond" truecount="255"/>
+            <line num="203" count="255" type="stmt"/>
+            <line num="203" falsecount="254" type="cond" truecount="1"/>
+            <line num="205" count="1" type="stmt"/>
+            <line num="206" count="1" type="stmt"/>
+            <line num="210" count="254" type="stmt"/>
+            <line num="217" count="27" type="stmt"/>
+            <line num="219" count="27" type="stmt"/>
+            <line num="219" falsecount="27" type="cond" truecount="0"/>
+            <line num="221" count="0" type="stmt"/>
+            <line num="226" count="278" type="stmt"/>
+            <line num="226" falsecount="277" type="cond" truecount="1"/>
+            <line num="228" count="1" type="stmt"/>
+            <line num="228" falsecount="1" type="cond" truecount="1"/>
+            <line num="230" count="1" type="stmt"/>
+            <line num="233" count="1" type="stmt"/>
+            <line num="233" falsecount="0" type="cond" truecount="1"/>
+            <line num="235" count="1" type="stmt"/>
+            <line num="241" count="79" type="stmt"/>
+            <line num="242" count="79" type="stmt"/>
+            <line num="244" count="74" type="stmt"/>
+            <line num="254" count="79" visibility="protected" complexity="13" type="method" signature="processProperties(Properties) : void"/>
+            <line num="256" count="79" type="stmt"/>
+            <line num="256" falsecount="2" type="cond" truecount="77"/>
+            <line num="258" count="77" type="stmt"/>
+            <line num="261" count="2" type="stmt"/>
+            <line num="261" falsecount="2" type="cond" truecount="2"/>
+            <line num="263" count="2" type="stmt"/>
+            <line num="265" count="2" type="stmt"/>
+            <line num="266" count="2" type="stmt"/>
+            <line num="266" falsecount="2" type="cond" truecount="0"/>
+            <line num="268" count="0" type="stmt"/>
+            <line num="272" count="2" type="stmt"/>
+            <line num="273" count="2" type="stmt"/>
+            <line num="275" count="2" type="stmt"/>
+            <line num="275" falsecount="1" type="cond" truecount="1"/>
+            <line num="278" count="1" type="stmt"/>
+            <line num="280" count="1" type="stmt"/>
+            <line num="280" falsecount="0" type="cond" truecount="1"/>
+            <line num="282" count="1" type="stmt"/>
+            <line num="282" falsecount="0" type="cond" truecount="1"/>
+            <line num="284" count="1" type="stmt"/>
+            <line num="286" count="1" type="stmt"/>
+            <line num="294" count="0" type="stmt"/>
+            <line num="294" falsecount="0" type="cond" truecount="0"/>
+            <line num="300" count="0" type="stmt"/>
+            <line num="303" count="1" type="stmt"/>
+            <line num="304" count="1" type="stmt"/>
+            <line num="315" count="79" visibility="protected" complexity="2" type="method" signature="checkRequiredOptions() : void"/>
+            <line num="318" count="79" type="stmt"/>
+            <line num="318" falsecount="74" type="cond" truecount="5"/>
+            <line num="320" count="5" type="stmt"/>
+            <line num="335" count="167" visibility="public" complexity="7" type="method" signature="processArgs(Option,ListIterator&lt;String&gt;) : void"/>
+            <line num="338" count="167" type="stmt"/>
+            <line num="338" falsecount="51" type="cond" truecount="293"/>
+            <line num="340" count="293" type="stmt"/>
+            <line num="343" count="293" type="stmt"/>
+            <line num="343" falsecount="186" type="cond" truecount="107"/>
+            <line num="345" count="107" type="stmt"/>
+            <line num="346" count="107" type="stmt"/>
+            <line num="350" count="186" type="stmt"/>
+            <line num="352" count="186" type="stmt"/>
+            <line num="356" count="9" type="stmt"/>
+            <line num="357" count="9" type="stmt"/>
+            <line num="361" count="167" type="stmt"/>
+            <line num="361" falsecount="165" type="cond" truecount="2"/>
+            <line num="363" count="2" type="stmt"/>
+            <line num="376" count="254" visibility="protected" complexity="3" type="method" signature="processOption(String,ListIterator&lt;String&gt;) : void"/>
+            <line num="378" count="254" type="stmt"/>
+            <line num="381" count="254" type="stmt"/>
+            <line num="381" falsecount="254" type="cond" truecount="0"/>
+            <line num="383" count="0" type="stmt"/>
+            <line num="387" count="254" type="stmt"/>
+            <line num="390" count="254" type="stmt"/>
+            <line num="393" count="252" type="stmt"/>
+            <line num="393" falsecount="85" type="cond" truecount="167"/>
+            <line num="395" count="167" type="stmt"/>
+            <line num="399" count="250" type="stmt"/>
+            <line num="407" count="255" visibility="private" complexity="4" type="method" signature="updateRequiredOptions(Option) : void"/>
+            <line num="411" count="255" type="stmt"/>
+            <line num="411" falsecount="253" type="cond" truecount="2"/>
+            <line num="413" count="2" type="stmt"/>
+            <line num="418" count="255" type="stmt"/>
+            <line num="418" falsecount="239" type="cond" truecount="16"/>
+            <line num="420" count="16" type="stmt"/>
+            <line num="422" count="16" type="stmt"/>
+            <line num="422" falsecount="14" type="cond" truecount="2"/>
+            <line num="424" count="2" type="stmt"/>
+            <line num="427" count="16" type="stmt"/>
+         </file>
+         <file name="PatternOptionBuilder.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/PatternOptionBuilder.java">
+            <metrics classes="1" methods="3" conditionals="10" ncloc="100" coveredstatements="41" coveredmethods="3" complexity="17" coveredconditionals="10" statements="42" loc="207" coveredelements="54" elements="55"/>
+            <class name="PatternOptionBuilder">
+               <metrics methods="3" conditionals="10" coveredstatements="41" coveredmethods="3" complexity="17" coveredconditionals="10" statements="42" coveredelements="54" elements="55"/>
+            </class>
+            <line num="96" count="21" visibility="public" complexity="10" type="method" signature="getValueClass(char) : Object"/>
+            <line num="98" count="21" type="stmt"/>
+            <line num="100" count="4" type="stmt"/>
+            <line num="101" count="4" type="stmt"/>
+            <line num="102" count="1" type="stmt"/>
+            <line num="103" count="1" type="stmt"/>
+            <line num="104" count="6" type="stmt"/>
+            <line num="105" count="6" type="stmt"/>
+            <line num="106" count="3" type="stmt"/>
+            <line num="107" count="3" type="stmt"/>
+            <line num="108" count="1" type="stmt"/>
+            <line num="109" count="1" type="stmt"/>
+            <line num="110" count="1" type="stmt"/>
+            <line num="111" count="1" type="stmt"/>
+            <line num="112" count="1" type="stmt"/>
+            <line num="113" count="1" type="stmt"/>
+            <line num="114" count="1" type="stmt"/>
+            <line num="115" count="1" type="stmt"/>
+            <line num="116" count="3" type="stmt"/>
+            <line num="117" count="3" type="stmt"/>
+            <line num="120" count="0" type="stmt"/>
+            <line num="130" count="48" visibility="public" complexity="1" type="method" signature="isValueCode(char) : boolean"/>
+            <line num="132" count="48" type="stmt"/>
+            <line num="150" count="9" visibility="public" complexity="6" type="method" signature="parsePattern(String) : Options"/>
+            <line num="152" count="9" type="stmt"/>
+            <line num="153" count="9" type="stmt"/>
+            <line num="154" count="9" type="stmt"/>
+            <line num="156" count="9" type="stmt"/>
+            <line num="158" count="9" type="stmt"/>
+            <line num="158" falsecount="9" type="cond" truecount="48"/>
+            <line num="160" count="48" type="stmt"/>
+            <line num="164" count="48" type="stmt"/>
+            <line num="164" falsecount="22" type="cond" truecount="26"/>
+            <line num="166" count="26" type="stmt"/>
+            <line num="166" falsecount="8" type="cond" truecount="18"/>
+            <line num="168" count="18" type="stmt"/>
+            <line num="175" count="18" type="stmt"/>
+            <line num="176" count="18" type="stmt"/>
+            <line num="177" count="18" type="stmt"/>
+            <line num="178" count="18" type="stmt"/>
+            <line num="181" count="26" type="stmt"/>
+            <line num="183" count="22" type="stmt"/>
+            <line num="183" falsecount="21" type="cond" truecount="1"/>
+            <line num="185" count="1" type="stmt"/>
+            <line num="189" count="21" type="stmt"/>
+            <line num="193" count="9" type="stmt"/>
+            <line num="193" falsecount="1" type="cond" truecount="8"/>
+            <line num="195" count="8" type="stmt"/>
+            <line num="202" count="8" type="stmt"/>
+            <line num="205" count="9" type="stmt"/>
+         </file>
+         <file name="PosixParser.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/PosixParser.java">
+            <metrics classes="1" methods="6" conditionals="40" ncloc="141" coveredstatements="41" coveredmethods="6" complexity="32" coveredconditionals="25" statements="59" loc="294" coveredelements="72" elements="105"/>
+            <class name="PosixParser">
+               <metrics methods="6" conditionals="40" coveredstatements="41" coveredmethods="6" complexity="32" coveredconditionals="25" statements="59" coveredelements="72" elements="105"/>
+            </class>
+            <line num="52" count="77" visibility="private" complexity="1" type="method" signature="init() : void"/>
+            <line num="54" count="77" type="stmt"/>
+            <line num="55" count="77" type="stmt"/>
+            <line num="95" count="77" visibility="protected" complexity="14" type="method" signature="flatten(Options,String[],boolean) : String[]"/>
+            <line num="98" count="77" type="stmt"/>
+            <line num="99" count="77" type="stmt"/>
+            <line num="102" count="77" type="stmt"/>
+            <line num="105" count="77" type="stmt"/>
+            <line num="105" falsecount="77" type="cond" truecount="402"/>
+            <line num="108" count="402" type="stmt"/>
+            <line num="111" count="402" type="stmt"/>
+            <line num="111" falsecount="402" type="cond" truecount="0"/>
+            <line num="113" count="0" type="stmt"/>
+            <line num="117" count="402" type="stmt"/>
+            <line num="117" falsecount="351" type="cond" truecount="51"/>
+            <line num="119" count="51" type="stmt"/>
+            <line num="120" count="51" type="stmt"/>
+            <line num="120" falsecount="1" type="cond" truecount="50"/>
+            <line num="122" count="51" type="stmt"/>
+            <line num="124" count="51" type="stmt"/>
+            <line num="124" falsecount="51" type="cond" truecount="0"/>
+            <line num="126" count="0" type="stmt"/>
+            <line num="128" count="51" type="stmt"/>
+            <line num="128" falsecount="51" type="cond" truecount="0"/>
+            <line num="130" count="0" type="stmt"/>
+            <line num="134" count="51" type="stmt"/>
+            <line num="136" count="51" type="stmt"/>
+            <line num="137" count="51" type="stmt"/>
+            <line num="137" falsecount="50" type="cond" truecount="1"/>
+            <line num="139" count="1" type="stmt"/>
+            <line num="144" count="351" type="stmt"/>
+            <line num="144" falsecount="164" type="cond" truecount="187"/>
+            <line num="146" count="187" type="stmt"/>
+            <line num="146" falsecount="33" type="cond" truecount="154"/>
+            <line num="148" count="154" type="stmt"/>
+            <line num="150" count="33" type="stmt"/>
+            <line num="150" falsecount="33" type="cond" truecount="0"/>
+            <line num="152" count="0" type="stmt"/>
+            <line num="153" count="0" type="stmt"/>
+            <line num="153" falsecount="0" type="cond" truecount="0"/>
+            <line num="155" count="0" type="stmt"/>
+            <line num="157" count="0" type="stmt"/>
+            <line num="158" count="0" type="stmt"/>
+            <line num="163" count="33" type="stmt"/>
+            <line num="168" count="164" type="stmt"/>
+            <line num="171" count="402" type="stmt"/>
+            <line num="174" count="77" type="stmt"/>
+            <line num="182" count="402" visibility="private" complexity="3" type="method" signature="gobble(Iterator&lt;String&gt;) : void"/>
+            <line num="184" count="402" type="stmt"/>
+            <line num="184" falsecount="402" type="cond" truecount="0"/>
+            <line num="186" count="0" type="stmt"/>
+            <line num="186" falsecount="0" type="cond" truecount="0"/>
+            <line num="188" count="0" type="stmt"/>
+            <line num="200" count="164" visibility="private" complexity="4" type="method" signature="processNonOptionToken(String,boolean) : void"/>
+            <line num="202" count="164" type="stmt"/>
+            <line num="202" falsecount="164" type="cond" truecount="0"/>
+            <line num="204" count="0" type="stmt"/>
+            <line num="205" count="0" type="stmt"/>
+            <line num="208" count="164" type="stmt"/>
+            <line num="223" count="154" visibility="private" complexity="4" type="method" signature="processOptionToken(String,boolean) : void"/>
+            <line num="225" count="154" type="stmt"/>
+            <line num="225" falsecount="154" type="cond" truecount="0"/>
+            <line num="227" count="0" type="stmt"/>
+            <line num="230" count="154" type="stmt"/>
+            <line num="230" falsecount="0" type="cond" truecount="154"/>
+            <line num="232" count="154" type="stmt"/>
+            <line num="235" count="154" type="stmt"/>
+            <line num="264" count="33" visibility="protected" complexity="6" type="method" signature="burstToken(String,boolean) : void"/>
+            <line num="266" count="33" type="stmt"/>
+            <line num="266" falsecount="1" type="cond" truecount="35"/>
+            <line num="268" count="35" type="stmt"/>
+            <line num="270" count="35" type="stmt"/>
+            <line num="270" falsecount="0" type="cond" truecount="35"/>
+            <line num="272" count="35" type="stmt"/>
+            <line num="273" count="35" type="stmt"/>
+            <line num="275" count="35" type="stmt"/>
+            <line num="275" falsecount="3" type="cond" truecount="32"/>
+            <line num="277" count="32" type="stmt"/>
+            <line num="279" count="32" type="stmt"/>
+            <line num="282" count="0" type="stmt"/>
+            <line num="282" falsecount="0" type="cond" truecount="0"/>
+            <line num="284" count="0" type="stmt"/>
+            <line num="285" count="0" type="stmt"/>
+            <line num="289" count="0" type="stmt"/>
+            <line num="290" count="0" type="stmt"/>
+         </file>
+         <file name="TypeHandler.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/TypeHandler.java">
+            <metrics classes="1" methods="9" conditionals="20" ncloc="124" coveredstatements="40" coveredmethods="9" complexity="24" coveredconditionals="19" statements="41" loc="241" coveredelements="68" elements="70"/>
+            <class name="TypeHandler">
+               <metrics methods="9" conditionals="20" coveredstatements="40" coveredmethods="9" complexity="24" coveredconditionals="19" statements="41" coveredelements="68" elements="70"/>
+            </class>
+            <line num="47" count="29" visibility="public" complexity="1" type="method" signature="createValue(String,Object) : Object"/>
+            <line num="49" count="29" type="stmt"/>
+            <line num="62" count="29" visibility="public" complexity="10" type="method" signature="createValue(String,Class&lt;?&gt;) : Object"/>
+            <line num="64" count="29" type="stmt"/>
+            <line num="64" falsecount="26" type="cond" truecount="3"/>
+            <line num="66" count="3" type="stmt"/>
+            <line num="68" count="26" type="stmt"/>
+            <line num="68" falsecount="21" type="cond" truecount="5"/>
+            <line num="70" count="5" type="stmt"/>
+            <line num="72" count="21" type="stmt"/>
+            <line num="72" falsecount="13" type="cond" truecount="8"/>
+            <line num="74" count="8" type="stmt"/>
+            <line num="76" count="13" type="stmt"/>
+            <line num="76" falsecount="12" type="cond" truecount="1"/>
+            <line num="78" count="1" type="stmt"/>
+            <line num="80" count="12" type="stmt"/>
+            <line num="80" falsecount="8" type="cond" truecount="4"/>
+            <line num="82" count="4" type="stmt"/>
+            <line num="84" count="8" type="stmt"/>
+            <line num="84" falsecount="6" type="cond" truecount="2"/>
+            <line num="86" count="2" type="stmt"/>
+            <line num="88" count="6" type="stmt"/>
+            <line num="88" falsecount="5" type="cond" truecount="1"/>
+            <line num="90" count="1" type="stmt"/>
+            <line num="92" count="5" type="stmt"/>
+            <line num="92" falsecount="4" type="cond" truecount="1"/>
+            <line num="94" count="1" type="stmt"/>
+            <line num="96" count="4" type="stmt"/>
+            <line num="96" falsecount="0" type="cond" truecount="4"/>
+            <line num="98" count="4" type="stmt"/>
+            <line num="102" count="0" type="stmt"/>
+            <line num="113" count="5" visibility="public" complexity="3" type="method" signature="createObject(String) : Object"/>
+            <line num="115" count="5" type="stmt"/>
+            <line num="117" count="5" type="stmt"/>
+            <line num="119" count="5" type="stmt"/>
+            <line num="123" count="1" type="stmt"/>
+            <line num="126" count="4" type="stmt"/>
+            <line num="128" count="4" type="stmt"/>
+            <line num="132" count="1" type="stmt"/>
+            <line num="144" count="8" visibility="public" complexity="3" type="method" signature="createNumber(String) : Number"/>
+            <line num="146" count="8" type="stmt"/>
+            <line num="148" count="8" type="stmt"/>
+            <line num="148" falsecount="4" type="cond" truecount="4"/>
+            <line num="150" count="4" type="stmt"/>
+            <line num="152" count="4" type="stmt"/>
+            <line num="156" count="1" type="stmt"/>
+            <line num="167" count="4" visibility="public" complexity="2" type="method" signature="createClass(String) : Class&lt;?&gt;"/>
+            <line num="169" count="4" type="stmt"/>
+            <line num="171" count="4" type="stmt"/>
+            <line num="175" count="1" type="stmt"/>
+            <line num="190" count="1" visibility="public" complexity="1" type="method" signature="createDate(String) : Date"/>
+            <line num="192" count="1" type="stmt"/>
+            <line num="202" count="4" visibility="public" complexity="2" type="method" signature="createURL(String) : URL"/>
+            <line num="204" count="4" type="stmt"/>
+            <line num="206" count="4" type="stmt"/>
+            <line num="210" count="1" type="stmt"/>
+            <line num="220" count="3" visibility="public" complexity="1" type="method" signature="createFile(String) : File"/>
+            <line num="222" count="3" type="stmt"/>
+            <line num="235" count="1" visibility="public" complexity="1" type="method" signature="createFiles(String) : File[]"/>
+            <line num="239" count="1" type="stmt"/>
+         </file>
+         <file name="UnrecognizedOptionException.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/UnrecognizedOptionException.java">
+            <metrics classes="1" methods="3" conditionals="0" ncloc="19" coveredstatements="0" coveredmethods="0" complexity="3" coveredconditionals="0" statements="4" loc="71" coveredelements="0" elements="7"/>
+            <class name="UnrecognizedOptionException">
+               <metrics methods="3" conditionals="0" coveredstatements="0" coveredmethods="0" complexity="3" coveredconditionals="0" statements="4" coveredelements="0" elements="7"/>
+            </class>
+            <line num="42" count="0" visibility="public" complexity="1" type="method" signature="UnrecognizedOptionException(String)"/>
+            <line num="44" count="0" type="stmt"/>
+            <line num="55" count="0" visibility="public" complexity="1" type="method" signature="UnrecognizedOptionException(String,String)"/>
+            <line num="57" count="0" type="stmt"/>
+            <line num="58" count="0" type="stmt"/>
+            <line num="67" count="0" visibility="public" complexity="1" type="method" signature="getOption() : String"/>
+            <line num="69" count="0" type="stmt"/>
+         </file>
+         <file name="Util.java" path="/home/stg/omc_experiments/subjects/commons-cli/src/main/java/org/apache/commons/cli/Util.java">
+            <metrics classes="1" methods="2" conditionals="8" ncloc="29" coveredstatements="11" coveredmethods="2" complexity="9" coveredconditionals="8" statements="11" loc="72" coveredelements="21" elements="21"/>
+            <class name="Util">
+               <metrics methods="2" conditionals="8" coveredstatements="11" coveredmethods="2" complexity="9" coveredconditionals="8" statements="11" coveredelements="21" elements="21"/>
+            </class>
+            <line num="35" count="1585" visibility="package" complexity="4" type="method" signature="stripLeadingHyphens(String) : String"/>
+            <line num="37" count="1585" type="stmt"/>
+            <line num="37" falsecount="1583" type="cond" truecount="2"/>
+            <line num="39" count="2" type="stmt"/>
+            <line num="41" count="1583" type="stmt"/>
+            <line num="41" falsecount="1405" type="cond" truecount="178"/>
+            <line num="43" count="178" type="stmt"/>
+            <line num="45" count="1405" type="stmt"/>
+            <line num="45" falsecount="496" type="cond" truecount="909"/>
+            <line num="47" count="909" type="stmt"/>
+            <line num="50" count="496" type="stmt"/>
+            <line num="62" count="194" visibility="package" complexity="5" type="method" signature="stripLeadingAndTrailingQuotes(String) : String"/>
+            <line num="64" count="194" type="stmt"/>
+            <line num="65" count="194" type="stmt"/>
+            <line num="65" falsecount="191" type="cond" truecount="3"/>
+            <line num="67" count="3" type="stmt"/>
+            <line num="70" count="194" type="stmt"/>
+         </file>
+      </package>
+   </project>
+   <testproject timestamp="1661784069878" name="Apache Commons CLI 1.4">
+      <metrics conditionals="0" methods="0" classes="0" files="0" packages="0" coveredstatements="0" complexity="0" loc="0" ncloc="0" coveredmethods="0" coveredconditionals="0" statements="0" coveredelements="0" elements="0"/>
+   </testproject>
+</coverage>

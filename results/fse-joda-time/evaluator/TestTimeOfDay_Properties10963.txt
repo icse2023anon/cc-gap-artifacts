@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Properties.testPropertyGetMaxMinValuesSecond:464
+Methods call in assertion: [org/joda/time/TimeOfDay.secondOfMinute, org/joda/time/TimeOfDay$Property.getMinimumValueOverall]
+org/joda/time/field/PreciseDurationDateTimeField.getMinimumValue
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/field/AbstractPartialFieldProperty.getMinimumValueOverall
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationDateTimeField.getMinimumValue
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/field/AbstractPartialFieldProperty.getMinimumValueOverall
+after post processing ......
+org/joda/time/field/PreciseDurationDateTimeField.getMinimumValue
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/field/AbstractPartialFieldProperty.getMinimumValueOverall
+not matched

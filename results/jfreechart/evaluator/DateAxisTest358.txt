@@ -1,0 +1,39 @@
+slicing criterion: org.jfree.chart.axis.DateAxisTest.testEquals:118
+Methods call in assertion: [org/jfree/chart/axis/DateAxis.equals]
+org/jfree/chart/axis/DateTickUnit.dateToString
+org/jfree/chart/axis/DateAxis.equals
+org/jfree/chart/axis/DateAxis.refreshTicksHorizontal
+org/jfree/chart/axis/ValueAxis.equals
+org/jfree/chart/axis/ValueAxis.isAutoTickUnitSelection
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/DateAxis.selectHorizontalAutoTickUnit
+org/jfree/chart/axis/Axis.getTickLabelFont
+org/jfree/chart/axis/DateAxis.refreshTicks
+org/jfree/chart/ui/RectangleEdge.isTopOrBottom
+org/jfree/chart/axis/DateAxis.selectAutoTickUnit
+org/jfree/chart/axis/DateAxis.createStandardDateTickUnits
+top 10 recommendations: 
+org/jfree/chart/axis/DateAxis.refreshTicks
+org/jfree/chart/axis/DateAxis.refreshTicksHorizontal
+org/jfree/chart/axis/DateAxis.equals
+org/jfree/chart/axis/DateAxis.selectAutoTickUnit
+org/jfree/chart/axis/ValueAxis.equals
+org/jfree/chart/axis/DateTickUnit.dateToString
+org/jfree/chart/axis/ValueAxis.isAutoTickUnitSelection
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/DateAxis.selectHorizontalAutoTickUnit
+org/jfree/chart/axis/Axis.getTickLabelFont
+after post processing ......
+org/jfree/chart/axis/DateAxis.refreshTicks
+org/jfree/chart/axis/DateAxis.refreshTicksHorizontal
+org/jfree/chart/axis/DateAxis.equals
+org/jfree/chart/axis/DateAxis.selectAutoTickUnit
+org/jfree/chart/axis/ValueAxis.equals
+org/jfree/chart/axis/DateTickUnit.dateToString
+org/jfree/chart/axis/ValueAxis.isAutoTickUnitSelection
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/DateAxis.selectHorizontalAutoTickUnit
+org/jfree/chart/axis/Axis.getTickLabelFont
+org/jfree/chart/ui/RectangleEdge.isTopOrBottom
+org/jfree/chart/axis/DateAxis.createStandardDateTickUnits
+found in top 10

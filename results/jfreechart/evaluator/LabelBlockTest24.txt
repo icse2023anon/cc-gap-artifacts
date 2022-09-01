@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.block.LabelBlockTest.testEquals:85
+Methods call in assertion: [org/jfree/chart/block/LabelBlock.equals]
+org/jfree/chart/block/LabelBlock.equals
+top 10 recommendations: 
+org/jfree/chart/block/LabelBlock.equals
+after post processing ......
+org/jfree/chart/block/LabelBlock.equals
+perfect match

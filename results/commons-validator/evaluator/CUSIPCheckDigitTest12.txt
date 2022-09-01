@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.validator.routines.checkdigit.CUSIPCheckDigitTest.testVALIDATOR_336_InvalidCheckDigits:63
+Methods call in assertion: [org/apache/commons/validator/routines/checkdigit/CheckDigit.isValid]
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/CUSIPCheckDigit.toInt
+top 10 recommendations: 
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/CUSIPCheckDigit.toInt
+after post processing ......
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/CUSIPCheckDigit.toInt
+found in top 10

@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.RangeTest.testIntersectionWith:415
+Methods call in assertion: [org/apache/commons/lang3/Range.intersectionWith]
+org/apache/commons/lang3/Range.between
+org/apache/commons/lang3/Range.intersectionWith
+org/apache/commons/lang3/Range.equals
+top 10 recommendations: 
+org/apache/commons/lang3/Range.intersectionWith
+org/apache/commons/lang3/Range.between
+org/apache/commons/lang3/Range.equals
+after post processing ......
+org/apache/commons/lang3/Range.intersectionWith
+org/apache/commons/lang3/Range.between
+org/apache/commons/lang3/Range.equals
+perfect match

@@ -1,0 +1,51 @@
+slicing criterion: org.joda.time.TestChronology.testEqualsHashCode_Zoned:230
+Methods call in assertion: [org/joda/time/DateTime.equals]
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/chrono/AssembledChronology.getParam
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/ZonedChronology.getInstance
+org/joda/time/field/FieldUtils.equals
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/ZonedChronology.getZone
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/chrono/ZonedChronology.equals
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/CachedDateTimeZone.forZone
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/base/AbstractInstant.equals
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/chrono/ZonedChronology.equals
+org/joda/time/DateTimeZone.forID
+org/joda/time/base/AbstractInstant.equals
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/chrono/AssembledChronology.getParam
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/ZonedChronology.getInstance
+after post processing ......
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/chrono/ZonedChronology.equals
+org/joda/time/DateTimeZone.forID
+org/joda/time/base/AbstractInstant.equals
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/chrono/AssembledChronology.getParam
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/ZonedChronology.getInstance
+org/joda/time/field/FieldUtils.equals
+org/joda/time/chrono/ZonedChronology.getZone
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/tz/CachedDateTimeZone.forZone
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/DateTimeUtils.getChronology
+not matched

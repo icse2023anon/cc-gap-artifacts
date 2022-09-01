@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.lang3.reflect.FieldUtilsTest.testWriteDeclaredNamedFieldForceAccess:1374
+Methods call in assertion: [org/apache/commons/lang3/reflect/FieldUtils.readDeclaredField]
+org/apache/commons/lang3/reflect/FieldUtils.getDeclaredField
+org/apache/commons/lang3/reflect/FieldUtils.readField
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+org/apache/commons/lang3/reflect/FieldUtils.getField
+org/apache/commons/lang3/reflect/FieldUtils.readDeclaredField
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/FieldUtils.readDeclaredField
+org/apache/commons/lang3/reflect/FieldUtils.getDeclaredField
+org/apache/commons/lang3/reflect/FieldUtils.readField
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+org/apache/commons/lang3/reflect/FieldUtils.getField
+after post processing ......
+org/apache/commons/lang3/reflect/FieldUtils.readDeclaredField
+org/apache/commons/lang3/reflect/FieldUtils.getDeclaredField
+org/apache/commons/lang3/reflect/FieldUtils.readField
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+org/apache/commons/lang3/reflect/FieldUtils.getField
+perfect match

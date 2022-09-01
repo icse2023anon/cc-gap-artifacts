@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Properties.testPropertyGetMaxMinValuesMinute:775
+Methods call in assertion: [org/joda/time/LocalDateTime.minuteOfHour, org/joda/time/LocalDateTime$Property.getMinimumValueOverall]
+org/joda/time/field/PreciseDurationDateTimeField.getMinimumValue
+org/joda/time/LocalDateTime.toDateTime
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMinimumValueOverall
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationDateTimeField.getMinimumValue
+org/joda/time/LocalDateTime.toDateTime
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMinimumValueOverall
+after post processing ......
+org/joda/time/field/PreciseDurationDateTimeField.getMinimumValue
+org/joda/time/LocalDateTime.toDateTime
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMinimumValueOverall
+not matched

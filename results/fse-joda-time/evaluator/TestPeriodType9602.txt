@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestPeriodType.testYearMonthDayTime:220
+Methods call in assertion: [org/joda/time/PeriodType.yearMonthDayTime]
+org/joda/time/PeriodType.yearMonthDayTime
+top 10 recommendations: 
+org/joda/time/PeriodType.yearMonthDayTime
+after post processing ......
+org/joda/time/PeriodType.yearMonthDayTime
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestHours.testToStandardDuration:296
+Methods call in assertion: [org/joda/time/Hours.toStandardDuration]
+org/joda/time/Hours.hours
+org/joda/time/Hours.toStandardDuration
+top 10 recommendations: 
+org/joda/time/Hours.hours
+org/joda/time/Hours.toStandardDuration
+after post processing ......
+org/joda/time/Hours.hours
+org/joda/time/Hours.toStandardDuration
+found in top 10

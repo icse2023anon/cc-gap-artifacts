@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.entity.StandardEntityCollectionTest.testEquals:66
+Methods call in assertion: [org/jfree/chart/entity/StandardEntityCollection.equals]
+org/jfree/chart/entity/StandardEntityCollection.equals
+org/jfree/chart/util/ObjectUtils.equal
+top 10 recommendations: 
+org/jfree/chart/entity/StandardEntityCollection.equals
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/entity/StandardEntityCollection.equals
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

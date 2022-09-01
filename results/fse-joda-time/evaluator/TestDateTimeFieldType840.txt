@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_year:127
+Methods call in assertion: [org/joda/time/chrono/CopticChronology.year, org/joda/time/DateTimeFieldType.year, org/joda/time/DateTimeFieldType.getField, org/joda/time/chrono/CopticChronology.getInstanceUTC]
+org/joda/time/DateTimeFieldType.year
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/DateTimeFieldType.year
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/DateTimeFieldType.year
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/DateTimeUtils.getChronology
+not matched

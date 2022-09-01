@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.codec.net.URLCodecTest.testUTF8RoundTrip:75
+Methods call in assertion: [org/apache/commons/codec/net/URLCodec.encode]
+org/apache/commons/codec/binary/StringUtils.newStringUsAscii
+org/apache/commons/codec/net/URLCodec.encode
+org/apache/commons/codec/net/URLCodec.encodeUrl
+top 10 recommendations: 
+org/apache/commons/codec/net/URLCodec.encode
+org/apache/commons/codec/binary/StringUtils.newStringUsAscii
+org/apache/commons/codec/net/URLCodec.encodeUrl
+after post processing ......
+org/apache/commons/codec/net/URLCodec.encode
+org/apache/commons/codec/binary/StringUtils.newStringUsAscii
+org/apache/commons/codec/net/URLCodec.encodeUrl
+perfect match

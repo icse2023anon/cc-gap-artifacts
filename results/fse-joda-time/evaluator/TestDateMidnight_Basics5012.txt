@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.TestDateMidnight_Basics.testGet_DateTimeFieldType:255
+Methods call in assertion: [org/joda/time/DateTimeFieldType.halfdayOfDay, org/joda/time/DateMidnight.get]
+org/joda/time/base/AbstractDateTime.get
+org/joda/time/DateTimeFieldType.halfdayOfDay
+org/joda/time/chrono/AssembledChronology.halfdayOfDay
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/base/AbstractDateTime.get
+org/joda/time/DateTimeFieldType.halfdayOfDay
+org/joda/time/chrono/AssembledChronology.halfdayOfDay
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+after post processing ......
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/base/AbstractDateTime.get
+org/joda/time/DateTimeFieldType.halfdayOfDay
+org/joda/time/chrono/AssembledChronology.halfdayOfDay
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+found in top 10

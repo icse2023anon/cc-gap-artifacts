@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.chrono.TestJulianChronology.testWithUTC:155
+Methods call in assertion: [org/joda/time/chrono/JulianChronology.getInstanceUTC, org/joda/time/chrono/JulianChronology.withUTC, org/joda/time/chrono/JulianChronology.getInstance]
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+org/joda/time/chrono/JulianChronology.withUTC
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/JulianChronology.getInstance
+top 10 recommendations: 
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+org/joda/time/chrono/JulianChronology.withUTC
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/JulianChronology.getInstance
+after post processing ......
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+org/joda/time/chrono/JulianChronology.withUTC
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/JulianChronology.getInstance
+found in top 10

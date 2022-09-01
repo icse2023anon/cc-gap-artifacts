@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestMinMaxLong.testDateTime_max_fieldsNewYork:200
+Methods call in assertion: [org/joda/time/chrono/ISOChronology.year, org/joda/time/DateTimeField.getMaximumValue, org/joda/time/chrono/ISOChronology.getInstanceUTC]
+org/joda/time/chrono/GregorianChronology.getMaxYear
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/BasicYearDateTimeField.getMaximumValue
+org/joda/time/chrono/AssembledChronology.year
+top 10 recommendations: 
+org/joda/time/chrono/GregorianChronology.getMaxYear
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/BasicYearDateTimeField.getMaximumValue
+org/joda/time/chrono/AssembledChronology.year
+after post processing ......
+org/joda/time/chrono/GregorianChronology.getMaxYear
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/BasicYearDateTimeField.getMaximumValue
+org/joda/time/chrono/AssembledChronology.year
+not matched

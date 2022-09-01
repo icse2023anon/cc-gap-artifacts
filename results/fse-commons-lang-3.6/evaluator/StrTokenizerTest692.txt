@@ -1,0 +1,45 @@
+slicing criterion: org.apache.commons.lang3.text.StrTokenizerTest.testXSVAbc:844
+Methods call in assertion: [org/apache/commons/lang3/text/StrTokenizer.nextIndex]
+org/apache/commons/lang3/text/StrTokenizer.nextToken
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrTokenizer.getCSVInstance
+org/apache/commons/lang3/text/StrTokenizer.getTSVInstance
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrTokenizer.previousToken
+org/apache/commons/lang3/text/StrTokenizer.getQuoteMatcher
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+org/apache/commons/lang3/text/StrTokenizer.hasPrevious
+org/apache/commons/lang3/text/StrTokenizer.reset
+org/apache/commons/lang3/text/StrTokenizer.nextIndex
+org/apache/commons/lang3/text/StrTokenizer.cloneReset
+org/apache/commons/lang3/text/StrBuilder.substring
+org/apache/commons/lang3/ArrayUtils.clone
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrTokenizer.getCSVInstance
+org/apache/commons/lang3/text/StrTokenizer.getTSVInstance
+org/apache/commons/lang3/text/StrTokenizer.cloneReset
+org/apache/commons/lang3/text/StrTokenizer.nextToken
+org/apache/commons/lang3/text/StrTokenizer.previousToken
+org/apache/commons/lang3/text/StrTokenizer.reset
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrTokenizer.getQuoteMatcher
+after post processing ......
+org/apache/commons/lang3/text/StrTokenizer.getCSVInstance
+org/apache/commons/lang3/text/StrTokenizer.getTSVInstance
+org/apache/commons/lang3/text/StrTokenizer.cloneReset
+org/apache/commons/lang3/text/StrTokenizer.nextToken
+org/apache/commons/lang3/text/StrTokenizer.previousToken
+org/apache/commons/lang3/text/StrTokenizer.reset
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrTokenizer.getQuoteMatcher
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+org/apache/commons/lang3/text/StrTokenizer.hasPrevious
+org/apache/commons/lang3/text/StrTokenizer.nextIndex
+org/apache/commons/lang3/text/StrBuilder.substring
+org/apache/commons/lang3/ArrayUtils.clone
+all method calls are suggested

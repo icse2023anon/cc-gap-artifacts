@@ -1,0 +1,20 @@
+slicing criterion: org.jfree.chart.renderer.AbstractRendererTest.testOutlinePaintLookup:776
+Methods call in assertion: [org/jfree/chart/renderer/category/BarRenderer.lookupSeriesOutlinePaint]
+org/jfree/chart/util/PaintList.getPaint
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.getSeriesOutlinePaint
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesOutlinePaint
+org/jfree/chart/util/AbstractObjectList.get
+top 10 recommendations: 
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesOutlinePaint
+org/jfree/chart/renderer/AbstractRenderer.getSeriesOutlinePaint
+org/jfree/chart/util/PaintList.getPaint
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/util/AbstractObjectList.get
+after post processing ......
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesOutlinePaint
+org/jfree/chart/renderer/AbstractRenderer.getSeriesOutlinePaint
+org/jfree/chart/util/PaintList.getPaint
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/util/AbstractObjectList.get
+found in top 10

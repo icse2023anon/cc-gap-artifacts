@@ -1,0 +1,26 @@
+slicing criterion: org.jfree.chart.axis.NumberAxisTest.testEquals:120
+Methods call in assertion: [org/jfree/chart/axis/NumberAxis.equals]
+org/jfree/chart/axis/NumberTickUnit.equals
+org/jfree/chart/axis/NumberAxis.setAutoRangeStickyZero
+org/jfree/chart/labels/AbstractCategoryItemLabelGenerator.generateLabelString
+org/jfree/chart/ChartFactory.createBarChart
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/NumberAxis.setAutoRangeIncludesZero
+top 10 recommendations: 
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/axis/NumberTickUnit.equals
+org/jfree/chart/axis/NumberAxis.setAutoRangeStickyZero
+org/jfree/chart/labels/AbstractCategoryItemLabelGenerator.generateLabelString
+org/jfree/chart/ChartFactory.createBarChart
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/NumberAxis.setAutoRangeIncludesZero
+after post processing ......
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/axis/NumberTickUnit.equals
+org/jfree/chart/axis/NumberAxis.setAutoRangeStickyZero
+org/jfree/chart/labels/AbstractCategoryItemLabelGenerator.generateLabelString
+org/jfree/chart/ChartFactory.createBarChart
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/NumberAxis.setAutoRangeIncludesZero
+perfect match

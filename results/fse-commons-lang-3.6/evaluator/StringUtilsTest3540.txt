@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testLANG666:3028
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.stripEnd]
+org/apache/commons/lang3/StringUtils.stripEnd
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.stripEnd
+after post processing ......
+org/apache/commons/lang3/StringUtils.stripEnd
+perfect match

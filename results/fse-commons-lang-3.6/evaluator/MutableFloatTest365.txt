@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableFloatTest.testEquals:124
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableFloat.equals]
+org/apache/commons/lang3/mutable/MutableFloat.equals
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableFloat.equals
+after post processing ......
+org/apache/commons/lang3/mutable/MutableFloat.equals
+perfect match

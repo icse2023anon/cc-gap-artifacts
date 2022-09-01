@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.validator.routines.CalendarValidatorTest.testCompare:132
+Methods call in assertion: [org/apache/commons/validator/routines/CalendarValidator.compare]
+org/apache/commons/validator/routines/AbstractCalendarValidator.compareTime
+org/apache/commons/validator/routines/AbstractCalendarValidator.compare
+top 10 recommendations: 
+org/apache/commons/validator/routines/AbstractCalendarValidator.compare
+org/apache/commons/validator/routines/AbstractCalendarValidator.compareTime
+after post processing ......
+org/apache/commons/validator/routines/AbstractCalendarValidator.compare
+org/apache/commons/validator/routines/AbstractCalendarValidator.compareTime
+found in top 10

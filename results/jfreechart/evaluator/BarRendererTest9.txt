@@ -1,0 +1,43 @@
+slicing criterion: org.jfree.chart.renderer.category.BarRendererTest.testFindRangeBounds:294
+Methods call in assertion: [org/jfree/chart/renderer/category/BarRenderer.findRangeBounds]
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/data/Range.getLowerBound
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/chart/renderer/AbstractRenderer.getDataBoundsIncludesVisibleSeriesOnly
+org/jfree/data/category/DefaultCategoryDataset.getRowIndex
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/category/DefaultCategoryDataset.getValue
+org/jfree/data/category/DefaultCategoryDataset.getColumnCount
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/data/Range.expandToInclude
+org/jfree/chart/renderer/category/BarRenderer.findRangeBounds
+org/jfree/data/general/DatasetUtils.iterateToFindRangeBounds
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+top 10 recommendations: 
+org/jfree/chart/renderer/category/BarRenderer.findRangeBounds
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/data/Range.expandToInclude
+org/jfree/data/Range.getLowerBound
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/chart/renderer/AbstractRenderer.getDataBoundsIncludesVisibleSeriesOnly
+org/jfree/data/category/DefaultCategoryDataset.getRowIndex
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/category/DefaultCategoryDataset.getValue
+after post processing ......
+org/jfree/chart/renderer/category/BarRenderer.findRangeBounds
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/data/Range.expandToInclude
+org/jfree/data/Range.getLowerBound
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/chart/renderer/AbstractRenderer.getDataBoundsIncludesVisibleSeriesOnly
+org/jfree/data/category/DefaultCategoryDataset.getRowIndex
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/category/DefaultCategoryDataset.getValue
+org/jfree/data/category/DefaultCategoryDataset.getColumnCount
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/data/general/DatasetUtils.iterateToFindRangeBounds
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+perfect match

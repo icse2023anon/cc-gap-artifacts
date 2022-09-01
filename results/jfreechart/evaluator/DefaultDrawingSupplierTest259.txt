@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.DefaultDrawingSupplierTest.testEquals:129
+Methods call in assertion: [org/jfree/chart/plot/DefaultDrawingSupplier.equals]
+org/jfree/chart/plot/DefaultDrawingSupplier.equals
+top 10 recommendations: 
+org/jfree/chart/plot/DefaultDrawingSupplier.equals
+after post processing ......
+org/jfree/chart/plot/DefaultDrawingSupplier.equals
+perfect match

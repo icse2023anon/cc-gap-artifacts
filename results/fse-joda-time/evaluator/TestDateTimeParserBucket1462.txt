@@ -1,0 +1,53 @@
+slicing criterion: org.joda.time.format.TestDateTimeParserBucket.testReset:282
+Methods call in assertion: [org/joda/time/format/DateTimeParserBucket.computeMillis]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/DateTimeField.setExtended
+org/joda/time/format/DateTimeParserBucket.saveState
+org/joda/time/field/BaseDurationField.compareTo
+org/joda/time/DurationFieldType.days
+org/joda/time/chrono/AssembledChronology.months
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/format/DateTimeParserBucket.compareReverse
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/field/PreciseDurationDateTimeField.getDurationField
+org/joda/time/format/DateTimeParserBucket.computeMillis
+org/joda/time/DurationFieldType.months
+org/joda/time/field/PreciseDateTimeField.set
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/format/DateTimeParserBucket.computeMillis
+org/joda/time/field/PreciseDateTimeField.set
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/DateTimeField.setExtended
+org/joda/time/format/DateTimeParserBucket.saveState
+org/joda/time/field/BaseDurationField.compareTo
+after post processing ......
+org/joda/time/format/DateTimeParserBucket.computeMillis
+org/joda/time/field/PreciseDateTimeField.set
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/DateTimeField.setExtended
+org/joda/time/format/DateTimeParserBucket.saveState
+org/joda/time/field/BaseDurationField.compareTo
+org/joda/time/DurationFieldType.days
+org/joda/time/chrono/AssembledChronology.months
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/format/DateTimeParserBucket.compareReverse
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/field/PreciseDurationDateTimeField.getDurationField
+org/joda/time/DurationFieldType.months
+org/joda/time/DateTimeUtils.getChronology
+perfect match

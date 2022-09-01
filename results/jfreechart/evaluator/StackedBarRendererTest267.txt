@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.category.StackedBarRendererTest.testEquals:68
+Methods call in assertion: [org/jfree/chart/renderer/category/StackedBarRenderer.equals]
+org/jfree/chart/renderer/category/StackedBarRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/category/StackedBarRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/category/StackedBarRenderer.equals
+perfect match

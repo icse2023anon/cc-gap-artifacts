@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableShortTest.testPrimitiveValues:151
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableShort.intValue]
+org/apache/commons/lang3/mutable/MutableShort.intValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableShort.intValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableShort.intValue
+perfect match

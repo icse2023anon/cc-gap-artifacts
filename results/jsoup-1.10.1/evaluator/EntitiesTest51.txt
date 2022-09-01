@@ -1,0 +1,47 @@
+slicing criterion: org.jsoup.nodes.EntitiesTest.strictUnescape:102
+Methods call in assertion: [org/jsoup/nodes/Entities.unescape]
+org/jsoup/nodes/Entities.isBaseNamedEntity
+org/jsoup/parser/CharacterReader.matchConsume
+org/jsoup/parser/Tokeniser.consumeCharacterReference
+org/jsoup/parser/CharacterReader.matchesAnySorted
+org/jsoup/parser/CharacterReader.matchesAny
+org/jsoup/parser/Parser.unescapeEntities
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/CharacterReader.rangeEquals
+org/jsoup/parser/Tokeniser.unescapeEntities
+org/jsoup/parser/CharacterReader.consumeTo
+org/jsoup/parser/CharacterReader.matchesDigit
+org/jsoup/parser/CharacterReader.nextIndexOf
+org/jsoup/nodes/Entities.unescape
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/CharacterReader.consumeLetterThenDigitSequence
+org/jsoup/parser/CharacterReader.matches
+top 10 recommendations: 
+org/jsoup/nodes/Entities.unescape
+org/jsoup/parser/Parser.unescapeEntities
+org/jsoup/parser/Tokeniser.unescapeEntities
+org/jsoup/parser/Tokeniser.consumeCharacterReference
+org/jsoup/parser/CharacterReader.matchConsume
+org/jsoup/parser/CharacterReader.matchesAnySorted
+org/jsoup/parser/CharacterReader.matchesAny
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/CharacterReader.consumeTo
+org/jsoup/parser/CharacterReader.matchesDigit
+after post processing ......
+org/jsoup/nodes/Entities.unescape
+org/jsoup/parser/Parser.unescapeEntities
+org/jsoup/parser/Tokeniser.unescapeEntities
+org/jsoup/parser/Tokeniser.consumeCharacterReference
+org/jsoup/parser/CharacterReader.matchConsume
+org/jsoup/parser/CharacterReader.matchesAnySorted
+org/jsoup/parser/CharacterReader.matchesAny
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/CharacterReader.consumeTo
+org/jsoup/parser/CharacterReader.matchesDigit
+org/jsoup/parser/CharacterReader.consumeLetterThenDigitSequence
+org/jsoup/parser/CharacterReader.matches
+org/jsoup/nodes/Entities.isBaseNamedEntity
+org/jsoup/parser/CharacterReader.rangeEquals
+org/jsoup/parser/CharacterReader.nextIndexOf
+org/jsoup/parser/CharacterReader.isEmpty
+perfect match

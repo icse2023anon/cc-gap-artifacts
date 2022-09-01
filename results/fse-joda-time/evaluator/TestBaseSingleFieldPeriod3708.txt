@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestBaseSingleFieldPeriod.testIsSupported:199
+Methods call in assertion: [org/joda/time/DurationFieldType.months]
+org/joda/time/base/BaseSingleFieldPeriod.isSupported
+org/joda/time/DurationFieldType.months
+org/joda/time/DurationFieldType.days
+top 10 recommendations: 
+org/joda/time/base/BaseSingleFieldPeriod.isSupported
+org/joda/time/DurationFieldType.months
+org/joda/time/DurationFieldType.days
+after post processing ......
+org/joda/time/base/BaseSingleFieldPeriod.isSupported
+org/joda/time/DurationFieldType.months
+org/joda/time/DurationFieldType.days
+found in top 10

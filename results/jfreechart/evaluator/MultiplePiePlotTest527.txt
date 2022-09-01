@@ -1,0 +1,65 @@
+slicing criterion: org.jfree.chart.plot.MultiplePiePlotTest.testEquals:139
+Methods call in assertion: [org/jfree/chart/plot/MultiplePiePlot.equals]
+org/jfree/chart/title/TextTitle.setFont
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/plot/PiePlot.clearSectionPaints
+org/jfree/chart/plot/MultiplePiePlot.equals
+org/jfree/chart/plot/PiePlot.getAutoPopulateSectionPaint
+org/jfree/chart/JFreeChart.equals
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+org/jfree/chart/StandardChartTheme.apply
+org/jfree/chart/JFreeChart.setBackgroundPaint
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.equals
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/plot/PiePlot.equals
+org/jfree/chart/JFreeChart.getPlot
+org/jfree/chart/StandardChartTheme.applyToPlot
+org/jfree/chart/ChartFactory.createPieChart
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/StandardChartTheme.applyToPiePlot
+org/jfree/chart/JFreeChart.<init>
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/JFreeChart.getSubtitleCount
+org/jfree/chart/labels/StandardPieToolTipGenerator.<init>
+org/jfree/chart/urls/StandardPieURLGenerator.equals
+org/jfree/chart/JFreeChart.getTitle
+top 10 recommendations: 
+org/jfree/chart/StandardChartTheme.apply
+org/jfree/chart/plot/MultiplePiePlot.equals
+org/jfree/chart/plot/PiePlot.equals
+org/jfree/chart/StandardChartTheme.applyToPlot
+org/jfree/chart/JFreeChart.equals
+org/jfree/chart/ChartFactory.createPieChart
+org/jfree/chart/StandardChartTheme.applyToPiePlot
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+after post processing ......
+org/jfree/chart/StandardChartTheme.apply
+org/jfree/chart/plot/MultiplePiePlot.equals
+org/jfree/chart/plot/PiePlot.equals
+org/jfree/chart/StandardChartTheme.applyToPlot
+org/jfree/chart/JFreeChart.equals
+org/jfree/chart/ChartFactory.createPieChart
+org/jfree/chart/StandardChartTheme.applyToPiePlot
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/urls/StandardPieURLGenerator.equals
+org/jfree/chart/title/TextTitle.setFont
+org/jfree/chart/plot/PiePlot.clearSectionPaints
+org/jfree/chart/plot/PiePlot.getAutoPopulateSectionPaint
+org/jfree/chart/JFreeChart.setBackgroundPaint
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/JFreeChart.getPlot
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/JFreeChart.<init>
+org/jfree/chart/JFreeChart.getSubtitleCount
+org/jfree/chart/labels/StandardPieToolTipGenerator.<init>
+org/jfree/chart/JFreeChart.getTitle
+found in top 10

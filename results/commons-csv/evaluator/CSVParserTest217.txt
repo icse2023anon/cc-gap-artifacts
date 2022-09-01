@@ -1,0 +1,32 @@
+slicing criterion: org.apache.commons.csv.CSVParserTest.testEmptyFile:323
+Methods call in assertion: [org/apache/commons/csv/CSVParser.nextRecord]
+org/apache/commons/csv/CSVFormat.getDelimiter
+org/apache/commons/csv/Lexer.readEndOfLine
+org/apache/commons/csv/Lexer.isDelimiter
+org/apache/commons/csv/CSVFormat.getIgnoreEmptyLines
+org/apache/commons/csv/Lexer.isEndOfFile
+org/apache/commons/csv/ExtendedBufferedReader.getLastChar
+org/apache/commons/csv/ExtendedBufferedReader.read
+org/apache/commons/csv/Lexer.nextToken
+org/apache/commons/csv/CSVParser.nextRecord
+top 10 recommendations: 
+org/apache/commons/csv/CSVParser.nextRecord
+org/apache/commons/csv/Lexer.nextToken
+org/apache/commons/csv/Lexer.readEndOfLine
+org/apache/commons/csv/CSVFormat.getDelimiter
+org/apache/commons/csv/Lexer.isDelimiter
+org/apache/commons/csv/CSVFormat.getIgnoreEmptyLines
+org/apache/commons/csv/Lexer.isEndOfFile
+org/apache/commons/csv/ExtendedBufferedReader.getLastChar
+org/apache/commons/csv/ExtendedBufferedReader.read
+after post processing ......
+org/apache/commons/csv/CSVParser.nextRecord
+org/apache/commons/csv/Lexer.nextToken
+org/apache/commons/csv/Lexer.readEndOfLine
+org/apache/commons/csv/CSVFormat.getDelimiter
+org/apache/commons/csv/Lexer.isDelimiter
+org/apache/commons/csv/CSVFormat.getIgnoreEmptyLines
+org/apache/commons/csv/Lexer.isEndOfFile
+org/apache/commons/csv/ExtendedBufferedReader.getLastChar
+org/apache/commons/csv/ExtendedBufferedReader.read
+perfect match

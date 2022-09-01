@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMonthDay_Basics.testProperty:829
+Methods call in assertion: [org/joda/time/MonthDay.property, org/joda/time/MonthDay.monthOfYear, org/joda/time/DateTimeFieldType.monthOfYear]
+org/joda/time/MonthDay.getReadablePartial
+org/joda/time/DateTimeFieldType.monthOfYear
+top 10 recommendations: 
+org/joda/time/MonthDay.getReadablePartial
+org/joda/time/DateTimeFieldType.monthOfYear
+after post processing ......
+org/joda/time/MonthDay.getReadablePartial
+org/joda/time/DateTimeFieldType.monthOfYear
+not matched

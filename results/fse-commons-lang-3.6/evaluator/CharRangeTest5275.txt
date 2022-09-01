@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.CharRangeTest.testConstructorAccessors_is:73
+Methods call in assertion: [org/apache/commons/lang3/CharRange.toString]
+org/apache/commons/lang3/CharRange.is
+org/apache/commons/lang3/CharRange.toString
+top 10 recommendations: 
+org/apache/commons/lang3/CharRange.is
+org/apache/commons/lang3/CharRange.toString
+after post processing ......
+org/apache/commons/lang3/CharRange.is
+org/apache/commons/lang3/CharRange.toString
+found in top 10

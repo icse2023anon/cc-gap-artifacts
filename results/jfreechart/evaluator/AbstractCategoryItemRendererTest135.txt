@@ -1,0 +1,26 @@
+slicing criterion: org.jfree.chart.renderer.category.AbstractCategoryItemRendererTest.testFindRangeBounds:317
+Methods call in assertion: [org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds]
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultLinesVisible
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/chart/renderer/AbstractRenderer.getDataBoundsIncludesVisibleSeriesOnly
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/general/DatasetUtils.iterateToFindRangeBounds
+top 10 recommendations: 
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultLinesVisible
+org/jfree/chart/renderer/AbstractRenderer.getDataBoundsIncludesVisibleSeriesOnly
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/general/DatasetUtils.iterateToFindRangeBounds
+after post processing ......
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultLinesVisible
+org/jfree/chart/renderer/AbstractRenderer.getDataBoundsIncludesVisibleSeriesOnly
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/general/DatasetUtils.iterateToFindRangeBounds
+perfect match

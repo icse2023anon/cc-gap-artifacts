@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.TestInterval_Basics.testWithChronology1:1152
+Methods call in assertion: [org/joda/time/chrono/BuddhistChronology.getInstance]
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/Interval.withChronology
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/Interval.withChronology
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/Interval.withChronology
+org/joda/time/DateTimeUtils.getChronology
+perfect match

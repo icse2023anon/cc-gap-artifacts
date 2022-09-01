@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.axis.DateTickTest.testEquals:76
+Methods call in assertion: [org/jfree/chart/axis/DateTick.equals]
+org/jfree/chart/axis/DateTick.equals
+org/jfree/chart/util/ObjectUtils.equal
+top 10 recommendations: 
+org/jfree/chart/axis/DateTick.equals
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/axis/DateTick.equals
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

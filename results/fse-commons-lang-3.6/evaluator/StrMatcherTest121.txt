@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.text.StrMatcherTest.testSplitMatcher:91
+Methods call in assertion: [org/apache/commons/lang3/text/StrMatcher.isMatch]
+org/apache/commons/lang3/text/StrMatcher.isMatch
+org/apache/commons/lang3/text/StrMatcher.splitMatcher
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrMatcher.isMatch
+org/apache/commons/lang3/text/StrMatcher.splitMatcher
+after post processing ......
+org/apache/commons/lang3/text/StrMatcher.isMatch
+org/apache/commons/lang3/text/StrMatcher.splitMatcher
+perfect match

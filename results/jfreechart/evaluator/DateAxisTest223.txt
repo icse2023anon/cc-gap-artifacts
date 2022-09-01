@@ -1,0 +1,26 @@
+slicing criterion: org.jfree.chart.axis.DateAxisTest.testBug25:1214
+Methods call in assertion: [org/jfree/data/time/Year.getFirstMillisecond]
+org/jfree/data/time/Year.getFirstMillisecond
+org/jfree/chart/axis/DateTickUnit.getUnitType
+org/jfree/chart/axis/DateTickUnitType.equals
+org/jfree/chart/axis/DateTickUnit.getMultiple
+org/jfree/chart/axis/DateTickUnit.getCalendarField
+org/jfree/chart/axis/DateTickUnitType.toString
+org/jfree/chart/axis/DateAxis.previousStandardDate
+top 10 recommendations: 
+org/jfree/chart/axis/DateAxis.previousStandardDate
+org/jfree/chart/axis/DateTickUnitType.equals
+org/jfree/data/time/Year.getFirstMillisecond
+org/jfree/chart/axis/DateTickUnit.getUnitType
+org/jfree/chart/axis/DateTickUnit.getMultiple
+org/jfree/chart/axis/DateTickUnit.getCalendarField
+org/jfree/chart/axis/DateTickUnitType.toString
+after post processing ......
+org/jfree/chart/axis/DateAxis.previousStandardDate
+org/jfree/chart/axis/DateTickUnitType.equals
+org/jfree/data/time/Year.getFirstMillisecond
+org/jfree/chart/axis/DateTickUnit.getUnitType
+org/jfree/chart/axis/DateTickUnit.getMultiple
+org/jfree/chart/axis/DateTickUnit.getCalendarField
+org/jfree/chart/axis/DateTickUnitType.toString
+found in top 10

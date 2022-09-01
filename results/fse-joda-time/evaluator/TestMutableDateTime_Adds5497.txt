@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestMutableDateTime_Adds.testAdd_RD1:161
+Methods call in assertion: [org/joda/time/MutableDateTime.getMillis]
+org/joda/time/MutableDateTime.add
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/base/BaseDuration.getMillis
+org/joda/time/field/FieldUtils.safeMultiply
+top 10 recommendations: 
+org/joda/time/MutableDateTime.add
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/base/BaseDuration.getMillis
+org/joda/time/field/FieldUtils.safeMultiply
+after post processing ......
+org/joda/time/MutableDateTime.add
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/base/BaseDuration.getMillis
+org/joda/time/field/FieldUtils.safeMultiply
+not matched

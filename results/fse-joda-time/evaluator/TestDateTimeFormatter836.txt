@@ -1,0 +1,32 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatter.testWithGetChronology:395
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.getChronology]
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfWeekShortText
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/format/DateTimeFormatterBuilder.estimateParsedLength
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatter.getPrinter0
+org/joda/time/format/DateTimeFormatter.getChronology
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfWeekShortText
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/format/DateTimeFormatterBuilder.estimateParsedLength
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatter.getPrinter0
+org/joda/time/format/DateTimeFormatter.getChronology
+after post processing ......
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfWeekShortText
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/format/DateTimeFormatterBuilder.estimateParsedLength
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatter.getPrinter0
+org/joda/time/format/DateTimeFormatter.getChronology
+found in top 10

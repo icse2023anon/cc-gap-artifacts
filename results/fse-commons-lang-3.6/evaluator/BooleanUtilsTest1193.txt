@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.BooleanUtilsTest.test_toBoolean_Integer_Integer_Integer:191
+Methods call in assertion: [org/apache/commons/lang3/BooleanUtils.toBoolean]
+org/apache/commons/lang3/BooleanUtils.toBoolean
+top 10 recommendations: 
+org/apache/commons/lang3/BooleanUtils.toBoolean
+after post processing ......
+org/apache/commons/lang3/BooleanUtils.toBoolean
+perfect match

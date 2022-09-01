@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.axis.DateAxisTest.testEquals:114
+Methods call in assertion: [org/jfree/chart/axis/DateAxis.equals]
+org/jfree/chart/axis/DateAxis.equals
+top 10 recommendations: 
+org/jfree/chart/axis/DateAxis.equals
+after post processing ......
+org/jfree/chart/axis/DateAxis.equals
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.chrono.TestJulianChronology.testWithUTC:156
+Methods call in assertion: [org/joda/time/chrono/JulianChronology.getInstanceUTC, org/joda/time/chrono/JulianChronology.withUTC]
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+org/joda/time/chrono/JulianChronology.withUTC
+top 10 recommendations: 
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+org/joda/time/chrono/JulianChronology.withUTC
+after post processing ......
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+org/joda/time/chrono/JulianChronology.withUTC
+perfect match

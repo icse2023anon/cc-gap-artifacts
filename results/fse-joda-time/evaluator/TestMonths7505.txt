@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMonths.testToString:269
+Methods call in assertion: [org/joda/time/Months.toString]
+org/joda/time/Months.months
+org/joda/time/Months.toString
+top 10 recommendations: 
+org/joda/time/Months.months
+org/joda/time/Months.toString
+after post processing ......
+org/joda/time/Months.months
+org/joda/time/Months.toString
+found in top 10

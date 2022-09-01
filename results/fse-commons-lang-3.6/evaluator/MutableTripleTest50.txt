@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.tuple.MutableTripleTest.testEquals:95
+Methods call in assertion: [org/apache/commons/lang3/tuple/MutableTriple.equals, org/apache/commons/lang3/tuple/MutableTriple.of]
+org/apache/commons/lang3/tuple/MutableTriple.getLeft
+org/apache/commons/lang3/tuple/Triple.equals
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/MutableTriple.getLeft
+org/apache/commons/lang3/tuple/Triple.equals
+after post processing ......
+org/apache/commons/lang3/tuple/MutableTriple.getLeft
+org/apache/commons/lang3/tuple/Triple.equals
+not matched

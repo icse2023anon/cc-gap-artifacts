@@ -1,0 +1,37 @@
+slicing criterion: org.jfree.chart.renderer.AbstractRendererTest.testOutlinePaintLookup:785
+Methods call in assertion: [org/jfree/chart/renderer/category/BarRenderer.getSeriesOutlinePaint]
+org/jfree/chart/util/PaintList.getPaint
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.getSeriesOutlinePaint
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getPlot
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesOutlinePaint
+org/jfree/chart/util/AbstractObjectList.set
+org/jfree/chart/renderer/AbstractRenderer.setSeriesOutlinePaint
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getDrawingSupplier
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextOutlinePaint
+org/jfree/chart/util/AbstractObjectList.get
+top 10 recommendations: 
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesOutlinePaint
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.getSeriesOutlinePaint
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getDrawingSupplier
+org/jfree/chart/util/PaintList.getPaint
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getPlot
+org/jfree/chart/util/AbstractObjectList.set
+org/jfree/chart/renderer/AbstractRenderer.setSeriesOutlinePaint
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextOutlinePaint
+after post processing ......
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesOutlinePaint
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.getSeriesOutlinePaint
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getDrawingSupplier
+org/jfree/chart/util/PaintList.getPaint
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getPlot
+org/jfree/chart/util/AbstractObjectList.set
+org/jfree/chart/renderer/AbstractRenderer.setSeriesOutlinePaint
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextOutlinePaint
+org/jfree/chart/util/AbstractObjectList.get
+found in top 10

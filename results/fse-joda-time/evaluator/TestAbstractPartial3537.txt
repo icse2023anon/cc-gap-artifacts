@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestAbstractPartial.testGetField:110
+Methods call in assertion: [org/joda/time/chrono/BuddhistChronology.year, org/joda/time/chrono/BuddhistChronology.getInstanceUTC]
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/BuddhistChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.year
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/BuddhistChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.year
+after post processing ......
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/BuddhistChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.year
+found in top 10

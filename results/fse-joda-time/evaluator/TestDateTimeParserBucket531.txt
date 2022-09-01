@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.format.TestDateTimeParserBucket.testSetPivotYear:116
+Methods call in assertion: [org/joda/time/format/DateTimeParserBucket.getPivotYear]
+org/joda/time/format/DateTimeParserBucket.getPivotYear
+top 10 recommendations: 
+org/joda/time/format/DateTimeParserBucket.getPivotYear
+after post processing ......
+org/joda/time/format/DateTimeParserBucket.getPivotYear
+perfect match

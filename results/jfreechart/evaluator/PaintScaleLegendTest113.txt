@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.title.PaintScaleLegendTest.testEquals:111
+Methods call in assertion: [org/jfree/chart/title/PaintScaleLegend.equals]
+org/jfree/chart/title/PaintScaleLegend.equals
+org/jfree/chart/title/PaintScaleLegend.isStripOutlineVisible
+top 10 recommendations: 
+org/jfree/chart/title/PaintScaleLegend.equals
+org/jfree/chart/title/PaintScaleLegend.isStripOutlineVisible
+after post processing ......
+org/jfree/chart/title/PaintScaleLegend.equals
+org/jfree/chart/title/PaintScaleLegend.isStripOutlineVisible
+perfect match

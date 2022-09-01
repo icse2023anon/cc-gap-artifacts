@@ -1,0 +1,23 @@
+slicing criterion: org.codehaus.plexus.util.cli.CommandlineTest.testEnvironment:344
+Methods call in assertion: [org/codehaus/plexus/util/cli/Commandline.getEnvironmentVariables]
+org/codehaus/plexus/util/cli/Commandline.getEnvironmentVariables
+org/codehaus/plexus/util/cli/CommandLineUtils.executeCommandLineAsCallable
+org/codehaus/plexus/util/cli/CommandLineUtils.executeCommandLine
+org/codehaus/plexus/util/cli/Commandline.addEnvironment
+org/codehaus/plexus/util/cli/Commandline.execute
+org/codehaus/plexus/util/cli/CommandLineUtils.getSystemEnvVars
+top 10 recommendations: 
+org/codehaus/plexus/util/cli/CommandLineUtils.executeCommandLine
+org/codehaus/plexus/util/cli/CommandLineUtils.executeCommandLineAsCallable
+org/codehaus/plexus/util/cli/Commandline.execute
+org/codehaus/plexus/util/cli/Commandline.getEnvironmentVariables
+org/codehaus/plexus/util/cli/Commandline.addEnvironment
+org/codehaus/plexus/util/cli/CommandLineUtils.getSystemEnvVars
+after post processing ......
+org/codehaus/plexus/util/cli/CommandLineUtils.executeCommandLine
+org/codehaus/plexus/util/cli/CommandLineUtils.executeCommandLineAsCallable
+org/codehaus/plexus/util/cli/Commandline.execute
+org/codehaus/plexus/util/cli/Commandline.getEnvironmentVariables
+org/codehaus/plexus/util/cli/Commandline.addEnvironment
+org/codehaus/plexus/util/cli/CommandLineUtils.getSystemEnvVars
+found in top 10

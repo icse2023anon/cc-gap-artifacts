@@ -1,0 +1,11 @@
+slicing criterion: com.google.gson.OverrideCoreTypeAdaptersTest.testOverrideStringAdapter:75
+Methods call in assertion: [com/google/gson/Gson.fromJson]
+com/google/gson/Gson.fromJson
+com/google/gson/Gson.newJsonReader
+top 10 recommendations: 
+com/google/gson/Gson.fromJson
+com/google/gson/Gson.newJsonReader
+after post processing ......
+com/google/gson/Gson.fromJson
+com/google/gson/Gson.newJsonReader
+perfect match

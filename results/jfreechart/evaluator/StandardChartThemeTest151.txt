@@ -1,0 +1,37 @@
+slicing criterion: org.jfree.chart.StandardChartThemeTest.testSerialization:263
+Methods call in assertion: [org/jfree/chart/StandardChartTheme.equals]
+org/jfree/chart/util/SerialUtils.readShape
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextStroke
+org/jfree/chart/plot/DefaultDrawingSupplier.<init>
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/StandardChartTheme.equals
+org/jfree/chart/util/SerialUtils.isSerializable
+org/jfree/chart/util/SerialUtils.writeStroke
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/chart/util/SerialUtils.readStroke
+org/jfree/chart/util/SerialUtils.writePaint
+top 10 recommendations: 
+org/jfree/chart/StandardChartTheme.equals
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/chart/util/SerialUtils.readShape
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextStroke
+org/jfree/chart/plot/DefaultDrawingSupplier.<init>
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/SerialUtils.isSerializable
+org/jfree/chart/util/SerialUtils.writeStroke
+org/jfree/chart/util/SerialUtils.readStroke
+after post processing ......
+org/jfree/chart/StandardChartTheme.equals
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/chart/util/SerialUtils.readShape
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextStroke
+org/jfree/chart/plot/DefaultDrawingSupplier.<init>
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/SerialUtils.isSerializable
+org/jfree/chart/util/SerialUtils.writeStroke
+org/jfree/chart/util/SerialUtils.readStroke
+org/jfree/chart/util/SerialUtils.writePaint
+perfect match

@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testReplaceOnceIgnoreCase_StringStringString:1517
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.replaceOnceIgnoreCase]
+org/apache/commons/lang3/StringUtils.replaceIgnoreCase
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/StringUtils.replaceOnceIgnoreCase
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.replaceOnceIgnoreCase
+org/apache/commons/lang3/StringUtils.replaceIgnoreCase
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/StringUtils.replaceOnceIgnoreCase
+org/apache/commons/lang3/StringUtils.replaceIgnoreCase
+org/apache/commons/lang3/StringUtils.isEmpty
+perfect match

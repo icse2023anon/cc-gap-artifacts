@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.axis.MonthDateFormatTest.testEquals:101
+Methods call in assertion: [org/jfree/chart/axis/MonthDateFormat.equals]
+org/jfree/chart/axis/MonthDateFormat.equals
+org/jfree/chart/axis/MonthDateFormat.<init>
+top 10 recommendations: 
+org/jfree/chart/axis/MonthDateFormat.equals
+org/jfree/chart/axis/MonthDateFormat.<init>
+after post processing ......
+org/jfree/chart/axis/MonthDateFormat.equals
+org/jfree/chart/axis/MonthDateFormat.<init>
+perfect match

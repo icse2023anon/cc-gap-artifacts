@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_weekyearOfCentury:146
+Methods call in assertion: [org/joda/time/DateTimeFieldType.getRangeDurationType, org/joda/time/DurationFieldType.centuries, org/joda/time/DateTimeFieldType.weekyearOfCentury]
+org/joda/time/DurationFieldType.centuries
+org/joda/time/DateTimeFieldType.weekyearOfCentury
+top 10 recommendations: 
+org/joda/time/DurationFieldType.centuries
+org/joda/time/DateTimeFieldType.weekyearOfCentury
+after post processing ......
+org/joda/time/DurationFieldType.centuries
+org/joda/time/DateTimeFieldType.weekyearOfCentury
+not matched

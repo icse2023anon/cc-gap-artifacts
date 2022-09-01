@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.LocaleUtilsTest.testToLocale_1Part:156
+Methods call in assertion: [org/apache/commons/lang3/LocaleUtils.toLocale]
+org/apache/commons/lang3/LocaleUtils.toLocale
+top 10 recommendations: 
+org/apache/commons/lang3/LocaleUtils.toLocale
+after post processing ......
+org/apache/commons/lang3/LocaleUtils.toLocale
+perfect match

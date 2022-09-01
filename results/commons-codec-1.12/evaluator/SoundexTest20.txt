@@ -1,0 +1,26 @@
+slicing criterion: org.apache.commons.codec.language.SoundexTest.testDifference:104
+Methods call in assertion: [org/apache/commons/codec/language/Soundex.difference]
+org/apache/commons/codec/language/Soundex.<init>
+org/apache/commons/codec/language/Soundex.encode
+org/apache/commons/codec/language/SoundexUtils.difference
+org/apache/commons/codec/language/SoundexUtils.clean
+org/apache/commons/codec/language/SoundexUtils.differenceEncoded
+org/apache/commons/codec/language/Soundex.difference
+org/apache/commons/codec/language/Soundex.soundex
+top 10 recommendations: 
+org/apache/commons/codec/language/Soundex.encode
+org/apache/commons/codec/language/Soundex.difference
+org/apache/commons/codec/language/SoundexUtils.difference
+org/apache/commons/codec/language/Soundex.soundex
+org/apache/commons/codec/language/Soundex.<init>
+org/apache/commons/codec/language/SoundexUtils.clean
+org/apache/commons/codec/language/SoundexUtils.differenceEncoded
+after post processing ......
+org/apache/commons/codec/language/Soundex.encode
+org/apache/commons/codec/language/Soundex.difference
+org/apache/commons/codec/language/SoundexUtils.difference
+org/apache/commons/codec/language/Soundex.soundex
+org/apache/commons/codec/language/Soundex.<init>
+org/apache/commons/codec/language/SoundexUtils.clean
+org/apache/commons/codec/language/SoundexUtils.differenceEncoded
+found in top 10

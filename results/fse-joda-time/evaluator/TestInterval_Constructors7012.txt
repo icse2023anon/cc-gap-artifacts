@@ -1,0 +1,59 @@
+slicing criterion: org.joda.time.TestInterval_Constructors.testConstructor_RP_RI3:539
+Methods call in assertion: [org/joda/time/Interval.getStartMillis]
+org/joda/time/convert/StringConverter.setInto
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/base/AbstractPeriod.getFieldType
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/PeriodType.standard
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/convert/AbstractConverter.isReadableInterval
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/BaseChronology.add
+org/joda/time/base/BasePeriod.getValue
+org/joda/time/Interval.parse
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/BaseInterval.getStartMillis
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/convert/StringConverter.setInto
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/AbstractPeriod.getFieldType
+org/joda/time/PeriodType.standard
+org/joda/time/base/AbstractPeriod.indexOf
+after post processing ......
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/convert/StringConverter.setInto
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/AbstractPeriod.getFieldType
+org/joda/time/PeriodType.standard
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/convert/AbstractConverter.isReadableInterval
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/BaseChronology.add
+org/joda/time/base/BasePeriod.getValue
+org/joda/time/Interval.parse
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/base/BaseInterval.getStartMillis
+org/joda/time/DateTimeUtils.getChronology
+all method calls are suggested

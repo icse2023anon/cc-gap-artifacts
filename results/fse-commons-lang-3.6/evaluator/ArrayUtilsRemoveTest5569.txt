@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.ArrayUtilsRemoveTest.testRemoveAllLongOccurences:641
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.removeAllOccurences]
+org/apache/commons/lang3/ArrayUtils.removeAllOccurences
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/ArrayUtils.clone
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.removeAllOccurences
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/ArrayUtils.clone
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.removeAllOccurences
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/ArrayUtils.clone
+perfect match

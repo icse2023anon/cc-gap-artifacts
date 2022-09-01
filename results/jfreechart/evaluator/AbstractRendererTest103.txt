@@ -1,0 +1,37 @@
+slicing criterion: org.jfree.chart.renderer.AbstractRendererTest.testFillPaintLookup:763
+Methods call in assertion: [org/jfree/chart/renderer/category/BarRenderer.getSeriesFillPaint]
+org/jfree/chart/util/PaintList.getPaint
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesFillPaint
+org/jfree/chart/renderer/AbstractRenderer.getSeriesFillPaint
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextFillPaint
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getPlot
+org/jfree/chart/util/AbstractObjectList.set
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getDrawingSupplier
+org/jfree/chart/renderer/AbstractRenderer.setSeriesFillPaint
+org/jfree/chart/util/AbstractObjectList.get
+top 10 recommendations: 
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesFillPaint
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.getSeriesFillPaint
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getDrawingSupplier
+org/jfree/chart/util/PaintList.getPaint
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextFillPaint
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getPlot
+org/jfree/chart/util/AbstractObjectList.set
+org/jfree/chart/renderer/AbstractRenderer.setSeriesFillPaint
+after post processing ......
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesFillPaint
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.getSeriesFillPaint
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getDrawingSupplier
+org/jfree/chart/util/PaintList.getPaint
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextFillPaint
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getPlot
+org/jfree/chart/util/AbstractObjectList.set
+org/jfree/chart/renderer/AbstractRenderer.setSeriesFillPaint
+org/jfree/chart/util/AbstractObjectList.get
+found in top 10

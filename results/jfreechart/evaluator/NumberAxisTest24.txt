@@ -1,0 +1,37 @@
+slicing criterion: org.jfree.chart.axis.NumberAxisTest.testXYAutoRange2:335
+Methods call in assertion: [org/jfree/chart/axis/NumberAxis.getUpperBound]
+org/jfree/data/general/DatasetChangeEvent.getDataset
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/chart/axis/Axis.getPlot
+org/jfree/chart/plot/XYPlot.getRangeAxis
+org/jfree/chart/axis/ValueAxis.isAutoRange
+org/jfree/chart/ChartFactory.createScatterPlot
+org/jfree/chart/plot/XYPlot.datasetChanged
+org/jfree/chart/plot/XYPlot.mapDatasetToDomainAxis
+org/jfree/chart/plot/XYPlot.setRenderer
+org/jfree/chart/axis/ValueAxis.getUpperBound
+org/jfree/chart/JFreeChart.getPlot
+top 10 recommendations: 
+org/jfree/chart/ChartFactory.createScatterPlot
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/data/general/DatasetChangeEvent.getDataset
+org/jfree/chart/axis/Axis.getPlot
+org/jfree/chart/plot/XYPlot.getRangeAxis
+org/jfree/chart/axis/ValueAxis.isAutoRange
+org/jfree/chart/plot/XYPlot.datasetChanged
+org/jfree/chart/plot/XYPlot.mapDatasetToDomainAxis
+org/jfree/chart/plot/XYPlot.setRenderer
+org/jfree/chart/axis/ValueAxis.getUpperBound
+after post processing ......
+org/jfree/chart/ChartFactory.createScatterPlot
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/data/general/DatasetChangeEvent.getDataset
+org/jfree/chart/axis/Axis.getPlot
+org/jfree/chart/plot/XYPlot.getRangeAxis
+org/jfree/chart/axis/ValueAxis.isAutoRange
+org/jfree/chart/plot/XYPlot.datasetChanged
+org/jfree/chart/plot/XYPlot.mapDatasetToDomainAxis
+org/jfree/chart/plot/XYPlot.setRenderer
+org/jfree/chart/axis/ValueAxis.getUpperBound
+org/jfree/chart/JFreeChart.getPlot
+found in top 10

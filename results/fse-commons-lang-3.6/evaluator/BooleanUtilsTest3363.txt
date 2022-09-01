@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.BooleanUtilsTest.testXor_primitive_validInput_3items:549
+Methods call in assertion: [org/apache/commons/lang3/BooleanUtils.xor]
+org/apache/commons/lang3/BooleanUtils.xor
+top 10 recommendations: 
+org/apache/commons/lang3/BooleanUtils.xor
+after post processing ......
+org/apache/commons/lang3/BooleanUtils.xor
+perfect match

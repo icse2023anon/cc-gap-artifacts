@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.ToStringStyleTest.testSetSummaryObjectEndText:131
+Methods call in assertion: [org/apache/commons/lang3/builder/ToStringStyle.getSummaryObjectEndText]
+org/apache/commons/lang3/builder/ToStringStyle.getSummaryObjectEndText
+org/apache/commons/lang3/builder/ToStringStyle.setSummaryObjectEndText
+top 10 recommendations: 
+org/apache/commons/lang3/builder/ToStringStyle.getSummaryObjectEndText
+org/apache/commons/lang3/builder/ToStringStyle.setSummaryObjectEndText
+after post processing ......
+org/apache/commons/lang3/builder/ToStringStyle.getSummaryObjectEndText
+org/apache/commons/lang3/builder/ToStringStyle.setSummaryObjectEndText
+perfect match

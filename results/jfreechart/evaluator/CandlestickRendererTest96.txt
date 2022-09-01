@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.xy.CandlestickRendererTest.testConstructor:84
+Methods call in assertion: [org/jfree/chart/renderer/xy/CandlestickRenderer.getUseOutlinePaint]
+org/jfree/chart/renderer/xy/CandlestickRenderer.getUseOutlinePaint
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/CandlestickRenderer.getUseOutlinePaint
+after post processing ......
+org/jfree/chart/renderer/xy/CandlestickRenderer.getUseOutlinePaint
+perfect match

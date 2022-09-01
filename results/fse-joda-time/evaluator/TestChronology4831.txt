@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.TestChronology.testToString:245
+Methods call in assertion: [org/joda/time/chrono/JulianChronology.toString, org/joda/time/chrono/JulianChronology.getInstance]
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/CachedDateTimeZone.forZone
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/JulianChronology.getInstance
+top 10 recommendations: 
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/CachedDateTimeZone.forZone
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/JulianChronology.getInstance
+after post processing ......
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/CachedDateTimeZone.forZone
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/JulianChronology.getInstance
+not matched

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.JavaVersionTest.testToString:82
+Methods call in assertion: [org/apache/commons/lang3/JavaVersion.toString]
+org/apache/commons/lang3/JavaVersion.toString
+top 10 recommendations: 
+org/apache/commons/lang3/JavaVersion.toString
+after post processing ......
+org/apache/commons/lang3/JavaVersion.toString
+perfect match

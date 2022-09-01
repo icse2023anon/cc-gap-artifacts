@@ -1,0 +1,226 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------< [0;36morg.codehaus.plexus:plexus-utils[0;1m >------------------[m
+[[1;34mINFO[m] [1mBuilding Plexus Common Utilities 3.1.0[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mpitest-maven:1.6.7:mutationCoverage[m [1m(default-cli)[m @ [36mplexus-utils[0;1m ---[m
+[[1;34mINFO[m] Found plugin : Default csv report plugin
+[[1;34mINFO[m] Found plugin : Default xml report plugin
+[[1;34mINFO[m] Found plugin : Default html report plugin
+[[1;34mINFO[m] Found plugin : Static initializer code detector plugin
+[[1;34mINFO[m] Found plugin : Static initializer filter plugin
+[[1;34mINFO[m] Found plugin : Excluded annotations plugin
+[[1;34mINFO[m] Found plugin : Try with resources filter
+[[1;34mINFO[m] Found plugin : Inlined finally block filter plugin
+[[1;34mINFO[m] Found plugin : Implicit null check filter
+[[1;34mINFO[m] Found plugin : Method reference null check filter
+[[1;34mINFO[m] Found plugin : For each loop filter
+[[1;34mINFO[m] Found plugin : Enum constructor filter
+[[1;34mINFO[m] Found plugin : Logging calls filter
+[[1;34mINFO[m] Found plugin : Infinite for loop filter
+[[1;34mINFO[m] Found plugin : Long running iterator loop filter
+[[1;34mINFO[m] Found plugin : For loop counter filter
+[[1;34mINFO[m] Found plugin : Kotlin junk mutations filter
+[[1;34mINFO[m] Found plugin : Max mutations per class limit
+[[1;34mINFO[m] Found plugin : Equals shortcut equivalent mutant filter
+[[1;34mINFO[m] Found plugin : Trivial return vals equivalence filter
+[[1;34mINFO[m] Found plugin : Mutant export plugin
+[[1;34mINFO[m] Found shared classpath plugin : Default mutation engine
+[[1;34mINFO[m] Found shared classpath plugin : JUnit plugin
+[[1;34mINFO[m] Found shared classpath plugin : TestNG plugin
+[[1;34mINFO[m] Adding org.pitest:pitest to SUT classpath
+[[1;34mINFO[m] Mutating from /home/stg/omc_experiments/subjects/plexus-utils/rq2_test_suites/test_suite_15/target/classes
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/stderr  : java.lang.NullPointerException
+stderr  : 	at org.codehaus.plexus.util.xml.Xpp3Dom.equals(Xpp3Dom.java:483)
+stderr  : 	at org.codehaus.plexus.util.xml.Xpp3DomTest.testEqualsIsNullSafe(Xpp3DomTest.java:188)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : java.lang.NullPointerException
+stderr  : 	at org.codehaus.plexus.util.xml.Xpp3Dom.equals(Xpp3Dom.java:483)
+stderr  : 	at org.codehaus.plexus.util.xml.Xpp3DomTest.testEqualsIsNullSafe(Xpp3DomTest.java:188)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : java.lang.NullPointerException
+stderr  : 	at org.codehaus.plexus.util.xml.Xpp3Dom.equals(Xpp3Dom.java:479)
+stderr  : 	at org.codehaus.plexus.util.xml.Xpp3DomTest.testEqualsIsNullSafe(Xpp3DomTest.java:188)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : java.lang.NullPointerException
+stderr  : 	at org.codehaus.plexus.util.xml.Xpp3Dom.equals(Xpp3Dom.java:479)
+stderr  : 	at org.codehaus.plexus.util.xml.Xpp3DomTest.testEqualsIsNullSafe(Xpp3DomTest.java:188)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-================================================================================
+- Mutators
+================================================================================
+> org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator
+>> Generated 838 Killed 191 (23%)
+> KILLED 184 SURVIVED 181 TIMED_OUT 7 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 466 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.experimental.SwitchMutator
+>> Generated 7 Killed 2 (29%)
+> KILLED 2 SURVIVED 0 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 5 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.RemoveConditionalMutator_EQUAL_ELSE
+>> Generated 2070 Killed 360 (17%)
+> KILLED 352 SURVIVED 647 TIMED_OUT 8 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 1063 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.MathMutator
+>> Generated 751 Killed 158 (21%)
+> KILLED 155 SURVIVED 133 TIMED_OUT 3 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 460 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator
+>> Generated 2667 Killed 806 (30%)
+> KILLED 783 SURVIVED 479 TIMED_OUT 23 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 1382 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.PrimitiveReturnsMutator
+>> Generated 140 Killed 41 (29%)
+> KILLED 36 SURVIVED 23 TIMED_OUT 5 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 76 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.BooleanTrueReturnValsMutator
+>> Generated 213 Killed 35 (16%)
+> KILLED 35 SURVIVED 58 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 120 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.EmptyObjectReturnValsMutator
+>> Generated 352 Killed 81 (23%)
+> KILLED 81 SURVIVED 70 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 201 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.ConditionalsBoundaryMutator
+>> Generated 595 Killed 93 (16%)
+> KILLED 85 SURVIVED 184 TIMED_OUT 8 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 318 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.IncrementsMutator
+>> Generated 177 Killed 61 (34%)
+> KILLED 52 SURVIVED 5 TIMED_OUT 9 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 111 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.NullReturnValsMutator
+>> Generated 262 Killed 90 (34%)
+> KILLED 90 SURVIVED 11 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 161 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.InvertNegsMutator
+>> Generated 21 Killed 0 (0%)
+> KILLED 0 SURVIVED 0 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 21 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.BooleanFalseReturnValsMutator
+>> Generated 162 Killed 37 (23%)
+> KILLED 36 SURVIVED 34 TIMED_OUT 1 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 91 
+--------------------------------------------------------------------------------
+================================================================================
+- Timings
+================================================================================
+> pre-scan for mutations : 6 seconds
+> scan classpath : < 1 second
+> coverage and dependency analysis : 13 seconds
+> build mutation tests : 5 seconds
+> run mutation analysis : 5 minutes and 24 seconds
+--------------------------------------------------------------------------------
+> Total  : 5 minutes and 49 seconds
+--------------------------------------------------------------------------------
+================================================================================
+- Statistics
+================================================================================
+>> Line Coverage: 4006/8364 (48%)
+>> Generated 8255 mutations Killed 1955 (24%)
+>> Mutations with no coverage 4475. Test strength 52%
+>> Ran 14998 tests (1.82 tests per mutation)
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  05:53 min
+[[1;34mINFO[m] Finished at: 2022-08-31T02:13:56Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m

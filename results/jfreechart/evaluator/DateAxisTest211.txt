@@ -1,0 +1,43 @@
+slicing criterion: org.jfree.chart.axis.DateAxisTest.testBug25:1229
+Methods call in assertion: [org/jfree/data/time/Day.getFirstMillisecond]
+org/jfree/chart/date/SpreadsheetDate.getYYYY
+org/jfree/chart/axis/DateTickUnit.getUnitType
+org/jfree/chart/axis/DateTickUnitType.toString
+org/jfree/data/time/Month.getFirstMillisecond
+org/jfree/chart/date/SerialDate.lastDayOfMonth
+org/jfree/chart/axis/DateAxis.previousStandardDate
+org/jfree/chart/date/SpreadsheetDate.<init>
+org/jfree/data/time/Year.getFirstMillisecond
+org/jfree/chart/axis/DateTickUnitType.equals
+org/jfree/chart/axis/DateTickUnit.getMultiple
+org/jfree/chart/axis/DateTickUnit.getCalendarField
+org/jfree/data/time/Day.getFirstMillisecond
+org/jfree/chart/date/SpreadsheetDate.getMonth
+org/jfree/chart/date/SpreadsheetDate.getDayOfMonth
+top 10 recommendations: 
+org/jfree/chart/axis/DateAxis.previousStandardDate
+org/jfree/chart/date/SpreadsheetDate.<init>
+org/jfree/chart/axis/DateTickUnitType.equals
+org/jfree/chart/date/SpreadsheetDate.getYYYY
+org/jfree/chart/axis/DateTickUnit.getUnitType
+org/jfree/chart/axis/DateTickUnitType.toString
+org/jfree/data/time/Month.getFirstMillisecond
+org/jfree/chart/date/SerialDate.lastDayOfMonth
+org/jfree/data/time/Year.getFirstMillisecond
+org/jfree/chart/axis/DateTickUnit.getMultiple
+after post processing ......
+org/jfree/chart/axis/DateAxis.previousStandardDate
+org/jfree/chart/date/SpreadsheetDate.<init>
+org/jfree/chart/axis/DateTickUnitType.equals
+org/jfree/chart/date/SpreadsheetDate.getYYYY
+org/jfree/chart/axis/DateTickUnit.getUnitType
+org/jfree/chart/axis/DateTickUnitType.toString
+org/jfree/data/time/Month.getFirstMillisecond
+org/jfree/chart/date/SerialDate.lastDayOfMonth
+org/jfree/data/time/Year.getFirstMillisecond
+org/jfree/chart/axis/DateTickUnit.getMultiple
+org/jfree/chart/axis/DateTickUnit.getCalendarField
+org/jfree/data/time/Day.getFirstMillisecond
+org/jfree/chart/date/SpreadsheetDate.getMonth
+org/jfree/chart/date/SpreadsheetDate.getDayOfMonth
+all method calls are suggested

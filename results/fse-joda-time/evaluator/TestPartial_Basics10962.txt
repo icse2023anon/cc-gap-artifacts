@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testIsAfter_TOD:380
+Methods call in assertion: [org/joda/time/Partial.isAfter]
+org/joda/time/Partial.getValue
+org/joda/time/base/AbstractPartial.isAfter
+org/joda/time/base/AbstractPartial.compareTo
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.isAfter
+org/joda/time/Partial.getValue
+org/joda/time/base/AbstractPartial.compareTo
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+after post processing ......
+org/joda/time/base/AbstractPartial.isAfter
+org/joda/time/Partial.getValue
+org/joda/time/base/AbstractPartial.compareTo
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+not matched

@@ -1,0 +1,41 @@
+slicing criterion: com.fasterxml.jackson.dataformat.xml.stream.XmlParserTest.testForceElementAsArray:162
+Methods call in assertion: [com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getCurrentName]
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._next
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createChildObjectContext
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._initStartElement
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._collectUntilTag
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._allWs
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+com/fasterxml/jackson/dataformat/xml/XmlFactory.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.next
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initFactories
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getCurrentName
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextToken
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initializeXmlReader
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.toString
+top 10 recommendations: 
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextToken
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.next
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._next
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+com/fasterxml/jackson/dataformat/xml/XmlFactory.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createChildObjectContext
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._initStartElement
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._collectUntilTag
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._allWs
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initFactories
+after post processing ......
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextToken
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.next
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._next
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+com/fasterxml/jackson/dataformat/xml/XmlFactory.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createChildObjectContext
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._initStartElement
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._collectUntilTag
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._allWs
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initFactories
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getCurrentName
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initializeXmlReader
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.toString
+all method calls are suggested

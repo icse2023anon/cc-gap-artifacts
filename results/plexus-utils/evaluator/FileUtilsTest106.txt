@@ -1,0 +1,8 @@
+slicing criterion: org.codehaus.plexus.util.FileUtilsTest.testByteCountToDisplaySize:89
+Methods call in assertion: [org/codehaus/plexus/util/FileUtils.byteCountToDisplaySize]
+org/codehaus/plexus/util/FileUtils.byteCountToDisplaySize
+top 10 recommendations: 
+org/codehaus/plexus/util/FileUtils.byteCountToDisplaySize
+after post processing ......
+org/codehaus/plexus/util/FileUtils.byteCountToDisplaySize
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.format.TestDateTimeParserBucket.testReset:284
+Methods call in assertion: [org/joda/time/format/DateTimeParserBucket.getZone]
+org/joda/time/format/DateTimeParserBucket.getZone
+top 10 recommendations: 
+org/joda/time/format/DateTimeParserBucket.getZone
+after post processing ......
+org/joda/time/format/DateTimeParserBucket.getZone
+perfect match

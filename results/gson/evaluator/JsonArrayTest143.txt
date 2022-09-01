@@ -1,0 +1,8 @@
+slicing criterion: com.google.gson.JsonArrayTest.testSet:85
+Methods call in assertion: [com/google/gson/JsonArray.size]
+com/google/gson/JsonArray.size
+top 10 recommendations: 
+com/google/gson/JsonArray.size
+after post processing ......
+com/google/gson/JsonArray.size
+perfect match

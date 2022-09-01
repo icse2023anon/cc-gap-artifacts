@@ -1,0 +1,10 @@
+package,assertion_tested,exact_match,top_5,all_method_suggested
+org.codehaus.plexus.util.reflection,3,3,3,3
+org.codehaus.plexus.util.cli,38,14,36,38
+org.codehaus.plexus.util.cli.shell,0,0,0,0
+org.codehaus.plexus.util,145,137,145,145
+org.codehaus.plexus.util.xml.pull,55,0,0,8
+org.codehaus.plexus.util.dag,48,20,48,48
+org.codehaus.plexus.util.xml,47,6,12,47
+org.codehaus.plexus.util.introspection,29,19,29,29
+total:,365,199,273,318

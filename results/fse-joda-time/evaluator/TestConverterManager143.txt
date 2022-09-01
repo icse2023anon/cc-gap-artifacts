@@ -1,0 +1,43 @@
+slicing criterion: org.joda.time.convert.TestConverterManager.testRemovePartialConverter3:595
+Methods call in assertion: [org/joda/time/convert/ConverterManager.getPartialConverters, org/joda/time/convert/ConverterManager.getInstance]
+org/joda/time/convert/ConverterSet.remove
+org/joda/time/convert/LongConverter.getSupportedType
+org/joda/time/convert/ConverterManager.removePartialConverter
+org/joda/time/convert/ConverterSet.add
+org/joda/time/convert/ConverterManager.getPartialConverters
+org/joda/time/convert/ConverterManager.getInstance
+org/joda/time/convert/NullConverter.getSupportedType
+org/joda/time/convert/ConverterManager.addPartialConverter
+org/joda/time/convert/ReadableInstantConverter.getSupportedType
+org/joda/time/convert/ReadablePartialConverter.getSupportedType
+org/joda/time/convert/ConverterSet.size
+org/joda/time/convert/CalendarConverter.getSupportedType
+org/joda/time/convert/StringConverter.getSupportedType
+org/joda/time/convert/DateConverter.getSupportedType
+top 10 recommendations: 
+org/joda/time/convert/ConverterManager.removePartialConverter
+org/joda/time/convert/ConverterManager.getPartialConverters
+org/joda/time/convert/ConverterManager.addPartialConverter
+org/joda/time/convert/ConverterSet.remove
+org/joda/time/convert/LongConverter.getSupportedType
+org/joda/time/convert/ConverterSet.add
+org/joda/time/convert/ConverterManager.getInstance
+org/joda/time/convert/NullConverter.getSupportedType
+org/joda/time/convert/ReadableInstantConverter.getSupportedType
+org/joda/time/convert/ReadablePartialConverter.getSupportedType
+after post processing ......
+org/joda/time/convert/ConverterManager.removePartialConverter
+org/joda/time/convert/ConverterManager.getPartialConverters
+org/joda/time/convert/ConverterManager.addPartialConverter
+org/joda/time/convert/ConverterSet.remove
+org/joda/time/convert/LongConverter.getSupportedType
+org/joda/time/convert/ConverterSet.add
+org/joda/time/convert/ConverterManager.getInstance
+org/joda/time/convert/NullConverter.getSupportedType
+org/joda/time/convert/ReadableInstantConverter.getSupportedType
+org/joda/time/convert/ReadablePartialConverter.getSupportedType
+org/joda/time/convert/ConverterSet.size
+org/joda/time/convert/CalendarConverter.getSupportedType
+org/joda/time/convert/StringConverter.getSupportedType
+org/joda/time/convert/DateConverter.getSupportedType
+found in top 10

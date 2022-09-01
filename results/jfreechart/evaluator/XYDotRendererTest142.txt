@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYDotRendererTest.testEquals:77
+Methods call in assertion: [org/jfree/chart/renderer/xy/XYDotRenderer.equals]
+org/jfree/chart/renderer/xy/XYDotRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/XYDotRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/xy/XYDotRenderer.equals
+perfect match

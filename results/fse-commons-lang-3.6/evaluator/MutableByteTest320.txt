@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableByteTest.testCompareTo:136
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableByte.compareTo]
+org/apache/commons/lang3/math/NumberUtils.compare
+org/apache/commons/lang3/mutable/MutableByte.compareTo
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableByte.compareTo
+org/apache/commons/lang3/math/NumberUtils.compare
+after post processing ......
+org/apache/commons/lang3/mutable/MutableByte.compareTo
+org/apache/commons/lang3/math/NumberUtils.compare
+perfect match

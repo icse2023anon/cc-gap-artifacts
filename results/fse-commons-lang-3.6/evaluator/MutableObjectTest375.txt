@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableObjectTest.testConstructors:51
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableObject.getValue]
+org/apache/commons/lang3/mutable/MutableObject.getValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableObject.getValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableObject.getValue
+perfect match

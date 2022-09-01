@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.csv.CSVParserTest.testGetRecordWithMultiLineValues:582
+Methods call in assertion: [org/apache/commons/csv/CSVParser.getRecordNumber]
+org/apache/commons/csv/CSVParser.getRecordNumber
+top 10 recommendations: 
+org/apache/commons/csv/CSVParser.getRecordNumber
+after post processing ......
+org/apache/commons/csv/CSVParser.getRecordNumber
+perfect match

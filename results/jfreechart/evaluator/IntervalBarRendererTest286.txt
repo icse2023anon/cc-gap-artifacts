@@ -1,0 +1,53 @@
+slicing criterion: org.jfree.chart.renderer.category.IntervalBarRendererTest.testFindRangeBounds:166
+Methods call in assertion: [org/jfree/chart/renderer/category/IntervalBarRenderer.findRangeBounds]
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/data/category/DefaultIntervalCategoryDataset.getRowCount
+org/jfree/data/Range.getLowerBound
+org/jfree/chart/renderer/AbstractRenderer.getDataBoundsIncludesVisibleSeriesOnly
+org/jfree/chart/renderer/category/IntervalBarRenderer.findRangeBounds
+org/jfree/data/category/DefaultIntervalCategoryDataset.getRowKey
+org/jfree/data/DataUtils.createNumberArray
+org/jfree/data/category/DefaultIntervalCategoryDataset.getRowIndex
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/data/category/DefaultIntervalCategoryDataset.<init>
+org/jfree/data/category/DefaultIntervalCategoryDataset.getStartValue
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/data/category/DefaultIntervalCategoryDataset.getSeriesIndex
+org/jfree/data/Range.expandToInclude
+org/jfree/data/DataUtils.createNumberArray2D
+org/jfree/chart/renderer/category/BarRenderer.findRangeBounds
+org/jfree/data/category/DefaultIntervalCategoryDataset.getColumnCount
+org/jfree/data/general/DatasetUtils.iterateToFindRangeBounds
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+top 10 recommendations: 
+org/jfree/chart/renderer/category/BarRenderer.findRangeBounds
+org/jfree/data/category/DefaultIntervalCategoryDataset.<init>
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/data/category/DefaultIntervalCategoryDataset.getRowKey
+org/jfree/data/category/DefaultIntervalCategoryDataset.getRowIndex
+org/jfree/data/category/DefaultIntervalCategoryDataset.getStartValue
+org/jfree/data/Range.expandToInclude
+org/jfree/data/DataUtils.createNumberArray2D
+org/jfree/data/category/DefaultIntervalCategoryDataset.getRowCount
+after post processing ......
+org/jfree/chart/renderer/category/BarRenderer.findRangeBounds
+org/jfree/data/category/DefaultIntervalCategoryDataset.<init>
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/data/category/DefaultIntervalCategoryDataset.getRowKey
+org/jfree/data/category/DefaultIntervalCategoryDataset.getRowIndex
+org/jfree/data/category/DefaultIntervalCategoryDataset.getStartValue
+org/jfree/data/Range.expandToInclude
+org/jfree/data/DataUtils.createNumberArray2D
+org/jfree/data/category/DefaultIntervalCategoryDataset.getRowCount
+org/jfree/data/Range.getLowerBound
+org/jfree/chart/renderer/AbstractRenderer.getDataBoundsIncludesVisibleSeriesOnly
+org/jfree/chart/renderer/category/IntervalBarRenderer.findRangeBounds
+org/jfree/data/DataUtils.createNumberArray
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/data/category/DefaultIntervalCategoryDataset.getSeriesIndex
+org/jfree/data/category/DefaultIntervalCategoryDataset.getColumnCount
+org/jfree/data/general/DatasetUtils.iterateToFindRangeBounds
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+found in top 10

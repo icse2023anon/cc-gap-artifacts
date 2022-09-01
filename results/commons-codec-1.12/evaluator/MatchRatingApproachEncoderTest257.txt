@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testRemoveVowel__AIDAN_Returns_ADN:117
+Methods call in assertion: [org/apache/commons/codec/language/MatchRatingApproachEncoder.removeVowels]
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeVowels
+org/apache/commons/codec/language/MatchRatingApproachEncoder.isVowel
+top 10 recommendations: 
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeVowels
+org/apache/commons/codec/language/MatchRatingApproachEncoder.isVowel
+after post processing ......
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeVowels
+org/apache/commons/codec/language/MatchRatingApproachEncoder.isVowel
+perfect match

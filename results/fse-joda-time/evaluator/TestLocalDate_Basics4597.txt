@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestLocalDate_Basics.testCompareTo:627
+Methods call in assertion: [org/joda/time/LocalDate.compareTo]
+org/joda/time/LocalDate.compareTo
+top 10 recommendations: 
+org/joda/time/LocalDate.compareTo
+after post processing ......
+org/joda/time/LocalDate.compareTo
+perfect match

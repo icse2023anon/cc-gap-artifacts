@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestLocalDate_Constructors.testFactory_fromDateFields_before1970:195
+Methods call in assertion: [org/joda/time/LocalDate.fromDateFields]
+org/joda/time/LocalDate.fromDateFields
+org/joda/time/LocalDate.compareTo
+org/joda/time/DateTimeZone.getDefault
+top 10 recommendations: 
+org/joda/time/LocalDate.fromDateFields
+org/joda/time/LocalDate.compareTo
+org/joda/time/DateTimeZone.getDefault
+after post processing ......
+org/joda/time/LocalDate.fromDateFields
+org/joda/time/LocalDate.compareTo
+org/joda/time/DateTimeZone.getDefault
+perfect match

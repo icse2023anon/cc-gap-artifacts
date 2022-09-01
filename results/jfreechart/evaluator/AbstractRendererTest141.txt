@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.renderer.AbstractRendererTest.testCloning2:576
+Methods call in assertion: [org/jfree/chart/renderer/category/LineAndShapeRenderer.hasListener]
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultLinesVisible
+org/jfree/chart/renderer/AbstractRenderer.clone
+org/jfree/chart/renderer/AbstractRenderer.hasListener
+top 10 recommendations: 
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultLinesVisible
+org/jfree/chart/renderer/AbstractRenderer.clone
+org/jfree/chart/renderer/AbstractRenderer.hasListener
+after post processing ......
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultLinesVisible
+org/jfree/chart/renderer/AbstractRenderer.clone
+org/jfree/chart/renderer/AbstractRenderer.hasListener
+found in top 10

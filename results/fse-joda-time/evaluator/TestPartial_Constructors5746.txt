@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestPartial_Constructors.testConstructor_TypeArray_intArray_year_weekyear:235
+Methods call in assertion: [org/joda/time/Partial.getValues]
+org/joda/time/Partial.getValues
+org/joda/time/Partial.<init>
+top 10 recommendations: 
+org/joda/time/Partial.getValues
+org/joda/time/Partial.<init>
+after post processing ......
+org/joda/time/Partial.getValues
+org/joda/time/Partial.<init>
+perfect match

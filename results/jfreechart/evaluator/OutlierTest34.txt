@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.OutlierTest.testEquals:92
+Methods call in assertion: [org/jfree/chart/renderer/Outlier.equals]
+org/jfree/chart/renderer/Outlier.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/Outlier.equals
+after post processing ......
+org/jfree/chart/renderer/Outlier.equals
+perfect match

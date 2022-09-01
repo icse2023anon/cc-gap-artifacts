@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.plot.CombinedDomainXYPlotTest.testConstructor1:91
+Methods call in assertion: [org/jfree/chart/plot/CombinedDomainXYPlot.getDomainAxis]
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/chart/plot/XYPlot.getDomainAxis
+top 10 recommendations: 
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/chart/plot/XYPlot.getDomainAxis
+after post processing ......
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/chart/plot/XYPlot.getDomainAxis
+found in top 10

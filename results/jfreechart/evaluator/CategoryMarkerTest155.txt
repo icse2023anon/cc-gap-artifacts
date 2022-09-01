@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.CategoryMarkerTest.testGetSetKey:175
+Methods call in assertion: [org/jfree/chart/plot/CategoryMarker.getKey]
+org/jfree/chart/plot/CategoryMarker.getKey
+top 10 recommendations: 
+org/jfree/chart/plot/CategoryMarker.getKey
+after post processing ......
+org/jfree/chart/plot/CategoryMarker.getKey
+perfect match

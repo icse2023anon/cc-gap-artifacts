@@ -1,0 +1,17 @@
+slicing criterion: org.codehaus.plexus.util.xml.XmlWriterUtilTest.testWriteLineBreakXMLWriter:74
+Methods call in assertion: [org/codehaus/plexus/util/StringUtils.countMatches]
+org/codehaus/plexus/util/WriterFactory.newXmlWriter
+org/codehaus/plexus/util/xml/XmlStreamWriter.getEncoding
+org/codehaus/plexus/util/xml/XmlStreamWriter.<init>
+org/codehaus/plexus/util/StringUtils.countMatches
+top 10 recommendations: 
+org/codehaus/plexus/util/WriterFactory.newXmlWriter
+org/codehaus/plexus/util/xml/XmlStreamWriter.getEncoding
+org/codehaus/plexus/util/xml/XmlStreamWriter.<init>
+org/codehaus/plexus/util/StringUtils.countMatches
+after post processing ......
+org/codehaus/plexus/util/WriterFactory.newXmlWriter
+org/codehaus/plexus/util/xml/XmlStreamWriter.getEncoding
+org/codehaus/plexus/util/xml/XmlStreamWriter.<init>
+org/codehaus/plexus/util/StringUtils.countMatches
+found in top 10

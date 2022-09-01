@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.CharEncodingTest.testSupported:70
+Methods call in assertion: [org/apache/commons/lang3/CharEncoding.isSupported]
+org/apache/commons/lang3/CharEncoding.isSupported
+top 10 recommendations: 
+org/apache/commons/lang3/CharEncoding.isSupported
+after post processing ......
+org/apache/commons/lang3/CharEncoding.isSupported
+perfect match

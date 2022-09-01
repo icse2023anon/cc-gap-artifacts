@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.format.TestISODateTimeFormat.testFormat_hourMinuteSecondFraction:582
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.print, org/joda/time/format/ISODateTimeFormat.hourMinuteSecondFraction]
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/ISODateTimeFormat.hourMinuteSecondFraction
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/ISODateTimeFormat.hourMinuteSecondFraction
+after post processing ......
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/ISODateTimeFormat.hourMinuteSecondFraction
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.builder.DiffTest.testGetFieldName:65
+Methods call in assertion: [org/apache/commons/lang3/builder/Diff.getFieldName]
+org/apache/commons/lang3/builder/Diff.getFieldName
+top 10 recommendations: 
+org/apache/commons/lang3/builder/Diff.getFieldName
+after post processing ......
+org/apache/commons/lang3/builder/Diff.getFieldName
+perfect match

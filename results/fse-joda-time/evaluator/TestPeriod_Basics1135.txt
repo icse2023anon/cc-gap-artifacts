@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestPeriod_Basics.testPlus:867
+Methods call in assertion: [org/joda/time/Period.getMillis]
+org/joda/time/PeriodType.days
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/Period.plus
+org/joda/time/Period.getMillis
+org/joda/time/PeriodType.getIndexedField
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/Period.getMillis
+org/joda/time/PeriodType.days
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/Period.plus
+org/joda/time/PeriodType.getIndexedField
+after post processing ......
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/Period.getMillis
+org/joda/time/PeriodType.days
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/Period.plus
+org/joda/time/PeriodType.getIndexedField
+found in top 10

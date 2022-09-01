@@ -1,0 +1,32 @@
+slicing criterion: org.jsoup.nodes.NodeTest.handlesBaseUri:34
+Methods call in assertion: [org/jsoup/nodes/Element.absUrl]
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Node.absUrl
+org/jsoup/nodes/Attributes.hasKeyIgnoreCase
+org/jsoup/nodes/Node.hasAttr
+org/jsoup/helper/StringUtil.resolve
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Attribute.getValue
+org/jsoup/nodes/Attributes.getIgnoreCase
+org/jsoup/nodes/Node.attr
+top 10 recommendations: 
+org/jsoup/nodes/Node.absUrl
+org/jsoup/nodes/Node.hasAttr
+org/jsoup/nodes/Node.attr
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attributes.getIgnoreCase
+org/jsoup/nodes/Attributes.hasKeyIgnoreCase
+org/jsoup/helper/StringUtil.resolve
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Attribute.getValue
+after post processing ......
+org/jsoup/nodes/Node.absUrl
+org/jsoup/nodes/Node.hasAttr
+org/jsoup/nodes/Node.attr
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attributes.getIgnoreCase
+org/jsoup/nodes/Attributes.hasKeyIgnoreCase
+org/jsoup/helper/StringUtil.resolve
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Attribute.getValue
+found in top 10

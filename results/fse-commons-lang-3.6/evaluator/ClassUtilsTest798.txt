@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.lang3.ClassUtilsTest.test_getPackageCanonicalName_Object:1259
+Methods call in assertion: [org/apache/commons/lang3/ClassUtils.getPackageCanonicalName]
+org/apache/commons/lang3/StringUtils.deleteWhitespace
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/ClassUtils.getShortCanonicalName
+org/apache/commons/lang3/ClassUtils.getPackageCanonicalName
+org/apache/commons/lang3/ClassUtils.getPackageName
+top 10 recommendations: 
+org/apache/commons/lang3/ClassUtils.getPackageCanonicalName
+org/apache/commons/lang3/StringUtils.deleteWhitespace
+org/apache/commons/lang3/ClassUtils.getPackageName
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/ClassUtils.getShortCanonicalName
+after post processing ......
+org/apache/commons/lang3/ClassUtils.getPackageCanonicalName
+org/apache/commons/lang3/StringUtils.deleteWhitespace
+org/apache/commons/lang3/ClassUtils.getPackageName
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/ClassUtils.getShortCanonicalName
+perfect match

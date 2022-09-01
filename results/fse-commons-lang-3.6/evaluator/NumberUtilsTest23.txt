@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.lang3.math.NumberUtilsTest.testStringCreateNumberEnsureNoPrecisionLoss:202
+Methods call in assertion: [org/apache/commons/lang3/math/NumberUtils.createNumber]
+org/apache/commons/lang3/math/NumberUtils.createNumber
+org/apache/commons/lang3/math/NumberUtils.toFloat
+org/apache/commons/lang3/math/NumberUtils.createDouble
+org/apache/commons/lang3/math/NumberUtils.createFloat
+org/apache/commons/lang3/math/NumberUtils.createBigDecimal
+top 10 recommendations: 
+org/apache/commons/lang3/math/NumberUtils.createNumber
+org/apache/commons/lang3/math/NumberUtils.toFloat
+org/apache/commons/lang3/math/NumberUtils.createDouble
+org/apache/commons/lang3/math/NumberUtils.createFloat
+org/apache/commons/lang3/math/NumberUtils.createBigDecimal
+after post processing ......
+org/apache/commons/lang3/math/NumberUtils.createNumber
+org/apache/commons/lang3/math/NumberUtils.toFloat
+org/apache/commons/lang3/math/NumberUtils.createDouble
+org/apache/commons/lang3/math/NumberUtils.createFloat
+org/apache/commons/lang3/math/NumberUtils.createBigDecimal
+perfect match

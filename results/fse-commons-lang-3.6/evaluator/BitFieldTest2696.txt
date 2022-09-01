@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.BitFieldTest.testSetShort:249
+Methods call in assertion: [org/apache/commons/lang3/BitField.setShort]
+org/apache/commons/lang3/BitField.setShort
+org/apache/commons/lang3/BitField.set
+top 10 recommendations: 
+org/apache/commons/lang3/BitField.setShort
+org/apache/commons/lang3/BitField.set
+after post processing ......
+org/apache/commons/lang3/BitField.setShort
+org/apache/commons/lang3/BitField.set
+perfect match

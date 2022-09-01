@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testEquals:1948
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.equals]
+org/apache/commons/lang3/text/StrBuilder.equals
+org/apache/commons/lang3/text/StrBuilder.clear
+org/apache/commons/lang3/text/StrBuilder.append
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.equals
+org/apache/commons/lang3/text/StrBuilder.clear
+org/apache/commons/lang3/text/StrBuilder.append
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.equals
+org/apache/commons/lang3/text/StrBuilder.clear
+org/apache/commons/lang3/text/StrBuilder.append
+perfect match

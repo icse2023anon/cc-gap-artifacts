@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.category.BarRendererTest.testEquals:118
+Methods call in assertion: [org/jfree/chart/renderer/category/BarRenderer.equals]
+org/jfree/chart/renderer/category/BarRenderer.isDrawBarOutline
+org/jfree/chart/renderer/category/BarRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/category/BarRenderer.isDrawBarOutline
+org/jfree/chart/renderer/category/BarRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/category/BarRenderer.isDrawBarOutline
+org/jfree/chart/renderer/category/BarRenderer.equals
+found in top 10

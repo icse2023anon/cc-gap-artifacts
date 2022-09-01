@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.RangeTest.testIsStartedBy:274
+Methods call in assertion: [org/apache/commons/lang3/Range.isStartedBy]
+org/apache/commons/lang3/Range.isStartedBy
+org/apache/commons/lang3/Range.between
+top 10 recommendations: 
+org/apache/commons/lang3/Range.isStartedBy
+org/apache/commons/lang3/Range.between
+after post processing ......
+org/apache/commons/lang3/Range.isStartedBy
+org/apache/commons/lang3/Range.between
+perfect match

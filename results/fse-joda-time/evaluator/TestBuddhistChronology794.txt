@@ -1,0 +1,47 @@
+slicing criterion: org.joda.time.chrono.TestBuddhistChronology.testDurationFields:257
+Methods call in assertion: [org/joda/time/DurationField.isPrecise, org/joda/time/chrono/BuddhistChronology.centuries]
+org/joda/time/field/OffsetDateTimeField.get
+org/joda/time/chrono/AssembledChronology.getParam
+org/joda/time/field/DividedDateTimeField.getDurationField
+org/joda/time/chrono/LimitChronology.getAsText
+org/joda/time/chrono/LimitChronology.assemble
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/BuddhistChronology.assemble
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/field/DecoratedDateTimeField.getDurationField
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/field/DecoratedDurationField.isPrecise
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/field/DividedDateTimeField.<init>
+org/joda/time/chrono/AssembledChronology.centuries
+top 10 recommendations: 
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/BuddhistChronology.assemble
+org/joda/time/field/OffsetDateTimeField.get
+org/joda/time/chrono/AssembledChronology.getParam
+org/joda/time/field/DividedDateTimeField.getDurationField
+org/joda/time/chrono/LimitChronology.getAsText
+org/joda/time/chrono/LimitChronology.assemble
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/field/DecoratedDateTimeField.getDurationField
+org/joda/time/DateTimeZone.getDefault
+after post processing ......
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/BuddhistChronology.assemble
+org/joda/time/field/OffsetDateTimeField.get
+org/joda/time/chrono/AssembledChronology.getParam
+org/joda/time/field/DividedDateTimeField.getDurationField
+org/joda/time/chrono/LimitChronology.getAsText
+org/joda/time/chrono/LimitChronology.assemble
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/field/DecoratedDateTimeField.getDurationField
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/field/DecoratedDurationField.isPrecise
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/field/DividedDateTimeField.<init>
+org/joda/time/chrono/AssembledChronology.centuries
+all method calls are suggested

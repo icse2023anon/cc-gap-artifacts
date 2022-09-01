@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTime_Basics.testProperty:1395
+Methods call in assertion: [org/joda/time/DateTime.secondOfMinute, org/joda/time/DateTimeFieldType.secondOfMinute, org/joda/time/DateTime.property]
+org/joda/time/DateTime.getMillis
+org/joda/time/DateTimeFieldType.secondOfMinute
+top 10 recommendations: 
+org/joda/time/DateTime.getMillis
+org/joda/time/DateTimeFieldType.secondOfMinute
+after post processing ......
+org/joda/time/DateTime.getMillis
+org/joda/time/DateTimeFieldType.secondOfMinute
+not matched

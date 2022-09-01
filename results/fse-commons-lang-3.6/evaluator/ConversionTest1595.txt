@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testBinaryToLong:771
+Methods call in assertion: [org/apache/commons/lang3/Conversion.binaryToLong]
+org/apache/commons/lang3/Conversion.binaryToLong
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.binaryToLong
+after post processing ......
+org/apache/commons/lang3/Conversion.binaryToLong
+perfect match

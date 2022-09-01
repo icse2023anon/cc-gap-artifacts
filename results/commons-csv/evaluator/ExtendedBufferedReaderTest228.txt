@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.csv.ExtendedBufferedReaderTest.testEmptyInput:39
+Methods call in assertion: [org/apache/commons/csv/ExtendedBufferedReader.lookAhead]
+org/apache/commons/csv/ExtendedBufferedReader.lookAhead
+org/apache/commons/csv/ExtendedBufferedReader.<init>
+top 10 recommendations: 
+org/apache/commons/csv/ExtendedBufferedReader.lookAhead
+org/apache/commons/csv/ExtendedBufferedReader.<init>
+after post processing ......
+org/apache/commons/csv/ExtendedBufferedReader.lookAhead
+org/apache/commons/csv/ExtendedBufferedReader.<init>
+perfect match

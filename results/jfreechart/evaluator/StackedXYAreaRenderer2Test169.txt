@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.xy.StackedXYAreaRenderer2Test.testFindRangeBounds:178
+Methods call in assertion: [org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.findRangeBounds]
+org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.findRangeBounds
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.findRangeBounds
+after post processing ......
+org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.findRangeBounds
+perfect match

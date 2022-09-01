@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.TestPartial_Properties.testPropertyGetHour:119
+Methods call in assertion: [org/joda/time/DateTimeFieldType.hourOfDay, org/joda/time/Partial$Property.getAsShortText, org/joda/time/Partial.property]
+org/joda/time/field/BaseDateTimeField.getAsShortText
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/Partial.getValue
+org/joda/time/field/AbstractPartialFieldProperty.getAsShortText
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/Partial.size
+org/joda/time/Partial.<init>
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/field/BaseDateTimeField.getAsText
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.getAsShortText
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/Partial.getValue
+org/joda/time/field/AbstractPartialFieldProperty.getAsShortText
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/Partial.size
+org/joda/time/Partial.<init>
+org/joda/time/field/BaseDateTimeField.getAsText
+after post processing ......
+org/joda/time/field/BaseDateTimeField.getAsShortText
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/Partial.getValue
+org/joda/time/field/AbstractPartialFieldProperty.getAsShortText
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/Partial.size
+org/joda/time/Partial.<init>
+org/joda/time/field/BaseDateTimeField.getAsText
+not matched

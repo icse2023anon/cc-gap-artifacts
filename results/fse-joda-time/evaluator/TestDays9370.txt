@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDays.testGetPeriodType:239
+Methods call in assertion: [org/joda/time/PeriodType.days, org/joda/time/Days.getPeriodType]
+org/joda/time/PeriodType.days
+org/joda/time/Days.days
+top 10 recommendations: 
+org/joda/time/PeriodType.days
+org/joda/time/Days.days
+after post processing ......
+org/joda/time/PeriodType.days
+org/joda/time/Days.days
+not matched

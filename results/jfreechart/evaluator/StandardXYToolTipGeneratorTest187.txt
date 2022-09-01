@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.labels.StandardXYToolTipGeneratorTest.testCloning:144
+Methods call in assertion: [org/jfree/chart/labels/StandardXYToolTipGenerator.equals]
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.createItemArray
+org/jfree/chart/labels/StandardXYToolTipGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.createItemArray
+org/jfree/chart/labels/StandardXYToolTipGenerator.equals
+after post processing ......
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.createItemArray
+org/jfree/chart/labels/StandardXYToolTipGenerator.equals
+found in top 10

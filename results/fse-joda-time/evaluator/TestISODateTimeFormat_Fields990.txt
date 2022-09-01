@@ -1,0 +1,47 @@
+slicing criterion: org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_weekBased_YWD:382
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.print]
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatterBuilder.canBuildFormatter
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/DateTimeFieldType.monthOfYear
+org/joda/time/format/DateTimeFormatterBuilder.appendWeekOfWeekyear
+org/joda/time/DateTimeFieldType.weekyear
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeFieldType.dayOfWeek
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/DateTimeFieldType.weekOfWeekyear
+org/joda/time/format/DateTimeFormatter.getPrinter0
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfWeek
+top 10 recommendations: 
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/format/DateTimeFormatterBuilder.appendWeekOfWeekyear
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfWeek
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatterBuilder.canBuildFormatter
+org/joda/time/DateTimeFieldType.monthOfYear
+org/joda/time/DateTimeFieldType.weekyear
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/DateTimeFieldType.dayOfYear
+after post processing ......
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/format/DateTimeFormatterBuilder.appendWeekOfWeekyear
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfWeek
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatterBuilder.canBuildFormatter
+org/joda/time/DateTimeFieldType.monthOfYear
+org/joda/time/DateTimeFieldType.weekyear
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeFieldType.dayOfWeek
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/DateTimeFieldType.weekOfWeekyear
+org/joda/time/format/DateTimeFormatter.getPrinter0
+org/joda/time/format/DateTimeFormatter.print
+all method calls are suggested

@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestMonthDay_Basics.testIsEqual_MD:357
+Methods call in assertion: [org/joda/time/MonthDay.isEqual]
+org/joda/time/MonthDay.<init>
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/AbstractPartial.compareTo
+org/joda/time/base/AbstractPartial.isEqual
+org/joda/time/MonthDay.size
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.isEqual
+org/joda/time/MonthDay.<init>
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/AbstractPartial.compareTo
+org/joda/time/MonthDay.size
+after post processing ......
+org/joda/time/base/AbstractPartial.isEqual
+org/joda/time/MonthDay.<init>
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/AbstractPartial.compareTo
+org/joda/time/MonthDay.size
+found in top 10

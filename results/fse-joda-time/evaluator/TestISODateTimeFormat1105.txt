@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.format.TestISODateTimeFormat.testFormat_dateHourMinute:605
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.print, org/joda/time/format/ISODateTimeFormat.dateHourMinute]
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/ISODateTimeFormat.dateHourMinute
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/ISODateTimeFormat.dateHourMinute
+after post processing ......
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/ISODateTimeFormat.dateHourMinute
+perfect match

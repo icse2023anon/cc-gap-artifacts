@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.math.FractionTest.testReducedFactory_int_int:365
+Methods call in assertion: [org/apache/commons/lang3/math/Fraction.getNumerator]
+org/apache/commons/lang3/math/Fraction.getNumerator
+org/apache/commons/lang3/math/Fraction.getReducedFraction
+top 10 recommendations: 
+org/apache/commons/lang3/math/Fraction.getNumerator
+org/apache/commons/lang3/math/Fraction.getReducedFraction
+after post processing ......
+org/apache/commons/lang3/math/Fraction.getNumerator
+org/apache/commons/lang3/math/Fraction.getReducedFraction
+perfect match

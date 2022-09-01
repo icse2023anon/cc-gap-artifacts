@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYAreaRendererTest.testGetLegendItemSeriesIndex:251
+Methods call in assertion: [org/jfree/chart/LegendItem.getDatasetIndex]
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/chart/plot/XYPlot.setDataset
+org/jfree/chart/LegendItem.getDatasetIndex
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getPlot
+org/jfree/chart/plot/XYPlot.getDataset
+org/jfree/chart/renderer/xy/XYAreaRenderer.getLegendItem
+top 10 recommendations: 
+org/jfree/chart/plot/XYPlot.setDataset
+org/jfree/chart/renderer/xy/XYAreaRenderer.getLegendItem
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/chart/LegendItem.getDatasetIndex
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getPlot
+org/jfree/chart/plot/XYPlot.getDataset
+after post processing ......
+org/jfree/chart/plot/XYPlot.setDataset
+org/jfree/chart/renderer/xy/XYAreaRenderer.getLegendItem
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/chart/LegendItem.getDatasetIndex
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getPlot
+org/jfree/chart/plot/XYPlot.getDataset
+found in top 10

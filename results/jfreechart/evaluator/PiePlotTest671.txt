@@ -1,0 +1,32 @@
+slicing criterion: org.jfree.chart.plot.PiePlotTest.testGetLegendItems:557
+Methods call in assertion: [org/jfree/chart/LegendItemCollection.getItemCount]
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.createItemArray
+org/jfree/data/general/DefaultPieDataset.getValue
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.generateSectionLabel
+org/jfree/chart/plot/PiePlot.getLegendItems
+org/jfree/chart/LegendItemCollection.getItemCount
+org/jfree/data/general/DefaultPieDataset.setValue
+org/jfree/data/general/DefaultPieDataset.getKeys
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.generateSectionLabel
+org/jfree/chart/LegendItemCollection.add
+top 10 recommendations: 
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.generateSectionLabel
+org/jfree/chart/plot/PiePlot.getLegendItems
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.generateSectionLabel
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.createItemArray
+org/jfree/data/general/DefaultPieDataset.getValue
+org/jfree/chart/LegendItemCollection.getItemCount
+org/jfree/data/general/DefaultPieDataset.setValue
+org/jfree/data/general/DefaultPieDataset.getKeys
+org/jfree/chart/LegendItemCollection.add
+after post processing ......
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.generateSectionLabel
+org/jfree/chart/plot/PiePlot.getLegendItems
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.generateSectionLabel
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.createItemArray
+org/jfree/data/general/DefaultPieDataset.getValue
+org/jfree/chart/LegendItemCollection.getItemCount
+org/jfree/data/general/DefaultPieDataset.setValue
+org/jfree/data/general/DefaultPieDataset.getKeys
+org/jfree/chart/LegendItemCollection.add
+found in top 10

@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTrimStripTest.testTrimToNull:63
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.trimToNull]
+org/apache/commons/lang3/StringUtils.trimToNull
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/StringUtils.trim
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.trimToNull
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/StringUtils.trim
+after post processing ......
+org/apache/commons/lang3/StringUtils.trimToNull
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/StringUtils.trim
+perfect match

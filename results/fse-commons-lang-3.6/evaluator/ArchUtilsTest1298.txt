@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.ArchUtilsTest.testArch:136
+Methods call in assertion: [org/apache/commons/lang3/arch/Processor.isPPC]
+org/apache/commons/lang3/arch/Processor.isPPC
+org/apache/commons/lang3/ArchUtils.getProcessor
+top 10 recommendations: 
+org/apache/commons/lang3/arch/Processor.isPPC
+org/apache/commons/lang3/ArchUtils.getProcessor
+after post processing ......
+org/apache/commons/lang3/arch/Processor.isPPC
+org/apache/commons/lang3/ArchUtils.getProcessor
+perfect match

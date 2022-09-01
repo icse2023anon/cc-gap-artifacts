@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.chrono.TestGregorianChronology.testDurationFields:287
+Methods call in assertion: [org/joda/time/DurationField.isPrecise, org/joda/time/chrono/GregorianChronology.months]
+org/joda/time/chrono/GregorianChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.months
+top 10 recommendations: 
+org/joda/time/chrono/GregorianChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.months
+after post processing ......
+org/joda/time/chrono/GregorianChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.months
+not matched

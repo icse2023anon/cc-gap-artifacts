@@ -1,0 +1,14 @@
+slicing criterion: com.google.gson.internal.bind.JsonTreeWriterTest.testLenientNansAndInfinities:131
+Methods call in assertion: [com/google/gson/internal/bind/JsonTreeWriter.get, com/google/gson/JsonElement.toString]
+com/google/gson/internal/bind/JsonTreeWriter.get
+com/google/gson/internal/bind/JsonTreeWriter.beginArray
+com/google/gson/JsonElement.toString
+top 10 recommendations: 
+com/google/gson/internal/bind/JsonTreeWriter.get
+com/google/gson/internal/bind/JsonTreeWriter.beginArray
+com/google/gson/JsonElement.toString
+after post processing ......
+com/google/gson/internal/bind/JsonTreeWriter.get
+com/google/gson/internal/bind/JsonTreeWriter.beginArray
+com/google/gson/JsonElement.toString
+found in top 10

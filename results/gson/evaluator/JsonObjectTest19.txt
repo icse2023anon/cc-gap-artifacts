@@ -1,0 +1,8 @@
+slicing criterion: com.google.gson.JsonObjectTest.testSize:163
+Methods call in assertion: [com/google/gson/JsonObject.size]
+com/google/gson/JsonObject.size
+top 10 recommendations: 
+com/google/gson/JsonObject.size
+after post processing ......
+com/google/gson/JsonObject.size
+perfect match

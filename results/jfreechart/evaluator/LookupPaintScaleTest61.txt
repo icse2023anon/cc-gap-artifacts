@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.LookupPaintScaleTest.testGeneral:181
+Methods call in assertion: [org/jfree/chart/renderer/LookupPaintScale.getPaint]
+org/jfree/chart/renderer/LookupPaintScale.add
+org/jfree/chart/renderer/LookupPaintScale.getPaint
+top 10 recommendations: 
+org/jfree/chart/renderer/LookupPaintScale.add
+org/jfree/chart/renderer/LookupPaintScale.getPaint
+after post processing ......
+org/jfree/chart/renderer/LookupPaintScale.add
+org/jfree/chart/renderer/LookupPaintScale.getPaint
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: com.google.gson.reflect.TypeTokenTest.testParameterizedFactory:98
+Methods call in assertion: [com/google/gson/reflect/TypeToken.getParameterized]
+com/google/gson/reflect/TypeToken.getType
+top 10 recommendations: 
+com/google/gson/reflect/TypeToken.getType
+after post processing ......
+com/google/gson/reflect/TypeToken.getType
+not matched

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testLengthStringBuffer:1886
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.length]
+org/apache/commons/lang3/StringUtils.length
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.length
+after post processing ......
+org/apache/commons/lang3/StringUtils.length
+perfect match

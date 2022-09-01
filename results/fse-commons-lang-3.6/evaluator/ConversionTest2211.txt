@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testShortToHex:1444
+Methods call in assertion: [org/apache/commons/lang3/Conversion.shortToHex]
+org/apache/commons/lang3/Conversion.shortToHex
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.shortToHex
+after post processing ......
+org/apache/commons/lang3/Conversion.shortToHex
+perfect match

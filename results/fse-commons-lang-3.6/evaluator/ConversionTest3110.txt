@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testIntToShortArray:985
+Methods call in assertion: [org/apache/commons/lang3/Conversion.intToShortArray]
+org/apache/commons/lang3/Conversion.intToShortArray
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.intToShortArray
+after post processing ......
+org/apache/commons/lang3/Conversion.intToShortArray
+perfect match

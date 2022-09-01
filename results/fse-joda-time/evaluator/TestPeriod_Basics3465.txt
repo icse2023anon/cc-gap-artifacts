@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestPeriod_Basics.testWith:802
+Methods call in assertion: [org/joda/time/PeriodType.standard]
+org/joda/time/PeriodType.standard
+org/joda/time/Period.withMillis
+top 10 recommendations: 
+org/joda/time/PeriodType.standard
+org/joda/time/Period.withMillis
+after post processing ......
+org/joda/time/PeriodType.standard
+org/joda/time/Period.withMillis
+perfect match

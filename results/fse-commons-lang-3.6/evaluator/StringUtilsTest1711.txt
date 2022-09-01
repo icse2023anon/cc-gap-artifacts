@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testRemoveFirst:2941
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.removeFirst]
+org/apache/commons/lang3/StringUtils.removeAll
+org/apache/commons/lang3/StringUtils.replaceAll
+org/apache/commons/lang3/StringUtils.replaceFirst
+org/apache/commons/lang3/StringUtils.removeFirst
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.removeAll
+org/apache/commons/lang3/StringUtils.removeFirst
+org/apache/commons/lang3/StringUtils.replaceAll
+org/apache/commons/lang3/StringUtils.replaceFirst
+after post processing ......
+org/apache/commons/lang3/StringUtils.removeAll
+org/apache/commons/lang3/StringUtils.removeFirst
+org/apache/commons/lang3/StringUtils.replaceAll
+org/apache/commons/lang3/StringUtils.replaceFirst
+found in top 10

@@ -1,0 +1,49 @@
+slicing criterion: com.thoughtworks.xstream.persistence.FilePersistenceStrategyTest.testIteratesOverEntryAndChecksItsKeyWithAnotherInstance:236
+Methods call in assertion: [com/thoughtworks/xstream/persistence/FilePersistenceStrategy.containsKey]
+com/thoughtworks/xstream/XStream.createObjectOutputStream
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.unescape
+com/thoughtworks/xstream/core/util/PrioritizedList.iterator
+com/thoughtworks/xstream/core/util/SelfStreamingInstanceChecker.canConvert
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.getConverterLookup
+com/thoughtworks/xstream/converters/basic/StringConverter.fromString
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.<init>
+com/thoughtworks/xstream/converters/SingleValueConverterWrapper.fromString
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.extractKey
+com/thoughtworks/xstream/XStream.registerConverter
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.escape
+com/thoughtworks/xstream/core/DefaultConverterLookup.registerConverter
+com/thoughtworks/xstream/core/DefaultConverterLookup.lookupConverterForType
+com/thoughtworks/xstream/XStream.<init>
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.containsKey
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.isValid
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.getName
+top 10 recommendations: 
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.extractKey
+com/thoughtworks/xstream/core/DefaultConverterLookup.lookupConverterForType
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.getName
+com/thoughtworks/xstream/XStream.createObjectOutputStream
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.unescape
+com/thoughtworks/xstream/core/util/PrioritizedList.iterator
+com/thoughtworks/xstream/core/util/SelfStreamingInstanceChecker.canConvert
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.getConverterLookup
+com/thoughtworks/xstream/converters/basic/StringConverter.fromString
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.<init>
+after post processing ......
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.extractKey
+com/thoughtworks/xstream/core/DefaultConverterLookup.lookupConverterForType
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.getName
+com/thoughtworks/xstream/XStream.createObjectOutputStream
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.unescape
+com/thoughtworks/xstream/core/util/PrioritizedList.iterator
+com/thoughtworks/xstream/core/util/SelfStreamingInstanceChecker.canConvert
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.getConverterLookup
+com/thoughtworks/xstream/converters/basic/StringConverter.fromString
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.<init>
+com/thoughtworks/xstream/converters/SingleValueConverterWrapper.fromString
+com/thoughtworks/xstream/XStream.registerConverter
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.escape
+com/thoughtworks/xstream/core/DefaultConverterLookup.registerConverter
+com/thoughtworks/xstream/XStream.<init>
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.containsKey
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.isValid
+not matched

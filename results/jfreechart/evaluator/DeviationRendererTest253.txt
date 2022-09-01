@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.xy.DeviationRendererTest.testEquals:66
+Methods call in assertion: [org/jfree/chart/renderer/xy/DeviationRenderer.equals]
+org/jfree/chart/renderer/xy/DeviationRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/DeviationRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/xy/DeviationRenderer.equals
+perfect match

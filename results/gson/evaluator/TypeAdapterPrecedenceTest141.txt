@@ -1,0 +1,41 @@
+slicing criterion: com.google.gson.functional.TypeAdapterPrecedenceTest.testStreamingHierarchicalFollowedByNonstreamingHierarchical:102
+Methods call in assertion: [com/google/gson/Gson.fromJson]
+com/google/gson/Gson.fromJson
+com/google/gson/Gson.<init>
+com/google/gson/Gson.toJson
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/GsonBuilder.registerTypeAdapter
+com/google/gson/GsonBuilder.create
+com/google/gson/GsonBuilder.registerTypeHierarchyAdapter
+com/google/gson/Gson.getAdapter
+com/google/gson/internal/Excluder.excludeClass
+com/google/gson/internal/Excluder.create
+com/google/gson/reflect/TypeToken.equals
+com/google/gson/internal/bind/TypeAdapters.create
+top 10 recommendations: 
+com/google/gson/internal/Excluder.create
+com/google/gson/Gson.fromJson
+com/google/gson/Gson.toJson
+com/google/gson/GsonBuilder.create
+com/google/gson/Gson.<init>
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/GsonBuilder.registerTypeAdapter
+com/google/gson/GsonBuilder.registerTypeHierarchyAdapter
+com/google/gson/Gson.getAdapter
+after post processing ......
+com/google/gson/internal/Excluder.create
+com/google/gson/Gson.fromJson
+com/google/gson/Gson.toJson
+com/google/gson/GsonBuilder.create
+com/google/gson/Gson.<init>
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/GsonBuilder.registerTypeAdapter
+com/google/gson/GsonBuilder.registerTypeHierarchyAdapter
+com/google/gson/Gson.getAdapter
+com/google/gson/internal/Excluder.excludeClass
+com/google/gson/reflect/TypeToken.equals
+com/google/gson/internal/bind/TypeAdapters.create
+found in top 10

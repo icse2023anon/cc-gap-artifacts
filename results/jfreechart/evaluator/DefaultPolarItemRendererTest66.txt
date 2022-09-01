@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.DefaultPolarItemRendererTest.testCloning:98
+Methods call in assertion: [org/jfree/chart/renderer/DefaultPolarItemRenderer.equals]
+org/jfree/chart/renderer/DefaultPolarItemRenderer.clone
+org/jfree/chart/renderer/DefaultPolarItemRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/DefaultPolarItemRenderer.clone
+org/jfree/chart/renderer/DefaultPolarItemRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/DefaultPolarItemRenderer.clone
+org/jfree/chart/renderer/DefaultPolarItemRenderer.equals
+found in top 10

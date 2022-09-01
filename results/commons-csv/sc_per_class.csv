@@ -1,0 +1,11 @@
+class,missed_stmt,covered_stmt,total_stmts
+org.apache.commons.csv.CSVFormat,22,313,335
+org.apache.commons.csv.Lexer,11,140,151
+org.apache.commons.csv.Token,1,3,4
+org.apache.commons.csv.CSVRecord,13,22,35
+org.apache.commons.csv.Constants,0,0,0
+org.apache.commons.csv.CSVParser,8,109,117
+org.apache.commons.csv.Assertions,0,2,2
+org.apache.commons.csv.QuoteMode,0,0,0
+org.apache.commons.csv.CSVPrinter,5,57,62
+org.apache.commons.csv.ExtendedBufferedReader,0,42,42

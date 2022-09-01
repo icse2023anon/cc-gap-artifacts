@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.validator.routines.CurrencyValidatorTest.testFormatType:66
+Methods call in assertion: [org/apache/commons/validator/routines/BigDecimalValidator.getFormatType, org/apache/commons/validator/routines/CurrencyValidator.getInstance]
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormatType
+org/apache/commons/validator/routines/CurrencyValidator.getInstance
+top 10 recommendations: 
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormatType
+org/apache/commons/validator/routines/CurrencyValidator.getInstance
+after post processing ......
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormatType
+org/apache/commons/validator/routines/CurrencyValidator.getInstance
+perfect match

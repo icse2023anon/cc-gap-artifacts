@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.axis.AxisSpaceTest.testCloning:106
+Methods call in assertion: [org/jfree/chart/axis/AxisSpace.equals]
+org/jfree/chart/axis/AxisSpace.clone
+org/jfree/chart/axis/AxisSpace.equals
+top 10 recommendations: 
+org/jfree/chart/axis/AxisSpace.clone
+org/jfree/chart/axis/AxisSpace.equals
+after post processing ......
+org/jfree/chart/axis/AxisSpace.clone
+org/jfree/chart/axis/AxisSpace.equals
+found in top 10

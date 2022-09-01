@@ -1,0 +1,41 @@
+slicing criterion: org.joda.time.TestDateTime_Basics.testPlusMonths_intMax:1189
+Methods call in assertion: [org/joda/time/DateTime.plusMonths]
+org/joda/time/DateTime.getMillis
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.months
+org/joda/time/DateTime.plusMonths
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/DateTimeZone.forID
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.plusMonths
+org/joda/time/DateTimeZone.forID
+org/joda/time/DateTime.getMillis
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.months
+org/joda/time/tz/ZoneInfoProvider.getZone
+after post processing ......
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.plusMonths
+org/joda/time/DateTimeZone.forID
+org/joda/time/DateTime.getMillis
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.months
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

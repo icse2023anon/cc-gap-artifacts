@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestIllegalFieldValueException.testOtherConstructors:325
+Methods call in assertion: [org/joda/time/IllegalFieldValueException.getIllegalNumberValue]
+org/joda/time/IllegalFieldValueException.getIllegalNumberValue
+top 10 recommendations: 
+org/joda/time/IllegalFieldValueException.getIllegalNumberValue
+after post processing ......
+org/joda/time/IllegalFieldValueException.getIllegalNumberValue
+perfect match

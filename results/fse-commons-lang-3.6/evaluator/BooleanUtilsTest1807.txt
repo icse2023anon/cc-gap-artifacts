@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.BooleanUtilsTest.test_isNotFalse_Boolean:128
+Methods call in assertion: [org/apache/commons/lang3/BooleanUtils.isNotFalse]
+org/apache/commons/lang3/BooleanUtils.isNotFalse
+org/apache/commons/lang3/BooleanUtils.isFalse
+top 10 recommendations: 
+org/apache/commons/lang3/BooleanUtils.isNotFalse
+org/apache/commons/lang3/BooleanUtils.isFalse
+after post processing ......
+org/apache/commons/lang3/BooleanUtils.isNotFalse
+org/apache/commons/lang3/BooleanUtils.isFalse
+perfect match

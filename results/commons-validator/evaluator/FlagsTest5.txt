@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.validator.util.FlagsTest.testHashCode:44
+Methods call in assertion: [org/apache/commons/validator/util/Flags.hashCode]
+org/apache/commons/validator/util/Flags.hashCode
+top 10 recommendations: 
+org/apache/commons/validator/util/Flags.hashCode
+after post processing ......
+org/apache/commons/validator/util/Flags.hashCode
+perfect match

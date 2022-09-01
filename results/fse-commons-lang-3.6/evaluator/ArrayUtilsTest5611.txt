@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.ArrayUtilsTest.testIsSortedChar:5229
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.isSorted]
+org/apache/commons/lang3/ArrayUtils.isSorted
+org/apache/commons/lang3/CharUtils.compare
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.isSorted
+org/apache/commons/lang3/CharUtils.compare
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.isSorted
+org/apache/commons/lang3/CharUtils.compare
+perfect match

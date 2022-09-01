@@ -1,0 +1,45 @@
+slicing criterion: org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_HMSm:655
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.print]
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/format/DateTimeFormatterBuilder.appendSecondOfMinute
+org/joda/time/format/DateTimeFormatterBuilder.canBuildFormatter
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendMinuteOfHour
+org/joda/time/DateTimeFieldType.secondOfMinute
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/DateTimeFieldType.millisOfSecond
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/DateTimeFormatterBuilder.appendMillisOfSecond
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+top 10 recommendations: 
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/format/DateTimeFormatterBuilder.appendSecondOfMinute
+org/joda/time/format/DateTimeFormatterBuilder.appendMinuteOfHour
+org/joda/time/format/DateTimeFormatterBuilder.appendMillisOfSecond
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/format/DateTimeFormatterBuilder.canBuildFormatter
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+after post processing ......
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/format/DateTimeFormatterBuilder.appendSecondOfMinute
+org/joda/time/format/DateTimeFormatterBuilder.appendMinuteOfHour
+org/joda/time/format/DateTimeFormatterBuilder.appendMillisOfSecond
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/format/DateTimeFormatterBuilder.canBuildFormatter
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/DateTimeFieldType.secondOfMinute
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/DateTimeFieldType.millisOfSecond
+org/joda/time/format/DateTimeFormatter.print
+all method calls are suggested

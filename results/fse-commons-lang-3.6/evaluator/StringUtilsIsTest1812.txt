@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsIsTest.testIsAlphaspace:91
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.isAlphaSpace]
+org/apache/commons/lang3/StringUtils.isAlphaSpace
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.isAlphaSpace
+after post processing ......
+org/apache/commons/lang3/StringUtils.isAlphaSpace
+perfect match

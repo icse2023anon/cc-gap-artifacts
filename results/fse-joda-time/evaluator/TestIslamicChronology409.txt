@@ -1,0 +1,5 @@
+slicing criterion: org.joda.time.chrono.TestIslamicChronology.test15BasedLeapYear:740
+Methods call in assertion: [org/joda/time/chrono/IslamicChronology$LeapYearPatternType.isLeapYear]
+top 10 recommendations: 
+after post processing ......
+not matched

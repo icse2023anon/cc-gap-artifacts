@@ -1,0 +1,51 @@
+slicing criterion: com.google.gson.DefaultMapJsonSerializerTest.testEmptyMapSerialization:49
+Methods call in assertion: [com/google/gson/JsonObject.entrySet]
+com/google/gson/Gson.<init>
+com/google/gson/internal/LinkedTreeMap.entrySet
+com/google/gson/internal/bind/JsonTreeWriter.get
+com/google/gson/Gson.toJson
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/internal/bind/MapTypeAdapterFactory.<init>
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/internal/LinkedTreeMap.getKey
+com/google/gson/internal/bind/CollectionTypeAdapterFactory.create
+com/google/gson/internal/bind/JsonTreeWriter.beginObject
+com/google/gson/Gson.getAdapter
+com/google/gson/internal/Excluder.excludeClass
+com/google/gson/internal/Excluder.create
+com/google/gson/internal/bind/TypeAdapters.create
+com/google/gson/reflect/TypeToken.getSuperclassTypeParameter
+com/google/gson/Gson.toJsonTree
+com/google/gson/internal/bind/MapTypeAdapterFactory.create
+top 10 recommendations: 
+com/google/gson/internal/bind/CollectionTypeAdapterFactory.create
+com/google/gson/Gson.toJsonTree
+com/google/gson/internal/bind/MapTypeAdapterFactory.create
+com/google/gson/internal/Excluder.create
+com/google/gson/Gson.<init>
+com/google/gson/Gson.toJson
+com/google/gson/internal/LinkedTreeMap.entrySet
+com/google/gson/internal/bind/JsonTreeWriter.get
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/reflect/TypeToken.getType
+after post processing ......
+com/google/gson/internal/bind/CollectionTypeAdapterFactory.create
+com/google/gson/Gson.toJsonTree
+com/google/gson/internal/bind/MapTypeAdapterFactory.create
+com/google/gson/internal/Excluder.create
+com/google/gson/Gson.<init>
+com/google/gson/Gson.toJson
+com/google/gson/internal/LinkedTreeMap.entrySet
+com/google/gson/internal/bind/JsonTreeWriter.get
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/internal/bind/MapTypeAdapterFactory.<init>
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/internal/LinkedTreeMap.getKey
+com/google/gson/internal/bind/JsonTreeWriter.beginObject
+com/google/gson/Gson.getAdapter
+com/google/gson/internal/Excluder.excludeClass
+com/google/gson/internal/bind/TypeAdapters.create
+com/google/gson/reflect/TypeToken.getSuperclassTypeParameter
+not matched

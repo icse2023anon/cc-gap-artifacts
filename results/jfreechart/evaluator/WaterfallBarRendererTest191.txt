@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.category.WaterfallBarRendererTest.testEquals:82
+Methods call in assertion: [org/jfree/chart/renderer/category/WaterfallBarRenderer.equals]
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/category/WaterfallBarRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/category/WaterfallBarRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/renderer/category/WaterfallBarRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+perfect match

@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.convert.TestReadableInstantConverter.testGetChronology_Object_Chronology:149
+Methods call in assertion: [org/joda/time/convert/ReadableInstantConverter.getChronology]
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/convert/ReadableInstantConverter.getChronology
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/DateTimeZone.getID
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/chrono/JulianChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/tz/FixedDateTimeZone.hashCode
+top 10 recommendations: 
+org/joda/time/chrono/JulianChronology.getInstance
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/convert/ReadableInstantConverter.getChronology
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/FixedDateTimeZone.hashCode
+after post processing ......
+org/joda/time/chrono/JulianChronology.getInstance
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/convert/ReadableInstantConverter.getChronology
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/FixedDateTimeZone.hashCode
+found in top 10

@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.TestIllegalFieldValueException.testSetText:139
+Methods call in assertion: [org/joda/time/DateTimeFieldType.year, org/joda/time/IllegalFieldValueException.getDateTimeFieldType]
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateTimeFieldType.year
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/field/BaseDateTimeField.convertText
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/IllegalFieldValueException.getDateTimeFieldType
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/field/BaseDateTimeField.convertText
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateTimeFieldType.year
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/IllegalFieldValueException.getDateTimeFieldType
+after post processing ......
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/field/BaseDateTimeField.convertText
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateTimeFieldType.year
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/IllegalFieldValueException.getDateTimeFieldType
+found in top 10

@@ -1,0 +1,49 @@
+slicing criterion: org.joda.time.TestPeriod_Basics.testToStandardDuration:1438
+Methods call in assertion: [org/joda/time/Duration.getMillis, org/joda/time/Period.toStandardDuration]
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/Period.getHours
+org/joda/time/Period.getMinutes
+org/joda/time/Period.getWeeks
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/PeriodType.standard
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/base/BaseDuration.getMillis
+org/joda/time/base/BasePeriod.getValue
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/Period.toStandardDuration
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/Period.getDays
+org/joda/time/Period.getMillis
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/Period.getSeconds
+top 10 recommendations: 
+org/joda/time/Period.toStandardDuration
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/Period.getHours
+org/joda/time/Period.getMinutes
+org/joda/time/Period.getWeeks
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/Period.getDays
+org/joda/time/Period.getMillis
+org/joda/time/Period.getSeconds
+after post processing ......
+org/joda/time/Period.toStandardDuration
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/Period.getHours
+org/joda/time/Period.getMinutes
+org/joda/time/Period.getWeeks
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/Period.getDays
+org/joda/time/Period.getMillis
+org/joda/time/Period.getSeconds
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.standard
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/base/BaseDuration.getMillis
+org/joda/time/base/BasePeriod.getValue
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/PeriodType.getIndexedField
+all method calls are suggested

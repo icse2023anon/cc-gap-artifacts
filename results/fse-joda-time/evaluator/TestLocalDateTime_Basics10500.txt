@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testGetField_int:261
+Methods call in assertion: [org/joda/time/LocalDateTime.getField, org/joda/time/Chronology.year]
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/LocalDateTime.getField
+org/joda/time/chrono/AssembledChronology.year
+top 10 recommendations: 
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/LocalDateTime.getField
+org/joda/time/chrono/AssembledChronology.year
+after post processing ......
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/LocalDateTime.getField
+org/joda/time/chrono/AssembledChronology.year
+found in top 10

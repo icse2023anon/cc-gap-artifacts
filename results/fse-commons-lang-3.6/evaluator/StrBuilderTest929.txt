@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testMidString:1376
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.midString]
+org/apache/commons/lang3/text/StrBuilder.<init>
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.midString
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.<init>
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.midString
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.<init>
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.midString
+found in top 10

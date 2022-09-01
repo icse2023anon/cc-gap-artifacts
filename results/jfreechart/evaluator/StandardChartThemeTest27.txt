@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.StandardChartThemeTest.testEquals:222
+Methods call in assertion: [org/jfree/chart/StandardChartTheme.equals]
+org/jfree/chart/StandardChartTheme.isShadowVisible
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/StandardChartTheme.equals
+top 10 recommendations: 
+org/jfree/chart/StandardChartTheme.equals
+org/jfree/chart/StandardChartTheme.isShadowVisible
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/StandardChartTheme.equals
+org/jfree/chart/StandardChartTheme.isShadowVisible
+org/jfree/chart/util/PaintUtils.equal
+perfect match

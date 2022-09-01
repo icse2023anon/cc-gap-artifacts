@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.field.TestPreciseDateTimeField.test_getRange:187
+Methods call in assertion: [org/joda/time/field/PreciseDateTimeField.getRange]
+org/joda/time/field/PreciseDateTimeField.getRange
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.<init>
+top 10 recommendations: 
+org/joda/time/field/PreciseDateTimeField.getRange
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.<init>
+after post processing ......
+org/joda/time/field/PreciseDateTimeField.getRange
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.<init>
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.title.PaintScaleLegendTest.testEquals:81
+Methods call in assertion: [org/jfree/chart/title/PaintScaleLegend.equals]
+org/jfree/chart/title/PaintScaleLegend.equals
+top 10 recommendations: 
+org/jfree/chart/title/PaintScaleLegend.equals
+after post processing ......
+org/jfree/chart/title/PaintScaleLegend.equals
+perfect match

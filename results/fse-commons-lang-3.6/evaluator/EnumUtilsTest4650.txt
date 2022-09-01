@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.EnumUtilsTest.test_generateBitVectorFromArray:260
+Methods call in assertion: [org/apache/commons/lang3/EnumUtils.generateBitVector]
+org/apache/commons/lang3/EnumUtils.generateBitVector
+top 10 recommendations: 
+org/apache/commons/lang3/EnumUtils.generateBitVector
+after post processing ......
+org/apache/commons/lang3/EnumUtils.generateBitVector
+perfect match

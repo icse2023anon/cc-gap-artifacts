@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestDurationFieldType.test_halfdays:132
+Methods call in assertion: [org/joda/time/chrono/CopticChronology.halfdays, org/joda/time/DurationField.isSupported, org/joda/time/chrono/CopticChronology.getInstanceUTC, org/joda/time/DurationFieldType.halfdays, org/joda/time/DurationFieldType.isSupported]
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/chrono/AssembledChronology.halfdays
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/DurationFieldType.halfdays
+org/joda/time/DurationFieldType.isSupported
+top 10 recommendations: 
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/chrono/AssembledChronology.halfdays
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/DurationFieldType.halfdays
+org/joda/time/DurationFieldType.isSupported
+after post processing ......
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/chrono/AssembledChronology.halfdays
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/DurationFieldType.halfdays
+org/joda/time/DurationFieldType.isSupported
+not matched

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.ToStringStyleTest.testSetSummaryObjectStartText:124
+Methods call in assertion: [org/apache/commons/lang3/builder/ToStringStyle.getSummaryObjectStartText]
+org/apache/commons/lang3/builder/ToStringStyle.setSummaryObjectStartText
+org/apache/commons/lang3/builder/ToStringStyle.getSummaryObjectStartText
+top 10 recommendations: 
+org/apache/commons/lang3/builder/ToStringStyle.setSummaryObjectStartText
+org/apache/commons/lang3/builder/ToStringStyle.getSummaryObjectStartText
+after post processing ......
+org/apache/commons/lang3/builder/ToStringStyle.setSummaryObjectStartText
+org/apache/commons/lang3/builder/ToStringStyle.getSummaryObjectStartText
+found in top 10

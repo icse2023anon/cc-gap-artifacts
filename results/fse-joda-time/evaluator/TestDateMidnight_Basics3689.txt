@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDateMidnight_Basics.testToString:502
+Methods call in assertion: [org/joda/time/DateMidnight.toString]
+org/joda/time/base/AbstractDateTime.toString
+top 10 recommendations: 
+org/joda/time/base/AbstractDateTime.toString
+after post processing ......
+org/joda/time/base/AbstractDateTime.toString
+perfect match

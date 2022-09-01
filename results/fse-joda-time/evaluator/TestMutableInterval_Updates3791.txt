@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMutableInterval_Updates.testSetDurationBeforeEnd_long1:358
+Methods call in assertion: [org/joda/time/MutableInterval.getEndMillis]
+org/joda/time/MutableInterval.setDurationBeforeEnd
+org/joda/time/base/BaseInterval.getEndMillis
+top 10 recommendations: 
+org/joda/time/MutableInterval.setDurationBeforeEnd
+org/joda/time/base/BaseInterval.getEndMillis
+after post processing ......
+org/joda/time/MutableInterval.setDurationBeforeEnd
+org/joda/time/base/BaseInterval.getEndMillis
+found in top 10

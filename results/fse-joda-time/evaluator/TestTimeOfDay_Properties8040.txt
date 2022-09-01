@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Properties.testPropertyGetHour:125
+Methods call in assertion: [org/joda/time/TimeOfDay.hourOfDay, org/joda/time/TimeOfDay$Property.getAsString]
+org/joda/time/TimeOfDay.hourOfDay
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/field/AbstractPartialFieldProperty.getAsString
+top 10 recommendations: 
+org/joda/time/TimeOfDay.hourOfDay
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/field/AbstractPartialFieldProperty.getAsString
+after post processing ......
+org/joda/time/TimeOfDay.hourOfDay
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/field/AbstractPartialFieldProperty.getAsString
+not matched

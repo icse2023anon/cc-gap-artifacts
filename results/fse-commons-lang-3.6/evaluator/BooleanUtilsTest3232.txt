@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.BooleanUtilsTest.test_toIntegerObject_Boolean_Integer_Integer_Integer:292
+Methods call in assertion: [org/apache/commons/lang3/BooleanUtils.toIntegerObject]
+org/apache/commons/lang3/BooleanUtils.toIntegerObject
+top 10 recommendations: 
+org/apache/commons/lang3/BooleanUtils.toIntegerObject
+after post processing ......
+org/apache/commons/lang3/BooleanUtils.toIntegerObject
+perfect match

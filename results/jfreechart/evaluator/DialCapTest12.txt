@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.dial.DialCapTest.testEquals:71
+Methods call in assertion: [org/jfree/chart/plot/dial/DialCap.equals]
+org/jfree/chart/plot/dial/DialCap.equals
+top 10 recommendations: 
+org/jfree/chart/plot/dial/DialCap.equals
+after post processing ......
+org/jfree/chart/plot/dial/DialCap.equals
+perfect match

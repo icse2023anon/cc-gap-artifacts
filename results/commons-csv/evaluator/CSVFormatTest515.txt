@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testNewFormat:663
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getCommentMarker]
+org/apache/commons/csv/CSVFormat.newFormat
+org/apache/commons/csv/CSVFormat.getCommentMarker
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.newFormat
+org/apache/commons/csv/CSVFormat.getCommentMarker
+after post processing ......
+org/apache/commons/csv/CSVFormat.newFormat
+org/apache/commons/csv/CSVFormat.getCommentMarker
+found in top 10

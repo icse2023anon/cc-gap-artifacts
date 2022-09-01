@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestSeconds.testFactory_standardSecondsIn_RPeriod:145
+Methods call in assertion: [org/joda/time/Seconds.standardSecondsIn, org/joda/time/Seconds.getSeconds]
+org/joda/time/base/BaseSingleFieldPeriod.standardPeriodIn
+org/joda/time/Seconds.standardSecondsIn
+org/joda/time/Seconds.seconds
+org/joda/time/Seconds.getSeconds
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+top 10 recommendations: 
+org/joda/time/Seconds.standardSecondsIn
+org/joda/time/base/BaseSingleFieldPeriod.standardPeriodIn
+org/joda/time/Seconds.seconds
+org/joda/time/Seconds.getSeconds
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+after post processing ......
+org/joda/time/Seconds.standardSecondsIn
+org/joda/time/base/BaseSingleFieldPeriod.standardPeriodIn
+org/joda/time/Seconds.seconds
+org/joda/time/Seconds.getSeconds
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+found in top 10

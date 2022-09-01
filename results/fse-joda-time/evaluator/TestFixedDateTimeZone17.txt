@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.tz.TestFixedDateTimeZone.testEquals:71
+Methods call in assertion: [org/joda/time/tz/FixedDateTimeZone.equals]
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/FixedDateTimeZone.equals
+top 10 recommendations: 
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/FixedDateTimeZone.equals
+after post processing ......
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/FixedDateTimeZone.equals
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.util.LogFormatTest.testCloning:109
+Methods call in assertion: [org/jfree/chart/util/LogFormat.equals]
+org/jfree/chart/util/LogFormat.clone
+org/jfree/chart/util/LogFormat.equals
+top 10 recommendations: 
+org/jfree/chart/util/LogFormat.clone
+org/jfree/chart/util/LogFormat.equals
+after post processing ......
+org/jfree/chart/util/LogFormat.clone
+org/jfree/chart/util/LogFormat.equals
+found in top 10

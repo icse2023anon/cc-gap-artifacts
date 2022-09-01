@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.axis.LogAxisTest.testEquals:91
+Methods call in assertion: [org/jfree/chart/axis/LogAxis.equals]
+org/jfree/chart/axis/LogAxis.equals
+top 10 recommendations: 
+org/jfree/chart/axis/LogAxis.equals
+after post processing ......
+org/jfree/chart/axis/LogAxis.equals
+perfect match

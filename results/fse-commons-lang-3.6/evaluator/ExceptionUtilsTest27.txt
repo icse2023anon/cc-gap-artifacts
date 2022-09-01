@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.exception.ExceptionUtilsTest.testGetThrowableCount_Throwable:200
+Methods call in assertion: [org/apache/commons/lang3/exception/ExceptionUtils.getThrowableCount]
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableCount
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableList
+org/apache/commons/lang3/exception/ExceptionUtils.getCause
+top 10 recommendations: 
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableCount
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableList
+org/apache/commons/lang3/exception/ExceptionUtils.getCause
+after post processing ......
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableCount
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableList
+org/apache/commons/lang3/exception/ExceptionUtils.getCause
+perfect match

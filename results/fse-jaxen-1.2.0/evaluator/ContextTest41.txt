@@ -1,0 +1,8 @@
+slicing criterion: org.jaxen.test.ContextTest.testDuplicate:163
+Methods call in assertion: [org/jaxen/Context.getSize]
+org/jaxen/Context.getSize
+top 10 recommendations: 
+org/jaxen/Context.getSize
+after post processing ......
+org/jaxen/Context.getSize
+perfect match

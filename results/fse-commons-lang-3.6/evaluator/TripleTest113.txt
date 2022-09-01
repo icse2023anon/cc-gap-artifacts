@@ -1,0 +1,26 @@
+slicing criterion: org.apache.commons.lang3.tuple.TripleTest.testCompatibilityBetweenTriples:66
+Methods call in assertion: [org/apache/commons/lang3/tuple/Triple.hashCode]
+org/apache/commons/lang3/tuple/MutableTriple.getMiddle
+org/apache/commons/lang3/tuple/MutableTriple.getLeft
+org/apache/commons/lang3/tuple/ImmutableTriple.getMiddle
+org/apache/commons/lang3/tuple/MutableTriple.getRight
+org/apache/commons/lang3/tuple/ImmutableTriple.getLeft
+org/apache/commons/lang3/tuple/ImmutableTriple.getRight
+org/apache/commons/lang3/tuple/Triple.hashCode
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/MutableTriple.getMiddle
+org/apache/commons/lang3/tuple/MutableTriple.getLeft
+org/apache/commons/lang3/tuple/ImmutableTriple.getMiddle
+org/apache/commons/lang3/tuple/MutableTriple.getRight
+org/apache/commons/lang3/tuple/ImmutableTriple.getLeft
+org/apache/commons/lang3/tuple/ImmutableTriple.getRight
+org/apache/commons/lang3/tuple/Triple.hashCode
+after post processing ......
+org/apache/commons/lang3/tuple/MutableTriple.getMiddle
+org/apache/commons/lang3/tuple/MutableTriple.getLeft
+org/apache/commons/lang3/tuple/ImmutableTriple.getMiddle
+org/apache/commons/lang3/tuple/MutableTriple.getRight
+org/apache/commons/lang3/tuple/ImmutableTriple.getLeft
+org/apache/commons/lang3/tuple/ImmutableTriple.getRight
+org/apache/commons/lang3/tuple/Triple.hashCode
+found in top 10

@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1661452014189" clover="4.0.6">
+   <project timestamp="1661452007901" name="Apache Commons CSV 1.5">
+      <metrics conditionals="392" methods="164" classes="12" files="10" packages="1" coveredstatements="689" complexity="427" loc="4086" ncloc="1602" coveredmethods="156" coveredconditionals="343" statements="749" coveredelements="1188" elements="1305"/>
+      <package name="org.apache.commons.csv">
+         <metrics classes="12" methods="164" conditionals="392" files="10" ncloc="1602" coveredstatements="689" coveredmethods="156" complexity="427" coveredconditionals="343" statements="749" loc="4086" coveredelements="1188" elements="1305"/>
+         <file name="Assertions.java" path="/home/stg/omc_experiments/subjects/commons-csv/src/main/java/org/apache/commons/csv/Assertions.java">
+            <metrics classes="1" methods="2" conditionals="2" ncloc="11" coveredstatements="2" coveredmethods="1" complexity="3" coveredconditionals="2" statements="2" loc="38" coveredelements="5" elements="6"/>
+            <class name="Assertions">
+               <metrics methods="2" conditionals="2" coveredstatements="2" coveredmethods="1" complexity="3" coveredconditionals="2" statements="2" coveredelements="5" elements="6"/>
+            </class>
+            <line num="29" count="0" visibility="private" complexity="1" type="method" signature="Assertions()"/>
+            <line num="33" count="3572" visibility="public" complexity="2" type="method" signature="notNull(Object,String) : void"/>
+            <line num="34" count="3572" type="stmt"/>
+            <line num="34" falsecount="3560" type="cond" truecount="12"/>
+            <line num="35" count="12" type="stmt"/>
+         </file>
+         <file name="CSVFormat.java" path="/home/stg/omc_experiments/subjects/commons-csv/src/main/java/org/apache/commons/csv/CSVFormat.java">
+            <metrics classes="2" methods="76" conditionals="206" ncloc="725" coveredstatements="314" coveredmethods="76" complexity="208" coveredconditionals="178" statements="336" loc="1951" coveredelements="568" elements="618"/>
+            <class name="CSVFormat">
+               <metrics methods="74" conditionals="206" coveredstatements="312" coveredmethods="74" complexity="206" coveredconditionals="178" statements="334" coveredelements="564" elements="614"/>
+            </class>
+            <class name="CSVFormat.Predefined">
+               <metrics methods="2" conditionals="0" coveredstatements="2" coveredmethods="2" complexity="2" coveredconditionals="0" statements="2" coveredelements="4" elements="4"/>
+            </class>
+            <line num="215" count="9" visibility="package" complexity="1" type="method" signature="Predefined(CSVFormat)"/>
+            <line num="216" count="9" type="stmt"/>
+            <line num="224" count="15" visibility="public" complexity="1" type="method" signature="getFormat() : CSVFormat"/>
+            <line num="225" count="15" type="stmt"/>
+            <line num="502" count="548" visibility="private" complexity="1" type="method" signature="isLineBreak(char) : boolean"/>
+            <line num="503" count="548" type="stmt"/>
+            <line num="514" count="155" visibility="private" complexity="1" type="method" signature="isLineBreak(Character) : boolean"/>
+            <line num="515" count="155" type="stmt"/>
+            <line num="538" count="33" visibility="public" complexity="1" type="method" signature="newFormat(char) : CSVFormat"/>
+            <line num="539" count="33" type="stmt"/>
+            <line num="551" count="7" visibility="public" complexity="1" type="method" signature="valueOf(String) : CSVFormat"/>
+            <line num="552" count="7" type="stmt"/>
+            <line num="625" count="396" visibility="private" complexity="2" type="method" signature="CSVFormat(char,Character,QuoteMode,Character,Character,boolean,boolean,String,String,Object[],String[],boolean,boolean,boolean,boolean,boolean)"/>
+            <line num="631" count="396" type="stmt"/>
+            <line num="632" count="396" type="stmt"/>
+            <line num="633" count="396" type="stmt"/>
+            <line num="634" count="396" type="stmt"/>
+            <line num="635" count="396" type="stmt"/>
+            <line num="636" count="396" type="stmt"/>
+            <line num="637" count="396" type="stmt"/>
+            <line num="638" count="396" type="stmt"/>
+            <line num="639" count="396" type="stmt"/>
+            <line num="640" count="396" type="stmt"/>
+            <line num="641" count="396" type="stmt"/>
+            <line num="642" count="396" type="stmt"/>
+            <line num="642" falsecount="73" type="cond" truecount="323"/>
+            <line num="643" count="396" type="stmt"/>
+            <line num="644" count="396" type="stmt"/>
+            <line num="645" count="396" type="stmt"/>
+            <line num="646" count="396" type="stmt"/>
+            <line num="647" count="396" type="stmt"/>
+            <line num="650" count="56" visibility="public" complexity="25" type="method" signature="equals(Object) : boolean"/>
+            <line num="652" count="56" type="stmt"/>
+            <line num="652" falsecount="41" type="cond" truecount="15"/>
+            <line num="653" count="15" type="stmt"/>
+            <line num="655" count="41" type="stmt"/>
+            <line num="655" falsecount="39" type="cond" truecount="2"/>
+            <line num="656" count="2" type="stmt"/>
+            <line num="658" count="39" type="stmt"/>
+            <line num="658" falsecount="38" type="cond" truecount="1"/>
+            <line num="659" count="1" type="stmt"/>
+            <line num="662" count="38" type="stmt"/>
+            <line num="663" count="38" type="stmt"/>
+            <line num="663" falsecount="32" type="cond" truecount="6"/>
+            <line num="664" count="6" type="stmt"/>
+            <line num="666" count="32" type="stmt"/>
+            <line num="666" falsecount="30" type="cond" truecount="2"/>
+            <line num="667" count="2" type="stmt"/>
+            <line num="669" count="30" type="stmt"/>
+            <line num="669" falsecount="28" type="cond" truecount="2"/>
+            <line num="670" count="2" type="stmt"/>
+            <line num="670" falsecount="1" type="cond" truecount="1"/>
+            <line num="671" count="1" type="stmt"/>
+            <line num="673" count="28" type="stmt"/>
+            <line num="673" falsecount="25" type="cond" truecount="3"/>
+            <line num="674" count="3" type="stmt"/>
+            <line num="676" count="26" type="stmt"/>
+            <line num="676" falsecount="18" type="cond" truecount="8"/>
+            <line num="677" count="8" type="stmt"/>
+            <line num="677" falsecount="7" type="cond" truecount="1"/>
+            <line num="678" count="1" type="stmt"/>
+            <line num="680" count="18" type="stmt"/>
+            <line num="680" falsecount="14" type="cond" truecount="4"/>
+            <line num="681" count="4" type="stmt"/>
+            <line num="683" count="21" type="stmt"/>
+            <line num="683" falsecount="14" type="cond" truecount="7"/>
+            <line num="684" count="7" type="stmt"/>
+            <line num="684" falsecount="7" type="cond" truecount="0"/>
+            <line num="685" count="0" type="stmt"/>
+            <line num="687" count="14" type="stmt"/>
+            <line num="687" falsecount="12" type="cond" truecount="2"/>
+            <line num="688" count="2" type="stmt"/>
+            <line num="690" count="19" type="stmt"/>
+            <line num="690" falsecount="4" type="cond" truecount="15"/>
+            <line num="691" count="15" type="stmt"/>
+            <line num="691" falsecount="15" type="cond" truecount="0"/>
+            <line num="692" count="0" type="stmt"/>
+            <line num="694" count="4" type="stmt"/>
+            <line num="694" falsecount="2" type="cond" truecount="2"/>
+            <line num="695" count="2" type="stmt"/>
+            <line num="697" count="17" type="stmt"/>
+            <line num="697" falsecount="15" type="cond" truecount="2"/>
+            <line num="698" count="2" type="stmt"/>
+            <line num="700" count="15" type="stmt"/>
+            <line num="700" falsecount="13" type="cond" truecount="2"/>
+            <line num="701" count="2" type="stmt"/>
+            <line num="703" count="13" type="stmt"/>
+            <line num="703" falsecount="11" type="cond" truecount="2"/>
+            <line num="704" count="2" type="stmt"/>
+            <line num="706" count="11" type="stmt"/>
+            <line num="706" falsecount="9" type="cond" truecount="2"/>
+            <line num="707" count="2" type="stmt"/>
+            <line num="709" count="9" type="stmt"/>
+            <line num="709" falsecount="8" type="cond" truecount="1"/>
+            <line num="710" count="1" type="stmt"/>
+            <line num="710" falsecount="1" type="cond" truecount="0"/>
+            <line num="711" count="0" type="stmt"/>
+            <line num="713" count="8" type="stmt"/>
+            <line num="713" falsecount="6" type="cond" truecount="2"/>
+            <line num="714" count="2" type="stmt"/>
+            <line num="716" count="7" type="stmt"/>
+            <line num="726" count="6" visibility="public" complexity="4" type="method" signature="format(Object) : String"/>
+            <line num="727" count="6" type="stmt"/>
+            <line num="728" count="6" type="stmt"/>
+            <line num="728" count="6" type="stmt"/>
+            <line num="729" count="6" type="stmt"/>
+            <line num="730" count="5" type="stmt"/>
+            <line num="733" count="0" type="stmt"/>
+            <line num="743" count="23" visibility="public" complexity="1" type="method" signature="getAllowMissingColumnNames() : boolean"/>
+            <line num="744" count="23" type="stmt"/>
+            <line num="752" count="662" visibility="public" complexity="1" type="method" signature="getCommentMarker() : Character"/>
+            <line num="753" count="662" type="stmt"/>
+            <line num="761" count="4573" visibility="public" complexity="1" type="method" signature="getDelimiter() : char"/>
+            <line num="762" count="4573" type="stmt"/>
+            <line num="770" count="1122" visibility="public" complexity="1" type="method" signature="getEscapeCharacter() : Character"/>
+            <line num="771" count="1122" type="stmt"/>
+            <line num="779" count="1210" visibility="public" complexity="2" type="method" signature="getHeader() : String[]"/>
+            <line num="780" count="1210" type="stmt"/>
+            <line num="780" falsecount="1160" type="cond" truecount="50"/>
+            <line num="788" count="594" visibility="public" complexity="2" type="method" signature="getHeaderComments() : String[]"/>
+            <line num="789" count="594" type="stmt"/>
+            <line num="789" falsecount="584" type="cond" truecount="10"/>
+            <line num="798" count="669" visibility="public" complexity="1" type="method" signature="getIgnoreEmptyLines() : boolean"/>
+            <line num="799" count="669" type="stmt"/>
+            <line num="808" count="57" visibility="public" complexity="1" type="method" signature="getIgnoreHeaderCase() : boolean"/>
+            <line num="809" count="57" type="stmt"/>
+            <line num="817" count="667" visibility="public" complexity="1" type="method" signature="getIgnoreSurroundingSpaces() : boolean"/>
+            <line num="818" count="667" type="stmt"/>
+            <line num="831" count="10232" visibility="public" complexity="1" type="method" signature="getNullString() : String"/>
+            <line num="832" count="10232" type="stmt"/>
+            <line num="840" count="2772" visibility="public" complexity="1" type="method" signature="getQuoteCharacter() : Character"/>
+            <line num="841" count="2772" type="stmt"/>
+            <line num="849" count="2139" visibility="public" complexity="1" type="method" signature="getQuoteMode() : QuoteMode"/>
+            <line num="850" count="2139" type="stmt"/>
+            <line num="858" count="102" visibility="public" complexity="1" type="method" signature="getRecordSeparator() : String"/>
+            <line num="859" count="102" type="stmt"/>
+            <line num="867" count="39" visibility="public" complexity="1" type="method" signature="getSkipHeaderRecord() : boolean"/>
+            <line num="868" count="39" type="stmt"/>
+            <line num="877" count="1523" visibility="public" complexity="1" type="method" signature="getTrailingDelimiter() : boolean"/>
+            <line num="878" count="1523" type="stmt"/>
+            <line num="886" count="10477" visibility="public" complexity="1" type="method" signature="getTrim() : boolean"/>
+            <line num="887" count="10477" type="stmt"/>
+            <line num="890" count="5" visibility="public" complexity="11" type="method" signature="hashCode() : int"/>
+            <line num="892" count="5" type="stmt"/>
+            <line num="893" count="5" type="stmt"/>
+            <line num="895" count="5" type="stmt"/>
+            <line num="896" count="5" type="stmt"/>
+            <line num="896" falsecount="0" type="cond" truecount="5"/>
+            <line num="897" count="5" type="stmt"/>
+            <line num="897" falsecount="5" type="cond" truecount="0"/>
+            <line num="898" count="5" type="stmt"/>
+            <line num="898" falsecount="0" type="cond" truecount="5"/>
+            <line num="899" count="5" type="stmt"/>
+            <line num="899" falsecount="0" type="cond" truecount="5"/>
+            <line num="900" count="5" type="stmt"/>
+            <line num="900" falsecount="0" type="cond" truecount="5"/>
+            <line num="901" count="5" type="stmt"/>
+            <line num="901" falsecount="5" type="cond" truecount="0"/>
+            <line num="902" count="5" type="stmt"/>
+            <line num="902" falsecount="4" type="cond" truecount="1"/>
+            <line num="903" count="5" type="stmt"/>
+            <line num="903" falsecount="0" type="cond" truecount="5"/>
+            <line num="904" count="5" type="stmt"/>
+            <line num="904" falsecount="5" type="cond" truecount="0"/>
+            <line num="905" count="5" type="stmt"/>
+            <line num="905" falsecount="5" type="cond" truecount="0"/>
+            <line num="906" count="5" type="stmt"/>
+            <line num="907" count="5" type="stmt"/>
+            <line num="917" count="42" visibility="public" complexity="1" type="method" signature="isCommentMarkerSet() : boolean"/>
+            <line num="918" count="42" type="stmt"/>
+            <line num="926" count="539" visibility="public" complexity="1" type="method" signature="isEscapeCharacterSet() : boolean"/>
+            <line num="927" count="539" type="stmt"/>
+            <line num="935" count="32" visibility="public" complexity="1" type="method" signature="isNullStringSet() : boolean"/>
+            <line num="936" count="32" type="stmt"/>
+            <line num="944" count="2656" visibility="public" complexity="1" type="method" signature="isQuoteCharacterSet() : boolean"/>
+            <line num="945" count="2656" type="stmt"/>
+            <line num="961" count="21" visibility="public" complexity="1" type="method" signature="parse(Reader) : CSVParser"/>
+            <line num="962" count="21" type="stmt"/>
+            <line num="978" count="9" visibility="public" complexity="1" type="method" signature="print(Appendable) : CSVPrinter"/>
+            <line num="979" count="9" type="stmt"/>
+            <line num="994" count="2" visibility="public" complexity="1" type="method" signature="printer() : CSVPrinter"/>
+            <line num="995" count="2" type="stmt"/>
+            <line num="1014" count="2" visibility="public" complexity="1" type="method" signature="print(File,Charset) : CSVPrinter"/>
+            <line num="1017" count="2" type="stmt"/>
+            <line num="1036" count="1" visibility="public" complexity="1" type="method" signature="print(Path,Charset) : CSVPrinter"/>
+            <line num="1037" count="1" type="stmt"/>
+            <line num="1054" count="2679" visibility="public" complexity="6" type="method" signature="print(Object,Appendable,boolean) : void"/>
+            <line num="1057" count="2679" type="stmt"/>
+            <line num="1058" count="2679" type="stmt"/>
+            <line num="1058" falsecount="2624" type="cond" truecount="55"/>
+            <line num="1060" count="55" type="stmt"/>
+            <line num="1060" falsecount="39" type="cond" truecount="16"/>
+            <line num="1061" count="16" type="stmt"/>
+            <line num="1063" count="39" type="stmt"/>
+            <line num="1063" falsecount="37" type="cond" truecount="2"/>
+            <line num="1064" count="2" type="stmt"/>
+            <line num="1066" count="37" type="stmt"/>
+            <line num="1070" count="2624" type="stmt"/>
+            <line num="1070" falsecount="10" type="cond" truecount="2614"/>
+            <line num="1072" count="2679" type="stmt"/>
+            <line num="1072" falsecount="2676" type="cond" truecount="3"/>
+            <line num="1073" count="2679" type="stmt"/>
+            <line num="1076" count="2679" visibility="private" complexity="5" type="method" signature="print(Object,CharSequence,int,int,Appendable,boolean) : void"/>
+            <line num="1078" count="2679" type="stmt"/>
+            <line num="1078" falsecount="1349" type="cond" truecount="1330"/>
+            <line num="1079" count="1330" type="stmt"/>
+            <line num="1081" count="2679" type="stmt"/>
+            <line num="1081" falsecount="2624" type="cond" truecount="55"/>
+            <line num="1082" count="55" type="stmt"/>
+            <line num="1083" count="2624" type="stmt"/>
+            <line num="1083" falsecount="505" type="cond" truecount="2119"/>
+            <line num="1085" count="2119" type="stmt"/>
+            <line num="1086" count="505" type="stmt"/>
+            <line num="1086" falsecount="38" type="cond" truecount="467"/>
+            <line num="1087" count="467" type="stmt"/>
+            <line num="1089" count="38" type="stmt"/>
+            <line num="1096" count="469" visibility="private" complexity="10" type="method" signature="printAndEscape(CharSequence,int,int,Appendable) : void"/>
+            <line num="1098" count="469" type="stmt"/>
+            <line num="1099" count="469" type="stmt"/>
+            <line num="1100" count="469" type="stmt"/>
+            <line num="1102" count="469" type="stmt"/>
+            <line num="1103" count="469" type="stmt"/>
+            <line num="1105" count="469" type="stmt"/>
+            <line num="1105" falsecount="469" type="cond" truecount="4178"/>
+            <line num="1106" count="4178" type="stmt"/>
+            <line num="1107" count="4178" type="stmt"/>
+            <line num="1107" falsecount="3294" type="cond" truecount="884"/>
+            <line num="1109" count="884" type="stmt"/>
+            <line num="1109" falsecount="266" type="cond" truecount="618"/>
+            <line num="1110" count="618" type="stmt"/>
+            <line num="1112" count="884" type="stmt"/>
+            <line num="1112" falsecount="686" type="cond" truecount="198"/>
+            <line num="1113" count="198" type="stmt"/>
+            <line num="1114" count="686" type="stmt"/>
+            <line num="1114" falsecount="473" type="cond" truecount="213"/>
+            <line num="1115" count="213" type="stmt"/>
+            <line num="1118" count="884" type="stmt"/>
+            <line num="1119" count="884" type="stmt"/>
+            <line num="1121" count="884" type="stmt"/>
+            <line num="1124" count="4178" type="stmt"/>
+            <line num="1128" count="469" type="stmt"/>
+            <line num="1128" falsecount="101" type="cond" truecount="368"/>
+            <line num="1129" count="368" type="stmt"/>
+            <line num="1137" count="2119" visibility="private" complexity="28" type="method" signature="printAndQuote(Object,CharSequence,int,int,Appendable,boolean) : void"/>
+            <line num="1139" count="2119" type="stmt"/>
+            <line num="1140" count="2119" type="stmt"/>
+            <line num="1141" count="2119" type="stmt"/>
+            <line num="1142" count="2119" type="stmt"/>
+            <line num="1144" count="2119" type="stmt"/>
+            <line num="1145" count="2119" type="stmt"/>
+            <line num="1147" count="2119" type="stmt"/>
+            <line num="1148" count="2119" type="stmt"/>
+            <line num="1148" falsecount="24" type="cond" truecount="2095"/>
+            <line num="1149" count="2095" type="stmt"/>
+            <line num="1151" count="2119" type="stmt"/>
+            <line num="1152" count="11" type="stmt"/>
+            <line num="1153" count="2" type="stmt"/>
+            <line num="1154" count="13" type="stmt"/>
+            <line num="1155" count="13" type="stmt"/>
+            <line num="1156" count="6" type="stmt"/>
+            <line num="1157" count="6" type="stmt"/>
+            <line num="1158" count="6" type="stmt"/>
+            <line num="1159" count="2" type="stmt"/>
+            <line num="1161" count="2" type="stmt"/>
+            <line num="1162" count="2" type="stmt"/>
+            <line num="1163" count="2098" type="stmt"/>
+            <line num="1164" count="2098" type="stmt"/>
+            <line num="1164" falsecount="1992" type="cond" truecount="106"/>
+            <line num="1169" count="106" type="stmt"/>
+            <line num="1169" falsecount="61" type="cond" truecount="45"/>
+            <line num="1170" count="45" type="stmt"/>
+            <line num="1173" count="1992" type="stmt"/>
+            <line num="1176" count="1992" type="stmt"/>
+            <line num="1176" falsecount="1358" type="cond" truecount="634"/>
+            <line num="1177" count="634" type="stmt"/>
+            <line num="1178" count="1358" type="stmt"/>
+            <line num="1178" falsecount="973" type="cond" truecount="385"/>
+            <line num="1182" count="385" type="stmt"/>
+            <line num="1184" count="973" type="stmt"/>
+            <line num="1184" falsecount="325" type="cond" truecount="4255"/>
+            <line num="1185" count="4255" type="stmt"/>
+            <line num="1186" count="4255" type="stmt"/>
+            <line num="1186" falsecount="3607" type="cond" truecount="648"/>
+            <line num="1187" count="648" type="stmt"/>
+            <line num="1188" count="648" type="stmt"/>
+            <line num="1190" count="3607" type="stmt"/>
+            <line num="1193" count="973" type="stmt"/>
+            <line num="1193" falsecount="648" type="cond" truecount="325"/>
+            <line num="1194" count="325" type="stmt"/>
+            <line num="1195" count="325" type="stmt"/>
+            <line num="1198" count="325" type="stmt"/>
+            <line num="1198" falsecount="277" type="cond" truecount="48"/>
+            <line num="1199" count="48" type="stmt"/>
+            <line num="1205" count="2098" type="stmt"/>
+            <line num="1205" falsecount="1760" type="cond" truecount="338"/>
+            <line num="1207" count="338" type="stmt"/>
+            <line num="1208" count="338" type="stmt"/>
+            <line num="1210" count="1760" type="stmt"/>
+            <line num="1211" count="0" type="stmt"/>
+            <line num="1212" count="0" type="stmt"/>
+            <line num="1215" count="1779" type="stmt"/>
+            <line num="1215" falsecount="1778" type="cond" truecount="1"/>
+            <line num="1217" count="1" type="stmt"/>
+            <line num="1218" count="1" type="stmt"/>
+            <line num="1222" count="1778" type="stmt"/>
+            <line num="1226" count="1778" type="stmt"/>
+            <line num="1226" falsecount="1778" type="cond" truecount="15532"/>
+            <line num="1227" count="15532" type="stmt"/>
+            <line num="1228" count="15532" type="stmt"/>
+            <line num="1228" falsecount="14583" type="cond" truecount="949"/>
+            <line num="1232" count="949" type="stmt"/>
+            <line num="1235" count="949" type="stmt"/>
+            <line num="1237" count="15532" type="stmt"/>
+            <line num="1241" count="1778" type="stmt"/>
+            <line num="1242" count="1778" type="stmt"/>
+            <line num="1254" count="1333" visibility="public" complexity="3" type="method" signature="println(Appendable) : void"/>
+            <line num="1255" count="1333" type="stmt"/>
+            <line num="1255" falsecount="1332" type="cond" truecount="1"/>
+            <line num="1256" count="1" type="stmt"/>
+            <line num="1258" count="1333" type="stmt"/>
+            <line num="1258" falsecount="1" type="cond" truecount="1332"/>
+            <line num="1259" count="1332" type="stmt"/>
+            <line num="1280" count="1310" visibility="public" complexity="2" type="method" signature="printRecord(Appendable,Object) : void"/>
+            <line num="1281" count="1310" type="stmt"/>
+            <line num="1281" falsecount="1309" type="cond" truecount="2609"/>
+            <line num="1282" count="2609" type="stmt"/>
+            <line num="1284" count="1309" type="stmt"/>
+            <line num="1287" count="14" visibility="public" complexity="11" type="method" signature="toString() : String"/>
+            <line num="1289" count="14" type="stmt"/>
+            <line num="1290" count="14" type="stmt"/>
+            <line num="1291" count="14" type="stmt"/>
+            <line num="1291" falsecount="13" type="cond" truecount="1"/>
+            <line num="1292" count="1" type="stmt"/>
+            <line num="1293" count="1" type="stmt"/>
+            <line num="1295" count="14" type="stmt"/>
+            <line num="1295" falsecount="0" type="cond" truecount="14"/>
+            <line num="1296" count="14" type="stmt"/>
+            <line num="1297" count="14" type="stmt"/>
+            <line num="1299" count="14" type="stmt"/>
+            <line num="1299" falsecount="7" type="cond" truecount="7"/>
+            <line num="1300" count="7" type="stmt"/>
+            <line num="1301" count="7" type="stmt"/>
+            <line num="1303" count="14" type="stmt"/>
+            <line num="1303" falsecount="14" type="cond" truecount="0"/>
+            <line num="1304" count="0" type="stmt"/>
+            <line num="1305" count="0" type="stmt"/>
+            <line num="1307" count="14" type="stmt"/>
+            <line num="1307" falsecount="12" type="cond" truecount="2"/>
+            <line num="1308" count="2" type="stmt"/>
+            <line num="1309" count="2" type="stmt"/>
+            <line num="1311" count="14" type="stmt"/>
+            <line num="1311" falsecount="6" type="cond" truecount="8"/>
+            <line num="1312" count="8" type="stmt"/>
+            <line num="1314" count="14" type="stmt"/>
+            <line num="1314" falsecount="12" type="cond" truecount="2"/>
+            <line num="1315" count="2" type="stmt"/>
+            <line num="1317" count="14" type="stmt"/>
+            <line num="1317" falsecount="14" type="cond" truecount="0"/>
+            <line num="1318" count="0" type="stmt"/>
+            <line num="1320" count="14" type="stmt"/>
+            <line num="1321" count="14" type="stmt"/>
+            <line num="1321" falsecount="14" type="cond" truecount="0"/>
+            <line num="1322" count="0" type="stmt"/>
+            <line num="1323" count="0" type="stmt"/>
+            <line num="1325" count="14" type="stmt"/>
+            <line num="1325" falsecount="14" type="cond" truecount="0"/>
+            <line num="1326" count="0" type="stmt"/>
+            <line num="1327" count="0" type="stmt"/>
+            <line num="1329" count="14" type="stmt"/>
+            <line num="1332" count="396" visibility="private" complexity="4" type="method" signature="toStringArray(Object[]) : String[]"/>
+            <line num="1333" count="396" type="stmt"/>
+            <line num="1333" falsecount="18" type="cond" truecount="378"/>
+            <line num="1334" count="378" type="stmt"/>
+            <line num="1336" count="18" type="stmt"/>
+            <line num="1337" count="18" type="stmt"/>
+            <line num="1337" falsecount="18" type="cond" truecount="31"/>
+            <line num="1338" count="31" type="stmt"/>
+            <line num="1339" count="31" type="stmt"/>
+            <line num="1339" falsecount="23" type="cond" truecount="8"/>
+            <line num="1341" count="18" type="stmt"/>
+            <line num="1344" count="3" visibility="private" complexity="8" type="method" signature="trim(CharSequence) : CharSequence"/>
+            <line num="1345" count="3" type="stmt"/>
+            <line num="1345" falsecount="0" type="cond" truecount="3"/>
+            <line num="1346" count="3" type="stmt"/>
+            <line num="1348" count="0" type="stmt"/>
+            <line num="1349" count="0" type="stmt"/>
+            <line num="1350" count="0" type="stmt"/>
+            <line num="1352" count="0" type="stmt"/>
+            <line num="1352" falsecount="0" type="cond" truecount="0"/>
+            <line num="1353" count="0" type="stmt"/>
+            <line num="1355" count="0" type="stmt"/>
+            <line num="1355" falsecount="0" type="cond" truecount="0"/>
+            <line num="1356" count="0" type="stmt"/>
+            <line num="1358" count="0" type="stmt"/>
+            <line num="1358" falsecount="0" type="cond" truecount="0"/>
+            <line num="1366" count="396" visibility="private" complexity="16" type="method" signature="validate() : void"/>
+            <line num="1367" count="396" type="stmt"/>
+            <line num="1367" falsecount="396" type="cond" truecount="0"/>
+            <line num="1368" count="0" type="stmt"/>
+            <line num="1371" count="396" type="stmt"/>
+            <line num="1371" falsecount="395" type="cond" truecount="1"/>
+            <line num="1372" count="1" type="stmt"/>
+            <line num="1376" count="395" type="stmt"/>
+            <line num="1376" falsecount="394" type="cond" truecount="1"/>
+            <line num="1377" count="1" type="stmt"/>
+            <line num="1381" count="394" type="stmt"/>
+            <line num="1381" falsecount="393" type="cond" truecount="1"/>
+            <line num="1382" count="1" type="stmt"/>
+            <line num="1386" count="393" type="stmt"/>
+            <line num="1386" falsecount="391" type="cond" truecount="2"/>
+            <line num="1387" count="2" type="stmt"/>
+            <line num="1391" count="391" type="stmt"/>
+            <line num="1391" falsecount="389" type="cond" truecount="2"/>
+            <line num="1392" count="2" type="stmt"/>
+            <line num="1396" count="389" type="stmt"/>
+            <line num="1396" falsecount="388" type="cond" truecount="1"/>
+            <line num="1397" count="1" type="stmt"/>
+            <line num="1401" count="388" type="stmt"/>
+            <line num="1401" falsecount="315" type="cond" truecount="73"/>
+            <line num="1402" count="73" type="stmt"/>
+            <line num="1403" count="73" type="stmt"/>
+            <line num="1404" count="147" type="stmt"/>
+            <line num="1404" falsecount="146" type="cond" truecount="1"/>
+            <line num="1405" count="1" type="stmt"/>
+            <line num="1419" count="3" visibility="public" complexity="1" type="method" signature="withAllowMissingColumnNames() : CSVFormat"/>
+            <line num="1420" count="3" type="stmt"/>
+            <line num="1431" count="4" visibility="public" complexity="1" type="method" signature="withAllowMissingColumnNames(boolean) : CSVFormat"/>
+            <line num="1432" count="4" type="stmt"/>
+            <line num="1448" count="34" visibility="public" complexity="1" type="method" signature="withCommentMarker(char) : CSVFormat"/>
+            <line num="1449" count="34" type="stmt"/>
+            <line num="1463" count="36" visibility="public" complexity="2" type="method" signature="withCommentMarker(Character) : CSVFormat"/>
+            <line num="1464" count="36" type="stmt"/>
+            <line num="1464" falsecount="35" type="cond" truecount="1"/>
+            <line num="1465" count="1" type="stmt"/>
+            <line num="1467" count="35" type="stmt"/>
+            <line num="1481" count="16" visibility="public" complexity="2" type="method" signature="withDelimiter(char) : CSVFormat"/>
+            <line num="1482" count="16" type="stmt"/>
+            <line num="1482" falsecount="13" type="cond" truecount="3"/>
+            <line num="1483" count="3" type="stmt"/>
+            <line num="1485" count="13" type="stmt"/>
+            <line num="1499" count="49" visibility="public" complexity="1" type="method" signature="withEscape(char) : CSVFormat"/>
+            <line num="1500" count="49" type="stmt"/>
+            <line num="1512" count="57" visibility="public" complexity="2" type="method" signature="withEscape(Character) : CSVFormat"/>
+            <line num="1513" count="57" type="stmt"/>
+            <line num="1513" falsecount="56" type="cond" truecount="1"/>
+            <line num="1514" count="1" type="stmt"/>
+            <line num="1516" count="56" type="stmt"/>
+            <line num="1537" count="1" visibility="public" complexity="1" type="method" signature="withFirstRecordAsHeader() : CSVFormat"/>
+            <line num="1538" count="1" type="stmt"/>
+            <line num="1567" count="2" visibility="public" complexity="3" type="method" signature="withHeader(Class&lt;? extends Enum&lt;?&gt;&gt;) : CSVFormat"/>
+            <line num="1568" count="2" type="stmt"/>
+            <line num="1569" count="2" type="stmt"/>
+            <line num="1569" falsecount="0" type="cond" truecount="2"/>
+            <line num="1570" count="2" type="stmt"/>
+            <line num="1571" count="2" type="stmt"/>
+            <line num="1572" count="2" type="stmt"/>
+            <line num="1572" falsecount="2" type="cond" truecount="3"/>
+            <line num="1573" count="3" type="stmt"/>
+            <line num="1576" count="2" type="stmt"/>
+            <line num="1605" count="1" visibility="public" complexity="2" type="method" signature="withHeader(ResultSet) : CSVFormat"/>
+            <line num="1606" count="1" type="stmt"/>
+            <line num="1606" falsecount="0" type="cond" truecount="1"/>
+            <line num="1635" count="2" visibility="public" complexity="3" type="method" signature="withHeader(ResultSetMetaData) : CSVFormat"/>
+            <line num="1636" count="2" type="stmt"/>
+            <line num="1637" count="2" type="stmt"/>
+            <line num="1637" falsecount="0" type="cond" truecount="2"/>
+            <line num="1638" count="2" type="stmt"/>
+            <line num="1639" count="2" type="stmt"/>
+            <line num="1640" count="2" type="stmt"/>
+            <line num="1640" falsecount="2" type="cond" truecount="4"/>
+            <line num="1641" count="4" type="stmt"/>
+            <line num="1644" count="2" type="stmt"/>
+            <line num="1670" count="42" visibility="public" complexity="1" type="method" signature="withHeader(String) : CSVFormat"/>
+            <line num="1671" count="42" type="stmt"/>
+            <line num="1691" count="6" visibility="public" complexity="1" type="method" signature="withHeaderComments(Object) : CSVFormat"/>
+            <line num="1692" count="6" type="stmt"/>
+            <line num="1704" count="9" visibility="public" complexity="1" type="method" signature="withIgnoreEmptyLines() : CSVFormat"/>
+            <line num="1705" count="9" type="stmt"/>
+            <line num="1716" count="25" visibility="public" complexity="1" type="method" signature="withIgnoreEmptyLines(boolean) : CSVFormat"/>
+            <line num="1717" count="25" type="stmt"/>
+            <line num="1729" count="2" visibility="public" complexity="1" type="method" signature="withIgnoreHeaderCase() : CSVFormat"/>
+            <line num="1730" count="2" type="stmt"/>
+            <line num="1742" count="2" visibility="public" complexity="1" type="method" signature="withIgnoreHeaderCase(boolean) : CSVFormat"/>
+            <line num="1743" count="2" type="stmt"/>
+            <line num="1755" count="13" visibility="public" complexity="1" type="method" signature="withIgnoreSurroundingSpaces() : CSVFormat"/>
+            <line num="1756" count="13" type="stmt"/>
+            <line num="1767" count="25" visibility="public" complexity="1" type="method" signature="withIgnoreSurroundingSpaces(boolean) : CSVFormat"/>
+            <line num="1768" count="25" type="stmt"/>
+            <line num="1786" count="22" visibility="public" complexity="1" type="method" signature="withNullString(String) : CSVFormat"/>
+            <line num="1787" count="22" type="stmt"/>
+            <line num="1801" count="43" visibility="public" complexity="1" type="method" signature="withQuote(char) : CSVFormat"/>
+            <line num="1802" count="43" type="stmt"/>
+            <line num="1814" count="62" visibility="public" complexity="2" type="method" signature="withQuote(Character) : CSVFormat"/>
+            <line num="1815" count="62" type="stmt"/>
+            <line num="1815" falsecount="61" type="cond" truecount="1"/>
+            <line num="1816" count="1" type="stmt"/>
+            <line num="1818" count="61" type="stmt"/>
+            <line num="1831" count="27" visibility="public" complexity="1" type="method" signature="withQuoteMode(QuoteMode) : CSVFormat"/>
+            <line num="1832" count="27" type="stmt"/>
+            <line num="1850" count="13" visibility="public" complexity="1" type="method" signature="withRecordSeparator(char) : CSVFormat"/>
+            <line num="1851" count="13" type="stmt"/>
+            <line num="1869" count="25" visibility="public" complexity="1" type="method" signature="withRecordSeparator(String) : CSVFormat"/>
+            <line num="1870" count="25" type="stmt"/>
+            <line num="1883" count="9" visibility="public" complexity="1" type="method" signature="withSkipHeaderRecord() : CSVFormat"/>
+            <line num="1884" count="9" type="stmt"/>
+            <line num="1896" count="13" visibility="public" complexity="1" type="method" signature="withSkipHeaderRecord(boolean) : CSVFormat"/>
+            <line num="1897" count="13" type="stmt"/>
+            <line num="1908" count="2" visibility="public" complexity="1" type="method" signature="withTrailingDelimiter() : CSVFormat"/>
+            <line num="1909" count="2" type="stmt"/>
+            <line num="1921" count="2" visibility="public" complexity="1" type="method" signature="withTrailingDelimiter(boolean) : CSVFormat"/>
+            <line num="1922" count="2" type="stmt"/>
+            <line num="1933" count="3" visibility="public" complexity="1" type="method" signature="withTrim() : CSVFormat"/>
+            <line num="1934" count="3" type="stmt"/>
+            <line num="1946" count="4" visibility="public" complexity="1" type="method" signature="withTrim(boolean) : CSVFormat"/>
+            <line num="1947" count="4" type="stmt"/>
+         </file>
+         <file name="CSVParser.java" path="/home/stg/omc_experiments/subjects/commons-csv/src/main/java/org/apache/commons/csv/CSVParser.java">
+            <metrics classes="1" methods="23" conditionals="48" ncloc="235" coveredstatements="109" coveredmethods="22" complexity="57" coveredconditionals="43" statements="117" loc="624" coveredelements="174" elements="188"/>
+            <class name="CSVParser">
+               <metrics methods="23" conditionals="48" coveredstatements="109" coveredmethods="22" complexity="57" coveredconditionals="43" statements="117" coveredelements="174" elements="188"/>
+            </class>
+            <line num="151" count="9" visibility="public" complexity="1" type="method" signature="parse(File,Charset,CSVFormat) : CSVParser"/>
+            <line num="153" count="9" type="stmt"/>
+            <line num="154" count="7" type="stmt"/>
+            <line num="155" count="6" type="stmt"/>
+            <line num="179" count="1" visibility="public" complexity="1" type="method" signature="parse(InputStream,Charset,CSVFormat) : CSVParser"/>
+            <line num="182" count="1" type="stmt"/>
+            <line num="183" count="1" type="stmt"/>
+            <line num="184" count="1" type="stmt"/>
+            <line num="203" count="0" visibility="public" complexity="1" type="method" signature="parse(Path,Charset,CSVFormat) : CSVParser"/>
+            <line num="204" count="0" type="stmt"/>
+            <line num="205" count="0" type="stmt"/>
+            <line num="206" count="0" type="stmt"/>
+            <line num="228" count="2" visibility="public" complexity="1" type="method" signature="parse(Reader,CSVFormat) : CSVParser"/>
+            <line num="229" count="2" type="stmt"/>
+            <line num="245" count="568" visibility="public" complexity="1" type="method" signature="parse(String,CSVFormat) : CSVParser"/>
+            <line num="246" count="568" type="stmt"/>
+            <line num="247" count="567" type="stmt"/>
+            <line num="249" count="566" type="stmt"/>
+            <line num="272" count="8" visibility="public" complexity="1" type="method" signature="parse(URL,Charset,CSVFormat) : CSVParser"/>
+            <line num="273" count="8" type="stmt"/>
+            <line num="274" count="8" type="stmt"/>
+            <line num="275" count="7" type="stmt"/>
+            <line num="277" count="6" type="stmt"/>
+            <line num="322" count="601" visibility="public" complexity="1" type="method" signature="CSVParser(Reader,CSVFormat)"/>
+            <line num="323" count="601" type="stmt"/>
+            <line num="348" count="607" visibility="public" complexity="1" type="method" signature="CSVParser(Reader,CSVFormat,long,long)"/>
+            <line num="351" count="607" type="stmt"/>
+            <line num="352" count="606" type="stmt"/>
+            <line num="354" count="605" type="stmt"/>
+            <line num="355" count="605" type="stmt"/>
+            <line num="356" count="605" type="stmt"/>
+            <line num="357" count="603" type="stmt"/>
+            <line num="358" count="603" type="stmt"/>
+            <line num="361" count="7779" visibility="private" complexity="6" type="method" signature="addRecordValue(boolean) : void"/>
+            <line num="362" count="7779" type="stmt"/>
+            <line num="363" count="7779" type="stmt"/>
+            <line num="363" falsecount="7773" type="cond" truecount="6"/>
+            <line num="364" count="7779" type="stmt"/>
+            <line num="364" falsecount="7777" type="cond" truecount="2"/>
+            <line num="365" count="2" type="stmt"/>
+            <line num="367" count="7777" type="stmt"/>
+            <line num="368" count="7777" type="stmt"/>
+            <line num="368" falsecount="7766" type="cond" truecount="11"/>
+            <line num="377" count="576" visibility="public" complexity="2" type="method" signature="close() : void"/>
+            <line num="379" count="576" type="stmt"/>
+            <line num="379" falsecount="0" type="cond" truecount="576"/>
+            <line num="380" count="576" type="stmt"/>
+            <line num="394" count="20" visibility="public" complexity="1" type="method" signature="getCurrentLineNumber() : long"/>
+            <line num="395" count="20" type="stmt"/>
+            <line num="404" count="3" visibility="public" complexity="1" type="method" signature="getFirstEndOfLine() : String"/>
+            <line num="405" count="3" type="stmt"/>
+            <line num="415" count="2" visibility="public" complexity="2" type="method" signature="getHeaderMap() : Map&lt;String, Integer&gt;"/>
+            <line num="416" count="2" type="stmt"/>
+            <line num="416" falsecount="1" type="cond" truecount="1"/>
+            <line num="429" count="22" visibility="public" complexity="1" type="method" signature="getRecordNumber() : long"/>
+            <line num="430" count="22" type="stmt"/>
+            <line num="445" count="550" visibility="public" complexity="2" type="method" signature="getRecords() : List&lt;CSVRecord&gt;"/>
+            <line num="446" count="550" type="stmt"/>
+            <line num="447" count="550" type="stmt"/>
+            <line num="448" count="550" type="stmt"/>
+            <line num="448" falsecount="0" type="cond" truecount="0"/>
+            <line num="449" count="1343" type="stmt"/>
+            <line num="451" count="550" type="stmt"/>
+            <line num="460" count="605" visibility="private" complexity="11" type="method" signature="initializeHeader() : Map&lt;String, Integer&gt;"/>
+            <line num="461" count="605" type="stmt"/>
+            <line num="462" count="605" type="stmt"/>
+            <line num="463" count="605" type="stmt"/>
+            <line num="463" falsecount="581" type="cond" truecount="24"/>
+            <line num="464" count="24" type="stmt"/>
+            <line num="464" falsecount="23" type="cond" truecount="1"/>
+            <line num="468" count="24" type="stmt"/>
+            <line num="469" count="24" type="stmt"/>
+            <line num="469" falsecount="10" type="cond" truecount="14"/>
+            <line num="471" count="14" type="stmt"/>
+            <line num="472" count="14" type="stmt"/>
+            <line num="472" falsecount="0" type="cond" truecount="14"/>
+            <line num="473" count="14" type="stmt"/>
+            <line num="476" count="10" type="stmt"/>
+            <line num="476" falsecount="4" type="cond" truecount="6"/>
+            <line num="477" count="6" type="stmt"/>
+            <line num="479" count="10" type="stmt"/>
+            <line num="483" count="24" type="stmt"/>
+            <line num="483" falsecount="0" type="cond" truecount="24"/>
+            <line num="484" count="24" type="stmt"/>
+            <line num="484" falsecount="22" type="cond" truecount="88"/>
+            <line num="485" count="88" type="stmt"/>
+            <line num="486" count="88" type="stmt"/>
+            <line num="487" count="88" type="stmt"/>
+            <line num="488" count="88" type="stmt"/>
+            <line num="488" falsecount="86" type="cond" truecount="2"/>
+            <line num="489" count="2" type="stmt"/>
+            <line num="492" count="86" type="stmt"/>
+            <line num="496" count="603" type="stmt"/>
+            <line num="504" count="1836" visibility="public" complexity="1" type="method" signature="isClosed() : boolean"/>
+            <line num="505" count="1836" type="stmt"/>
+            <line num="520" count="39" visibility="public" complexity="1" type="method" signature="iterator() : Iterator&lt;CSVRecord&gt;"/>
+            <line num="522" count="39" type="stmt"/>
+            <line num="525" count="937" visibility="private" complexity="2" type="method" signature="getNextRecord() : CSVRecord"/>
+            <line num="526" count="937" type="stmt"/>
+            <line num="527" count="937" type="stmt"/>
+            <line num="529" count="0" type="stmt"/>
+            <line num="534" count="926" visibility="public" complexity="3" type="method" signature="hasNext() : boolean"/>
+            <line num="536" count="926" type="stmt"/>
+            <line num="536" falsecount="925" type="cond" truecount="1"/>
+            <line num="537" count="1" type="stmt"/>
+            <line num="539" count="925" type="stmt"/>
+            <line num="539" falsecount="2" type="cond" truecount="923"/>
+            <line num="540" count="923" type="stmt"/>
+            <line num="543" count="925" type="stmt"/>
+            <line num="546" count="910" visibility="public" complexity="4" type="method" signature="next() : CSVRecord"/>
+            <line num="548" count="910" type="stmt"/>
+            <line num="548" falsecount="909" type="cond" truecount="1"/>
+            <line num="549" count="1" type="stmt"/>
+            <line num="551" count="909" type="stmt"/>
+            <line num="552" count="909" type="stmt"/>
+            <line num="554" count="909" type="stmt"/>
+            <line num="554" falsecount="895" type="cond" truecount="14"/>
+            <line num="556" count="14" type="stmt"/>
+            <line num="557" count="14" type="stmt"/>
+            <line num="557" falsecount="13" type="cond" truecount="1"/>
+            <line num="558" count="1" type="stmt"/>
+            <line num="562" count="908" type="stmt"/>
+            <line num="565" count="1" visibility="public" complexity="1" type="method" signature="remove() : void"/>
+            <line num="567" count="1" type="stmt"/>
+            <line num="579" count="2900" visibility="package" complexity="11" type="method" signature="nextRecord() : CSVRecord"/>
+            <line num="580" count="2900" type="stmt"/>
+            <line num="581" count="2900" type="stmt"/>
+            <line num="582" count="2900" type="stmt"/>
+            <line num="583" count="2900" type="stmt"/>
+            <line num="584" count="2900" type="stmt"/>
+            <line num="585" count="8408" type="stmt"/>
+            <line num="586" count="8408" type="stmt"/>
+            <line num="587" count="8408" type="stmt"/>
+            <line num="588" count="5466" type="stmt"/>
+            <line num="589" count="5466" type="stmt"/>
+            <line num="590" count="5466" type="stmt"/>
+            <line num="591" count="2274" type="stmt"/>
+            <line num="592" count="2274" type="stmt"/>
+            <line num="593" count="2274" type="stmt"/>
+            <line num="594" count="626" type="stmt"/>
+            <line num="595" count="626" type="stmt"/>
+            <line num="595" falsecount="587" type="cond" truecount="39"/>
+            <line num="596" count="39" type="stmt"/>
+            <line num="598" count="626" type="stmt"/>
+            <line num="599" count="0" type="stmt"/>
+            <line num="600" count="0" type="stmt"/>
+            <line num="601" count="42" type="stmt"/>
+            <line num="602" count="42" type="stmt"/>
+            <line num="602" falsecount="11" type="cond" truecount="31"/>
+            <line num="603" count="31" type="stmt"/>
+            <line num="605" count="11" type="stmt"/>
+            <line num="607" count="42" type="stmt"/>
+            <line num="608" count="42" type="stmt"/>
+            <line num="609" count="42" type="stmt"/>
+            <line num="610" count="0" type="stmt"/>
+            <line num="611" count="0" type="stmt"/>
+            <line num="613" falsecount="2900" type="cond" truecount="5508"/>
+            <line num="615" count="2900" type="stmt"/>
+            <line num="615" falsecount="587" type="cond" truecount="2313"/>
+            <line num="616" count="2313" type="stmt"/>
+            <line num="617" count="2313" type="stmt"/>
+            <line num="617" falsecount="28" type="cond" truecount="2285"/>
+            <line num="618" count="2313" type="stmt"/>
+            <line num="621" count="2900" type="stmt"/>
+         </file>
+         <file name="CSVPrinter.java" path="/home/stg/omc_experiments/subjects/commons-csv/src/main/java/org/apache/commons/csv/CSVPrinter.java">
+            <metrics classes="1" methods="12" conditionals="30" ncloc="122" coveredstatements="57" coveredmethods="11" complexity="31" coveredconditionals="26" statements="62" loc="339" coveredelements="94" elements="104"/>
+            <class name="CSVPrinter">
+               <metrics methods="12" conditionals="30" coveredstatements="57" coveredmethods="11" complexity="31" coveredconditionals="26" statements="62" coveredelements="94" elements="104"/>
+            </class>
+            <line num="58" count="591" visibility="public" complexity="5" type="method" signature="CSVPrinter(Appendable,CSVFormat)"/>
+            <line num="59" count="591" type="stmt"/>
+            <line num="60" count="590" type="stmt"/>
+            <line num="62" count="589" type="stmt"/>
+            <line num="63" count="589" type="stmt"/>
+            <line num="66" count="589" type="stmt"/>
+            <line num="66" falsecount="584" type="cond" truecount="5"/>
+            <line num="67" count="5" type="stmt"/>
+            <line num="68" count="14" type="stmt"/>
+            <line num="68" falsecount="8" type="cond" truecount="6"/>
+            <line num="69" count="6" type="stmt"/>
+            <line num="73" count="589" type="stmt"/>
+            <line num="73" falsecount="581" type="cond" truecount="8"/>
+            <line num="74" count="8" type="stmt"/>
+            <line num="82" count="584" visibility="public" complexity="2" type="method" signature="close() : void"/>
+            <line num="84" count="584" type="stmt"/>
+            <line num="84" falsecount="2" type="cond" truecount="582"/>
+            <line num="85" count="582" type="stmt"/>
+            <line num="95" count="500" visibility="public" complexity="2" type="method" signature="flush() : void"/>
+            <line num="97" count="500" type="stmt"/>
+            <line num="97" falsecount="0" type="cond" truecount="500"/>
+            <line num="98" count="500" type="stmt"/>
+            <line num="107" count="0" visibility="public" complexity="1" type="method" signature="getOut() : Appendable"/>
+            <line num="108" count="0" type="stmt"/>
+            <line num="119" count="70" visibility="public" complexity="1" type="method" signature="print(Object) : void"/>
+            <line num="120" count="70" type="stmt"/>
+            <line num="121" count="70" type="stmt"/>
+            <line num="139" count="9" visibility="public" complexity="8" type="method" signature="printComment(String) : void"/>
+            <line num="140" count="9" type="stmt"/>
+            <line num="140" falsecount="8" type="cond" truecount="1"/>
+            <line num="141" count="1" type="stmt"/>
+            <line num="143" count="8" type="stmt"/>
+            <line num="143" falsecount="8" type="cond" truecount="0"/>
+            <line num="144" count="0" type="stmt"/>
+            <line num="146" count="8" type="stmt"/>
+            <line num="147" count="8" type="stmt"/>
+            <line num="148" count="8" type="stmt"/>
+            <line num="148" falsecount="8" type="cond" truecount="226"/>
+            <line num="149" count="226" type="stmt"/>
+            <line num="150" count="226" type="stmt"/>
+            <line num="151" count="0" type="stmt"/>
+            <line num="152" count="0" type="stmt"/>
+            <line num="152" falsecount="0" type="cond" truecount="0"/>
+            <line num="153" count="0" type="stmt"/>
+            <line num="156" count="1" type="stmt"/>
+            <line num="157" count="1" type="stmt"/>
+            <line num="158" count="1" type="stmt"/>
+            <line num="159" count="1" type="stmt"/>
+            <line num="160" count="1" type="stmt"/>
+            <line num="161" count="225" type="stmt"/>
+            <line num="162" count="225" type="stmt"/>
+            <line num="163" count="225" type="stmt"/>
+            <line num="166" count="8" type="stmt"/>
+            <line num="175" count="24" visibility="public" complexity="1" type="method" signature="println() : void"/>
+            <line num="176" count="24" type="stmt"/>
+            <line num="177" count="24" type="stmt"/>
+            <line num="193" count="8" visibility="public" complexity="1" type="method" signature="printRecord(Iterable&lt;?&gt;) : void"/>
+            <line num="194" count="8" type="stmt"/>
+            <line num="195" count="17" type="stmt"/>
+            <line num="197" count="8" type="stmt"/>
+            <line num="213" count="1310" visibility="public" complexity="1" type="method" signature="printRecord(Object) : void"/>
+            <line num="214" count="1310" type="stmt"/>
+            <line num="215" count="1309" type="stmt"/>
+            <line num="257" count="3" visibility="public" complexity="3" type="method" signature="printRecords(Iterable&lt;?&gt;) : void"/>
+            <line num="258" count="3" type="stmt"/>
+            <line num="259" count="27" type="stmt"/>
+            <line num="259" falsecount="25" type="cond" truecount="2"/>
+            <line num="260" count="2" type="stmt"/>
+            <line num="261" count="25" type="stmt"/>
+            <line num="261" falsecount="23" type="cond" truecount="2"/>
+            <line num="262" count="2" type="stmt"/>
+            <line num="264" count="23" type="stmt"/>
+            <line num="308" count="3" visibility="public" complexity="3" type="method" signature="printRecords(Object) : void"/>
+            <line num="309" count="3" type="stmt"/>
+            <line num="310" count="10" type="stmt"/>
+            <line num="310" falsecount="8" type="cond" truecount="2"/>
+            <line num="311" count="2" type="stmt"/>
+            <line num="312" count="8" type="stmt"/>
+            <line num="312" falsecount="5" type="cond" truecount="3"/>
+            <line num="313" count="3" type="stmt"/>
+            <line num="315" count="5" type="stmt"/>
+            <line num="330" count="4" visibility="public" complexity="3" type="method" signature="printRecords(ResultSet) : void"/>
+            <line num="331" count="4" type="stmt"/>
+            <line num="332" count="4" type="stmt"/>
+            <line num="332" falsecount="4" type="cond" truecount="7"/>
+            <line num="333" count="7" type="stmt"/>
+            <line num="333" falsecount="7" type="cond" truecount="13"/>
+            <line num="334" count="13" type="stmt"/>
+            <line num="336" count="7" type="stmt"/>
+         </file>
+         <file name="CSVRecord.java" path="/home/stg/omc_experiments/subjects/commons-csv/src/main/java/org/apache/commons/csv/CSVRecord.java">
+            <metrics classes="1" methods="18" conditionals="10" ncloc="104" coveredstatements="22" coveredmethods="14" complexity="24" coveredconditionals="3" statements="35" loc="276" coveredelements="39" elements="63"/>
+            <class name="CSVRecord">
+               <metrics methods="18" conditionals="10" coveredstatements="22" coveredmethods="14" complexity="24" coveredconditionals="3" statements="35" coveredelements="39" elements="63"/>
+            </class>
+            <line num="51" count="2313" visibility="package" complexity="2" type="method" signature="CSVRecord(String[],Map&lt;String, Integer&gt;,String,long,long)"/>
+            <line num="53" count="2313" type="stmt"/>
+            <line num="54" count="2313" type="stmt"/>
+            <line num="54" falsecount="0" type="cond" truecount="2313"/>
+            <line num="55" count="2313" type="stmt"/>
+            <line num="56" count="2313" type="stmt"/>
+            <line num="57" count="2313" type="stmt"/>
+            <line num="67" count="0" visibility="public" complexity="1" type="method" signature="get(Enum&lt;?&gt;) : String"/>
+            <line num="68" count="0" type="stmt"/>
+            <line num="78" count="63" visibility="public" complexity="1" type="method" signature="get(int) : String"/>
+            <line num="79" count="63" type="stmt"/>
+            <line num="95" count="822" visibility="public" complexity="4" type="method" signature="get(String) : String"/>
+            <line num="96" count="822" type="stmt"/>
+            <line num="96" falsecount="822" type="cond" truecount="0"/>
+            <line num="97" count="0" type="stmt"/>
+            <line num="100" count="822" type="stmt"/>
+            <line num="101" count="822" type="stmt"/>
+            <line num="101" falsecount="822" type="cond" truecount="0"/>
+            <line num="102" count="0" type="stmt"/>
+            <line num="105" count="822" type="stmt"/>
+            <line num="106" count="822" type="stmt"/>
+            <line num="108" count="0" type="stmt"/>
+            <line num="120" count="16" visibility="public" complexity="1" type="method" signature="getCharacterPosition() : long"/>
+            <line num="121" count="16" type="stmt"/>
+            <line num="132" count="14" visibility="public" complexity="1" type="method" signature="getComment() : String"/>
+            <line num="133" count="14" type="stmt"/>
+            <line num="147" count="26" visibility="public" complexity="1" type="method" signature="getRecordNumber() : long"/>
+            <line num="148" count="26" type="stmt"/>
+            <line num="161" count="2" visibility="public" complexity="1" type="method" signature="isConsistent() : boolean"/>
+            <line num="162" count="2" type="stmt"/>
+            <line num="174" count="4" visibility="public" complexity="1" type="method" signature="hasComment() : boolean"/>
+            <line num="175" count="4" type="stmt"/>
+            <line num="185" count="32" visibility="public" complexity="1" type="method" signature="isMapped(String) : boolean"/>
+            <line num="186" count="32" type="stmt"/>
+            <line num="196" count="6" visibility="public" complexity="1" type="method" signature="isSet(String) : boolean"/>
+            <line num="197" count="6" type="stmt"/>
+            <line num="205" count="3" visibility="public" complexity="1" type="method" signature="iterator() : Iterator&lt;String&gt;"/>
+            <line num="207" count="3" type="stmt"/>
+            <line num="217" count="0" visibility="package" complexity="3" type="method" signature="putIn(M) : M"/>
+            <line num="218" count="0" type="stmt"/>
+            <line num="218" falsecount="0" type="cond" truecount="0"/>
+            <line num="219" count="0" type="stmt"/>
+            <line num="221" count="0" type="stmt"/>
+            <line num="222" count="0" type="stmt"/>
+            <line num="223" count="0" type="stmt"/>
+            <line num="223" falsecount="0" type="cond" truecount="0"/>
+            <line num="224" count="0" type="stmt"/>
+            <line num="227" count="0" type="stmt"/>
+            <line num="235" count="118" visibility="public" complexity="1" type="method" signature="size() : int"/>
+            <line num="236" count="118" type="stmt"/>
+            <line num="246" count="3" visibility="private" complexity="1" type="method" signature="toList() : List&lt;String&gt;"/>
+            <line num="247" count="3" type="stmt"/>
+            <line num="255" count="0" visibility="public" complexity="1" type="method" signature="toMap() : Map&lt;String, String&gt;"/>
+            <line num="256" count="0" type="stmt"/>
+            <line num="265" count="0" visibility="public" complexity="1" type="method" signature="toString() : String"/>
+            <line num="267" count="0" type="stmt"/>
+            <line num="272" count="1457" visibility="package" complexity="1" type="method" signature="values() : String[]"/>
+            <line num="273" count="1457" type="stmt"/>
+         </file>
+         <file name="Constants.java" path="/home/stg/omc_experiments/subjects/commons-csv/src/main/java/org/apache/commons/csv/Constants.java">
+            <metrics classes="1" methods="0" conditionals="0" ncloc="23" coveredstatements="0" coveredmethods="0" complexity="0" coveredconditionals="0" statements="0" loc="82" coveredelements="0" elements="0"/>
+            <class name="Constants">
+               <metrics methods="0" conditionals="0" coveredstatements="0" coveredmethods="0" complexity="0" coveredconditionals="0" statements="0" coveredelements="0" elements="0"/>
+            </class>
+         </file>
+         <file name="ExtendedBufferedReader.java" path="/home/stg/omc_experiments/subjects/commons-csv/src/main/java/org/apache/commons/csv/ExtendedBufferedReader.java">
+            <metrics classes="1" methods="10" conditionals="22" ncloc="89" coveredstatements="42" coveredmethods="10" complexity="26" coveredconditionals="21" statements="42" loc="191" coveredelements="73" elements="74"/>
+            <class name="ExtendedBufferedReader">
+               <metrics methods="10" conditionals="22" coveredstatements="42" coveredmethods="10" complexity="26" coveredconditionals="21" statements="42" coveredelements="73" elements="74"/>
+            </class>
+            <line num="52" count="642" visibility="package" complexity="1" type="method" signature="ExtendedBufferedReader(Reader)"/>
+            <line num="53" count="642" type="stmt"/>
+            <line num="56" count="71904" visibility="public" complexity="4" type="method" signature="read() : int"/>
+            <line num="58" count="71904" type="stmt"/>
+            <line num="59" count="71904" type="stmt"/>
+            <line num="59" falsecount="67657" type="cond" truecount="4247"/>
+            <line num="60" count="4247" type="stmt"/>
+            <line num="62" count="71904" type="stmt"/>
+            <line num="63" count="71904" type="stmt"/>
+            <line num="64" count="71904" type="stmt"/>
+            <line num="75" count="8547" visibility="package" complexity="1" type="method" signature="getLastChar() : int"/>
+            <line num="76" count="8547" type="stmt"/>
+            <line num="79" count="10" visibility="public" complexity="9" type="method" signature="read(char[],int,int) : int"/>
+            <line num="81" count="10" type="stmt"/>
+            <line num="81" falsecount="9" type="cond" truecount="1"/>
+            <line num="82" count="1" type="stmt"/>
+            <line num="85" count="9" type="stmt"/>
+            <line num="87" count="9" type="stmt"/>
+            <line num="87" falsecount="1" type="cond" truecount="8"/>
+            <line num="89" count="8" type="stmt"/>
+            <line num="89" falsecount="8" type="cond" truecount="21"/>
+            <line num="90" count="21" type="stmt"/>
+            <line num="91" count="21" type="stmt"/>
+            <line num="91" falsecount="16" type="cond" truecount="5"/>
+            <line num="92" count="5" type="stmt"/>
+            <line num="92" falsecount="1" type="cond" truecount="4"/>
+            <line num="92" falsecount="1" type="cond" truecount="4"/>
+            <line num="93" count="4" type="stmt"/>
+            <line num="95" count="16" type="stmt"/>
+            <line num="95" falsecount="11" type="cond" truecount="5"/>
+            <line num="96" count="5" type="stmt"/>
+            <line num="100" count="8" type="stmt"/>
+            <line num="102" count="1" type="stmt"/>
+            <line num="102" falsecount="0" type="cond" truecount="1"/>
+            <line num="103" count="1" type="stmt"/>
+            <line num="106" count="9" type="stmt"/>
+            <line num="107" count="9" type="stmt"/>
+            <line num="120" count="74" visibility="public" complexity="2" type="method" signature="readLine() : String"/>
+            <line num="122" count="74" type="stmt"/>
+            <line num="124" count="74" type="stmt"/>
+            <line num="124" falsecount="7" type="cond" truecount="67"/>
+            <line num="125" count="67" type="stmt"/>
+            <line num="126" count="67" type="stmt"/>
+            <line num="128" count="7" type="stmt"/>
+            <line num="131" count="74" type="stmt"/>
+            <line num="143" count="4035" visibility="package" complexity="1" type="method" signature="lookAhead() : int"/>
+            <line num="144" count="4035" type="stmt"/>
+            <line num="145" count="4035" type="stmt"/>
+            <line num="146" count="4035" type="stmt"/>
+            <line num="148" count="4035" type="stmt"/>
+            <line num="156" count="1915" visibility="package" complexity="5" type="method" signature="getCurrentLineNumber() : long"/>
+            <line num="158" count="1915" type="stmt"/>
+            <line num="158" falsecount="1871" type="cond" truecount="44"/>
+            <line num="159" count="44" type="stmt"/>
+            <line num="161" count="1871" type="stmt"/>
+            <line num="169" count="2900" visibility="package" complexity="1" type="method" signature="getPosition() : long"/>
+            <line num="170" count="2900" type="stmt"/>
+            <line num="173" count="1836" visibility="public" complexity="1" type="method" signature="isClosed() : boolean"/>
+            <line num="174" count="1836" type="stmt"/>
+            <line num="183" count="613" visibility="public" complexity="1" type="method" signature="close() : void"/>
+            <line num="186" count="613" type="stmt"/>
+            <line num="187" count="613" type="stmt"/>
+            <line num="188" count="613" type="stmt"/>
+         </file>
+         <file name="Lexer.java" path="/home/stg/omc_experiments/subjects/commons-csv/src/main/java/org/apache/commons/csv/Lexer.java">
+            <metrics classes="1" methods="21" conditionals="74" ncloc="261" coveredstatements="140" coveredmethods="21" complexity="76" coveredconditionals="70" statements="151" loc="461" coveredelements="231" elements="246"/>
+            <class name="Lexer">
+               <metrics methods="21" conditionals="74" coveredstatements="140" coveredmethods="21" complexity="76" coveredconditionals="70" statements="151" coveredelements="231" elements="246"/>
+            </class>
+            <line num="63" count="3" visibility="package" complexity="1" type="method" signature="getFirstEol() : String"/>
+            <line num="64" count="3" type="stmt"/>
+            <line num="67" count="631" visibility="package" complexity="1" type="method" signature="Lexer(CSVFormat,ExtendedBufferedReader)"/>
+            <line num="68" count="631" type="stmt"/>
+            <line num="69" count="631" type="stmt"/>
+            <line num="70" count="631" type="stmt"/>
+            <line num="71" count="631" type="stmt"/>
+            <line num="72" count="631" type="stmt"/>
+            <line num="73" count="631" type="stmt"/>
+            <line num="74" count="631" type="stmt"/>
+            <line num="89" count="8525" visibility="package" complexity="19" type="method" signature="nextToken(Token) : Token"/>
+            <line num="92" count="8525" type="stmt"/>
+            <line num="95" count="8525" type="stmt"/>
+            <line num="100" count="8525" type="stmt"/>
+            <line num="103" count="8525" type="stmt"/>
+            <line num="103" falsecount="6655" type="cond" truecount="1870"/>
+            <line num="104" count="1870" type="stmt"/>
+            <line num="104" falsecount="1864" type="cond" truecount="43"/>
+            <line num="106" count="43" type="stmt"/>
+            <line num="107" count="43" type="stmt"/>
+            <line num="108" count="43" type="stmt"/>
+            <line num="110" count="43" type="stmt"/>
+            <line num="110" falsecount="37" type="cond" truecount="6"/>
+            <line num="111" count="6" type="stmt"/>
+            <line num="113" count="6" type="stmt"/>
+            <line num="119" count="8519" type="stmt"/>
+            <line num="119" falsecount="7932" type="cond" truecount="587"/>
+            <line num="120" count="587" type="stmt"/>
+            <line num="122" count="587" type="stmt"/>
+            <line num="125" count="7932" type="stmt"/>
+            <line num="125" falsecount="7884" type="cond" truecount="48"/>
+            <line num="126" count="48" type="stmt"/>
+            <line num="127" count="48" type="stmt"/>
+            <line num="127" falsecount="48" type="cond" truecount="0"/>
+            <line num="128" count="0" type="stmt"/>
+            <line num="130" count="0" type="stmt"/>
+            <line num="132" count="48" type="stmt"/>
+            <line num="133" count="48" type="stmt"/>
+            <line num="134" count="48" type="stmt"/>
+            <line num="135" count="48" type="stmt"/>
+            <line num="139" count="7884" type="stmt"/>
+            <line num="139" falsecount="7883" type="cond" truecount="7884"/>
+            <line num="141" count="7884" type="stmt"/>
+            <line num="141" falsecount="7247" type="cond" truecount="637"/>
+            <line num="142" count="637" type="stmt"/>
+            <line num="142" falsecount="637" type="cond" truecount="39"/>
+            <line num="143" count="39" type="stmt"/>
+            <line num="144" count="39" type="stmt"/>
+            <line num="149" count="7884" type="stmt"/>
+            <line num="149" falsecount="7810" type="cond" truecount="74"/>
+            <line num="151" count="74" type="stmt"/>
+            <line num="152" count="7810" type="stmt"/>
+            <line num="152" falsecount="7665" type="cond" truecount="145"/>
+            <line num="155" count="145" type="stmt"/>
+            <line num="156" count="7665" type="stmt"/>
+            <line num="156" falsecount="5800" type="cond" truecount="1865"/>
+            <line num="158" count="1865" type="stmt"/>
+            <line num="159" count="5800" type="stmt"/>
+            <line num="159" falsecount="5793" type="cond" truecount="7"/>
+            <line num="162" count="7" type="stmt"/>
+            <line num="163" count="7" type="stmt"/>
+            <line num="167" count="5793" type="stmt"/>
+            <line num="170" count="7883" type="stmt"/>
+            <line num="192" count="5793" visibility="private" complexity="7" type="method" signature="parseSimpleToken(Token,int) : Token"/>
+            <line num="194" count="5793" type="stmt"/>
+            <line num="195" count="44031" type="stmt"/>
+            <line num="195" falsecount="42755" type="cond" truecount="1276"/>
+            <line num="196" count="1276" type="stmt"/>
+            <line num="197" count="1276" type="stmt"/>
+            <line num="198" count="42755" type="stmt"/>
+            <line num="198" falsecount="42708" type="cond" truecount="47"/>
+            <line num="199" count="47" type="stmt"/>
+            <line num="200" count="47" type="stmt"/>
+            <line num="201" count="47" type="stmt"/>
+            <line num="202" count="42708" type="stmt"/>
+            <line num="202" falsecount="38239" type="cond" truecount="4469"/>
+            <line num="203" count="4469" type="stmt"/>
+            <line num="204" count="4469" type="stmt"/>
+            <line num="205" count="38239" type="stmt"/>
+            <line num="205" falsecount="37328" type="cond" truecount="911"/>
+            <line num="206" count="911" type="stmt"/>
+            <line num="207" count="910" type="stmt"/>
+            <line num="207" falsecount="905" type="cond" truecount="5"/>
+            <line num="208" count="5" type="stmt"/>
+            <line num="210" count="905" type="stmt"/>
+            <line num="212" count="910" type="stmt"/>
+            <line num="214" count="37328" type="stmt"/>
+            <line num="215" count="37328" type="stmt"/>
+            <line num="219" count="5792" type="stmt"/>
+            <line num="219" falsecount="5661" type="cond" truecount="131"/>
+            <line num="220" count="131" type="stmt"/>
+            <line num="223" count="5792" type="stmt"/>
+            <line num="246" count="1865" visibility="private" complexity="10" type="method" signature="parseEncapsulatedToken(Token) : Token"/>
+            <line num="248" count="1865" type="stmt"/>
+            <line num="249" count="1865" type="stmt"/>
+            <line num="250" count="1865" type="stmt"/>
+            <line num="251" count="20094" type="stmt"/>
+            <line num="253" count="20094" type="stmt"/>
+            <line num="253" falsecount="20090" type="cond" truecount="4"/>
+            <line num="254" count="4" type="stmt"/>
+            <line num="255" count="4" type="stmt"/>
+            <line num="255" falsecount="4" type="cond" truecount="0"/>
+            <line num="256" count="0" type="stmt"/>
+            <line num="258" count="4" type="stmt"/>
+            <line num="260" count="20090" type="stmt"/>
+            <line num="260" falsecount="17268" type="cond" truecount="2822"/>
+            <line num="261" count="2822" type="stmt"/>
+            <line num="261" falsecount="1865" type="cond" truecount="957"/>
+            <line num="263" count="957" type="stmt"/>
+            <line num="264" count="957" type="stmt"/>
+            <line num="267" count="1865" type="stmt"/>
+            <line num="268" count="1879" type="stmt"/>
+            <line num="269" count="1879" type="stmt"/>
+            <line num="269" falsecount="902" type="cond" truecount="977"/>
+            <line num="270" count="977" type="stmt"/>
+            <line num="271" count="977" type="stmt"/>
+            <line num="272" count="902" type="stmt"/>
+            <line num="272" falsecount="896" type="cond" truecount="6"/>
+            <line num="273" count="6" type="stmt"/>
+            <line num="274" count="6" type="stmt"/>
+            <line num="275" count="6" type="stmt"/>
+            <line num="276" count="896" type="stmt"/>
+            <line num="276" falsecount="14" type="cond" truecount="882"/>
+            <line num="277" count="882" type="stmt"/>
+            <line num="278" count="882" type="stmt"/>
+            <line num="279" count="14" type="stmt"/>
+            <line num="279" falsecount="14" type="cond" truecount="0"/>
+            <line num="281" count="0" type="stmt"/>
+            <line num="286" count="17268" type="stmt"/>
+            <line num="286" falsecount="17268" type="cond" truecount="0"/>
+            <line num="288" count="0" type="stmt"/>
+            <line num="292" count="17268" type="stmt"/>
+            <line num="297" count="1893" visibility="private" complexity="2" type="method" signature="mapNullToDisabled(Character) : char"/>
+            <line num="298" count="1893" type="stmt"/>
+            <line num="298" falsecount="663" type="cond" truecount="1230"/>
+            <line num="306" count="1885" visibility="package" complexity="1" type="method" signature="getCurrentLineNumber() : long"/>
+            <line num="307" count="1885" type="stmt"/>
+            <line num="315" count="2900" visibility="package" complexity="1" type="method" signature="getCharacterPosition() : long"/>
+            <line num="316" count="2900" type="stmt"/>
+            <line num="331" count="915" visibility="package" complexity="13" type="method" signature="readEscape() : int"/>
+            <line num="333" count="915" type="stmt"/>
+            <line num="334" count="915" type="stmt"/>
+            <line num="335" count="214" type="stmt"/>
+            <line num="336" count="214" type="stmt"/>
+            <line num="337" count="197" type="stmt"/>
+            <line num="338" count="197" type="stmt"/>
+            <line num="339" count="0" type="stmt"/>
+            <line num="340" count="0" type="stmt"/>
+            <line num="341" count="0" type="stmt"/>
+            <line num="342" count="0" type="stmt"/>
+            <line num="343" count="0" type="stmt"/>
+            <line num="344" count="0" type="stmt"/>
+            <line num="345" count="2" type="stmt"/>
+            <line num="346" count="3" type="stmt"/>
+            <line num="347" count="1" type="stmt"/>
+            <line num="348" count="219" type="stmt"/>
+            <line num="349" count="1" type="stmt"/>
+            <line num="350" count="226" type="stmt"/>
+            <line num="351" count="1" type="stmt"/>
+            <line num="352" count="1" type="stmt"/>
+            <line num="353" count="277" type="stmt"/>
+            <line num="355" count="277" type="stmt"/>
+            <line num="355" falsecount="5" type="cond" truecount="272"/>
+            <line num="356" count="272" type="stmt"/>
+            <line num="359" count="5" type="stmt"/>
+            <line num="363" count="131" visibility="package" complexity="4" type="method" signature="trimTrailingSpaces(StringBuilder) : void"/>
+            <line num="364" count="131" type="stmt"/>
+            <line num="365" count="131" type="stmt"/>
+            <line num="365" falsecount="131" type="cond" truecount="19"/>
+            <line num="366" count="19" type="stmt"/>
+            <line num="368" count="131" type="stmt"/>
+            <line num="368" falsecount="114" type="cond" truecount="17"/>
+            <line num="369" count="17" type="stmt"/>
+            <line num="378" count="53534" visibility="package" complexity="7" type="method" signature="readEndOfLine(int) : boolean"/>
+            <line num="380" count="53534" type="stmt"/>
+            <line num="380" falsecount="52348" type="cond" truecount="1186"/>
+            <line num="382" count="1186" type="stmt"/>
+            <line num="384" count="1186" type="stmt"/>
+            <line num="384" falsecount="741" type="cond" truecount="445"/>
+            <line num="385" count="445" type="stmt"/>
+            <line num="389" count="53534" type="stmt"/>
+            <line num="389" falsecount="48847" type="cond" truecount="4687"/>
+            <line num="390" count="4687" type="stmt"/>
+            <line num="390" falsecount="4528" type="cond" truecount="159"/>
+            <line num="391" count="159" type="stmt"/>
+            <line num="392" count="4528" type="stmt"/>
+            <line num="392" falsecount="4522" type="cond" truecount="6"/>
+            <line num="393" count="6" type="stmt"/>
+            <line num="397" count="53534" type="stmt"/>
+            <line num="400" count="1836" visibility="package" complexity="1" type="method" signature="isClosed() : boolean"/>
+            <line num="401" count="1836" type="stmt"/>
+            <line num="407" count="690" visibility="package" complexity="1" type="method" signature="isWhitespace(int) : boolean"/>
+            <line num="408" count="690" type="stmt"/>
+            <line num="417" count="8023" visibility="package" complexity="1" type="method" signature="isStartOfLine(int) : boolean"/>
+            <line num="418" count="8023" type="stmt"/>
+            <line num="424" count="78247" visibility="package" complexity="1" type="method" signature="isEndOfFile(int) : boolean"/>
+            <line num="425" count="78247" type="stmt"/>
+            <line num="428" count="61641" visibility="package" complexity="1" type="method" signature="isDelimiter(int) : boolean"/>
+            <line num="429" count="61641" type="stmt"/>
+            <line num="432" count="58333" visibility="package" complexity="1" type="method" signature="isEscape(int) : boolean"/>
+            <line num="433" count="58333" type="stmt"/>
+            <line num="436" count="30577" visibility="package" complexity="1" type="method" signature="isQuoteChar(int) : boolean"/>
+            <line num="437" count="30577" type="stmt"/>
+            <line num="440" count="2412" visibility="package" complexity="1" type="method" signature="isCommentStart(int) : boolean"/>
+            <line num="441" count="2412" type="stmt"/>
+            <line num="444" count="277" visibility="private" complexity="1" type="method" signature="isMetaChar(int) : boolean"/>
+            <line num="445" count="277" type="stmt"/>
+            <line num="457" count="602" visibility="public" complexity="1" type="method" signature="close() : void"/>
+            <line num="459" count="602" type="stmt"/>
+         </file>
+         <file name="QuoteMode.java" path="/home/stg/omc_experiments/subjects/commons-csv/src/main/java/org/apache/commons/csv/QuoteMode.java">
+            <metrics classes="1" methods="0" conditionals="0" ncloc="8" coveredstatements="0" coveredmethods="0" complexity="0" coveredconditionals="0" statements="0" loc="51" coveredelements="0" elements="0"/>
+            <class name="QuoteMode">
+               <metrics methods="0" conditionals="0" coveredstatements="0" coveredmethods="0" complexity="0" coveredconditionals="0" statements="0" coveredelements="0" elements="0"/>
+            </class>
+         </file>
+         <file name="Token.java" path="/home/stg/omc_experiments/subjects/commons-csv/src/main/java/org/apache/commons/csv/Token.java">
+            <metrics classes="2" methods="2" conditionals="0" ncloc="24" coveredstatements="3" coveredmethods="1" complexity="2" coveredconditionals="0" statements="4" loc="73" coveredelements="4" elements="6"/>
+            <class name="Token">
+               <metrics methods="2" conditionals="0" coveredstatements="3" coveredmethods="1" complexity="2" coveredconditionals="0" statements="4" coveredelements="4" elements="6"/>
+            </class>
+            <class name="Token.Type">
+               <metrics methods="0" conditionals="0" coveredstatements="0" coveredmethods="0" complexity="0" coveredconditionals="0" statements="0" coveredelements="0" elements="0"/>
+            </class>
+            <line num="58" count="8408" visibility="package" complexity="1" type="method" signature="reset() : void"/>
+            <line num="59" count="8408" type="stmt"/>
+            <line num="60" count="8408" type="stmt"/>
+            <line num="61" count="8408" type="stmt"/>
+            <line num="69" count="0" visibility="public" complexity="1" type="method" signature="toString() : String"/>
+            <line num="71" count="0" type="stmt"/>
+         </file>
+      </package>
+   </project>
+   <testproject timestamp="1661452007901" name="Apache Commons CSV 1.5">
+      <metrics conditionals="0" methods="0" classes="0" files="0" packages="0" coveredstatements="0" complexity="0" loc="0" ncloc="0" coveredmethods="0" coveredconditionals="0" statements="0" coveredelements="0" elements="0"/>
+   </testproject>
+</coverage>

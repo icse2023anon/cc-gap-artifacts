@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.BooleanUtilsTest.testAnd_object_validInput_3items:853
+Methods call in assertion: [org/apache/commons/lang3/BooleanUtils.and]
+org/apache/commons/lang3/BooleanUtils.and
+org/apache/commons/lang3/ArrayUtils.toPrimitive
+top 10 recommendations: 
+org/apache/commons/lang3/BooleanUtils.and
+org/apache/commons/lang3/ArrayUtils.toPrimitive
+after post processing ......
+org/apache/commons/lang3/BooleanUtils.and
+org/apache/commons/lang3/ArrayUtils.toPrimitive
+perfect match

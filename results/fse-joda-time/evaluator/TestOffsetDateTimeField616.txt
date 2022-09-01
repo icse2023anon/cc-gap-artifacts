@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestOffsetDateTimeField.test_addWrapField_long_int:320
+Methods call in assertion: [org/joda/time/field/OffsetDateTimeField.addWrapField]
+org/joda/time/field/OffsetDateTimeField.addWrapField
+org/joda/time/field/OffsetDateTimeField.set
+top 10 recommendations: 
+org/joda/time/field/OffsetDateTimeField.addWrapField
+org/joda/time/field/OffsetDateTimeField.set
+after post processing ......
+org/joda/time/field/OffsetDateTimeField.addWrapField
+org/joda/time/field/OffsetDateTimeField.set
+perfect match

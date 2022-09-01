@@ -1,0 +1,32 @@
+slicing criterion: org.joda.time.TestLocalDate_Basics.testIsSupported_DurationFieldType:510
+Methods call in assertion: [org/joda/time/LocalDate.isSupported, org/joda/time/DurationFieldType.hours]
+org/joda/time/LocalDate.isSupported
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/DurationFieldType.hours
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.getChronology
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/LocalDate.isSupported
+org/joda/time/LocalDate.<init>
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/DurationFieldType.hours
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDate.getChronology
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/LocalDate.isSupported
+org/joda/time/LocalDate.<init>
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/DurationFieldType.hours
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDate.getChronology
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

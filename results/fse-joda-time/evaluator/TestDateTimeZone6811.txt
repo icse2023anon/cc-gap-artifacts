@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestDateTimeZone.testGetMillisKeepLocal:1170
+Methods call in assertion: [org/joda/time/DateTimeZone.getMillisKeepLocal]
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/DateTimeZone.getDefault
+top 10 recommendations: 
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/DateTimeZone.getDefault
+after post processing ......
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/DateTimeZone.getDefault
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.text.StrTokenizerTest.testGetContent:613
+Methods call in assertion: [org/apache/commons/lang3/text/StrTokenizer.getContent]
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/text/StrTokenizer.getContent
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/text/StrTokenizer.getContent
+after post processing ......
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/text/StrTokenizer.getContent
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.nodes.AttributeTest.html:10
+Methods call in assertion: [org/jsoup/nodes/Attribute.html]
+org/jsoup/nodes/Attribute.html
+top 10 recommendations: 
+org/jsoup/nodes/Attribute.html
+after post processing ......
+org/jsoup/nodes/Attribute.html
+perfect match

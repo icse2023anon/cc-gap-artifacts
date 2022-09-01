@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.helper.StringUtilTest.isNumeric:40
+Methods call in assertion: [org/jsoup/helper/StringUtil.isNumeric]
+org/jsoup/helper/StringUtil.isNumeric
+top 10 recommendations: 
+org/jsoup/helper/StringUtil.isNumeric
+after post processing ......
+org/jsoup/helper/StringUtil.isNumeric
+perfect match

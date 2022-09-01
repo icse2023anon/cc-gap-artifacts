@@ -1,0 +1,37 @@
+slicing criterion: org.codehaus.plexus.util.xml.XmlWriterUtilTest.testWriteLineBreakXMLWriterIntIntInt:119
+Methods call in assertion: [org/codehaus/plexus/util/StringUtils.countMatches]
+org/codehaus/plexus/util/WriterFactory.newXmlWriter
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.getElementStack
+org/codehaus/plexus/util/xml/XmlStreamWriter.<init>
+org/codehaus/plexus/util/xml/XmlStreamWriter.write
+org/codehaus/plexus/util/StringUtils.unifyLineSeparators
+org/codehaus/plexus/util/xml/XmlWriterUtil.writeLineBreak
+org/codehaus/plexus/util/StringUtils.countMatches
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.writeMarkup
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.getWriter
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.writeText
+org/codehaus/plexus/util/StringUtils.repeat
+top 10 recommendations: 
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.writeMarkup
+org/codehaus/plexus/util/WriterFactory.newXmlWriter
+org/codehaus/plexus/util/xml/XmlWriterUtil.writeLineBreak
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.writeText
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.getElementStack
+org/codehaus/plexus/util/xml/XmlStreamWriter.<init>
+org/codehaus/plexus/util/xml/XmlStreamWriter.write
+org/codehaus/plexus/util/StringUtils.unifyLineSeparators
+org/codehaus/plexus/util/StringUtils.countMatches
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.getWriter
+after post processing ......
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.writeMarkup
+org/codehaus/plexus/util/WriterFactory.newXmlWriter
+org/codehaus/plexus/util/xml/XmlWriterUtil.writeLineBreak
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.writeText
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.getElementStack
+org/codehaus/plexus/util/xml/XmlStreamWriter.<init>
+org/codehaus/plexus/util/xml/XmlStreamWriter.write
+org/codehaus/plexus/util/StringUtils.unifyLineSeparators
+org/codehaus/plexus/util/StringUtils.countMatches
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.getWriter
+org/codehaus/plexus/util/StringUtils.repeat
+found in top 10

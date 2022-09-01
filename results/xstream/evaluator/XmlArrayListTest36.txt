@@ -1,0 +1,14 @@
+slicing criterion: com.thoughtworks.xstream.persistence.XmlArrayListTest.testRemovesAWrittenObject:86
+Methods call in assertion: [com/thoughtworks/xstream/persistence/XmlArrayList.remove]
+com/thoughtworks/xstream/persistence/XmlArrayList.get
+com/thoughtworks/xstream/persistence/XmlMap.get
+com/thoughtworks/xstream/persistence/XmlArrayList.size
+top 10 recommendations: 
+com/thoughtworks/xstream/persistence/XmlArrayList.get
+com/thoughtworks/xstream/persistence/XmlMap.get
+com/thoughtworks/xstream/persistence/XmlArrayList.size
+after post processing ......
+com/thoughtworks/xstream/persistence/XmlArrayList.get
+com/thoughtworks/xstream/persistence/XmlMap.get
+com/thoughtworks/xstream/persistence/XmlArrayList.size
+not matched

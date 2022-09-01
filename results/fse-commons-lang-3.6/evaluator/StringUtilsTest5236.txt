@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testRotate_StringInt:1964
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.rotate]
+org/apache/commons/lang3/StringUtils.rotate
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.rotate
+after post processing ......
+org/apache/commons/lang3/StringUtils.rotate
+perfect match

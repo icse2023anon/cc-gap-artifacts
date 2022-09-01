@@ -1,0 +1,11 @@
+slicing criterion: org.codehaus.plexus.util.dag.VertexTest.testVertex:49
+Methods call in assertion: [org/codehaus/plexus/util/dag/Vertex.getChildren]
+org/codehaus/plexus/util/dag/Vertex.getChildren
+org/codehaus/plexus/util/dag/Vertex.addEdgeTo
+top 10 recommendations: 
+org/codehaus/plexus/util/dag/Vertex.getChildren
+org/codehaus/plexus/util/dag/Vertex.addEdgeTo
+after post processing ......
+org/codehaus/plexus/util/dag/Vertex.getChildren
+org/codehaus/plexus/util/dag/Vertex.addEdgeTo
+perfect match

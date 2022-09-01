@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestIllegalFieldValueException.testSkipDateTimeField:116
+Methods call in assertion: [org/joda/time/IllegalFieldValueException.getUpperBound]
+org/joda/time/field/SkipDateTimeField.set
+org/joda/time/IllegalFieldValueException.getUpperBound
+top 10 recommendations: 
+org/joda/time/field/SkipDateTimeField.set
+org/joda/time/IllegalFieldValueException.getUpperBound
+after post processing ......
+org/joda/time/field/SkipDateTimeField.set
+org/joda/time/IllegalFieldValueException.getUpperBound
+found in top 10

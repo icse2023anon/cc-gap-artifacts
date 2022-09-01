@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.category.StackedAreaRendererTest.testEquals:102
+Methods call in assertion: [org/jfree/chart/renderer/category/StackedAreaRenderer.equals]
+org/jfree/chart/renderer/category/StackedAreaRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/category/StackedAreaRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/category/StackedAreaRenderer.equals
+perfect match

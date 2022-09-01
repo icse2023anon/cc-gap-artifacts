@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestPeriodType.testTime:349
+Methods call in assertion: [org/joda/time/DurationFieldType.minutes, org/joda/time/PeriodType.getFieldType]
+org/joda/time/DurationFieldType.minutes
+org/joda/time/PeriodType.getFieldType
+top 10 recommendations: 
+org/joda/time/DurationFieldType.minutes
+org/joda/time/PeriodType.getFieldType
+after post processing ......
+org/joda/time/DurationFieldType.minutes
+org/joda/time/PeriodType.getFieldType
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.axis.ModuloAxisTest.testHashCode:91
+Methods call in assertion: [org/jfree/chart/axis/ModuloAxis.equals]
+org/jfree/chart/axis/ModuloAxis.equals
+top 10 recommendations: 
+org/jfree/chart/axis/ModuloAxis.equals
+after post processing ......
+org/jfree/chart/axis/ModuloAxis.equals
+perfect match

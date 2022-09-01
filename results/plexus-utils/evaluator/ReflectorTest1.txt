@@ -1,0 +1,11 @@
+slicing criterion: org.codehaus.plexus.util.reflection.ReflectorTest.testObjectPropertyFromField:59
+Methods call in assertion: [org/codehaus/plexus/util/reflection/Reflector.getObjectProperty]
+org/codehaus/plexus/util/reflection/Reflector.getObjectProperty
+org/codehaus/plexus/util/reflection/Reflector.getField
+top 10 recommendations: 
+org/codehaus/plexus/util/reflection/Reflector.getObjectProperty
+org/codehaus/plexus/util/reflection/Reflector.getField
+after post processing ......
+org/codehaus/plexus/util/reflection/Reflector.getObjectProperty
+org/codehaus/plexus/util/reflection/Reflector.getField
+perfect match

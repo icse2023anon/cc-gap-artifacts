@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestInterval_Constructors.testConstructor_Object4:716
+Methods call in assertion: [org/joda/time/Interval.getStartMillis]
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/convert/ReadableIntervalConverter.isReadableInterval
+org/joda/time/base/BaseInterval.getStartMillis
+top 10 recommendations: 
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/convert/ReadableIntervalConverter.isReadableInterval
+org/joda/time/base/BaseInterval.getStartMillis
+after post processing ......
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/convert/ReadableIntervalConverter.isReadableInterval
+org/joda/time/base/BaseInterval.getStartMillis
+found in top 10

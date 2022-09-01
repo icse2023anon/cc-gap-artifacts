@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.category.IntervalBarRendererTest.testEquals:77
+Methods call in assertion: [org/jfree/chart/renderer/category/IntervalBarRenderer.equals]
+org/jfree/chart/renderer/category/IntervalBarRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/category/IntervalBarRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/category/IntervalBarRenderer.equals
+perfect match

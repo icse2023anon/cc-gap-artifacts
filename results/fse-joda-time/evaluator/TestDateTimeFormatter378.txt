@@ -1,0 +1,41 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatter.testPrinterParserMethods:469
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.parseDateTime]
+org/joda/time/format/DateTimeFormatterBuilder.estimateParsedLength
+org/joda/time/format/DateTimeParserInternalParser.of
+org/joda/time/format/DateTimeFormatter.parseDateTime
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfWeekShortText
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/InternalParserDateTimeParser.parseInto
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/InternalParserDateTimeParser.of
+org/joda/time/format/DateTimeFormatter.getPrinter0
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatter.getParser0
+org/joda/time/format/DateTimeFormatter.getParser
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatter.getParser
+org/joda/time/format/DateTimeFormatterBuilder.estimateParsedLength
+org/joda/time/format/DateTimeParserInternalParser.of
+org/joda/time/format/DateTimeFormatter.parseDateTime
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfWeekShortText
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/InternalParserDateTimeParser.parseInto
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+after post processing ......
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatter.getParser
+org/joda/time/format/DateTimeFormatterBuilder.estimateParsedLength
+org/joda/time/format/DateTimeParserInternalParser.of
+org/joda/time/format/DateTimeFormatter.parseDateTime
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfWeekShortText
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/InternalParserDateTimeParser.parseInto
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/InternalParserDateTimeParser.of
+org/joda/time/format/DateTimeFormatter.getPrinter0
+org/joda/time/format/DateTimeFormatter.getParser0
+found in top 10

@@ -1,0 +1,37 @@
+slicing criterion: org.apache.commons.validator.ExtensionTest.testOrder:348
+Methods call in assertion: [org/apache/commons/validator/Form.getFields]
+org/apache/commons/validator/ValidatorResources.buildKey
+org/apache/commons/validator/ValidatorResources.<init>
+org/apache/commons/validator/Form.addField
+org/apache/commons/validator/ValidatorResources.getForm
+org/apache/commons/validator/FormSet.addForm
+org/apache/commons/validator/FormSet.getForm
+org/apache/commons/validator/Form.getName
+org/apache/commons/validator/Form.getFields
+org/apache/commons/validator/FormSetFactory.createObject
+org/apache/commons/validator/ValidatorResources.addFormSet
+org/apache/commons/validator/ValidatorResources.getFormSet
+top 10 recommendations: 
+org/apache/commons/validator/ValidatorResources.getForm
+org/apache/commons/validator/FormSet.addForm
+org/apache/commons/validator/ValidatorResources.addFormSet
+org/apache/commons/validator/ValidatorResources.buildKey
+org/apache/commons/validator/ValidatorResources.<init>
+org/apache/commons/validator/Form.addField
+org/apache/commons/validator/FormSet.getForm
+org/apache/commons/validator/Form.getName
+org/apache/commons/validator/Form.getFields
+org/apache/commons/validator/FormSetFactory.createObject
+after post processing ......
+org/apache/commons/validator/ValidatorResources.getForm
+org/apache/commons/validator/FormSet.addForm
+org/apache/commons/validator/ValidatorResources.addFormSet
+org/apache/commons/validator/ValidatorResources.buildKey
+org/apache/commons/validator/ValidatorResources.<init>
+org/apache/commons/validator/Form.addField
+org/apache/commons/validator/FormSet.getForm
+org/apache/commons/validator/Form.getName
+org/apache/commons/validator/Form.getFields
+org/apache/commons/validator/FormSetFactory.createObject
+org/apache/commons/validator/ValidatorResources.getFormSet
+found in top 10

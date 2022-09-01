@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.needle.PinNeedleTest.testSerialization:83
+Methods call in assertion: [org/jfree/chart/needle/PinNeedle.equals]
+org/jfree/chart/needle/PinNeedle.equals
+top 10 recommendations: 
+org/jfree/chart/needle/PinNeedle.equals
+after post processing ......
+org/jfree/chart/needle/PinNeedle.equals
+perfect match

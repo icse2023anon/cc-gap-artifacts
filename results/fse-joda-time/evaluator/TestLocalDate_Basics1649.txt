@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestLocalDate_Basics.testIsSupported_DateTimeFieldType:486
+Methods call in assertion: [org/joda/time/LocalDate.isSupported, org/joda/time/DateTimeFieldType.dayOfWeek]
+org/joda/time/LocalDate.isSupported
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/DateTimeFieldType.dayOfWeek
+top 10 recommendations: 
+org/joda/time/LocalDate.isSupported
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/DateTimeFieldType.dayOfWeek
+after post processing ......
+org/joda/time/LocalDate.isSupported
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/DateTimeFieldType.dayOfWeek
+found in top 10

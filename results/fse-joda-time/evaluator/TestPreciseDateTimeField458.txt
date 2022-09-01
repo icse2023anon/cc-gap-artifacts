@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.field.TestPreciseDateTimeField.test_getLeapDurationField:466
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.getLeapDurationField]
+org/joda/time/field/BaseDateTimeField.getLeapDurationField
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.getLeapDurationField
+after post processing ......
+org/joda/time/field/BaseDateTimeField.getLeapDurationField
+perfect match

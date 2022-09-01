@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestInstant_Basics.testIsEqual_RI:309
+Methods call in assertion: [org/joda/time/Instant.isEqual]
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/base/AbstractInstant.isEqual
+org/joda/time/Instant.getMillis
+top 10 recommendations: 
+org/joda/time/base/AbstractInstant.isEqual
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/Instant.getMillis
+after post processing ......
+org/joda/time/base/AbstractInstant.isEqual
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/Instant.getMillis
+found in top 10

@@ -1,0 +1,32 @@
+slicing criterion: org.apache.commons.lang3.reflect.ConstructorUtilsTest.testInvokeExactConstructor:187
+Methods call in assertion: [org/apache/commons/lang3/reflect/ConstructorUtils.invokeExactConstructor]
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/reflect/ConstructorUtils.invokeExactConstructor
+org/apache/commons/lang3/reflect/ConstructorUtils.invokeConstructor
+org/apache/commons/lang3/reflect/ConstructorUtils.getAccessibleConstructor
+org/apache/commons/lang3/ArrayUtils.nullToEmpty
+org/apache/commons/lang3/ClassUtils.toClass
+org/apache/commons/lang3/reflect/ConstructorUtils.getMatchingAccessibleConstructor
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/ConstructorUtils.invokeConstructor
+org/apache/commons/lang3/reflect/ConstructorUtils.invokeExactConstructor
+org/apache/commons/lang3/ArrayUtils.nullToEmpty
+org/apache/commons/lang3/reflect/ConstructorUtils.getMatchingAccessibleConstructor
+org/apache/commons/lang3/reflect/ConstructorUtils.getAccessibleConstructor
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ClassUtils.toClass
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+after post processing ......
+org/apache/commons/lang3/reflect/ConstructorUtils.invokeConstructor
+org/apache/commons/lang3/reflect/ConstructorUtils.invokeExactConstructor
+org/apache/commons/lang3/ArrayUtils.nullToEmpty
+org/apache/commons/lang3/reflect/ConstructorUtils.getMatchingAccessibleConstructor
+org/apache/commons/lang3/reflect/ConstructorUtils.getAccessibleConstructor
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ClassUtils.toClass
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+found in top 10

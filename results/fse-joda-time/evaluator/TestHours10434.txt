@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestHours.testFactory_hours_int:111
+Methods call in assertion: [org/joda/time/Hours.hours]
+org/joda/time/Hours.hours
+top 10 recommendations: 
+org/joda/time/Hours.hours
+after post processing ......
+org/joda/time/Hours.hours
+perfect match

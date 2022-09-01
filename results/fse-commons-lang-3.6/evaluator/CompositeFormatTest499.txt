@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.CompositeFormatTest.testUsage:92
+Methods call in assertion: [org/apache/commons/lang3/text/CompositeFormat.reformat]
+org/apache/commons/lang3/text/CompositeFormat.reformat
+top 10 recommendations: 
+org/apache/commons/lang3/text/CompositeFormat.reformat
+after post processing ......
+org/apache/commons/lang3/text/CompositeFormat.reformat
+perfect match

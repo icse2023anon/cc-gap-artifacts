@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testProperty:1104
+Methods call in assertion: [org/joda/time/LocalDateTime.yearOfCentury, org/joda/time/DateTimeFieldType.yearOfCentury, org/joda/time/LocalDateTime.property]
+org/joda/time/LocalDateTime.yearOfCentury
+org/joda/time/LocalDateTime.toDateTime
+org/joda/time/DateTimeFieldType.yearOfCentury
+top 10 recommendations: 
+org/joda/time/LocalDateTime.yearOfCentury
+org/joda/time/LocalDateTime.toDateTime
+org/joda/time/DateTimeFieldType.yearOfCentury
+after post processing ......
+org/joda/time/LocalDateTime.yearOfCentury
+org/joda/time/LocalDateTime.toDateTime
+org/joda/time/DateTimeFieldType.yearOfCentury
+not matched

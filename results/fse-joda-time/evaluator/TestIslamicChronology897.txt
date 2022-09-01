@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.chrono.TestIslamicChronology.testSampleDate3:666
+Methods call in assertion: [org/joda/time/DateTime.getMonthOfYear]
+org/joda/time/DateTime.getMillis
+org/joda/time/base/AbstractDateTime.getMonthOfYear
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/field/BaseDurationField.getType
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+org/joda/time/field/AbstractReadableInstantFieldProperty.getLeapDurationField
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.getMillis
+org/joda/time/base/AbstractDateTime.getMonthOfYear
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/field/BaseDurationField.getType
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+org/joda/time/field/AbstractReadableInstantFieldProperty.getLeapDurationField
+after post processing ......
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.getMillis
+org/joda/time/base/AbstractDateTime.getMonthOfYear
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/field/BaseDurationField.getType
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+org/joda/time/field/AbstractReadableInstantFieldProperty.getLeapDurationField
+not matched

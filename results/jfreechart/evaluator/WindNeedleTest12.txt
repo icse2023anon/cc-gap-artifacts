@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.needle.WindNeedleTest.testSerialization:83
+Methods call in assertion: [org/jfree/chart/needle/WindNeedle.equals]
+org/jfree/chart/needle/WindNeedle.equals
+top 10 recommendations: 
+org/jfree/chart/needle/WindNeedle.equals
+after post processing ......
+org/jfree/chart/needle/WindNeedle.equals
+perfect match

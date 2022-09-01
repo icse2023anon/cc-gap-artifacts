@@ -1,0 +1,32 @@
+slicing criterion: org.joda.time.TestInstant_Basics.testGet_DateTimeFieldType:169
+Methods call in assertion: [org/joda/time/DateTimeFieldType.clockhourOfHalfday, org/joda/time/Instant.get]
+org/joda/time/DateTimeFieldType.clockhourOfHalfday
+org/joda/time/field/ZeroIsMaxDateTimeField.getMaximumValue
+org/joda/time/field/ZeroIsMaxDateTimeField.get
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/Instant.getChronology
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/AssembledChronology.clockhourOfHalfday
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+top 10 recommendations: 
+org/joda/time/field/ZeroIsMaxDateTimeField.get
+org/joda/time/Instant.getChronology
+org/joda/time/DateTimeFieldType.clockhourOfHalfday
+org/joda/time/field/ZeroIsMaxDateTimeField.getMaximumValue
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/AssembledChronology.clockhourOfHalfday
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+after post processing ......
+org/joda/time/field/ZeroIsMaxDateTimeField.get
+org/joda/time/Instant.getChronology
+org/joda/time/DateTimeFieldType.clockhourOfHalfday
+org/joda/time/field/ZeroIsMaxDateTimeField.getMaximumValue
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/AssembledChronology.clockhourOfHalfday
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+found in top 10

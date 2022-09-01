@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.math.FractionTest.testHashCode:1291
+Methods call in assertion: [org/apache/commons/lang3/math/Fraction.hashCode]
+org/apache/commons/lang3/math/Fraction.hashCode
+org/apache/commons/lang3/math/Fraction.getNumerator
+org/apache/commons/lang3/math/Fraction.getDenominator
+org/apache/commons/lang3/math/Fraction.getFraction
+top 10 recommendations: 
+org/apache/commons/lang3/math/Fraction.hashCode
+org/apache/commons/lang3/math/Fraction.getNumerator
+org/apache/commons/lang3/math/Fraction.getDenominator
+org/apache/commons/lang3/math/Fraction.getFraction
+after post processing ......
+org/apache/commons/lang3/math/Fraction.hashCode
+org/apache/commons/lang3/math/Fraction.getNumerator
+org/apache/commons/lang3/math/Fraction.getDenominator
+org/apache/commons/lang3/math/Fraction.getFraction
+perfect match

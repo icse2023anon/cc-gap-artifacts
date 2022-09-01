@@ -1,0 +1,17 @@
+slicing criterion: com.google.gson.LongSerializationPolicyTest.testDefaultLongSerialization:35
+Methods call in assertion: [com/google/gson/JsonPrimitive.isNumber]
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonElement.isJsonPrimitive
+com/google/gson/JsonElement.getAsJsonPrimitive
+top 10 recommendations: 
+com/google/gson/JsonElement.getAsJsonPrimitive
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonElement.isJsonPrimitive
+after post processing ......
+com/google/gson/JsonElement.getAsJsonPrimitive
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonElement.isJsonPrimitive
+found in top 10

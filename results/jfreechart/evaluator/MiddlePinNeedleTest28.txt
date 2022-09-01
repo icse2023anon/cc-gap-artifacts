@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.needle.MiddlePinNeedleTest.testCloning:73
+Methods call in assertion: [org/jfree/chart/needle/MiddlePinNeedle.equals]
+org/jfree/chart/needle/MiddlePinNeedle.clone
+org/jfree/chart/needle/MiddlePinNeedle.equals
+top 10 recommendations: 
+org/jfree/chart/needle/MiddlePinNeedle.clone
+org/jfree/chart/needle/MiddlePinNeedle.equals
+after post processing ......
+org/jfree/chart/needle/MiddlePinNeedle.clone
+org/jfree/chart/needle/MiddlePinNeedle.equals
+found in top 10

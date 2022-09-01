@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestDateTimeZone.testForTimeZone_TimeZone:531
+Methods call in assertion: [org/joda/time/DateTimeZone.forTimeZone, org/joda/time/DateTimeZone.getDefault]
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+top 10 recommendations: 
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.setDefault
+after post processing ......
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.setDefault
+found in top 10

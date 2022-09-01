@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestMinutes.testFactory_parseMinutes_String:164
+Methods call in assertion: [org/joda/time/Minutes.getMinutes, org/joda/time/Minutes.parseMinutes]
+org/joda/time/Minutes.getMinutes
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Minutes.parseMinutes
+top 10 recommendations: 
+org/joda/time/Minutes.getMinutes
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Minutes.parseMinutes
+after post processing ......
+org/joda/time/Minutes.getMinutes
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Minutes.parseMinutes
+found in top 10

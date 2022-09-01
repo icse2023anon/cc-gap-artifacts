@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTrimStripTest.testStripStart_StringString:176
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.stripStart]
+org/apache/commons/lang3/StringUtils.stripStart
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.stripStart
+after post processing ......
+org/apache/commons/lang3/StringUtils.stripStart
+perfect match

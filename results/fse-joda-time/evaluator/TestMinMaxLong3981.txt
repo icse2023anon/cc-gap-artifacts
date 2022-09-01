@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestMinMaxLong.testPrintParseMin:329
+Methods call in assertion: [org/joda/time/DateTime.toString, org/joda/time/DateTime.parse]
+org/joda/time/format/DateTimeFormatter.withOffsetParsed
+org/joda/time/base/AbstractDateTime.toString
+org/joda/time/DateTime.parse
+org/joda/time/format/DateTimeFormatter.parseDateTime
+org/joda/time/format/ISODateTimeFormat.dateTimeParser
+top 10 recommendations: 
+org/joda/time/DateTime.parse
+org/joda/time/format/DateTimeFormatter.withOffsetParsed
+org/joda/time/base/AbstractDateTime.toString
+org/joda/time/format/DateTimeFormatter.parseDateTime
+org/joda/time/format/ISODateTimeFormat.dateTimeParser
+after post processing ......
+org/joda/time/DateTime.parse
+org/joda/time/format/DateTimeFormatter.withOffsetParsed
+org/joda/time/base/AbstractDateTime.toString
+org/joda/time/format/DateTimeFormatter.parseDateTime
+org/joda/time/format/ISODateTimeFormat.dateTimeParser
+not matched

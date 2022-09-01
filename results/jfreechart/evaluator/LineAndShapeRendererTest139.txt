@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.category.LineAndShapeRendererTest.testEquals:79
+Methods call in assertion: [org/jfree/chart/renderer/category/LineAndShapeRenderer.equals]
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultLinesVisible
+org/jfree/chart/renderer/category/LineAndShapeRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultLinesVisible
+org/jfree/chart/renderer/category/LineAndShapeRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultLinesVisible
+org/jfree/chart/renderer/category/LineAndShapeRenderer.equals
+found in top 10

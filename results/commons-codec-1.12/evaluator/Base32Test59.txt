@@ -1,0 +1,23 @@
+slicing criterion: org.apache.commons.codec.binary.Base32Test.testRandomBytesChunked:216
+Methods call in assertion: [org/apache/commons/codec/binary/Base32.getEncodedLength]
+org/apache/commons/codec/binary/BaseNCodec.<init>
+org/apache/commons/codec/binary/Base32.encode
+org/apache/commons/codec/binary/BaseNCodec.encode
+org/apache/commons/codec/binary/Base32.<init>
+org/apache/commons/codec/binary/BaseNCodec.ensureBufferSize
+org/apache/commons/codec/binary/BaseNCodec.getEncodedLength
+top 10 recommendations: 
+org/apache/commons/codec/binary/Base32.<init>
+org/apache/commons/codec/binary/BaseNCodec.<init>
+org/apache/commons/codec/binary/Base32.encode
+org/apache/commons/codec/binary/BaseNCodec.encode
+org/apache/commons/codec/binary/BaseNCodec.ensureBufferSize
+org/apache/commons/codec/binary/BaseNCodec.getEncodedLength
+after post processing ......
+org/apache/commons/codec/binary/Base32.<init>
+org/apache/commons/codec/binary/BaseNCodec.<init>
+org/apache/commons/codec/binary/Base32.encode
+org/apache/commons/codec/binary/BaseNCodec.encode
+org/apache/commons/codec/binary/BaseNCodec.ensureBufferSize
+org/apache/commons/codec/binary/BaseNCodec.getEncodedLength
+found in top 10

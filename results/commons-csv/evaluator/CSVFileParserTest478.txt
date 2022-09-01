@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.csv.CSVFileParserTest.testCSVUrl:157
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.toString]
+org/apache/commons/csv/CSVFormat.withIgnoreSurroundingSpaces
+org/apache/commons/csv/CSVFormat.withCommentMarker
+org/apache/commons/csv/CSVFormat.withIgnoreEmptyLines
+org/apache/commons/csv/CSVFormat.toString
+org/apache/commons/csv/CSVFormat.withQuote
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.withIgnoreSurroundingSpaces
+org/apache/commons/csv/CSVFormat.withCommentMarker
+org/apache/commons/csv/CSVFormat.withIgnoreEmptyLines
+org/apache/commons/csv/CSVFormat.toString
+org/apache/commons/csv/CSVFormat.withQuote
+after post processing ......
+org/apache/commons/csv/CSVFormat.withIgnoreSurroundingSpaces
+org/apache/commons/csv/CSVFormat.withCommentMarker
+org/apache/commons/csv/CSVFormat.withIgnoreEmptyLines
+org/apache/commons/csv/CSVFormat.toString
+org/apache/commons/csv/CSVFormat.withQuote
+found in top 10

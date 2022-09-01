@@ -1,0 +1,41 @@
+slicing criterion: com.google.gson.ObjectTypeAdapterTest.testDeserializeNullValue:51
+Methods call in assertion: [com/google/gson/TypeAdapter.fromJson]
+com/google/gson/Gson.<init>
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/TypeAdapter.fromJson
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/stream/JsonReader.peek
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/internal/bind/ObjectTypeAdapter.read
+com/google/gson/GsonBuilder.create
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/reflect/TypeToken.<init>
+com/google/gson/Gson.getAdapter
+com/google/gson/stream/JsonReader.doPeek
+top 10 recommendations: 
+com/google/gson/internal/bind/ObjectTypeAdapter.read
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/TypeAdapter.fromJson
+com/google/gson/stream/JsonReader.peek
+com/google/gson/GsonBuilder.create
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/Gson.<init>
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/reflect/TypeToken.getRawType
+after post processing ......
+com/google/gson/internal/bind/ObjectTypeAdapter.read
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/TypeAdapter.fromJson
+com/google/gson/stream/JsonReader.peek
+com/google/gson/GsonBuilder.create
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/Gson.<init>
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/reflect/TypeToken.<init>
+com/google/gson/Gson.getAdapter
+com/google/gson/stream/JsonReader.doPeek
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.title.PaintScaleLegendTest.testHashcode:153
+Methods call in assertion: [org/jfree/chart/title/PaintScaleLegend.equals]
+org/jfree/chart/title/PaintScaleLegend.equals
+org/jfree/chart/util/PaintUtils.equal
+top 10 recommendations: 
+org/jfree/chart/title/PaintScaleLegend.equals
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/title/PaintScaleLegend.equals
+org/jfree/chart/util/PaintUtils.equal
+perfect match

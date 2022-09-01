@@ -1,0 +1,14 @@
+slicing criterion: org.codehaus.plexus.util.FileUtilsTest.testIsValidWindowsFileName:1211
+Methods call in assertion: [org/codehaus/plexus/util/FileUtils.isValidWindowsFileName]
+org/codehaus/plexus/util/Os.isOs
+org/codehaus/plexus/util/FileUtils.isValidWindowsFileName
+org/codehaus/plexus/util/Os.isFamily
+top 10 recommendations: 
+org/codehaus/plexus/util/FileUtils.isValidWindowsFileName
+org/codehaus/plexus/util/Os.isOs
+org/codehaus/plexus/util/Os.isFamily
+after post processing ......
+org/codehaus/plexus/util/FileUtils.isValidWindowsFileName
+org/codehaus/plexus/util/Os.isOs
+org/codehaus/plexus/util/Os.isFamily
+perfect match

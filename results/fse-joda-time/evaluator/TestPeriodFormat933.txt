@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.format.TestPeriodFormat.test_wordBased_pl_regEx:633
+Methods call in assertion: [org/joda/time/format/PeriodFormatter.print, org/joda/time/Period.seconds]
+org/joda/time/format/PeriodFormat.wordBased
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/PeriodType.standard
+top 10 recommendations: 
+org/joda/time/format/PeriodFormat.wordBased
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/PeriodType.standard
+after post processing ......
+org/joda/time/format/PeriodFormat.wordBased
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/PeriodType.standard
+not matched

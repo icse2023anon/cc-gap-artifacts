@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestLocalTime_Constructors.testFactory_FromDateFields_after1970:202
+Methods call in assertion: [org/joda/time/LocalTime.fromDateFields]
+org/joda/time/LocalTime.getLocalMillis
+top 10 recommendations: 
+org/joda/time/LocalTime.getLocalMillis
+after post processing ......
+org/joda/time/LocalTime.getLocalMillis
+not matched

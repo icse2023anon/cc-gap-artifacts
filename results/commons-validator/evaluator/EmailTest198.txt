@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.validator.EmailTest.testEmailWithControlChars:210
+Methods call in assertion: [org/apache/commons/validator/EmailValidator.isValid]
+org/apache/commons/validator/routines/EmailValidator.getInstance
+org/apache/commons/validator/EmailValidator.isValid
+top 10 recommendations: 
+org/apache/commons/validator/EmailValidator.isValid
+org/apache/commons/validator/routines/EmailValidator.getInstance
+after post processing ......
+org/apache/commons/validator/EmailValidator.isValid
+org/apache/commons/validator/routines/EmailValidator.getInstance
+perfect match

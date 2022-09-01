@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.TestPartial_Constructors.testConstructor_TypeArray_intArray_Chrono:455
+Methods call in assertion: [org/joda/time/DateTimeFieldType.dayOfYear, org/joda/time/Partial.get]
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/Partial.getValue
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeFieldType.year
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/base/AbstractPartial.get
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.get
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/Partial.getValue
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeFieldType.year
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+after post processing ......
+org/joda/time/base/AbstractPartial.get
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/Partial.getValue
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeFieldType.year
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+not matched

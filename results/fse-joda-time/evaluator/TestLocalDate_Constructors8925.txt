@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestLocalDate_Constructors.testParse_noFormatter:143
+Methods call in assertion: [org/joda/time/LocalDate.parse]
+org/joda/time/LocalDate.compareTo
+org/joda/time/format/DateTimeFormatter.parseLocalDate
+org/joda/time/LocalDate.parse
+top 10 recommendations: 
+org/joda/time/LocalDate.parse
+org/joda/time/LocalDate.compareTo
+org/joda/time/format/DateTimeFormatter.parseLocalDate
+after post processing ......
+org/joda/time/LocalDate.parse
+org/joda/time/LocalDate.compareTo
+org/joda/time/format/DateTimeFormatter.parseLocalDate
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testRightString:1387
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.rightString]
+org/apache/commons/lang3/text/StrBuilder.rightString
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.rightString
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.rightString
+perfect match

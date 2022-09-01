@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.TestIllegalFieldValueException.testSetText:188
+Methods call in assertion: [org/joda/time/IllegalFieldValueException.getUpperBound]
+org/joda/time/chrono/GJEraDateTimeField.set
+org/joda/time/chrono/GJDayOfWeekDateTimeField.convertText
+org/joda/time/chrono/GJLocaleSymbols.forLocale
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/DateTimeUtils.getDateFormatSymbols
+org/joda/time/chrono/GJLocaleSymbols.dayOfWeekTextToValue
+org/joda/time/IllegalFieldValueException.getUpperBound
+top 10 recommendations: 
+org/joda/time/chrono/GJDayOfWeekDateTimeField.convertText
+org/joda/time/chrono/GJEraDateTimeField.set
+org/joda/time/chrono/GJLocaleSymbols.forLocale
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/DateTimeUtils.getDateFormatSymbols
+org/joda/time/chrono/GJLocaleSymbols.dayOfWeekTextToValue
+org/joda/time/IllegalFieldValueException.getUpperBound
+after post processing ......
+org/joda/time/chrono/GJDayOfWeekDateTimeField.convertText
+org/joda/time/chrono/GJEraDateTimeField.set
+org/joda/time/chrono/GJLocaleSymbols.forLocale
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/DateTimeUtils.getDateFormatSymbols
+org/joda/time/chrono/GJLocaleSymbols.dayOfWeekTextToValue
+org/joda/time/IllegalFieldValueException.getUpperBound
+found in top 10

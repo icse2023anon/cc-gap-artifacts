@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.chrono.TestGregorianChronology.testFactoryUTC:169
+Methods call in assertion: [org/joda/time/chrono/GregorianChronology.getInstanceUTC]
+org/joda/time/chrono/GregorianChronology.getInstanceUTC
+top 10 recommendations: 
+org/joda/time/chrono/GregorianChronology.getInstanceUTC
+after post processing ......
+org/joda/time/chrono/GregorianChronology.getInstanceUTC
+perfect match

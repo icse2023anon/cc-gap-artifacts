@@ -1,0 +1,14 @@
+slicing criterion: com.google.gson.JsonArrayTest.testDeepCopy:96
+Methods call in assertion: [com/google/gson/JsonArray.size]
+com/google/gson/JsonArray.size
+com/google/gson/JsonArray.deepCopy
+com/google/gson/JsonArray.add
+top 10 recommendations: 
+com/google/gson/JsonArray.deepCopy
+com/google/gson/JsonArray.size
+com/google/gson/JsonArray.add
+after post processing ......
+com/google/gson/JsonArray.deepCopy
+com/google/gson/JsonArray.size
+com/google/gson/JsonArray.add
+found in top 10

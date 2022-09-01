@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testHashCodeAndWithIgnoreHeaderCase:1077
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getTrailingDelimiter]
+org/apache/commons/csv/CSVFormat.getTrailingDelimiter
+org/apache/commons/csv/CSVFormat.withIgnoreHeaderCase
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.getTrailingDelimiter
+org/apache/commons/csv/CSVFormat.withIgnoreHeaderCase
+after post processing ......
+org/apache/commons/csv/CSVFormat.getTrailingDelimiter
+org/apache/commons/csv/CSVFormat.withIgnoreHeaderCase
+perfect match

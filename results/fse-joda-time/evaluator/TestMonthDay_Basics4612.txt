@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMonthDay_Basics.testGetFieldType:183
+Methods call in assertion: [org/joda/time/MonthDay.getFieldType, org/joda/time/DateTimeFieldType.monthOfYear]
+org/joda/time/MonthDay.getFieldType
+org/joda/time/DateTimeFieldType.monthOfYear
+top 10 recommendations: 
+org/joda/time/MonthDay.getFieldType
+org/joda/time/DateTimeFieldType.monthOfYear
+after post processing ......
+org/joda/time/MonthDay.getFieldType
+org/joda/time/DateTimeFieldType.monthOfYear
+perfect match

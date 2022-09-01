@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.xy.DeviationRendererTest.testCloning:97
+Methods call in assertion: [org/jfree/chart/renderer/xy/DeviationRenderer.equals]
+org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.clone
+org/jfree/chart/renderer/xy/DeviationRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.clone
+org/jfree/chart/renderer/xy/DeviationRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.clone
+org/jfree/chart/renderer/xy/DeviationRenderer.equals
+found in top 10

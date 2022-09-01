@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.needle.ShipNeedleTest.testEquals:60
+Methods call in assertion: [org/jfree/chart/needle/ShipNeedle.equals]
+org/jfree/chart/needle/ShipNeedle.equals
+top 10 recommendations: 
+org/jfree/chart/needle/ShipNeedle.equals
+after post processing ......
+org/jfree/chart/needle/ShipNeedle.equals
+perfect match

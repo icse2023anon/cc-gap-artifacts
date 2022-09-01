@@ -1,0 +1,29 @@
+slicing criterion: org.apache.commons.validator.routines.IntegerValidatorTest.testIntegerValidatorMethods:100
+Methods call in assertion: [org/apache/commons/validator/routines/IntegerValidator.getInstance, org/apache/commons/validator/routines/IntegerValidator.validate]
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/AbstractNumberValidator.isAllowFractions
+org/apache/commons/validator/routines/IntegerValidator.getInstance
+org/apache/commons/validator/routines/AbstractNumberValidator.determineScale
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/IntegerValidator.validate
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+top 10 recommendations: 
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/AbstractNumberValidator.determineScale
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/AbstractNumberValidator.isAllowFractions
+org/apache/commons/validator/routines/IntegerValidator.getInstance
+org/apache/commons/validator/routines/IntegerValidator.validate
+after post processing ......
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/AbstractNumberValidator.determineScale
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/AbstractNumberValidator.isAllowFractions
+org/apache/commons/validator/routines/IntegerValidator.getInstance
+org/apache/commons/validator/routines/IntegerValidator.validate
+found in top 10

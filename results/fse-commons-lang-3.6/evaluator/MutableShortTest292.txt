@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableShortTest.testCompareTo:134
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableShort.compareTo]
+org/apache/commons/lang3/mutable/MutableShort.compareTo
+org/apache/commons/lang3/math/NumberUtils.compare
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableShort.compareTo
+org/apache/commons/lang3/math/NumberUtils.compare
+after post processing ......
+org/apache/commons/lang3/mutable/MutableShort.compareTo
+org/apache/commons/lang3/math/NumberUtils.compare
+perfect match

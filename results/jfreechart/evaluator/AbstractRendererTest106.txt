@@ -1,0 +1,29 @@
+slicing criterion: org.jfree.chart.renderer.AbstractRendererTest.testFillPaintLookup:761
+Methods call in assertion: [org/jfree/chart/renderer/category/BarRenderer.lookupSeriesFillPaint]
+org/jfree/chart/util/PaintList.getPaint
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesFillPaint
+org/jfree/chart/renderer/AbstractRenderer.getSeriesFillPaint
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextFillPaint
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getPlot
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getDrawingSupplier
+org/jfree/chart/util/AbstractObjectList.get
+top 10 recommendations: 
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesFillPaint
+org/jfree/chart/renderer/AbstractRenderer.getSeriesFillPaint
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getDrawingSupplier
+org/jfree/chart/util/PaintList.getPaint
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextFillPaint
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getPlot
+org/jfree/chart/util/AbstractObjectList.get
+after post processing ......
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesFillPaint
+org/jfree/chart/renderer/AbstractRenderer.getSeriesFillPaint
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getDrawingSupplier
+org/jfree/chart/util/PaintList.getPaint
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextFillPaint
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getPlot
+org/jfree/chart/util/AbstractObjectList.get
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testSplitByCharacterType:1207
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.splitByCharacterType]
+org/apache/commons/lang3/StringUtils.splitByCharacterType
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.splitByCharacterType
+after post processing ......
+org/apache/commons/lang3/StringUtils.splitByCharacterType
+perfect match

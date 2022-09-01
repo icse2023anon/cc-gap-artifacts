@@ -1,0 +1,20 @@
+slicing criterion: com.google.gson.stream.JsonReaderTest.testLongs:396
+Methods call in assertion: [com/google/gson/stream/JsonReader.nextDouble]
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/stream/JsonReader.nextInt
+com/google/gson/stream/JsonReader.nextLong
+com/google/gson/stream/JsonReader.nextDouble
+com/google/gson/stream/JsonReader.doPeek
+top 10 recommendations: 
+com/google/gson/stream/JsonReader.nextInt
+com/google/gson/stream/JsonReader.nextLong
+com/google/gson/stream/JsonReader.nextDouble
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/stream/JsonReader.doPeek
+after post processing ......
+com/google/gson/stream/JsonReader.nextInt
+com/google/gson/stream/JsonReader.nextLong
+com/google/gson/stream/JsonReader.nextDouble
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/stream/JsonReader.doPeek
+found in top 10

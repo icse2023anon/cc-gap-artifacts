@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestLocalDate_Basics.testGetFieldTypes:425
+Methods call in assertion: [org/joda/time/LocalDate.getFieldTypes]
+org/joda/time/base/AbstractPartial.getFieldTypes
+org/joda/time/LocalDate.size
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.getFieldTypes
+org/joda/time/LocalDate.size
+after post processing ......
+org/joda/time/base/AbstractPartial.getFieldTypes
+org/joda/time/LocalDate.size
+found in top 10

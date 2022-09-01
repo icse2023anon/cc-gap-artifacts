@@ -1,0 +1,53 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatter.testParseLocalDateTime_monthDay_feb29:637
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.parseLocalDateTime]
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.equals
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/format/DateTimeFormatter.withLocale
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/format/DateTimeFormatter.parseLocalDateTime
+org/joda/time/format/DateTimeFormatterBuilder.appendMinuteOfHour
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatter.getLocale
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/chrono/GJCacheKey.hashCode
+org/joda/time/chrono/GJChronology.getInstanceUTC
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+top 10 recommendations: 
+org/joda/time/chrono/GJChronology.getInstanceUTC
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/format/DateTimeFormatter.withLocale
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/format/DateTimeFormatterBuilder.appendMinuteOfHour
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/Instant.toInstant
+after post processing ......
+org/joda/time/chrono/GJChronology.getInstanceUTC
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/format/DateTimeFormatter.withLocale
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/format/DateTimeFormatterBuilder.appendMinuteOfHour
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.equals
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/format/DateTimeFormatter.parseLocalDateTime
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatter.getLocale
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/chrono/GJCacheKey.hashCode
+all method calls are suggested

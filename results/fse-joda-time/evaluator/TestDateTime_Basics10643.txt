@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestDateTime_Basics.testIsSupported_DateTimeFieldType:300
+Methods call in assertion: [org/joda/time/DateTime.isSupported, org/joda/time/DateTimeFieldType.dayOfMonth]
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/base/AbstractInstant.isSupported
+org/joda/time/DateTimeFieldType.dayOfMonth
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/base/AbstractInstant.isSupported
+org/joda/time/DateTimeFieldType.dayOfMonth
+after post processing ......
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/base/AbstractInstant.isSupported
+org/joda/time/DateTimeFieldType.dayOfMonth
+not matched

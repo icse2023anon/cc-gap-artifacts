@@ -1,0 +1,23 @@
+slicing criterion: com.thoughtworks.xstream.converters.extended.PropertyEditorCapableConverterTest.testCanBeUsedForCustomTypes:48
+Methods call in assertion: [com/thoughtworks/xstream/converters/SingleValueConverter.fromString]
+com/thoughtworks/xstream/core/util/ThreadSafePropertyEditor.access$000
+com/thoughtworks/xstream/core/util/Pool.fetchFromPool
+com/thoughtworks/xstream/core/util/ThreadSafePropertyEditor.getAsText
+com/thoughtworks/xstream/converters/extended/PropertyEditorCapableConverter.fromString
+com/thoughtworks/xstream/converters/extended/PropertyEditorCapableConverter.toString
+com/thoughtworks/xstream/core/util/ThreadSafePropertyEditor.setAsText
+top 10 recommendations: 
+com/thoughtworks/xstream/converters/extended/PropertyEditorCapableConverter.fromString
+com/thoughtworks/xstream/converters/extended/PropertyEditorCapableConverter.toString
+com/thoughtworks/xstream/core/util/ThreadSafePropertyEditor.access$000
+com/thoughtworks/xstream/core/util/Pool.fetchFromPool
+com/thoughtworks/xstream/core/util/ThreadSafePropertyEditor.getAsText
+com/thoughtworks/xstream/core/util/ThreadSafePropertyEditor.setAsText
+after post processing ......
+com/thoughtworks/xstream/converters/extended/PropertyEditorCapableConverter.fromString
+com/thoughtworks/xstream/converters/extended/PropertyEditorCapableConverter.toString
+com/thoughtworks/xstream/core/util/ThreadSafePropertyEditor.access$000
+com/thoughtworks/xstream/core/util/Pool.fetchFromPool
+com/thoughtworks/xstream/core/util/ThreadSafePropertyEditor.getAsText
+com/thoughtworks/xstream/core/util/ThreadSafePropertyEditor.setAsText
+not matched

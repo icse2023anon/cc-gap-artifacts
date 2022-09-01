@@ -1,0 +1,11 @@
+slicing criterion: com.google.gson.JsonPrimitiveTest.testParsingStringAsNumber:74
+Methods call in assertion: [com/google/gson/JsonPrimitive.getAsBigDecimal]
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.getAsBigDecimal
+top 10 recommendations: 
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.getAsBigDecimal
+after post processing ......
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.getAsBigDecimal
+found in top 10

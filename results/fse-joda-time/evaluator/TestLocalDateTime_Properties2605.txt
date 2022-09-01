@@ -1,0 +1,59 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Properties.testPropertyGetDay:412
+Methods call in assertion: [org/joda/time/LocalDateTime$Property.getAsString, org/joda/time/LocalDateTime.dayOfMonth]
+org/joda/time/chrono/BasicChronology.getDateMidnightMillis
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/chrono/BasicDayOfMonthDateTimeField.get
+org/joda/time/chrono/GregorianChronology.calculateFirstDayOfYearMillis
+org/joda/time/chrono/BasicGJChronology.getMonthOfYear
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/GregorianChronology.isLeapYear
+org/joda/time/chrono/BasicChronology.getYearMonthDayMillis
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/chrono/BasicChronology.getDayOfMonth
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/BasicChronology.getYearMillis
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/BasicChronology.getDateTimeMillis
+org/joda/time/LocalDateTime.<init>
+org/joda/time/field/AbstractReadableInstantFieldProperty.getAsString
+org/joda/time/chrono/BasicGJChronology.getTotalMillisByYearMonth
+org/joda/time/chrono/AssembledChronology.getBase
+top 10 recommendations: 
+org/joda/time/chrono/BasicDayOfMonthDateTimeField.get
+org/joda/time/chrono/BasicChronology.getDateMidnightMillis
+org/joda/time/chrono/BasicChronology.getDayOfMonth
+org/joda/time/chrono/GregorianChronology.calculateFirstDayOfYearMillis
+org/joda/time/chrono/BasicChronology.getYearMonthDayMillis
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/field/AbstractReadableInstantFieldProperty.getAsString
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/chrono/BasicGJChronology.getMonthOfYear
+org/joda/time/chrono/ISOChronology.withUTC
+after post processing ......
+org/joda/time/chrono/BasicDayOfMonthDateTimeField.get
+org/joda/time/chrono/BasicChronology.getDateMidnightMillis
+org/joda/time/chrono/BasicChronology.getDayOfMonth
+org/joda/time/chrono/GregorianChronology.calculateFirstDayOfYearMillis
+org/joda/time/chrono/BasicChronology.getYearMonthDayMillis
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/field/AbstractReadableInstantFieldProperty.getAsString
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/chrono/BasicGJChronology.getMonthOfYear
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/GregorianChronology.isLeapYear
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/BasicChronology.getYearMillis
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/BasicChronology.getDateTimeMillis
+org/joda/time/LocalDateTime.<init>
+org/joda/time/chrono/BasicGJChronology.getTotalMillisByYearMonth
+org/joda/time/chrono/AssembledChronology.getBase
+not matched

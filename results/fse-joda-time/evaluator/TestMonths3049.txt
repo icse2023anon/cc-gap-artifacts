@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestMonths.testDividedBy_int:383
+Methods call in assertion: [org/joda/time/Months.getMonths]
+org/joda/time/Months.months
+org/joda/time/Months.getMonths
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+top 10 recommendations: 
+org/joda/time/Months.months
+org/joda/time/Months.getMonths
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+after post processing ......
+org/joda/time/Months.months
+org/joda/time/Months.getMonths
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+found in top 10

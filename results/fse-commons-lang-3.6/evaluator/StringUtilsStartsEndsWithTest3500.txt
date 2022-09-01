@@ -1,0 +1,23 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsStartsEndsWithTest.testEndsWithAny:193
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.endsWithAny]
+org/apache/commons/lang3/StringUtils.endsWithAny
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/StringUtils.endsWith
+org/apache/commons/lang3/CharSequenceUtils.regionMatches
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.endsWithAny
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/StringUtils.endsWith
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/CharSequenceUtils.regionMatches
+after post processing ......
+org/apache/commons/lang3/StringUtils.endsWithAny
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/StringUtils.endsWith
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/CharSequenceUtils.regionMatches
+perfect match

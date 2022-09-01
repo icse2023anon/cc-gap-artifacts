@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.StrMatcherTest.testCharMatcher_char:175
+Methods call in assertion: [org/apache/commons/lang3/text/StrMatcher.isMatch]
+org/apache/commons/lang3/text/StrMatcher.isMatch
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrMatcher.isMatch
+after post processing ......
+org/apache/commons/lang3/text/StrMatcher.isMatch
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.codehaus.plexus.util.xml.XmlUtilTest.testPrettyFormatString:160
+Methods call in assertion: [org/codehaus/plexus/util/StringUtils.countMatches]
+org/codehaus/plexus/util/StringUtils.countMatches
+org/codehaus/plexus/util/IOUtil.toString
+top 10 recommendations: 
+org/codehaus/plexus/util/StringUtils.countMatches
+org/codehaus/plexus/util/IOUtil.toString
+after post processing ......
+org/codehaus/plexus/util/StringUtils.countMatches
+org/codehaus/plexus/util/IOUtil.toString
+perfect match

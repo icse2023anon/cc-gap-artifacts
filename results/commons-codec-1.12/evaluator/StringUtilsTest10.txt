@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.binary.StringUtilsTest.testNewStringNullInput:145
+Methods call in assertion: [org/apache/commons/codec/binary/StringUtils.newString]
+org/apache/commons/codec/binary/StringUtils.newString
+top 10 recommendations: 
+org/apache/commons/codec/binary/StringUtils.newString
+after post processing ......
+org/apache/commons/codec/binary/StringUtils.newString
+perfect match

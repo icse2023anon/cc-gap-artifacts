@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestDateTimeZone.testEqualsHashCode:1284
+Methods call in assertion: [org/joda/time/DateTimeZone.equals]
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/CachedDateTimeZone.equals
+org/joda/time/DateTimeZone.forID
+org/joda/time/DateTimeZone.setProvider
+top 10 recommendations: 
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/CachedDateTimeZone.equals
+org/joda/time/DateTimeZone.setProvider
+after post processing ......
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/CachedDateTimeZone.equals
+org/joda/time/DateTimeZone.setProvider
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableObjectTest.testHashCode:98
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableObject.hashCode]
+org/apache/commons/lang3/mutable/MutableObject.hashCode
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableObject.hashCode
+after post processing ......
+org/apache/commons/lang3/mutable/MutableObject.hashCode
+perfect match

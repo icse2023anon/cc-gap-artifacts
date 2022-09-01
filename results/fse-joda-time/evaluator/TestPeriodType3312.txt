@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestPeriodType.testMinutes:452
+Methods call in assertion: [org/joda/time/PeriodType.equals, org/joda/time/PeriodType.standard]
+org/joda/time/PeriodType.equals
+org/joda/time/PeriodType.standard
+org/joda/time/PeriodType.minutes
+top 10 recommendations: 
+org/joda/time/PeriodType.equals
+org/joda/time/PeriodType.standard
+org/joda/time/PeriodType.minutes
+after post processing ......
+org/joda/time/PeriodType.equals
+org/joda/time/PeriodType.standard
+org/joda/time/PeriodType.minutes
+found in top 10

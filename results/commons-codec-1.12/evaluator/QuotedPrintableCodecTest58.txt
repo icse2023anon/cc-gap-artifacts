@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.codec.net.QuotedPrintableCodecTest.testSoftLineBreakDecode:259
+Methods call in assertion: [org/apache/commons/codec/net/QuotedPrintableCodec.decode]
+org/apache/commons/codec/net/QuotedPrintableCodec.getCharset
+org/apache/commons/codec/binary/StringUtils.getBytesUsAscii
+org/apache/commons/codec/net/QuotedPrintableCodec.decode
+org/apache/commons/codec/net/QuotedPrintableCodec.decodeQuotedPrintable
+top 10 recommendations: 
+org/apache/commons/codec/net/QuotedPrintableCodec.decode
+org/apache/commons/codec/net/QuotedPrintableCodec.getCharset
+org/apache/commons/codec/binary/StringUtils.getBytesUsAscii
+org/apache/commons/codec/net/QuotedPrintableCodec.decodeQuotedPrintable
+after post processing ......
+org/apache/commons/codec/net/QuotedPrintableCodec.decode
+org/apache/commons/codec/net/QuotedPrintableCodec.getCharset
+org/apache/commons/codec/binary/StringUtils.getBytesUsAscii
+org/apache/commons/codec/net/QuotedPrintableCodec.decodeQuotedPrintable
+perfect match

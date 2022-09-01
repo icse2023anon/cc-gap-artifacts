@@ -1,0 +1,55 @@
+slicing criterion: org.apache.commons.validator.VarTest.testVars:80
+Methods call in assertion: [org/apache/commons/validator/Var.getJsType]
+org/apache/commons/validator/Field.getVarMap
+org/apache/commons/validator/ValidatorResources.buildKey
+org/apache/commons/validator/Form.getField
+org/apache/commons/validator/Var.getJsType
+org/apache/commons/validator/ValidatorResources.<init>
+org/apache/commons/validator/FormSet.process
+org/apache/commons/validator/ValidatorResources.getForm
+org/apache/commons/validator/FormSet.addForm
+org/apache/commons/validator/FormSet.getForm
+org/apache/commons/validator/Form.getName
+org/apache/commons/validator/Field.process
+org/apache/commons/validator/Form.addField
+org/apache/commons/validator/Form.isProcessed
+org/apache/commons/validator/Form.isExtending
+org/apache/commons/validator/Form.getFieldMap
+org/apache/commons/validator/FormSetFactory.createObject
+org/apache/commons/validator/ValidatorResources.addFormSet
+org/apache/commons/validator/Form.process
+org/apache/commons/validator/ValidatorResources.getFormSet
+org/apache/commons/validator/Field.getVar
+top 10 recommendations: 
+org/apache/commons/validator/FormSet.process
+org/apache/commons/validator/Form.process
+org/apache/commons/validator/Field.process
+org/apache/commons/validator/Form.getField
+org/apache/commons/validator/ValidatorResources.getForm
+org/apache/commons/validator/FormSet.addForm
+org/apache/commons/validator/Form.addField
+org/apache/commons/validator/ValidatorResources.addFormSet
+org/apache/commons/validator/Field.getVar
+org/apache/commons/validator/Field.getVarMap
+after post processing ......
+org/apache/commons/validator/FormSet.process
+org/apache/commons/validator/Form.process
+org/apache/commons/validator/Field.process
+org/apache/commons/validator/Form.getField
+org/apache/commons/validator/ValidatorResources.getForm
+org/apache/commons/validator/FormSet.addForm
+org/apache/commons/validator/Form.addField
+org/apache/commons/validator/ValidatorResources.addFormSet
+org/apache/commons/validator/Field.getVar
+org/apache/commons/validator/Field.getVarMap
+org/apache/commons/validator/ValidatorResources.buildKey
+org/apache/commons/validator/Var.getJsType
+org/apache/commons/validator/ValidatorResources.<init>
+org/apache/commons/validator/FormSet.getForm
+org/apache/commons/validator/Form.getName
+org/apache/commons/validator/Form.isProcessed
+org/apache/commons/validator/Form.isExtending
+org/apache/commons/validator/Form.getFieldMap
+org/apache/commons/validator/FormSetFactory.createObject
+org/apache/commons/validator/ValidatorResources.getFormSet
+all method calls are suggested

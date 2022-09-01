@@ -1,0 +1,32 @@
+slicing criterion: org.joda.time.TestBaseSingleFieldPeriod.testEqualsHashCode:241
+Methods call in assertion: [org/joda/time/PeriodType.days]
+org/joda/time/PeriodType.days
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/BaseSingleFieldPeriod.equals
+org/joda/time/base/BasePeriod.getValue
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/PeriodType.days
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/BaseSingleFieldPeriod.equals
+org/joda/time/base/BasePeriod.getValue
+after post processing ......
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/PeriodType.days
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/BaseSingleFieldPeriod.equals
+org/joda/time/base/BasePeriod.getValue
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ObjectUtilsTest.testHashCodeMulti_multiple_likeList:197
+Methods call in assertion: [org/apache/commons/lang3/ObjectUtils.hashCodeMulti]
+org/apache/commons/lang3/ObjectUtils.hashCodeMulti
+top 10 recommendations: 
+org/apache/commons/lang3/ObjectUtils.hashCodeMulti
+after post processing ......
+org/apache/commons/lang3/ObjectUtils.hashCodeMulti
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.validator.routines.CreditCardValidatorTest.testAddAllowedCardType:118
+Methods call in assertion: [org/apache/commons/validator/routines/CreditCardValidator.isValid]
+org/apache/commons/validator/routines/CreditCardValidator.isValid
+top 10 recommendations: 
+org/apache/commons/validator/routines/CreditCardValidator.isValid
+after post processing ......
+org/apache/commons/validator/routines/CreditCardValidator.isValid
+perfect match

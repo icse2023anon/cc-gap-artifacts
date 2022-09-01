@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestLocalDate_Properties.testPropertyEquals:541
+Methods call in assertion: [org/joda/time/LocalDate.dayOfMonth, org/joda/time/LocalDate$Property.equals]
+org/joda/time/LocalDate.compareTo
+org/joda/time/field/AbstractReadableInstantFieldProperty.equals
+top 10 recommendations: 
+org/joda/time/LocalDate.compareTo
+org/joda/time/field/AbstractReadableInstantFieldProperty.equals
+after post processing ......
+org/joda/time/LocalDate.compareTo
+org/joda/time/field/AbstractReadableInstantFieldProperty.equals
+not matched

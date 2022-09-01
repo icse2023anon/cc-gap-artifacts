@@ -1,0 +1,11 @@
+slicing criterion: com.google.gson.reflect.TypeTokenTest.testArrayFactory:90
+Methods call in assertion: [com/google/gson/reflect/TypeToken.getArray]
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/reflect/TypeToken.getSuperclassTypeParameter
+top 10 recommendations: 
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/reflect/TypeToken.getSuperclassTypeParameter
+after post processing ......
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/reflect/TypeToken.getSuperclassTypeParameter
+not matched

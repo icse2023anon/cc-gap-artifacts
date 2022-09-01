@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.CharRangeTest.testEquals_Object:146
+Methods call in assertion: [org/apache/commons/lang3/CharRange.equals]
+org/apache/commons/lang3/CharRange.is
+org/apache/commons/lang3/CharRange.equals
+top 10 recommendations: 
+org/apache/commons/lang3/CharRange.is
+org/apache/commons/lang3/CharRange.equals
+after post processing ......
+org/apache/commons/lang3/CharRange.is
+org/apache/commons/lang3/CharRange.equals
+found in top 10

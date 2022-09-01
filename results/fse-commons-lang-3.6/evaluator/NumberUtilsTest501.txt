@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.math.NumberUtilsTest.testToLongString:152
+Methods call in assertion: [org/apache/commons/lang3/math/NumberUtils.toLong]
+org/apache/commons/lang3/math/NumberUtils.toLong
+top 10 recommendations: 
+org/apache/commons/lang3/math/NumberUtils.toLong
+after post processing ......
+org/apache/commons/lang3/math/NumberUtils.toLong
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsEqualsIndexOfTest.testOrdinalIndexOf:822
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.ordinalIndexOf]
+org/apache/commons/lang3/StringUtils.ordinalIndexOf
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.ordinalIndexOf
+after post processing ......
+org/apache/commons/lang3/StringUtils.ordinalIndexOf
+perfect match

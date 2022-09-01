@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Constructors.testConstructor_Object_Chronology_crossChronology:662
+Methods call in assertion: [org/joda/time/LocalDateTime.getMillisOfSecond]
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/BuddhistChronology.withUTC
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/LocalDateTime.getMillisOfSecond
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+top 10 recommendations: 
+org/joda/time/LocalDateTime.getMillisOfSecond
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/BuddhistChronology.withUTC
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+after post processing ......
+org/joda/time/LocalDateTime.getMillisOfSecond
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/BuddhistChronology.withUTC
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+perfect match

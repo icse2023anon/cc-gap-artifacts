@@ -1,0 +1,49 @@
+slicing criterion: org.joda.time.TestSeconds.testFactory_standardSecondsIn_RPeriod:148
+Methods call in assertion: [org/joda/time/Seconds.standardSecondsIn, org/joda/time/Seconds.getSeconds, org/joda/time/Period.seconds]
+org/joda/time/base/BaseSingleFieldPeriod.standardPeriodIn
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractPeriod.getFieldType
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/Seconds.seconds
+org/joda/time/PeriodType.standard
+org/joda/time/Seconds.getSeconds
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/field/FieldUtils.safeMultiply
+org/joda/time/base/BasePeriod.getValue
+org/joda/time/field/FieldUtils.safeToInt
+org/joda/time/chrono/AssembledChronology.seconds
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/Seconds.standardSecondsIn
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/Seconds.standardSecondsIn
+org/joda/time/base/BaseSingleFieldPeriod.standardPeriodIn
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractPeriod.getFieldType
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/Seconds.seconds
+org/joda/time/PeriodType.standard
+org/joda/time/Seconds.getSeconds
+after post processing ......
+org/joda/time/Seconds.standardSecondsIn
+org/joda/time/base/BaseSingleFieldPeriod.standardPeriodIn
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractPeriod.getFieldType
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/Seconds.seconds
+org/joda/time/PeriodType.standard
+org/joda/time/Seconds.getSeconds
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/field/FieldUtils.safeMultiply
+org/joda/time/base/BasePeriod.getValue
+org/joda/time/field/FieldUtils.safeToInt
+org/joda/time/chrono/AssembledChronology.seconds
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/DateTimeUtils.getChronology
+not matched

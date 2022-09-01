@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.axis.LogAxisTest.testTickMarksVisibleDefault:266
+Methods call in assertion: [org/jfree/chart/axis/LogAxis.isTickMarksVisible]
+org/jfree/chart/axis/LogAxis.<init>
+org/jfree/chart/axis/Axis.isTickMarksVisible
+top 10 recommendations: 
+org/jfree/chart/axis/LogAxis.<init>
+org/jfree/chart/axis/Axis.isTickMarksVisible
+after post processing ......
+org/jfree/chart/axis/LogAxis.<init>
+org/jfree/chart/axis/Axis.isTickMarksVisible
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.ArchUtilsTest.testArch:132
+Methods call in assertion: [org/apache/commons/lang3/arch/Processor.isIA64]
+org/apache/commons/lang3/ArchUtils.getProcessor
+org/apache/commons/lang3/arch/Processor.isIA64
+top 10 recommendations: 
+org/apache/commons/lang3/ArchUtils.getProcessor
+org/apache/commons/lang3/arch/Processor.isIA64
+after post processing ......
+org/apache/commons/lang3/ArchUtils.getProcessor
+org/apache/commons/lang3/arch/Processor.isIA64
+found in top 10

@@ -1,0 +1,32 @@
+slicing criterion: org.jfree.chart.axis.NumberAxisTest.testAutoRange4:292
+Methods call in assertion: [org/jfree/chart/axis/NumberAxis.getLowerBound]
+org/jfree/chart/ChartFactory.createBarChart
+org/jfree/chart/axis/Axis.getPlot
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/axis/ValueAxis.isAutoRange
+org/jfree/chart/axis/NumberAxis.setAutoRangeIncludesZero
+org/jfree/chart/plot/CategoryPlot.getRangeAxis
+org/jfree/chart/axis/ValueAxis.getLowerBound
+org/jfree/chart/JFreeChart.getPlot
+top 10 recommendations: 
+org/jfree/chart/ChartFactory.createBarChart
+org/jfree/chart/axis/Axis.getPlot
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/axis/ValueAxis.isAutoRange
+org/jfree/chart/axis/NumberAxis.setAutoRangeIncludesZero
+org/jfree/chart/plot/CategoryPlot.getRangeAxis
+org/jfree/chart/axis/ValueAxis.getLowerBound
+org/jfree/chart/JFreeChart.getPlot
+after post processing ......
+org/jfree/chart/ChartFactory.createBarChart
+org/jfree/chart/axis/Axis.getPlot
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/axis/ValueAxis.isAutoRange
+org/jfree/chart/axis/NumberAxis.setAutoRangeIncludesZero
+org/jfree/chart/plot/CategoryPlot.getRangeAxis
+org/jfree/chart/axis/ValueAxis.getLowerBound
+org/jfree/chart/JFreeChart.getPlot
+found in top 10

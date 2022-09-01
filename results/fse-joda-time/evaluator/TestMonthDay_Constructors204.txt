@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestMonthDay_Constructors.testConstructor_Chronology:204
+Methods call in assertion: [org/joda/time/MonthDay.now]
+org/joda/time/MonthDay.getReadablePartial
+top 10 recommendations: 
+org/joda/time/MonthDay.getReadablePartial
+after post processing ......
+org/joda/time/MonthDay.getReadablePartial
+not matched

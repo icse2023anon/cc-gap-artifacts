@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.tuple.ImmutableTripleTest.testEquals:93
+Methods call in assertion: [org/apache/commons/lang3/tuple/ImmutableTriple.of, org/apache/commons/lang3/tuple/ImmutableTriple.equals]
+org/apache/commons/lang3/tuple/ImmutableTriple.getMiddle
+org/apache/commons/lang3/tuple/Triple.equals
+org/apache/commons/lang3/tuple/ImmutableTriple.getLeft
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/ImmutableTriple.getMiddle
+org/apache/commons/lang3/tuple/Triple.equals
+org/apache/commons/lang3/tuple/ImmutableTriple.getLeft
+after post processing ......
+org/apache/commons/lang3/tuple/ImmutableTriple.getMiddle
+org/apache/commons/lang3/tuple/Triple.equals
+org/apache/commons/lang3/tuple/ImmutableTriple.getLeft
+not matched

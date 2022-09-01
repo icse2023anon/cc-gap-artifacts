@@ -1,0 +1,14 @@
+slicing criterion: org.jsoup.parser.TagTest.defaultSemantics:63
+Methods call in assertion: [org/jsoup/parser/Tag.formatAsBlock]
+org/jsoup/parser/Tag.formatAsBlock
+org/jsoup/parser/Tag.valueOf
+org/jsoup/parser/ParseSettings.normalizeTag
+top 10 recommendations: 
+org/jsoup/parser/Tag.valueOf
+org/jsoup/parser/Tag.formatAsBlock
+org/jsoup/parser/ParseSettings.normalizeTag
+after post processing ......
+org/jsoup/parser/Tag.valueOf
+org/jsoup/parser/Tag.formatAsBlock
+org/jsoup/parser/ParseSettings.normalizeTag
+found in top 10

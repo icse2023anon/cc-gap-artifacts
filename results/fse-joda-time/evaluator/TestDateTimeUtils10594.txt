@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestDateTimeUtils.testGetIntervalChronology_RInterval:394
+Methods call in assertion: [org/joda/time/DateTimeUtils.getIntervalChronology, org/joda/time/chrono/ISOChronology.getInstance]
+org/joda/time/DateTimeUtils.getIntervalChronology
+org/joda/time/DateTimeZone.getID
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/tz/FixedDateTimeZone.hashCode
+top 10 recommendations: 
+org/joda/time/DateTimeUtils.getIntervalChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getID
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/tz/FixedDateTimeZone.hashCode
+after post processing ......
+org/joda/time/DateTimeUtils.getIntervalChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getID
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/tz/FixedDateTimeZone.hashCode
+found in top 10

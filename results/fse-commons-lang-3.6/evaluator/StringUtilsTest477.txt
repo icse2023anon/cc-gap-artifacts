@@ -1,0 +1,23 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testLeftPad_StringIntChar:1855
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.containsOnly]
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/StringUtils.indexOfAnyBut
+org/apache/commons/lang3/StringUtils.containsOnly
+org/apache/commons/lang3/StringUtils.leftPad
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.containsOnly
+org/apache/commons/lang3/StringUtils.indexOfAnyBut
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/StringUtils.leftPad
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/StringUtils.containsOnly
+org/apache/commons/lang3/StringUtils.indexOfAnyBut
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/StringUtils.leftPad
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isEmpty
+perfect match

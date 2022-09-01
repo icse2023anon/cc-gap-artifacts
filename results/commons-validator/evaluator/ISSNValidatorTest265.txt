@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.validator.routines.ISSNValidatorTest.testIsValidISSN:79
+Methods call in assertion: [org/apache/commons/validator/routines/ISSNValidator.isValid]
+org/apache/commons/validator/routines/ISSNValidator.isValid
+top 10 recommendations: 
+org/apache/commons/validator/routines/ISSNValidator.isValid
+after post processing ......
+org/apache/commons/validator/routines/ISSNValidator.isValid
+perfect match

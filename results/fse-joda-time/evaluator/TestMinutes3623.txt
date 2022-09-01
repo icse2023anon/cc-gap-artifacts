@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMinutes.testToString:220
+Methods call in assertion: [org/joda/time/Minutes.toString]
+org/joda/time/Minutes.minutes
+org/joda/time/Minutes.toString
+top 10 recommendations: 
+org/joda/time/Minutes.minutes
+org/joda/time/Minutes.toString
+after post processing ......
+org/joda/time/Minutes.minutes
+org/joda/time/Minutes.toString
+found in top 10

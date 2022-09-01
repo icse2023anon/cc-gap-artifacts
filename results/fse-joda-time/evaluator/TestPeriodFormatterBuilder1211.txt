@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.format.TestPeriodFormatterBuilder.testMonthsAndMinutesAreConsideredSeparateAndCaseIsNotIgnored:1266
+Methods call in assertion: [org/joda/time/Period.months]
+org/joda/time/format/PeriodFormatter.parsePeriod
+org/joda/time/base/AbstractPeriod.toPeriod
+org/joda/time/PeriodType.standard
+top 10 recommendations: 
+org/joda/time/format/PeriodFormatter.parsePeriod
+org/joda/time/base/AbstractPeriod.toPeriod
+org/joda/time/PeriodType.standard
+after post processing ......
+org/joda/time/format/PeriodFormatter.parsePeriod
+org/joda/time/base/AbstractPeriod.toPeriod
+org/joda/time/PeriodType.standard
+not matched

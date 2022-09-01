@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testBinaryToHexDigit:289
+Methods call in assertion: [org/apache/commons/lang3/Conversion.binaryToHexDigit]
+org/apache/commons/lang3/Conversion.binaryToHexDigit
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.binaryToHexDigit
+after post processing ......
+org/apache/commons/lang3/Conversion.binaryToHexDigit
+perfect match

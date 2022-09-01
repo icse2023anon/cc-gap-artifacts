@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.needle.LongNeedleTest.testSerialization:83
+Methods call in assertion: [org/jfree/chart/needle/LongNeedle.equals]
+org/jfree/chart/needle/LongNeedle.equals
+top 10 recommendations: 
+org/jfree/chart/needle/LongNeedle.equals
+after post processing ......
+org/jfree/chart/needle/LongNeedle.equals
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.PiePlotTest.testGetDefaultSectionPaint:567
+Methods call in assertion: [org/jfree/chart/plot/PiePlot.getDefaultSectionPaint]
+org/jfree/chart/plot/PiePlot.getDefaultSectionPaint
+top 10 recommendations: 
+org/jfree/chart/plot/PiePlot.getDefaultSectionPaint
+after post processing ......
+org/jfree/chart/plot/PiePlot.getDefaultSectionPaint
+perfect match

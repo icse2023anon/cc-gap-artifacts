@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.TestMonthDay_Properties.testPropertyGetMaxMinValuesMonthOfYear:126
+Methods call in assertion: [org/joda/time/MonthDay.monthOfYear, org/joda/time/MonthDay$Property.getMaximumValueOverall]
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumValueOverall
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/MonthDay.getField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/chrono/BasicMonthOfYearDateTimeField.getMaximumValue
+top 10 recommendations: 
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumValueOverall
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/MonthDay.getField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/chrono/BasicMonthOfYearDateTimeField.getMaximumValue
+after post processing ......
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumValueOverall
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/MonthDay.getField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/chrono/BasicMonthOfYearDateTimeField.getMaximumValue
+not matched

@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestMutableInterval_Basics.testGetMillis:150
+Methods call in assertion: [org/joda/time/MutableInterval.getEndMillis]
+org/joda/time/base/BaseInterval.getEndMillis
+top 10 recommendations: 
+org/joda/time/base/BaseInterval.getEndMillis
+after post processing ......
+org/joda/time/base/BaseInterval.getEndMillis
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.CharSetTest.testEquals_Object:377
+Methods call in assertion: [org/apache/commons/lang3/CharSet.equals]
+org/apache/commons/lang3/CharSet.equals
+org/apache/commons/lang3/CharSet.getInstance
+top 10 recommendations: 
+org/apache/commons/lang3/CharSet.equals
+org/apache/commons/lang3/CharSet.getInstance
+after post processing ......
+org/apache/commons/lang3/CharSet.equals
+org/apache/commons/lang3/CharSet.getInstance
+perfect match

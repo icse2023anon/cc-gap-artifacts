@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testProperty:1108
+Methods call in assertion: [org/joda/time/DateTimeFieldType.hourOfDay, org/joda/time/LocalDateTime.property, org/joda/time/LocalDateTime.hourOfDay]
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/LocalDateTime.toDateTime
+top 10 recommendations: 
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/LocalDateTime.toDateTime
+after post processing ......
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/LocalDateTime.toDateTime
+not matched

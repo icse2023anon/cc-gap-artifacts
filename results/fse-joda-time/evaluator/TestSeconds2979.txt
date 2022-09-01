@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestSeconds.testFactory_seconds_int:96
+Methods call in assertion: [org/joda/time/Seconds.seconds]
+org/joda/time/Seconds.seconds
+top 10 recommendations: 
+org/joda/time/Seconds.seconds
+after post processing ......
+org/joda/time/Seconds.seconds
+perfect match

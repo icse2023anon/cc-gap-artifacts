@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.validator.routines.CreditCardValidatorTest.testRangeGeneratorNoLuhn:581
+Methods call in assertion: [org/apache/commons/validator/routines/CodeValidator.isValid]
+org/apache/commons/validator/routines/CodeValidator.isValid
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/CreditCardValidator.validLength
+org/apache/commons/validator/routines/RegexValidator.match
+org/apache/commons/validator/routines/RegexValidator.<init>
+top 10 recommendations: 
+org/apache/commons/validator/routines/CodeValidator.isValid
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/CreditCardValidator.validLength
+org/apache/commons/validator/routines/RegexValidator.match
+org/apache/commons/validator/routines/RegexValidator.<init>
+after post processing ......
+org/apache/commons/validator/routines/CodeValidator.isValid
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/CreditCardValidator.validLength
+org/apache/commons/validator/routines/RegexValidator.match
+org/apache/commons/validator/routines/RegexValidator.<init>
+perfect match

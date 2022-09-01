@@ -1,0 +1,8 @@
+slicing criterion: com.thoughtworks.xstream.converters.extended.DurationConverterTest.testConversion:33
+Methods call in assertion: [com/thoughtworks/xstream/converters/SingleValueConverter.toString]
+com/thoughtworks/xstream/converters/basic/AbstractSingleValueConverter.toString
+top 10 recommendations: 
+com/thoughtworks/xstream/converters/basic/AbstractSingleValueConverter.toString
+after post processing ......
+com/thoughtworks/xstream/converters/basic/AbstractSingleValueConverter.toString
+not matched

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.BooleanUtilsTest.test_negate_Boolean:98
+Methods call in assertion: [org/apache/commons/lang3/BooleanUtils.negate]
+org/apache/commons/lang3/BooleanUtils.negate
+top 10 recommendations: 
+org/apache/commons/lang3/BooleanUtils.negate
+after post processing ......
+org/apache/commons/lang3/BooleanUtils.negate
+perfect match

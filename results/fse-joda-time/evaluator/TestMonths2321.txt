@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMonths.testIsLessThan:262
+Methods call in assertion: [org/joda/time/Months.isLessThan]
+org/joda/time/Months.isLessThan
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+top 10 recommendations: 
+org/joda/time/Months.isLessThan
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+after post processing ......
+org/joda/time/Months.isLessThan
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+perfect match

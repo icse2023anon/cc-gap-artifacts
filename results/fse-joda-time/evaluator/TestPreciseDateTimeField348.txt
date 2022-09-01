@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.field.TestPreciseDateTimeField.test_addWrapField_long_int:317
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.addWrapField]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDurationDateTimeField.getMinimumValue
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/field/PreciseDateTimeField.<init>
+org/joda/time/field/PreciseDateTimeField.getMaximumValue
+org/joda/time/field/FieldUtils.getWrappedValue
+org/joda/time/field/PreciseDateTimeField.addWrapField
+top 10 recommendations: 
+org/joda/time/field/PreciseDateTimeField.addWrapField
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDurationDateTimeField.getMinimumValue
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/field/PreciseDateTimeField.<init>
+org/joda/time/field/PreciseDateTimeField.getMaximumValue
+org/joda/time/field/FieldUtils.getWrappedValue
+after post processing ......
+org/joda/time/field/PreciseDateTimeField.addWrapField
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDurationDateTimeField.getMinimumValue
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/field/PreciseDateTimeField.<init>
+org/joda/time/field/PreciseDateTimeField.getMaximumValue
+org/joda/time/field/FieldUtils.getWrappedValue
+found in top 10

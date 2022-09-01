@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestSeconds.testGetFieldType:188
+Methods call in assertion: [org/joda/time/DurationFieldType.seconds, org/joda/time/Seconds.getFieldType]
+org/joda/time/DurationFieldType.seconds
+org/joda/time/Seconds.getFieldType
+org/joda/time/Seconds.seconds
+top 10 recommendations: 
+org/joda/time/Seconds.getFieldType
+org/joda/time/DurationFieldType.seconds
+org/joda/time/Seconds.seconds
+after post processing ......
+org/joda/time/Seconds.getFieldType
+org/joda/time/DurationFieldType.seconds
+org/joda/time/Seconds.seconds
+found in top 10

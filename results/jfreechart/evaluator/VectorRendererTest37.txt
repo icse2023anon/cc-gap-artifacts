@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.xy.VectorRendererTest.testEquals:75
+Methods call in assertion: [org/jfree/chart/renderer/xy/VectorRenderer.equals]
+org/jfree/chart/renderer/xy/VectorRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/VectorRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/xy/VectorRenderer.equals
+perfect match

@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.codec.language.DoubleMetaphoneTest.testCodec184:1068
+Methods call in assertion: [org/apache/commons/codec/language/DoubleMetaphone.isDoubleMetaphoneEqual]
+org/apache/commons/codec/language/DoubleMetaphone.isDoubleMetaphoneEqual
+org/apache/commons/codec/language/DoubleMetaphone.doubleMetaphone
+org/apache/commons/codec/language/DoubleMetaphone.getMaxCodeLen
+org/apache/commons/codec/binary/StringUtils.equals
+top 10 recommendations: 
+org/apache/commons/codec/language/DoubleMetaphone.isDoubleMetaphoneEqual
+org/apache/commons/codec/language/DoubleMetaphone.doubleMetaphone
+org/apache/commons/codec/language/DoubleMetaphone.getMaxCodeLen
+org/apache/commons/codec/binary/StringUtils.equals
+after post processing ......
+org/apache/commons/codec/language/DoubleMetaphone.isDoubleMetaphoneEqual
+org/apache/commons/codec/language/DoubleMetaphone.doubleMetaphone
+org/apache/commons/codec/language/DoubleMetaphone.getMaxCodeLen
+org/apache/commons/codec/binary/StringUtils.equals
+perfect match

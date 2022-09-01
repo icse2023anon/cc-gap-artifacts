@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.validator.routines.RegexValidatorTest.testToString:261
+Methods call in assertion: [org/apache/commons/validator/routines/RegexValidator.toString]
+org/apache/commons/validator/routines/RegexValidator.toString
+top 10 recommendations: 
+org/apache/commons/validator/routines/RegexValidator.toString
+after post processing ......
+org/apache/commons/validator/routines/RegexValidator.toString
+perfect match

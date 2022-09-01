@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.format.TestISODateTimeFormat.testFormat_weekDateTimeNoMillis:315
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.print, org/joda/time/format/ISODateTimeFormat.weekDateTimeNoMillis]
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/ISODateTimeFormat.weekDateTimeNoMillis
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/ISODateTimeFormat.weekDateTimeNoMillis
+after post processing ......
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/ISODateTimeFormat.weekDateTimeNoMillis
+perfect match

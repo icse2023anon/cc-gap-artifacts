@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.validator.routines.ISSNValidatorTest.testIsValidISSNConvert:154
+Methods call in assertion: [org/apache/commons/validator/routines/ISSNValidator.convertToEAN13]
+org/apache/commons/validator/routines/ISSNValidator.validate
+org/apache/commons/validator/routines/ISSNValidator.convertToEAN13
+top 10 recommendations: 
+org/apache/commons/validator/routines/ISSNValidator.convertToEAN13
+org/apache/commons/validator/routines/ISSNValidator.validate
+after post processing ......
+org/apache/commons/validator/routines/ISSNValidator.convertToEAN13
+org/apache/commons/validator/routines/ISSNValidator.validate
+perfect match

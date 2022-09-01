@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.validator.routines.ISBNValidatorTest.testInvalidISBN13Format:148
+Methods call in assertion: [org/apache/commons/validator/routines/ISBNValidator.validateISBN13]
+org/apache/commons/validator/routines/ISBNValidator.validateISBN13
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/ISBNValidator.getInstance
+org/apache/commons/validator/routines/RegexValidator.validate
+top 10 recommendations: 
+org/apache/commons/validator/routines/ISBNValidator.validateISBN13
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/ISBNValidator.getInstance
+org/apache/commons/validator/routines/RegexValidator.validate
+after post processing ......
+org/apache/commons/validator/routines/ISBNValidator.validateISBN13
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/ISBNValidator.getInstance
+org/apache/commons/validator/routines/RegexValidator.validate
+perfect match

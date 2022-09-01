@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_era:88
+Methods call in assertion: [org/joda/time/DateTimeFieldType.isSupported, org/joda/time/chrono/CopticChronology.era, org/joda/time/chrono/CopticChronology.getInstanceUTC, org/joda/time/DateTimeFieldType.era, org/joda/time/DateTimeField.isSupported]
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/chrono/AssembledChronology.era
+org/joda/time/DateTimeFieldType.isSupported
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/DateTimeFieldType.era
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/chrono/AssembledChronology.era
+org/joda/time/DateTimeFieldType.isSupported
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/DateTimeFieldType.era
+after post processing ......
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/chrono/AssembledChronology.era
+org/joda/time/DateTimeFieldType.isSupported
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/DateTimeFieldType.era
+not matched

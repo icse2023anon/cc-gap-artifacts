@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.annotations.CategoryTextAnnotationTest.testEquals:73
+Methods call in assertion: [org/jfree/chart/annotations/CategoryTextAnnotation.equals]
+org/jfree/chart/annotations/CategoryTextAnnotation.getCategory
+org/jfree/chart/annotations/CategoryTextAnnotation.equals
+top 10 recommendations: 
+org/jfree/chart/annotations/CategoryTextAnnotation.equals
+org/jfree/chart/annotations/CategoryTextAnnotation.getCategory
+after post processing ......
+org/jfree/chart/annotations/CategoryTextAnnotation.equals
+org/jfree/chart/annotations/CategoryTextAnnotation.getCategory
+perfect match

@@ -1,0 +1,55 @@
+slicing criterion: org.jfree.chart.plot.ThermometerPlotTest.testSerialization:190
+Methods call in assertion: [org/jfree/chart/plot/ThermometerPlot.equals]
+org/jfree/chart/axis/ValueAxis.<init>
+org/jfree/chart/axis/NumberTickUnit.equals
+org/jfree/chart/plot/ThermometerPlot.equals
+org/jfree/chart/axis/ValueAxis.getDefaultAutoRange
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextStroke
+org/jfree/chart/plot/DefaultDrawingSupplier.<init>
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/plot/Plot.getNoDataMessagePaint
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/SerialUtils.readShape
+org/jfree/chart/ui/RectangleInsets.equals
+org/jfree/chart/plot/Plot.getNoDataMessageFont
+org/jfree/chart/plot/Plot.getBackgroundPaint
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/SerialUtils.isSerializable
+org/jfree/chart/util/SerialUtils.writeStroke
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/chart/util/SerialUtils.readStroke
+org/jfree/chart/util/SerialUtils.writePaint
+top 10 recommendations: 
+org/jfree/chart/plot/ThermometerPlot.equals
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/chart/axis/ValueAxis.<init>
+org/jfree/chart/axis/NumberTickUnit.equals
+org/jfree/chart/axis/ValueAxis.getDefaultAutoRange
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextStroke
+org/jfree/chart/plot/DefaultDrawingSupplier.<init>
+org/jfree/chart/plot/Plot.getNoDataMessagePaint
+org/jfree/chart/util/SerialUtils.writeShape
+after post processing ......
+org/jfree/chart/plot/ThermometerPlot.equals
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/chart/axis/ValueAxis.<init>
+org/jfree/chart/axis/NumberTickUnit.equals
+org/jfree/chart/axis/ValueAxis.getDefaultAutoRange
+org/jfree/chart/plot/DefaultDrawingSupplier.getNextStroke
+org/jfree/chart/plot/DefaultDrawingSupplier.<init>
+org/jfree/chart/plot/Plot.getNoDataMessagePaint
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/SerialUtils.readShape
+org/jfree/chart/ui/RectangleInsets.equals
+org/jfree/chart/plot/Plot.getNoDataMessageFont
+org/jfree/chart/plot/Plot.getBackgroundPaint
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/SerialUtils.isSerializable
+org/jfree/chart/util/SerialUtils.writeStroke
+org/jfree/chart/util/SerialUtils.readStroke
+org/jfree/chart/util/SerialUtils.writePaint
+perfect match

@@ -1,0 +1,20 @@
+slicing criterion: org.jfree.chart.plot.SpiderWebPlotTest.testEquals:189
+Methods call in assertion: [org/jfree/chart/plot/SpiderWebPlot.equals]
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/plot/SpiderWebPlot.equals
+org/jfree/chart/plot/SpiderWebPlot.setInteriorGap
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+top 10 recommendations: 
+org/jfree/chart/plot/SpiderWebPlot.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/plot/SpiderWebPlot.setInteriorGap
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/plot/SpiderWebPlot.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/plot/SpiderWebPlot.setInteriorGap
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

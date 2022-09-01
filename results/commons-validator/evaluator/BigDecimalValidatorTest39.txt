@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.validator.routines.BigDecimalValidatorTest.testBigDecimalRangeMinMax:140
+Methods call in assertion: [org/apache/commons/validator/routines/BigDecimalValidator.maxValue]
+org/apache/commons/validator/routines/BigDecimalValidator.maxValue
+top 10 recommendations: 
+org/apache/commons/validator/routines/BigDecimalValidator.maxValue
+after post processing ......
+org/apache/commons/validator/routines/BigDecimalValidator.maxValue
+perfect match

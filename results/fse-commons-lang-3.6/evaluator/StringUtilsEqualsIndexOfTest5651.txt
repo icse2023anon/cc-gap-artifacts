@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsEqualsIndexOfTest.testLastIndexOf_String:678
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.lastIndexOf]
+org/apache/commons/lang3/CharSequenceUtils.lastIndexOf
+org/apache/commons/lang3/StringUtils.lastIndexOf
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.lastIndexOf
+org/apache/commons/lang3/CharSequenceUtils.lastIndexOf
+after post processing ......
+org/apache/commons/lang3/StringUtils.lastIndexOf
+org/apache/commons/lang3/CharSequenceUtils.lastIndexOf
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.block.BorderArrangementTest.testEquals:72
+Methods call in assertion: [org/jfree/chart/block/BorderArrangement.equals]
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/block/BorderArrangement.equals
+top 10 recommendations: 
+org/jfree/chart/block/BorderArrangement.equals
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/block/BorderArrangement.equals
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Basics.testGetFieldTypes:198
+Methods call in assertion: [org/joda/time/TimeOfDay.getFieldTypes]
+org/joda/time/TimeOfDay.getFieldTypes
+top 10 recommendations: 
+org/joda/time/TimeOfDay.getFieldTypes
+after post processing ......
+org/joda/time/TimeOfDay.getFieldTypes
+perfect match

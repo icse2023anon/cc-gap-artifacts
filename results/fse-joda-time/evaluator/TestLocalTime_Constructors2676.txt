@@ -1,0 +1,45 @@
+slicing criterion: org.joda.time.TestLocalTime_Constructors.testConstructor_long1_Chronology:373
+Methods call in assertion: [org/joda/time/LocalTime.getMillisOfSecond]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/chrono/JulianChronology.withUTC
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/LocalTime.getMillisOfSecond
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/LocalTime.<init>
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/LocalTime.getMillisOfSecond
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/chrono/JulianChronology.withUTC
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+after post processing ......
+org/joda/time/LocalTime.<init>
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/LocalTime.getMillisOfSecond
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/chrono/JulianChronology.withUTC
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/LocalTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

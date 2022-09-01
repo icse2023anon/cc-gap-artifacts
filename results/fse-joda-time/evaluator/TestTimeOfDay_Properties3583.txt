@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Properties.testPropertyGetMaxMinValuesMilli:632
+Methods call in assertion: [org/joda/time/TimeOfDay$Property.getMaximumValueOverall, org/joda/time/TimeOfDay.millisOfSecond]
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumValueOverall
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/TimeOfDay.getField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/PreciseDateTimeField.getMaximumValue
+org/joda/time/base/AbstractPartial.getField
+top 10 recommendations: 
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumValueOverall
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/TimeOfDay.getField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/PreciseDateTimeField.getMaximumValue
+org/joda/time/base/AbstractPartial.getField
+after post processing ......
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumValueOverall
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/TimeOfDay.getField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/PreciseDateTimeField.getMaximumValue
+org/joda/time/base/AbstractPartial.getField
+not matched

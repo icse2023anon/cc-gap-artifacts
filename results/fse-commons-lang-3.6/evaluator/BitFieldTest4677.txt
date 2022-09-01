@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.BitFieldTest.testClearShort:229
+Methods call in assertion: [org/apache/commons/lang3/BitField.clearShort]
+org/apache/commons/lang3/BitField.clear
+org/apache/commons/lang3/BitField.clearShort
+top 10 recommendations: 
+org/apache/commons/lang3/BitField.clearShort
+org/apache/commons/lang3/BitField.clear
+after post processing ......
+org/apache/commons/lang3/BitField.clearShort
+org/apache/commons/lang3/BitField.clear
+perfect match

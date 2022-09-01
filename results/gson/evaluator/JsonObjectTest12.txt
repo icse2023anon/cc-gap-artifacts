@@ -1,0 +1,17 @@
+slicing criterion: com.google.gson.JsonObjectTest.testAddingNullPropertyValue:51
+Methods call in assertion: [com/google/gson/JsonObject.has]
+com/google/gson/internal/LinkedTreeMap.put
+com/google/gson/JsonObject.has
+com/google/gson/internal/LinkedTreeMap.containsKey
+com/google/gson/internal/LinkedTreeMap.find
+top 10 recommendations: 
+com/google/gson/internal/LinkedTreeMap.put
+com/google/gson/JsonObject.has
+com/google/gson/internal/LinkedTreeMap.containsKey
+com/google/gson/internal/LinkedTreeMap.find
+after post processing ......
+com/google/gson/internal/LinkedTreeMap.put
+com/google/gson/JsonObject.has
+com/google/gson/internal/LinkedTreeMap.containsKey
+com/google/gson/internal/LinkedTreeMap.find
+found in top 10

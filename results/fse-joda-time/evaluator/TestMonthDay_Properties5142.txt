@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestMonthDay_Properties.testPropertyGetMonthOfYear:112
+Methods call in assertion: [org/joda/time/MonthDay$Property.getAsText, org/joda/time/MonthDay.monthOfYear]
+org/joda/time/chrono/GJLocaleSymbols.monthOfYearValueToText
+org/joda/time/base/BasePartial.getValue
+org/joda/time/MonthDay.getReadablePartial
+org/joda/time/chrono/GJLocaleSymbols.forLocale
+org/joda/time/field/AbstractPartialFieldProperty.getAsText
+org/joda/time/DateTimeUtils.getDateFormatSymbols
+org/joda/time/chrono/GJMonthOfYearDateTimeField.getAsText
+org/joda/time/field/BaseDateTimeField.getAsText
+top 10 recommendations: 
+org/joda/time/chrono/GJMonthOfYearDateTimeField.getAsText
+org/joda/time/chrono/GJLocaleSymbols.monthOfYearValueToText
+org/joda/time/base/BasePartial.getValue
+org/joda/time/MonthDay.getReadablePartial
+org/joda/time/chrono/GJLocaleSymbols.forLocale
+org/joda/time/field/AbstractPartialFieldProperty.getAsText
+org/joda/time/DateTimeUtils.getDateFormatSymbols
+org/joda/time/field/BaseDateTimeField.getAsText
+after post processing ......
+org/joda/time/chrono/GJMonthOfYearDateTimeField.getAsText
+org/joda/time/chrono/GJLocaleSymbols.monthOfYearValueToText
+org/joda/time/base/BasePartial.getValue
+org/joda/time/MonthDay.getReadablePartial
+org/joda/time/chrono/GJLocaleSymbols.forLocale
+org/joda/time/field/AbstractPartialFieldProperty.getAsText
+org/joda/time/DateTimeUtils.getDateFormatSymbols
+org/joda/time/field/BaseDateTimeField.getAsText
+not matched

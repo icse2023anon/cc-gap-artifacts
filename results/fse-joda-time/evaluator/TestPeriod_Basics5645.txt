@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.TestPeriod_Basics.testGet:289
+Methods call in assertion: [org/joda/time/DurationFieldType.days, org/joda/time/Period.get]
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.yearDayTime
+org/joda/time/base/AbstractPeriod.get
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/DurationFieldType.days
+org/joda/time/base/BasePeriod.getValue
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/PeriodType.yearDayTime
+org/joda/time/base/AbstractPeriod.get
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/DurationFieldType.days
+org/joda/time/base/BasePeriod.getValue
+after post processing ......
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/PeriodType.yearDayTime
+org/joda/time/base/AbstractPeriod.get
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/DurationFieldType.days
+org/joda/time/base/BasePeriod.getValue
+found in top 10

@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestYearMonth_Properties.testPropertyGetMaxMinValuesYear:126
+Methods call in assertion: [org/joda/time/YearMonth$Property.getMinimumValueOverall, org/joda/time/YearMonth.year]
+org/joda/time/YearMonth.setCopy
+org/joda/time/chrono/GregorianChronology.getMinYear
+org/joda/time/field/AbstractPartialFieldProperty.getMinimumValueOverall
+org/joda/time/chrono/BasicYearDateTimeField.getMinimumValue
+top 10 recommendations: 
+org/joda/time/YearMonth.setCopy
+org/joda/time/chrono/GregorianChronology.getMinYear
+org/joda/time/field/AbstractPartialFieldProperty.getMinimumValueOverall
+org/joda/time/chrono/BasicYearDateTimeField.getMinimumValue
+after post processing ......
+org/joda/time/YearMonth.setCopy
+org/joda/time/chrono/GregorianChronology.getMinYear
+org/joda/time/field/AbstractPartialFieldProperty.getMinimumValueOverall
+org/joda/time/chrono/BasicYearDateTimeField.getMinimumValue
+not matched

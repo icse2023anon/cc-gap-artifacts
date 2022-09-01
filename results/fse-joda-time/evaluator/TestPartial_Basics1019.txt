@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testCompareTo:300
+Methods call in assertion: [org/joda/time/Partial.compareTo]
+org/joda/time/Partial.getValue
+org/joda/time/base/AbstractPartial.compareTo
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+top 10 recommendations: 
+org/joda/time/Partial.getValue
+org/joda/time/base/AbstractPartial.compareTo
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+after post processing ......
+org/joda/time/Partial.getValue
+org/joda/time/base/AbstractPartial.compareTo
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+not matched

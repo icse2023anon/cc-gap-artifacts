@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.tuple.MutableTripleTest.testDefault:65
+Methods call in assertion: [org/apache/commons/lang3/tuple/MutableTriple.getRight]
+org/apache/commons/lang3/tuple/MutableTriple.getRight
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/MutableTriple.getRight
+after post processing ......
+org/apache/commons/lang3/tuple/MutableTriple.getRight
+perfect match

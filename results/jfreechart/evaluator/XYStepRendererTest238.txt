@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYStepRendererTest.testEquals:80
+Methods call in assertion: [org/jfree/chart/renderer/xy/XYStepRenderer.equals]
+org/jfree/chart/renderer/xy/XYStepRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/XYStepRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/xy/XYStepRenderer.equals
+perfect match

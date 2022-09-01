@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.field.TestMillisDurationField.test_getValueAsLong_long_long:133
+Methods call in assertion: [org/joda/time/DurationField.getValueAsLong]
+org/joda/time/field/MillisDurationField.getValueAsLong
+top 10 recommendations: 
+org/joda/time/field/MillisDurationField.getValueAsLong
+after post processing ......
+org/joda/time/field/MillisDurationField.getValueAsLong
+perfect match

@@ -1,0 +1,49 @@
+slicing criterion: org.jfree.chart.axis.PeriodAxisTest.test2490803:289
+Methods call in assertion: [org/jfree/data/Range.getLowerBound, org/jfree/data/time/Day.getFirstMillisecond]
+org/jfree/data/time/Day.<init>
+org/jfree/chart/axis/ValueAxis.<init>
+org/jfree/chart/date/SpreadsheetDate.getYYYY
+org/jfree/data/Range.getLowerBound
+org/jfree/chart/axis/PeriodAxis.getAutoRangeTimePeriodClass
+org/jfree/chart/axis/ValueAxis.getRange
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/date/SerialDate.lastDayOfMonth
+org/jfree/chart/axis/Axis.getAxisLineStroke
+org/jfree/chart/date/SpreadsheetDate.<init>
+org/jfree/chart/axis/Axis.equals
+org/jfree/data/time/Day.getFirstMillisecond
+org/jfree/chart/util/SerialUtils.writeStroke
+org/jfree/chart/axis/PeriodAxis.setRange
+org/jfree/chart/date/SpreadsheetDate.getMonth
+org/jfree/chart/util/SerialUtils.writePaint
+org/jfree/chart/date/SpreadsheetDate.getDayOfMonth
+top 10 recommendations: 
+org/jfree/chart/date/SpreadsheetDate.<init>
+org/jfree/chart/axis/PeriodAxis.setRange
+org/jfree/data/time/Day.<init>
+org/jfree/chart/axis/ValueAxis.<init>
+org/jfree/chart/date/SpreadsheetDate.getYYYY
+org/jfree/data/Range.getLowerBound
+org/jfree/chart/axis/PeriodAxis.getAutoRangeTimePeriodClass
+org/jfree/chart/axis/ValueAxis.getRange
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/date/SerialDate.lastDayOfMonth
+after post processing ......
+org/jfree/chart/date/SpreadsheetDate.<init>
+org/jfree/chart/axis/PeriodAxis.setRange
+org/jfree/data/time/Day.<init>
+org/jfree/chart/axis/ValueAxis.<init>
+org/jfree/chart/date/SpreadsheetDate.getYYYY
+org/jfree/data/Range.getLowerBound
+org/jfree/chart/axis/PeriodAxis.getAutoRangeTimePeriodClass
+org/jfree/chart/axis/ValueAxis.getRange
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/date/SerialDate.lastDayOfMonth
+org/jfree/chart/axis/Axis.getAxisLineStroke
+org/jfree/chart/axis/Axis.equals
+org/jfree/data/time/Day.getFirstMillisecond
+org/jfree/chart/util/SerialUtils.writeStroke
+org/jfree/chart/date/SpreadsheetDate.getMonth
+org/jfree/chart/util/SerialUtils.writePaint
+org/jfree/chart/date/SpreadsheetDate.getDayOfMonth
+all method calls are suggested

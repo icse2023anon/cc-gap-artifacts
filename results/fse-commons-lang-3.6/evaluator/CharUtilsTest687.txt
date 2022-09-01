@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.CharUtilsTest.testIsAsciiAlpha_char:307
+Methods call in assertion: [org/apache/commons/lang3/CharUtils.isAsciiAlpha]
+org/apache/commons/lang3/CharUtils.isAsciiAlphaUpper
+org/apache/commons/lang3/CharUtils.isAsciiAlphaLower
+org/apache/commons/lang3/CharUtils.isAsciiAlpha
+top 10 recommendations: 
+org/apache/commons/lang3/CharUtils.isAsciiAlpha
+org/apache/commons/lang3/CharUtils.isAsciiAlphaUpper
+org/apache/commons/lang3/CharUtils.isAsciiAlphaLower
+after post processing ......
+org/apache/commons/lang3/CharUtils.isAsciiAlpha
+org/apache/commons/lang3/CharUtils.isAsciiAlphaUpper
+org/apache/commons/lang3/CharUtils.isAsciiAlphaLower
+perfect match

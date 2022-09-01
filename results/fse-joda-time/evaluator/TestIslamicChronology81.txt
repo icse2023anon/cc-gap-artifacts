@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.chrono.TestIslamicChronology.testSampleDate2:625
+Methods call in assertion: [org/joda/time/DateTime$Property.getMaximumValue]
+org/joda/time/DateTime.withChronology
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValue
+org/joda/time/DateTime.getMillis
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+top 10 recommendations: 
+org/joda/time/DateTime.withChronology
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValue
+org/joda/time/DateTime.getMillis
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+after post processing ......
+org/joda/time/DateTime.withChronology
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValue
+org/joda/time/DateTime.getMillis
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+not matched

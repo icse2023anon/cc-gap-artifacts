@@ -1,0 +1,53 @@
+slicing criterion: org.joda.time.TestDateMidnight_Basics.testWithChronology_Chronology:748
+Methods call in assertion: [org/joda/time/DateMidnight.getMillis]
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/tz/CachedDateTimeZone.previousTransition
+org/joda/time/DateMidnight.checkInstant
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DurationFieldType.days
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/DateTimeZone.getOffsetFromLocal
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateMidnight.toInterval
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateMidnight.toInterval
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/tz/CachedDateTimeZone.previousTransition
+org/joda/time/DateMidnight.checkInstant
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+after post processing ......
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateMidnight.toInterval
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/tz/CachedDateTimeZone.previousTransition
+org/joda/time/DateMidnight.checkInstant
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DurationFieldType.days
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/DateTimeZone.getOffsetFromLocal
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeZone.convertLocalToUTC
+all method calls are suggested

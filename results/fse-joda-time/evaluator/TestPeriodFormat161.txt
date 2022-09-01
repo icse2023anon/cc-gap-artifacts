@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.format.TestPeriodFormat.test_wordBased_es_formatTwoFields:302
+Methods call in assertion: [org/joda/time/format/PeriodFormat.wordBased, org/joda/time/format/PeriodFormatter.print]
+org/joda/time/format/PeriodFormat.wordBased
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/Period.withHours
+top 10 recommendations: 
+org/joda/time/format/PeriodFormat.wordBased
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/Period.withHours
+after post processing ......
+org/joda/time/format/PeriodFormat.wordBased
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/Period.withHours
+found in top 10

@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.axis.ModuloAxisTest.testEquals:81
+Methods call in assertion: [org/jfree/chart/axis/ModuloAxis.equals]
+org/jfree/chart/axis/ModuloAxis.equals
+org/jfree/data/Range.getLowerBound
+org/jfree/data/Range.getLength
+top 10 recommendations: 
+org/jfree/chart/axis/ModuloAxis.equals
+org/jfree/data/Range.getLowerBound
+org/jfree/data/Range.getLength
+after post processing ......
+org/jfree/chart/axis/ModuloAxis.equals
+org/jfree/data/Range.getLowerBound
+org/jfree/data/Range.getLength
+perfect match

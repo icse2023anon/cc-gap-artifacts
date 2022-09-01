@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.plot.PiePlotTest.testBug1126_c:659
+Methods call in assertion: [org/jfree/chart/plot/PiePlot.getSectionOutlineStroke]
+org/jfree/chart/StrokeMap.put
+org/jfree/chart/StrokeMap.getStroke
+org/jfree/chart/plot/PiePlot.clone
+org/jfree/chart/plot/PiePlot.getSectionOutlineStroke
+org/jfree/chart/plot/PiePlot.setSectionOutlineStroke
+org/jfree/chart/StrokeMap.clone
+top 10 recommendations: 
+org/jfree/chart/plot/PiePlot.clone
+org/jfree/chart/plot/PiePlot.getSectionOutlineStroke
+org/jfree/chart/plot/PiePlot.setSectionOutlineStroke
+org/jfree/chart/StrokeMap.put
+org/jfree/chart/StrokeMap.getStroke
+org/jfree/chart/StrokeMap.clone
+after post processing ......
+org/jfree/chart/plot/PiePlot.clone
+org/jfree/chart/plot/PiePlot.getSectionOutlineStroke
+org/jfree/chart/plot/PiePlot.setSectionOutlineStroke
+org/jfree/chart/StrokeMap.put
+org/jfree/chart/StrokeMap.getStroke
+org/jfree/chart/StrokeMap.clone
+found in top 10

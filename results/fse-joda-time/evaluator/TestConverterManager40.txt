@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.convert.TestConverterManager.testGetPeriodConverter:782
+Methods call in assertion: [org/joda/time/convert/PeriodConverter.getSupportedType]
+org/joda/time/convert/ConverterSet.remove
+org/joda/time/convert/ConverterSet.select
+org/joda/time/convert/ConverterManager.getInstance
+org/joda/time/convert/NullConverter.getSupportedType
+org/joda/time/convert/ConverterManager.getPeriodConverter
+top 10 recommendations: 
+org/joda/time/convert/ConverterManager.getPeriodConverter
+org/joda/time/convert/ConverterSet.remove
+org/joda/time/convert/ConverterSet.select
+org/joda/time/convert/ConverterManager.getInstance
+org/joda/time/convert/NullConverter.getSupportedType
+after post processing ......
+org/joda/time/convert/ConverterManager.getPeriodConverter
+org/joda/time/convert/ConverterSet.remove
+org/joda/time/convert/ConverterSet.select
+org/joda/time/convert/ConverterManager.getInstance
+org/joda/time/convert/NullConverter.getSupportedType
+not matched

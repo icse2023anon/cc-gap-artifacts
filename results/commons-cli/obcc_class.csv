@@ -1,0 +1,17 @@
+class,obc(%),omc_obc(%),cov_gap(%)
+org.apache.commons.cli.PatternOptionBuilder,97.72727,70.454544,27.272728
+org.apache.commons.cli.Options,100.0,68.181816,31.818184
+org.apache.commons.cli.Option$Builder,100.0,33.333336,66.666664
+org.apache.commons.cli.Parser,73.68421,46.05263,27.63158
+org.apache.commons.cli.HelpFormatter,92.622955,20.491802,72.13115
+org.apache.commons.cli.MissingOptionException,100.0,16.666668,83.33333
+org.apache.commons.cli.TypeHandler,95.0,85.0,10.0
+org.apache.commons.cli.DefaultParser,40.243904,33.536587,6.7073174
+org.apache.commons.cli.GnuParser,85.0,75.0,10.0
+org.apache.commons.cli.OptionValidator,100.0,37.5,62.5
+org.apache.commons.cli.OptionBuilder,100.0,25.0,75.0
+org.apache.commons.cli.OptionGroup,85.71429,28.57143,57.142857
+org.apache.commons.cli.CommandLine,96.875,78.125,18.75
+org.apache.commons.cli.PosixParser,65.38461,42.307693,23.07692
+org.apache.commons.cli.Option,73.17073,54.87805,18.292679
+org.apache.commons.cli.Util,100.0,71.42857,28.571426

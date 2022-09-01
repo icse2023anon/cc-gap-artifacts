@@ -1,0 +1,11 @@
+slicing criterion: org.codehaus.plexus.util.PathToolTest.testCalculateLink:63
+Methods call in assertion: [org/codehaus/plexus/util/PathTool.calculateLink]
+org/codehaus/plexus/util/PathTool.calculateLink
+org/codehaus/plexus/util/StringUtils.equals
+top 10 recommendations: 
+org/codehaus/plexus/util/PathTool.calculateLink
+org/codehaus/plexus/util/StringUtils.equals
+after post processing ......
+org/codehaus/plexus/util/PathTool.calculateLink
+org/codehaus/plexus/util/StringUtils.equals
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.StrMatcherTest.testSpaceMatcher:80
+Methods call in assertion: [org/apache/commons/lang3/text/StrMatcher.spaceMatcher]
+org/apache/commons/lang3/text/StrMatcher.spaceMatcher
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrMatcher.spaceMatcher
+after post processing ......
+org/apache/commons/lang3/text/StrMatcher.spaceMatcher
+perfect match

@@ -1,0 +1,17 @@
+slicing criterion: org.jsoup.parser.HtmlParserTest.testNoImagesInNoScriptInHead:475
+Methods call in assertion: [org/jsoup/TextUtil.stripNewlines, org/jsoup/nodes/Document.html]
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Node.ownerDocument
+org/jsoup/Jsoup.parse
+top 10 recommendations: 
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Node.ownerDocument
+org/jsoup/Jsoup.parse
+after post processing ......
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Node.ownerDocument
+org/jsoup/Jsoup.parse
+not matched

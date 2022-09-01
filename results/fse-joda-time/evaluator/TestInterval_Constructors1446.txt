@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestInterval_Constructors.testConstructor_RI_RI_instant:416
+Methods call in assertion: [org/joda/time/Interval.getEndMillis]
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/Instant.getMillis
+top 10 recommendations: 
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/Instant.getMillis
+after post processing ......
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/Instant.getMillis
+found in top 10

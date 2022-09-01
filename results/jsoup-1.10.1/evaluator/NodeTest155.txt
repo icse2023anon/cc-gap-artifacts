@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.nodes.NodeTest.orphanNodeReturnsNullForSiblingElements:227
+Methods call in assertion: [org/jsoup/nodes/Node.previousSibling]
+org/jsoup/nodes/Node.previousSibling
+top 10 recommendations: 
+org/jsoup/nodes/Node.previousSibling
+after post processing ......
+org/jsoup/nodes/Node.previousSibling
+perfect match

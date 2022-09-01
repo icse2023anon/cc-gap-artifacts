@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.JFreeChartTest.testEquals:146
+Methods call in assertion: [org/jfree/chart/JFreeChart.equals]
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/JFreeChart.equals
+top 10 recommendations: 
+org/jfree/chart/JFreeChart.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/JFreeChart.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

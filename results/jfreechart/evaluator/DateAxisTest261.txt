@@ -1,0 +1,59 @@
+slicing criterion: org.jfree.chart.axis.DateAxisTest.testBug25:1252
+Methods call in assertion: [org/jfree/data/time/Second.getFirstMillisecond]
+org/jfree/chart/date/SpreadsheetDate.getYYYY
+org/jfree/data/time/Hour.getDay
+org/jfree/data/time/Day.getDayOfMonth
+org/jfree/data/time/Minute.getMinute
+org/jfree/chart/axis/DateTickUnit.getUnitType
+org/jfree/chart/axis/DateTickUnitType.toString
+org/jfree/data/time/Month.getFirstMillisecond
+org/jfree/chart/axis/DateAxis.previousStandardDate
+org/jfree/data/time/Day.getMonth
+org/jfree/chart/date/SpreadsheetDate.<init>
+org/jfree/data/time/Year.getFirstMillisecond
+org/jfree/chart/axis/DateTickUnitType.equals
+org/jfree/chart/axis/DateTickUnit.getMultiple
+org/jfree/data/time/Minute.getDay
+org/jfree/data/time/Hour.getFirstMillisecond
+org/jfree/data/time/Hour.getHour
+org/jfree/data/time/Minute.getHourValue
+org/jfree/chart/axis/DateTickUnit.getCalendarField
+org/jfree/data/time/Day.getFirstMillisecond
+org/jfree/data/time/Day.getYear
+org/jfree/data/time/Second.getFirstMillisecond
+org/jfree/data/time/Minute.getFirstMillisecond
+top 10 recommendations: 
+org/jfree/chart/axis/DateAxis.previousStandardDate
+org/jfree/data/time/Hour.getFirstMillisecond
+org/jfree/data/time/Second.getFirstMillisecond
+org/jfree/data/time/Minute.getFirstMillisecond
+org/jfree/chart/axis/DateTickUnitType.equals
+org/jfree/chart/date/SpreadsheetDate.getYYYY
+org/jfree/data/time/Hour.getDay
+org/jfree/data/time/Day.getDayOfMonth
+org/jfree/data/time/Minute.getMinute
+org/jfree/chart/axis/DateTickUnit.getUnitType
+after post processing ......
+org/jfree/chart/axis/DateAxis.previousStandardDate
+org/jfree/data/time/Hour.getFirstMillisecond
+org/jfree/data/time/Second.getFirstMillisecond
+org/jfree/data/time/Minute.getFirstMillisecond
+org/jfree/chart/axis/DateTickUnitType.equals
+org/jfree/chart/date/SpreadsheetDate.getYYYY
+org/jfree/data/time/Hour.getDay
+org/jfree/data/time/Day.getDayOfMonth
+org/jfree/data/time/Minute.getMinute
+org/jfree/chart/axis/DateTickUnit.getUnitType
+org/jfree/chart/axis/DateTickUnitType.toString
+org/jfree/data/time/Month.getFirstMillisecond
+org/jfree/data/time/Day.getMonth
+org/jfree/chart/date/SpreadsheetDate.<init>
+org/jfree/data/time/Year.getFirstMillisecond
+org/jfree/chart/axis/DateTickUnit.getMultiple
+org/jfree/data/time/Minute.getDay
+org/jfree/data/time/Hour.getHour
+org/jfree/data/time/Minute.getHourValue
+org/jfree/chart/axis/DateTickUnit.getCalendarField
+org/jfree/data/time/Day.getFirstMillisecond
+org/jfree/data/time/Day.getYear
+found in top 10

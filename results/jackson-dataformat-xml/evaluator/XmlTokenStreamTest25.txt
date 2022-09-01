@@ -1,0 +1,26 @@
+slicing criterion: com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStreamTest.testNested:116
+Methods call in assertion: [com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getLocalName]
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._next
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._skipUntilTag
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.next
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._initStartElement
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._collectUntilTag
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._allWs
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getLocalName
+top 10 recommendations: 
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.next
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._next
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._skipUntilTag
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._initStartElement
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._collectUntilTag
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._allWs
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getLocalName
+after post processing ......
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.next
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._next
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._skipUntilTag
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._initStartElement
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._collectUntilTag
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._allWs
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getLocalName
+found in top 10

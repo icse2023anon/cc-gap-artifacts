@@ -1,0 +1,2 @@
+package,total_assertion,exact_match(%),top_1(%),top_5(%),top_10(%),all_method_suggested(%)
+org.jaxen.test,134,15,15,40,49,53,

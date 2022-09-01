@@ -1,0 +1,43 @@
+slicing criterion: org.joda.time.chrono.TestISOChronology.testMaxYear:354
+Methods call in assertion: [org/joda/time/DateTime.getYear]
+org/joda/time/chrono/GregorianChronology.getMaxYear
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractDateTime.getYear
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/chrono/BasicYearDateTimeField.getMaximumValue
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/chrono/GregorianChronology.getMaxYear
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractDateTime.getYear
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/chrono/BasicYearDateTimeField.getMaximumValue
+after post processing ......
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/chrono/GregorianChronology.getMaxYear
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractDateTime.getYear
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/chrono/BasicYearDateTimeField.getMaximumValue
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeUtils.getChronology
+not matched

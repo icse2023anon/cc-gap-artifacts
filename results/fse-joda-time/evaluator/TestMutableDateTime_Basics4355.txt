@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMutableDateTime_Basics.testProperty:771
+Methods call in assertion: [org/joda/time/MutableDateTime.dayOfWeek, org/joda/time/DateTimeFieldType.dayOfWeek, org/joda/time/MutableDateTime.property]
+org/joda/time/MutableDateTime.getChronology
+org/joda/time/DateTimeFieldType.dayOfWeek
+top 10 recommendations: 
+org/joda/time/MutableDateTime.getChronology
+org/joda/time/DateTimeFieldType.dayOfWeek
+after post processing ......
+org/joda/time/MutableDateTime.getChronology
+org/joda/time/DateTimeFieldType.dayOfWeek
+not matched

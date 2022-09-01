@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTimeZone.testGetAvailableIDs:637
+Methods call in assertion: [org/joda/time/DateTimeZone.getAvailableIDs]
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/DateTimeZone.getAvailableIDs
+top 10 recommendations: 
+org/joda/time/DateTimeZone.getAvailableIDs
+org/joda/time/DateTimeZone.getProvider
+after post processing ......
+org/joda/time/DateTimeZone.getAvailableIDs
+org/joda/time/DateTimeZone.getProvider
+perfect match

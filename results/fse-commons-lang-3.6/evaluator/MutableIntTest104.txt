@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableIntTest.testToString:305
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableInt.toString]
+org/apache/commons/lang3/mutable/MutableInt.toString
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableInt.toString
+after post processing ......
+org/apache/commons/lang3/mutable/MutableInt.toString
+perfect match

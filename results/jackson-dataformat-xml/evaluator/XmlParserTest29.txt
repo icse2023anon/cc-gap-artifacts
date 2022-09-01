@@ -1,0 +1,51 @@
+slicing criterion: com.fasterxml.jackson.dataformat.xml.stream.XmlParserTest.testForceElementAsArray:212
+Methods call in assertion: [com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.inArray, com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getParsingContext]
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._next
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._skipUntilTag
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createChildObjectContext
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getParsingContext
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._initStartElement
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._collectUntilTag
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._allWs
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getParent
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+com/fasterxml/jackson/dataformat/xml/XmlFactory.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.next
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initFactories
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.isExpectedStartArrayToken
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextToken
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.toString
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initializeXmlReader
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._getText
+top 10 recommendations: 
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextToken
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.next
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._next
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._collectUntilTag
+com/fasterxml/jackson/dataformat/xml/XmlFactory.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._skipUntilTag
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createChildObjectContext
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getParsingContext
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._initStartElement
+after post processing ......
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextToken
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.next
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._next
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._collectUntilTag
+com/fasterxml/jackson/dataformat/xml/XmlFactory.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._skipUntilTag
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createChildObjectContext
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getParsingContext
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._initStartElement
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._allWs
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getParent
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initFactories
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.isExpectedStartArrayToken
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.toString
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initializeXmlReader
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._getText
+not matched

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.validator.util.FlagsTest.testTurnOffAll:74
+Methods call in assertion: [org/apache/commons/validator/util/Flags.getFlags]
+org/apache/commons/validator/util/Flags.getFlags
+top 10 recommendations: 
+org/apache/commons/validator/util/Flags.getFlags
+after post processing ......
+org/apache/commons/validator/util/Flags.getFlags
+perfect match

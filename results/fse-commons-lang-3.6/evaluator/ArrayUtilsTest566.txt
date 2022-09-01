@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.ArrayUtilsTest.testIsNotEmptyPrimitives:5049
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.isNotEmpty]
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ArrayUtils.isNotEmpty
+org/apache/commons/lang3/ArrayUtils.isEmpty
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.isNotEmpty
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.isNotEmpty
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+perfect match

@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testGetFieldType:189
+Methods call in assertion: [org/joda/time/Partial.getFieldType, org/joda/time/DateTimeFieldType.minuteOfHour]
+org/joda/time/Partial.getFieldType
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.<init>
+top 10 recommendations: 
+org/joda/time/Partial.getFieldType
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.<init>
+after post processing ......
+org/joda/time/Partial.getFieldType
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.<init>
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.format.TestPeriodFormatter.testPrinterParserMethods:177
+Methods call in assertion: [org/joda/time/format/PeriodFormatter.getParser]
+org/joda/time/format/PeriodFormatter.getParser
+top 10 recommendations: 
+org/joda/time/format/PeriodFormatter.getParser
+after post processing ......
+org/joda/time/format/PeriodFormatter.getParser
+perfect match

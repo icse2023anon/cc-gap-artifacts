@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestPartial_Constructors.testConstructor_Type_int_Chrono:164
+Methods call in assertion: [org/joda/time/Partial.getValue]
+org/joda/time/Partial.getValue
+top 10 recommendations: 
+org/joda/time/Partial.getValue
+after post processing ......
+org/joda/time/Partial.getValue
+perfect match

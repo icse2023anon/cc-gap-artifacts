@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.category.GroupedStackedBarRendererTest.testFindRangeBounds:151
+Methods call in assertion: [org/jfree/chart/renderer/category/GroupedStackedBarRenderer.findRangeBounds]
+org/jfree/chart/renderer/category/GroupedStackedBarRenderer.findRangeBounds
+top 10 recommendations: 
+org/jfree/chart/renderer/category/GroupedStackedBarRenderer.findRangeBounds
+after post processing ......
+org/jfree/chart/renderer/category/GroupedStackedBarRenderer.findRangeBounds
+perfect match

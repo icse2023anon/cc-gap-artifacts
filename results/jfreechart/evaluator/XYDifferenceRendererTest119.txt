@@ -1,0 +1,26 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYDifferenceRendererTest.testCloning:152
+Methods call in assertion: [org/jfree/chart/renderer/xy/XYDifferenceRenderer.equals]
+org/jfree/chart/renderer/xy/XYDifferenceRenderer.clone
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/renderer/xy/XYDifferenceRenderer.equals
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/xy/XYDifferenceRenderer.getLegendLine
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/XYDifferenceRenderer.clone
+org/jfree/chart/renderer/xy/XYDifferenceRenderer.equals
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/xy/XYDifferenceRenderer.getLegendLine
+after post processing ......
+org/jfree/chart/renderer/xy/XYDifferenceRenderer.clone
+org/jfree/chart/renderer/xy/XYDifferenceRenderer.equals
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/xy/XYDifferenceRenderer.getLegendLine
+found in top 10

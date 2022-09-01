@@ -1,0 +1,37 @@
+slicing criterion: org.joda.time.TestMutableInterval_Constructors.testConstructor_Object_Chronology2:731
+Methods call in assertion: [org/joda/time/MutableInterval.getChronology, org/joda/time/chrono/ISOChronology.getInstance]
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/convert/ReadableIntervalConverter.isReadableInterval
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/convert/ReadableIntervalConverter.isReadableInterval
+org/joda/time/base/BaseInterval.getChronology
+after post processing ......
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/convert/ReadableIntervalConverter.isReadableInterval
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/DateTimeZone.getDefault
+found in top 10

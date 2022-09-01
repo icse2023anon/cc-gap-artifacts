@@ -1,0 +1,20 @@
+slicing criterion: com.thoughtworks.xstream.io.StatefulWriterTest.testCannotWriteAfterClose:140
+Methods call in assertion: [com/thoughtworks/xstream/io/StreamException.getCause]
+com/thoughtworks/xstream/io/StatefulWriter.state
+com/thoughtworks/xstream/XStreamException.<init>
+com/thoughtworks/xstream/io/StreamException.<init>
+com/thoughtworks/xstream/io/StatefulWriter.addAttribute
+com/thoughtworks/xstream/core/BaseException.<init>
+top 10 recommendations: 
+com/thoughtworks/xstream/io/StatefulWriter.addAttribute
+com/thoughtworks/xstream/io/StreamException.<init>
+com/thoughtworks/xstream/XStreamException.<init>
+com/thoughtworks/xstream/io/StatefulWriter.state
+com/thoughtworks/xstream/core/BaseException.<init>
+after post processing ......
+com/thoughtworks/xstream/io/StatefulWriter.addAttribute
+com/thoughtworks/xstream/io/StreamException.<init>
+com/thoughtworks/xstream/XStreamException.<init>
+com/thoughtworks/xstream/io/StatefulWriter.state
+com/thoughtworks/xstream/core/BaseException.<init>
+not matched

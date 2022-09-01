@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.lang3.text.WordUtilsTest.testContainsAllWords_StringString:279
+Methods call in assertion: [org/apache/commons/lang3/text/WordUtils.containsAllWords]
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/StringUtils.isBlank
+org/apache/commons/lang3/text/WordUtils.containsAllWords
+top 10 recommendations: 
+org/apache/commons/lang3/text/WordUtils.containsAllWords
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/StringUtils.isBlank
+after post processing ......
+org/apache/commons/lang3/text/WordUtils.containsAllWords
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/StringUtils.isBlank
+perfect match

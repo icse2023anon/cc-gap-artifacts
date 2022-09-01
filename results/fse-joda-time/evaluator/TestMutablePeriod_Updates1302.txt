@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.TestMutablePeriod_Updates.testMergePeriod_RP1:1486
+Methods call in assertion: [org/joda/time/MutablePeriod.getMinutes]
+org/joda/time/MutablePeriod.getMinutes
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/PeriodType.standard
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/base/BasePeriod.getValue
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/MutablePeriod.getMinutes
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/PeriodType.standard
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/base/BasePeriod.getValue
+after post processing ......
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/MutablePeriod.getMinutes
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/PeriodType.standard
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/base/BasePeriod.getValue
+found in top 10

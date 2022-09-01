@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.field.TestBaseDateTimeField.test_addWrapField_long_int:278
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.addWrapField]
+org/joda/time/field/BaseDateTimeField.getMinimumValue
+org/joda/time/field/BaseDateTimeField.addWrapField
+org/joda/time/field/FieldUtils.getWrappedValue
+org/joda/time/field/BaseDateTimeField.getMaximumValue
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.addWrapField
+org/joda/time/field/BaseDateTimeField.getMinimumValue
+org/joda/time/field/FieldUtils.getWrappedValue
+org/joda/time/field/BaseDateTimeField.getMaximumValue
+after post processing ......
+org/joda/time/field/BaseDateTimeField.addWrapField
+org/joda/time/field/BaseDateTimeField.getMinimumValue
+org/joda/time/field/FieldUtils.getWrappedValue
+org/joda/time/field/BaseDateTimeField.getMaximumValue
+perfect match

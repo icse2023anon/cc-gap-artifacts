@@ -1,0 +1,16 @@
+Aug 25, 2022 6:19:14 PM omc_ob.OMCob main
+INFO: total slices = total criteria = total assertions = 5420
+Aug 25, 2022 6:19:23 PM omc_ob.OMCob printOMC_ob
+INFO: Total condition covered: 3624
+Aug 25, 2022 6:19:23 PM omc_ob.OMCob printOMC_ob
+WARNING: org.jfree.chart.annotations.XYDrawableAnnotationTest$TestDrawable class not found in the jacoco report report
+Aug 25, 2022 6:19:23 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per class coverage for object branch!
+Aug 25, 2022 6:19:23 PM omc_ob.OMCob printOMC_ob
+WARNING: org.jfree.chart.annotations.XYDrawableAnnotationTest$TestDrawable.equals not found in the jacoco report
+Aug 25, 2022 6:19:23 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per method coverage for object branch!
+Aug 25, 2022 6:19:23 PM omc_ob.OMCob main
+INFO: OBC :46.52586048223817
+Aug 25, 2022 6:19:23 PM omc_ob.OMCob main
+INFO: OMC_OBC :16.675869685256764

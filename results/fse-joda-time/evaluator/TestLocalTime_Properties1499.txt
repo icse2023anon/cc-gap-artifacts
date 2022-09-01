@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestLocalTime_Properties.testPropertyGetSecond:489
+Methods call in assertion: [org/joda/time/LocalTime.secondOfMinute, org/joda/time/LocalTime$Property.getName]
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/AbstractReadableInstantFieldProperty.getName
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+top 10 recommendations: 
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/AbstractReadableInstantFieldProperty.getName
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+after post processing ......
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/AbstractReadableInstantFieldProperty.getName
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+not matched

@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_centuryOfEra:97
+Methods call in assertion: [org/joda/time/chrono/CopticChronology.centuryOfEra, org/joda/time/DateTimeFieldType.centuryOfEra, org/joda/time/DateTimeFieldType.getField, org/joda/time/chrono/CopticChronology.getInstanceUTC]
+org/joda/time/DateTimeFieldType.centuryOfEra
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.centuryOfEra
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/DateTimeFieldType.centuryOfEra
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.centuryOfEra
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/DateTimeFieldType.centuryOfEra
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.centuryOfEra
+org/joda/time/DateTimeUtils.getChronology
+not matched

@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.field.TestPreciseDateTimeField.test_set_long_String:403
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.set]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/field/PreciseDateTimeField.<init>
+org/joda/time/field/BaseDateTimeField.convertText
+org/joda/time/field/PreciseDateTimeField.set
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/field/PreciseDateTimeField.set
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/field/PreciseDateTimeField.<init>
+org/joda/time/field/BaseDateTimeField.convertText
+after post processing ......
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/field/PreciseDateTimeField.set
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/field/PreciseDateTimeField.<init>
+org/joda/time/field/BaseDateTimeField.convertText
+perfect match

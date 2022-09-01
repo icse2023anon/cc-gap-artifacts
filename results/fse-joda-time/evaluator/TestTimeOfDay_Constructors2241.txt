@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Constructors.testConstructor_int_int_int_int:721
+Methods call in assertion: [org/joda/time/TimeOfDay.getChronology]
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/chrono/ISOChronology.withUTC
+top 10 recommendations: 
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/chrono/ISOChronology.withUTC
+after post processing ......
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/chrono/ISOChronology.withUTC
+found in top 10

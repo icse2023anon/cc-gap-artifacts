@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestPeriodType.testMaskDays:730
+Methods call in assertion: [org/joda/time/DurationFieldType.weeks, org/joda/time/PeriodType.getFieldType]
+org/joda/time/DurationFieldType.weeks
+org/joda/time/PeriodType.getFieldType
+org/joda/time/PeriodType.setIndexedField
+org/joda/time/PeriodType.size
+org/joda/time/PeriodType.standard
+org/joda/time/PeriodType.withDaysRemoved
+top 10 recommendations: 
+org/joda/time/PeriodType.standard
+org/joda/time/DurationFieldType.weeks
+org/joda/time/PeriodType.getFieldType
+org/joda/time/PeriodType.setIndexedField
+org/joda/time/PeriodType.size
+org/joda/time/PeriodType.withDaysRemoved
+after post processing ......
+org/joda/time/PeriodType.standard
+org/joda/time/DurationFieldType.weeks
+org/joda/time/PeriodType.getFieldType
+org/joda/time/PeriodType.setIndexedField
+org/joda/time/PeriodType.size
+org/joda/time/PeriodType.withDaysRemoved
+found in top 10

@@ -1,0 +1,32 @@
+slicing criterion: org.codehaus.plexus.util.MatchPatternTest.testMatchPath:30
+Methods call in assertion: [org/codehaus/plexus/util/MatchPattern.matchPath]
+org/codehaus/plexus/util/MatchPattern.startsWith
+org/codehaus/plexus/util/MatchPattern.fromString
+org/codehaus/plexus/util/MatchPattern.matchPath
+org/codehaus/plexus/util/MatchPattern.getTokenizedPathString
+org/codehaus/plexus/util/SelectorUtils.isRegexPrefixedPattern
+org/codehaus/plexus/util/SelectorUtils.matchAntPathPattern
+org/codehaus/plexus/util/SelectorUtils.match
+org/codehaus/plexus/util/SelectorUtils.isAntPrefixedPattern
+org/codehaus/plexus/util/MatchPattern.tokenizePathToString
+top 10 recommendations: 
+org/codehaus/plexus/util/MatchPattern.matchPath
+org/codehaus/plexus/util/SelectorUtils.matchAntPathPattern
+org/codehaus/plexus/util/MatchPattern.startsWith
+org/codehaus/plexus/util/MatchPattern.fromString
+org/codehaus/plexus/util/MatchPattern.getTokenizedPathString
+org/codehaus/plexus/util/SelectorUtils.isRegexPrefixedPattern
+org/codehaus/plexus/util/SelectorUtils.match
+org/codehaus/plexus/util/SelectorUtils.isAntPrefixedPattern
+org/codehaus/plexus/util/MatchPattern.tokenizePathToString
+after post processing ......
+org/codehaus/plexus/util/MatchPattern.matchPath
+org/codehaus/plexus/util/SelectorUtils.matchAntPathPattern
+org/codehaus/plexus/util/MatchPattern.startsWith
+org/codehaus/plexus/util/MatchPattern.fromString
+org/codehaus/plexus/util/MatchPattern.getTokenizedPathString
+org/codehaus/plexus/util/SelectorUtils.isRegexPrefixedPattern
+org/codehaus/plexus/util/SelectorUtils.match
+org/codehaus/plexus/util/SelectorUtils.isAntPrefixedPattern
+org/codehaus/plexus/util/MatchPattern.tokenizePathToString
+perfect match

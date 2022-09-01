@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.chrono.TestEthiopicChronology.testDurationFields:284
+Methods call in assertion: [org/joda/time/DurationField.isPrecise, org/joda/time/chrono/EthiopicChronology.months]
+org/joda/time/chrono/EthiopicChronology.getInstanceUTC
+org/joda/time/field/DecoratedDurationField.isPrecise
+org/joda/time/chrono/AssembledChronology.months
+top 10 recommendations: 
+org/joda/time/chrono/EthiopicChronology.getInstanceUTC
+org/joda/time/field/DecoratedDurationField.isPrecise
+org/joda/time/chrono/AssembledChronology.months
+after post processing ......
+org/joda/time/chrono/EthiopicChronology.getInstanceUTC
+org/joda/time/field/DecoratedDurationField.isPrecise
+org/joda/time/chrono/AssembledChronology.months
+not matched

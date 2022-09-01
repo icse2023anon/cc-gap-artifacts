@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.plot.MultiplePiePlotTest.testConstructor:93
+Methods call in assertion: [org/jfree/chart/plot/MultiplePiePlot.getDataset]
+org/jfree/chart/plot/MultiplePiePlot.getDataset
+org/jfree/chart/plot/MultiplePiePlot.getLimit
+top 10 recommendations: 
+org/jfree/chart/plot/MultiplePiePlot.getDataset
+org/jfree/chart/plot/MultiplePiePlot.getLimit
+after post processing ......
+org/jfree/chart/plot/MultiplePiePlot.getDataset
+org/jfree/chart/plot/MultiplePiePlot.getLimit
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: com.google.gson.JsonParserTest.testParseEmptyString:68
+Methods call in assertion: [com/google/gson/JsonElement.isJsonPrimitive]
+com/google/gson/JsonParser.parse
+com/google/gson/JsonElement.isJsonPrimitive
+top 10 recommendations: 
+com/google/gson/JsonParser.parse
+com/google/gson/JsonElement.isJsonPrimitive
+after post processing ......
+com/google/gson/JsonParser.parse
+com/google/gson/JsonElement.isJsonPrimitive
+found in top 10

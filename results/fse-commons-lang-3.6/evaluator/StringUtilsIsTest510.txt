@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsIsTest.testIsWhitespace:78
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.isWhitespace]
+org/apache/commons/lang3/StringUtils.isWhitespace
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.isWhitespace
+after post processing ......
+org/apache/commons/lang3/StringUtils.isWhitespace
+perfect match

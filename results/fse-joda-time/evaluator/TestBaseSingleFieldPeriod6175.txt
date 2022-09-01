@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestBaseSingleFieldPeriod.testEqualsHashCode:242
+Methods call in assertion: [org/joda/time/Period.days]
+org/joda/time/PeriodType.days
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.standard
+org/joda/time/base/BaseSingleFieldPeriod.equals
+top 10 recommendations: 
+org/joda/time/PeriodType.days
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.standard
+org/joda/time/base/BaseSingleFieldPeriod.equals
+after post processing ......
+org/joda/time/PeriodType.days
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.standard
+org/joda/time/base/BaseSingleFieldPeriod.equals
+not matched

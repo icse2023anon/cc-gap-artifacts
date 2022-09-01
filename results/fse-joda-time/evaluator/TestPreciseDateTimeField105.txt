@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.field.TestPreciseDateTimeField.test_roundHalfEven_long:576
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.roundHalfEven]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/field/PreciseDurationDateTimeField.roundFloor
+org/joda/time/field/PreciseDateTimeField.<init>
+org/joda/time/field/PreciseDurationDateTimeField.roundCeiling
+org/joda/time/field/BaseDateTimeField.roundHalfEven
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/field/PreciseDurationDateTimeField.roundFloor
+org/joda/time/field/PreciseDateTimeField.<init>
+org/joda/time/field/PreciseDurationDateTimeField.roundCeiling
+org/joda/time/field/BaseDateTimeField.roundHalfEven
+after post processing ......
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/field/PreciseDurationDateTimeField.roundFloor
+org/joda/time/field/PreciseDateTimeField.<init>
+org/joda/time/field/PreciseDurationDateTimeField.roundCeiling
+org/joda/time/field/BaseDateTimeField.roundHalfEven
+found in top 10

@@ -1,0 +1,70 @@
+Aug 27, 2022 9:43:44 PM omc_ob.OMCob main
+INFO: total slices = total criteria = total assertions = 1723
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+INFO: Total condition covered: 1084
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.TypeHierarchyAdapterTest$EmployeeAdapter class not found in the jacoco report report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.ExclusionStrategyFunctionalTest$MyExclusionStrategy class not found in the jacoco report report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.ObjectTest$ArrayOfArrays class not found in the jacoco report report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.CustomTypeAdaptersTest$8 class not found in the jacoco report report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.RuntimeTypeAdapterFactoryFunctionalTest$RuntimeTypeAdapterFactory class not found in the jacoco report report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.ExclusionStrategyFunctionalTest$1 class not found in the jacoco report report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.InheritanceTest$ClassWithSubInterfacesOfCollection class not found in the jacoco report report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.CustomTypeAdaptersTest$DateTypeAdapter class not found in the jacoco report report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.ParameterizedTypeFixtures$MyParameterizedTypeAdapter class not found in the jacoco report report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.regression.JsonAdapterNullSafeTest$Device$JsonAdapterFactory class not found in the jacoco report report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.CustomTypeAdaptersTest$10 class not found in the jacoco report report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.OverrideCoreTypeAdaptersTest$1 class not found in the jacoco report report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per class coverage for object branch!
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.CustomTypeAdaptersTest$10.deserialize not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.RuntimeTypeAdapterFactoryFunctionalTest$RuntimeTypeAdapterFactory.create not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.OverrideCoreTypeAdaptersTest$1.read not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.CustomTypeAdaptersTest$8.deserialize not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.ObjectTest$ArrayOfArrays.getExpectedJson not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.TypeHierarchyAdapterTest$EmployeeAdapter.deserialize not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.CustomTypeAdaptersTest$DateTypeAdapter.deserialize not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.regression.JsonAdapterNullSafeTest$Device$JsonAdapterFactory.create not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.ExclusionStrategyFunctionalTest$MyExclusionStrategy.shouldSkipField not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.InheritanceTest$ClassWithSubInterfacesOfCollection.setContains not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.InheritanceTest$ClassWithSubInterfacesOfCollection.listContains not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.ExclusionStrategyFunctionalTest$MyExclusionStrategy.shouldSkipClass not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.TypeHierarchyAdapterTest$EmployeeAdapter.serialize not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.InheritanceTest$ClassWithSubInterfacesOfCollection.queueContains not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.ParameterizedTypeFixtures$MyParameterizedTypeAdapter.deserialize not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.ExclusionStrategyFunctionalTest$1.shouldSkipClass not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+WARNING: com.google.gson.functional.InheritanceTest$ClassWithSubInterfacesOfCollection.sortedSetContains not found in the jacoco report
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per method coverage for object branch!
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob main
+INFO: OBC :79.04599659284497
+Aug 27, 2022 9:43:56 PM omc_ob.OMCob main
+INFO: OMC_OBC :46.166950596252136

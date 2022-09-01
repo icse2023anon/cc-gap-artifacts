@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_dayOfYear:175
+Methods call in assertion: [org/joda/time/DateTimeFieldType.dayOfYear, org/joda/time/DurationFieldType.days, org/joda/time/DateTimeFieldType.getDurationType]
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DurationFieldType.days
+top 10 recommendations: 
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DurationFieldType.days
+after post processing ......
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DurationFieldType.days
+not matched

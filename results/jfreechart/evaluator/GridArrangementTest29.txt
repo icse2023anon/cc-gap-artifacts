@@ -1,0 +1,32 @@
+slicing criterion: org.jfree.chart.block.GridArrangementTest.testGridNotFull_FF:261
+Methods call in assertion: [org/jfree/chart/ui/Size2D.getHeight]
+org/jfree/chart/ui/Size2D.getHeight
+org/jfree/chart/block/BlockContainer.add
+org/jfree/chart/block/RectangleConstraint.getWidthConstraintType
+org/jfree/chart/block/GridArrangement.arrangeFF
+org/jfree/chart/block/BlockContainer.arrange
+org/jfree/chart/block/RectangleConstraint.getHeightConstraintType
+org/jfree/chart/block/BlockContainer.getBlocks
+org/jfree/chart/block/GridArrangement.arrange
+org/jfree/chart/block/RectangleConstraint.getHeight
+top 10 recommendations: 
+org/jfree/chart/block/GridArrangement.arrange
+org/jfree/chart/block/GridArrangement.arrangeFF
+org/jfree/chart/ui/Size2D.getHeight
+org/jfree/chart/block/BlockContainer.add
+org/jfree/chart/block/RectangleConstraint.getWidthConstraintType
+org/jfree/chart/block/BlockContainer.arrange
+org/jfree/chart/block/RectangleConstraint.getHeightConstraintType
+org/jfree/chart/block/BlockContainer.getBlocks
+org/jfree/chart/block/RectangleConstraint.getHeight
+after post processing ......
+org/jfree/chart/block/GridArrangement.arrange
+org/jfree/chart/block/GridArrangement.arrangeFF
+org/jfree/chart/ui/Size2D.getHeight
+org/jfree/chart/block/BlockContainer.add
+org/jfree/chart/block/RectangleConstraint.getWidthConstraintType
+org/jfree/chart/block/BlockContainer.arrange
+org/jfree/chart/block/RectangleConstraint.getHeightConstraintType
+org/jfree/chart/block/BlockContainer.getBlocks
+org/jfree/chart/block/RectangleConstraint.getHeight
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsEqualsIndexOfTest.testCompare_StringString:270
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.compare]
+org/apache/commons/lang3/StringUtils.compare
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.compare
+after post processing ......
+org/apache/commons/lang3/StringUtils.compare
+perfect match

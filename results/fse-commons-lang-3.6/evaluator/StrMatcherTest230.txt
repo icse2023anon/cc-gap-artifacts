@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.text.StrMatcherTest.testQuoteMatcher:143
+Methods call in assertion: [org/apache/commons/lang3/text/StrMatcher.isMatch]
+org/apache/commons/lang3/text/StrMatcher.isMatch
+org/apache/commons/lang3/text/StrMatcher.quoteMatcher
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrMatcher.isMatch
+org/apache/commons/lang3/text/StrMatcher.quoteMatcher
+after post processing ......
+org/apache/commons/lang3/text/StrMatcher.isMatch
+org/apache/commons/lang3/text/StrMatcher.quoteMatcher
+perfect match

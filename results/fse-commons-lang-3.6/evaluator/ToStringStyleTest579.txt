@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.ToStringStyleTest.testSetSizeEndText:117
+Methods call in assertion: [org/apache/commons/lang3/builder/ToStringStyle.getSizeEndText]
+org/apache/commons/lang3/builder/ToStringStyle.getSizeEndText
+org/apache/commons/lang3/builder/ToStringStyle.setSizeEndText
+top 10 recommendations: 
+org/apache/commons/lang3/builder/ToStringStyle.getSizeEndText
+org/apache/commons/lang3/builder/ToStringStyle.setSizeEndText
+after post processing ......
+org/apache/commons/lang3/builder/ToStringStyle.getSizeEndText
+org/apache/commons/lang3/builder/ToStringStyle.setSizeEndText
+perfect match

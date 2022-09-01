@@ -1,0 +1,47 @@
+slicing criterion: org.apache.commons.lang3.text.StrTokenizerTest.test2:144
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.toString]
+org/apache/commons/lang3/builder/ToStringBuilder.append
+org/apache/commons/lang3/builder/ToStringBuilder.<init>
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/ArrayUtils.toString
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrTokenizer.getTokenArray
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+org/apache/commons/lang3/text/StrTokenizer.getQuoteMatcher
+org/apache/commons/lang3/builder/ToStringBuilder.toString
+org/apache/commons/lang3/text/StrTokenizer.isIgnoreEmptyTokens
+org/apache/commons/lang3/text/StrTokenizer.setDelimiterMatcher
+org/apache/commons/lang3/text/StrTokenizer.setQuoteMatcher
+org/apache/commons/lang3/builder/ToStringBuilder.getStringBuffer
+org/apache/commons/lang3/text/StrBuilder.substring
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.toString
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/builder/ToStringBuilder.toString
+org/apache/commons/lang3/builder/ToStringBuilder.append
+org/apache/commons/lang3/builder/ToStringBuilder.<init>
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrTokenizer.getTokenArray
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.toString
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/builder/ToStringBuilder.toString
+org/apache/commons/lang3/builder/ToStringBuilder.append
+org/apache/commons/lang3/builder/ToStringBuilder.<init>
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrTokenizer.getTokenArray
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+org/apache/commons/lang3/text/StrTokenizer.getQuoteMatcher
+org/apache/commons/lang3/text/StrTokenizer.isIgnoreEmptyTokens
+org/apache/commons/lang3/text/StrTokenizer.setDelimiterMatcher
+org/apache/commons/lang3/text/StrTokenizer.setQuoteMatcher
+org/apache/commons/lang3/builder/ToStringBuilder.getStringBuffer
+org/apache/commons/lang3/text/StrBuilder.substring
+perfect match

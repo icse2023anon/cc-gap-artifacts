@@ -1,0 +1,32 @@
+slicing criterion: com.google.gson.functional.DefaultTypeAdaptersTest.testJsonElementTypeMismatch:626
+Methods call in assertion: [com/google/gson/JsonSyntaxException.getMessage]
+com/google/gson/Gson.<init>
+com/google/gson/Gson.fromJson
+com/google/gson/reflect/TypeToken.<init>
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/JsonParseException.<init>
+com/google/gson/Gson.getAdapter
+com/google/gson/internal/bind/TypeAdapters.create
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/JsonSyntaxException.<init>
+top 10 recommendations: 
+com/google/gson/Gson.fromJson
+com/google/gson/JsonSyntaxException.<init>
+com/google/gson/Gson.<init>
+com/google/gson/reflect/TypeToken.<init>
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/JsonParseException.<init>
+com/google/gson/Gson.getAdapter
+com/google/gson/internal/bind/TypeAdapters.create
+com/google/gson/reflect/TypeToken.getRawType
+after post processing ......
+com/google/gson/Gson.fromJson
+com/google/gson/JsonSyntaxException.<init>
+com/google/gson/Gson.<init>
+com/google/gson/reflect/TypeToken.<init>
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/JsonParseException.<init>
+com/google/gson/Gson.getAdapter
+com/google/gson/internal/bind/TypeAdapters.create
+com/google/gson/reflect/TypeToken.getRawType
+not matched

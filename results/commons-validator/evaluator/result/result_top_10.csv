@@ -1,0 +1,6 @@
+package,assertion_tested,exact_match,top_10,all_method_suggested
+org.apache.commons.validator.util,12,12,12,12
+org.apache.commons.validator.routines,1132,614,1132,1132
+org.apache.commons.validator,284,55,125,283
+org.apache.commons.validator.routines.checkdigit,13,6,10,10
+total:,1441,687,1279,1437

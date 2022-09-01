@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.labels.MultipleXYSeriesLabelGeneratorTest.testHashCode:90
+Methods call in assertion: [org/jfree/chart/labels/MultipleXYSeriesLabelGenerator.equals]
+org/jfree/chart/labels/MultipleXYSeriesLabelGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/labels/MultipleXYSeriesLabelGenerator.equals
+after post processing ......
+org/jfree/chart/labels/MultipleXYSeriesLabelGenerator.equals
+perfect match

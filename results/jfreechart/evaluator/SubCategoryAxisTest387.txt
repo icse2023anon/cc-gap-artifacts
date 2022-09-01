@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.axis.SubCategoryAxisTest.testEquals:86
+Methods call in assertion: [org/jfree/chart/axis/SubCategoryAxis.equals]
+org/jfree/chart/axis/SubCategoryAxis.equals
+top 10 recommendations: 
+org/jfree/chart/axis/SubCategoryAxis.equals
+after post processing ......
+org/jfree/chart/axis/SubCategoryAxis.equals
+perfect match

@@ -1,0 +1,45 @@
+slicing criterion: org.jfree.chart.renderer.RendererUtilsTest.test3561093:495
+Methods call in assertion: [org/jfree/chart/renderer/RendererUtils.findLiveItemsLowerBound]
+org/jfree/data/xy/XYSeries.getRawDataItem
+org/jfree/data/xy/XYDataItem.getX
+org/jfree/chart/renderer/RendererUtils.findLiveItemsLowerBound
+org/jfree/data/xy/AbstractXYDataset.getXValue
+org/jfree/data/xy/XYSeriesCollection.addSeries
+org/jfree/data/xy/XYSeriesCollection.getX
+org/jfree/data/xy/XYSeriesCollection.getDomainOrder
+org/jfree/data/xy/XYSeriesCollection.getSeriesCount
+org/jfree/data/xy/XYDataItem.clone
+org/jfree/data/xy/XYSeries.add
+org/jfree/data/xy/XYSeries.getAutoSort
+org/jfree/data/xy/XYSeriesCollection.getSeries
+org/jfree/data/xy/XYSeriesCollection.getItemCount
+org/jfree/data/xy/XYSeries.getItemCount
+org/jfree/data/xy/XYSeries.getX
+top 10 recommendations: 
+org/jfree/data/xy/XYSeriesCollection.getX
+org/jfree/data/xy/XYSeriesCollection.getDomainOrder
+org/jfree/data/xy/XYSeries.add
+org/jfree/data/xy/XYSeriesCollection.getItemCount
+org/jfree/data/xy/XYSeries.getX
+org/jfree/data/xy/XYSeriesCollection.getSeries
+org/jfree/data/xy/XYSeries.getRawDataItem
+org/jfree/data/xy/XYDataItem.getX
+org/jfree/chart/renderer/RendererUtils.findLiveItemsLowerBound
+org/jfree/data/xy/AbstractXYDataset.getXValue
+after post processing ......
+org/jfree/data/xy/XYSeriesCollection.getX
+org/jfree/data/xy/XYSeriesCollection.getDomainOrder
+org/jfree/data/xy/XYSeries.add
+org/jfree/data/xy/XYSeriesCollection.getItemCount
+org/jfree/data/xy/XYSeries.getX
+org/jfree/data/xy/XYSeriesCollection.getSeries
+org/jfree/data/xy/XYSeries.getRawDataItem
+org/jfree/data/xy/XYDataItem.getX
+org/jfree/chart/renderer/RendererUtils.findLiveItemsLowerBound
+org/jfree/data/xy/AbstractXYDataset.getXValue
+org/jfree/data/xy/XYSeriesCollection.addSeries
+org/jfree/data/xy/XYSeriesCollection.getSeriesCount
+org/jfree/data/xy/XYDataItem.clone
+org/jfree/data/xy/XYSeries.getAutoSort
+org/jfree/data/xy/XYSeries.getItemCount
+found in top 10

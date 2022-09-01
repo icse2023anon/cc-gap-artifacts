@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.plot.MeterPlotTest.testCloning:218
+Methods call in assertion: [org/jfree/chart/plot/MeterPlot.equals]
+org/jfree/chart/plot/MeterPlot.addInterval
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/MeterPlot.clone
+org/jfree/chart/plot/MeterPlot.equals
+top 10 recommendations: 
+org/jfree/chart/plot/MeterPlot.equals
+org/jfree/chart/plot/MeterPlot.addInterval
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/MeterPlot.clone
+after post processing ......
+org/jfree/chart/plot/MeterPlot.equals
+org/jfree/chart/plot/MeterPlot.addInterval
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/MeterPlot.clone
+perfect match

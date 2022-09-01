@@ -1,0 +1,59 @@
+slicing criterion: com.google.gson.stream.JsonReaderPathTest.path:74
+Methods call in assertion: [com/google/gson/stream/JsonReader.getPath]
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/stream/JsonReader.nextBoolean
+com/google/gson/stream/JsonReader.getPath
+com/google/gson/internal/LinkedTreeMap.put
+com/google/gson/internal/LinkedTreeMap.entrySet
+com/google/gson/internal/bind/JsonTreeReader.nextBoolean
+com/google/gson/internal/Streams.parse
+com/google/gson/internal/bind/JsonTreeReader.nextString
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/stream/JsonReader.peek
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/internal/bind/JsonTreeReader.nextName
+com/google/gson/JsonArray.iterator
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/internal/bind/JsonTreeReader.getPath
+com/google/gson/stream/JsonReader.nextInt
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/JsonArray.add
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/internal/bind/JsonTreeReader.peek
+top 10 recommendations: 
+com/google/gson/stream/JsonReader.nextBoolean
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/stream/JsonReader.nextInt
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/internal/LinkedTreeMap.put
+com/google/gson/internal/bind/JsonTreeReader.nextString
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/stream/JsonReader.peek
+com/google/gson/internal/bind/JsonTreeReader.<init>
+after post processing ......
+com/google/gson/stream/JsonReader.nextBoolean
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/stream/JsonReader.nextInt
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/internal/LinkedTreeMap.put
+com/google/gson/internal/bind/JsonTreeReader.nextString
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/stream/JsonReader.peek
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/stream/JsonReader.getPath
+com/google/gson/internal/LinkedTreeMap.entrySet
+com/google/gson/internal/bind/JsonTreeReader.nextBoolean
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/internal/bind/JsonTreeReader.nextName
+com/google/gson/JsonArray.iterator
+com/google/gson/internal/bind/JsonTreeReader.getPath
+com/google/gson/JsonArray.add
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/internal/bind/JsonTreeReader.peek
+all method calls are suggested

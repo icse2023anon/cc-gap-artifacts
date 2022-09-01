@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Basics.testGetValue:230
+Methods call in assertion: [org/joda/time/TimeOfDay.getValue]
+org/joda/time/base/BasePartial.getValue
+top 10 recommendations: 
+org/joda/time/base/BasePartial.getValue
+after post processing ......
+org/joda/time/base/BasePartial.getValue
+perfect match

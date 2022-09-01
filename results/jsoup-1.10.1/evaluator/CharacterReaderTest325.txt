@@ -1,0 +1,11 @@
+slicing criterion: org.jsoup.parser.CharacterReaderTest.matches:166
+Methods call in assertion: [org/jsoup/parser/CharacterReader.consumeToEnd]
+org/jsoup/parser/CharacterReader.consumeHexSequence
+org/jsoup/parser/CharacterReader.consumeToEnd
+top 10 recommendations: 
+org/jsoup/parser/CharacterReader.consumeHexSequence
+org/jsoup/parser/CharacterReader.consumeToEnd
+after post processing ......
+org/jsoup/parser/CharacterReader.consumeHexSequence
+org/jsoup/parser/CharacterReader.consumeToEnd
+found in top 10

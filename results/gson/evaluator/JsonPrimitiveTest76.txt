@@ -1,0 +1,11 @@
+slicing criterion: com.google.gson.JsonPrimitiveTest.testStringsAndChar:79
+Methods call in assertion: [com/google/gson/JsonPrimitive.isString]
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.isString
+top 10 recommendations: 
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.isString
+after post processing ......
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.isString
+found in top 10

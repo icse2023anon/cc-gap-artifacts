@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_dayOfWeek:196
+Methods call in assertion: [org/joda/time/DurationFieldType.weeks, org/joda/time/DateTimeFieldType.dayOfWeek, org/joda/time/DateTimeFieldType.getRangeDurationType]
+org/joda/time/DurationFieldType.weeks
+org/joda/time/DateTimeFieldType.dayOfWeek
+top 10 recommendations: 
+org/joda/time/DurationFieldType.weeks
+org/joda/time/DateTimeFieldType.dayOfWeek
+after post processing ......
+org/joda/time/DurationFieldType.weeks
+org/joda/time/DateTimeFieldType.dayOfWeek
+not matched

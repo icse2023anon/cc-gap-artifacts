@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.FastScatterPlotTest.testEquals:126
+Methods call in assertion: [org/jfree/chart/plot/FastScatterPlot.equals]
+org/jfree/chart/plot/FastScatterPlot.equals
+top 10 recommendations: 
+org/jfree/chart/plot/FastScatterPlot.equals
+after post processing ......
+org/jfree/chart/plot/FastScatterPlot.equals
+perfect match

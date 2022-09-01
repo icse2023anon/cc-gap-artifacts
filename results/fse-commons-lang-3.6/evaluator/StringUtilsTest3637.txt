@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testRightPad_StringIntChar:1813
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.rightPad]
+org/apache/commons/lang3/StringUtils.rightPad
+org/apache/commons/lang3/StringUtils.repeat
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.rightPad
+org/apache/commons/lang3/StringUtils.repeat
+after post processing ......
+org/apache/commons/lang3/StringUtils.rightPad
+org/apache/commons/lang3/StringUtils.repeat
+perfect match

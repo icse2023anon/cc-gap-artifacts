@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.CategoryMarkerTest.testEquals:131
+Methods call in assertion: [org/jfree/chart/plot/CategoryMarker.equals]
+org/jfree/chart/plot/CategoryMarker.equals
+top 10 recommendations: 
+org/jfree/chart/plot/CategoryMarker.equals
+after post processing ......
+org/jfree/chart/plot/CategoryMarker.equals
+perfect match

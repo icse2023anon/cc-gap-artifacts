@@ -1,0 +1,5 @@
+package,total_assertion,exact_match(%),top_1(%),top_5(%),top_10(%),all_method_suggested(%)
+org.apache.commons.validator.util,12,12,12,12,12,12,
+org.apache.commons.validator.routines,1132,614,642,972,1132,1132,
+org.apache.commons.validator,284,55,55,119,125,283,
+org.apache.commons.validator.routines.checkdigit,13,6,9,10,10,10,

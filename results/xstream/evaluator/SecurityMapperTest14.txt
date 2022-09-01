@@ -1,0 +1,23 @@
+slicing criterion: com.thoughtworks.xstream.mapper.SecurityMapperTest.testNamesWithWildcardPatterns:199
+Methods call in assertion: [com/thoughtworks/xstream/security/ForbiddenClassException.getMessage]
+com/thoughtworks/xstream/security/RegExpTypePermission.allows
+com/thoughtworks/xstream/XStreamException.<init>
+com/thoughtworks/xstream/mapper/SecurityMapper.realClass
+com/thoughtworks/xstream/mapper/SecurityMapper.addPermission
+com/thoughtworks/xstream/core/BaseException.<init>
+com/thoughtworks/xstream/security/ForbiddenClassException.<init>
+top 10 recommendations: 
+com/thoughtworks/xstream/mapper/SecurityMapper.realClass
+com/thoughtworks/xstream/security/ForbiddenClassException.<init>
+com/thoughtworks/xstream/XStreamException.<init>
+com/thoughtworks/xstream/security/RegExpTypePermission.allows
+com/thoughtworks/xstream/mapper/SecurityMapper.addPermission
+com/thoughtworks/xstream/core/BaseException.<init>
+after post processing ......
+com/thoughtworks/xstream/mapper/SecurityMapper.realClass
+com/thoughtworks/xstream/security/ForbiddenClassException.<init>
+com/thoughtworks/xstream/XStreamException.<init>
+com/thoughtworks/xstream/security/RegExpTypePermission.allows
+com/thoughtworks/xstream/mapper/SecurityMapper.addPermission
+com/thoughtworks/xstream/core/BaseException.<init>
+not matched

@@ -1,0 +1,20 @@
+slicing criterion: com.google.gson.JsonArrayTest.testDeepCopy:99
+Methods call in assertion: [com/google/gson/JsonArray.get, com/google/gson/JsonArray.size, com/google/gson/JsonElement.getAsJsonArray]
+com/google/gson/JsonArray.get
+com/google/gson/JsonArray.size
+com/google/gson/JsonElement.getAsJsonArray
+com/google/gson/JsonArray.add
+com/google/gson/JsonElement.isJsonArray
+top 10 recommendations: 
+com/google/gson/JsonElement.getAsJsonArray
+com/google/gson/JsonArray.get
+com/google/gson/JsonArray.size
+com/google/gson/JsonArray.add
+com/google/gson/JsonElement.isJsonArray
+after post processing ......
+com/google/gson/JsonElement.getAsJsonArray
+com/google/gson/JsonArray.get
+com/google/gson/JsonArray.size
+com/google/gson/JsonArray.add
+com/google/gson/JsonElement.isJsonArray
+found in top 10

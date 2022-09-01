@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.tuple.MutablePairTest.testToString:102
+Methods call in assertion: [org/apache/commons/lang3/tuple/MutablePair.toString, org/apache/commons/lang3/tuple/MutablePair.of]
+org/apache/commons/lang3/tuple/MutablePair.getRight
+org/apache/commons/lang3/tuple/Pair.toString
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/MutablePair.getRight
+org/apache/commons/lang3/tuple/Pair.toString
+after post processing ......
+org/apache/commons/lang3/tuple/MutablePair.getRight
+org/apache/commons/lang3/tuple/Pair.toString
+not matched

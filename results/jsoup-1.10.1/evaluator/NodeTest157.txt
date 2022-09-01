@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.nodes.NodeTest.orphanNodeReturnsNullForSiblingElements:224
+Methods call in assertion: [org/jsoup/nodes/Node.siblingIndex]
+org/jsoup/nodes/Node.siblingIndex
+top 10 recommendations: 
+org/jsoup/nodes/Node.siblingIndex
+after post processing ......
+org/jsoup/nodes/Node.siblingIndex
+perfect match

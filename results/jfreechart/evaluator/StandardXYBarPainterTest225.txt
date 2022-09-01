@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.xy.StandardXYBarPainterTest.testHashcode:74
+Methods call in assertion: [org/jfree/chart/renderer/xy/StandardXYBarPainter.equals]
+org/jfree/chart/renderer/xy/StandardXYBarPainter.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/StandardXYBarPainter.equals
+after post processing ......
+org/jfree/chart/renderer/xy/StandardXYBarPainter.equals
+perfect match

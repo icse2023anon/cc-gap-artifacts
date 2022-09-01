@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testEquals:83
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.hashCode]
+org/apache/commons/csv/CSVFormat.hashCode
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.hashCode
+after post processing ......
+org/apache/commons/csv/CSVFormat.hashCode
+perfect match

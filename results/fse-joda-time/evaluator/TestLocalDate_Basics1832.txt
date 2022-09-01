@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestLocalDate_Basics.testIsSupported_DurationFieldType:504
+Methods call in assertion: [org/joda/time/LocalDate.isSupported, org/joda/time/DurationFieldType.years]
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/LocalDate.isSupported
+org/joda/time/DurationFieldType.years
+top 10 recommendations: 
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/LocalDate.isSupported
+org/joda/time/DurationFieldType.years
+after post processing ......
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/LocalDate.isSupported
+org/joda/time/DurationFieldType.years
+found in top 10

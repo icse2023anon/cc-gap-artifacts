@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestDateTimeComparator.testEqualsHashCode:314
+Methods call in assertion: [org/joda/time/DateTimeComparator.equals]
+org/joda/time/DateTimeComparator.getInstance
+org/joda/time/DateTimeComparator.equals
+org/joda/time/DateTimeComparator.getLowerLimit
+org/joda/time/DateTimeComparator.getUpperLimit
+org/joda/time/DateTimeComparator.getTimeOnlyInstance
+top 10 recommendations: 
+org/joda/time/DateTimeComparator.equals
+org/joda/time/DateTimeComparator.getInstance
+org/joda/time/DateTimeComparator.getLowerLimit
+org/joda/time/DateTimeComparator.getUpperLimit
+org/joda/time/DateTimeComparator.getTimeOnlyInstance
+after post processing ......
+org/joda/time/DateTimeComparator.equals
+org/joda/time/DateTimeComparator.getInstance
+org/joda/time/DateTimeComparator.getLowerLimit
+org/joda/time/DateTimeComparator.getUpperLimit
+org/joda/time/DateTimeComparator.getTimeOnlyInstance
+perfect match

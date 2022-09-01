@@ -1,0 +1,43 @@
+slicing criterion: org.apache.commons.lang3.builder.DiffBuilderTest.testObject:352
+Methods call in assertion: [org/apache/commons/lang3/builder/Diff.getRight]
+org/apache/commons/lang3/builder/EqualsBuilder.append
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionAppend
+org/apache/commons/lang3/builder/EqualsBuilder.setTestTransients
+org/apache/commons/lang3/builder/EqualsBuilder.setExcludeFields
+org/apache/commons/lang3/builder/EqualsBuilder.isRegistered
+org/apache/commons/lang3/builder/DiffBuilder.append
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionEquals
+org/apache/commons/lang3/builder/EqualsBuilder.setReflectUpToClass
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/builder/DiffResult.getDiffs
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/builder/EqualsBuilder.getRegistry
+org/apache/commons/lang3/builder/EqualsBuilder.setTestRecursive
+top 10 recommendations: 
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionEquals
+org/apache/commons/lang3/builder/EqualsBuilder.append
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionAppend
+org/apache/commons/lang3/builder/EqualsBuilder.isRegistered
+org/apache/commons/lang3/builder/DiffBuilder.append
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/builder/EqualsBuilder.setTestTransients
+org/apache/commons/lang3/builder/EqualsBuilder.setExcludeFields
+org/apache/commons/lang3/builder/EqualsBuilder.setReflectUpToClass
+after post processing ......
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionEquals
+org/apache/commons/lang3/builder/EqualsBuilder.append
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionAppend
+org/apache/commons/lang3/builder/EqualsBuilder.isRegistered
+org/apache/commons/lang3/builder/DiffBuilder.append
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/builder/EqualsBuilder.setTestTransients
+org/apache/commons/lang3/builder/EqualsBuilder.setExcludeFields
+org/apache/commons/lang3/builder/EqualsBuilder.setReflectUpToClass
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/builder/DiffResult.getDiffs
+org/apache/commons/lang3/builder/EqualsBuilder.getRegistry
+org/apache/commons/lang3/builder/EqualsBuilder.setTestRecursive
+not matched

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.validator.CreditCardValidatorTest.testIsValid:47
+Methods call in assertion: [org/apache/commons/validator/CreditCardValidator.isValid]
+org/apache/commons/validator/CreditCardValidator.isValid
+top 10 recommendations: 
+org/apache/commons/validator/CreditCardValidator.isValid
+after post processing ......
+org/apache/commons/validator/CreditCardValidator.isValid
+perfect match

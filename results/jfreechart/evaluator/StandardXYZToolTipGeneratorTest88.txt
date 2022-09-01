@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.labels.StandardXYZToolTipGeneratorTest.testHashCode:151
+Methods call in assertion: [org/jfree/chart/labels/StandardXYZToolTipGenerator.hashCode]
+org/jfree/chart/labels/StandardXYZToolTipGenerator.<init>
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.hashCode
+org/jfree/chart/HashUtils.hashCode
+top 10 recommendations: 
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.hashCode
+org/jfree/chart/labels/StandardXYZToolTipGenerator.<init>
+org/jfree/chart/HashUtils.hashCode
+after post processing ......
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.hashCode
+org/jfree/chart/labels/StandardXYZToolTipGenerator.<init>
+org/jfree/chart/HashUtils.hashCode
+found in top 10

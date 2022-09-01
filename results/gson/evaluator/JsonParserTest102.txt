@@ -1,0 +1,45 @@
+slicing criterion: com.google.gson.JsonParserTest.testParseMixedArray:96
+Methods call in assertion: [com/google/gson/JsonArray.get, com/google/gson/JsonElement.getAsInt]
+com/google/gson/JsonArray.get
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/JsonElement.getAsJsonArray
+com/google/gson/JsonPrimitive.getAsInt
+com/google/gson/internal/Streams.parse
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/LazilyParsedNumber.intValue
+com/google/gson/stream/JsonReader.peek
+com/google/gson/JsonParser.parse
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/JsonArray.add
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/JsonElement.isJsonArray
+top 10 recommendations: 
+com/google/gson/JsonParser.parse
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/JsonElement.getAsJsonArray
+com/google/gson/JsonPrimitive.getAsInt
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/JsonArray.get
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/JsonPrimitive.setValue
+after post processing ......
+com/google/gson/JsonParser.parse
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/JsonElement.getAsJsonArray
+com/google/gson/JsonPrimitive.getAsInt
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/JsonArray.get
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/LazilyParsedNumber.intValue
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonArray.add
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/JsonElement.isJsonArray
+not matched

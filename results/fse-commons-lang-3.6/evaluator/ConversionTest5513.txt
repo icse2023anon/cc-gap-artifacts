@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testLongToHex:1294
+Methods call in assertion: [org/apache/commons/lang3/Conversion.longToHex]
+org/apache/commons/lang3/Conversion.longToHex
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.longToHex
+after post processing ......
+org/apache/commons/lang3/Conversion.longToHex
+perfect match

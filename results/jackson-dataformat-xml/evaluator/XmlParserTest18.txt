@@ -1,0 +1,14 @@
+slicing criterion: com.fasterxml.jackson.dataformat.xml.stream.XmlParserTest.testForceElementAsArray:191
+Methods call in assertion: [com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.isExpectedStartArrayToken]
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.isExpectedStartArrayToken
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextToken
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+top 10 recommendations: 
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.isExpectedStartArrayToken
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextToken
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+after post processing ......
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.isExpectedStartArrayToken
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextToken
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+perfect match

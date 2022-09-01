@@ -1,0 +1,45 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Constructors.testConstructor_Chronology:297
+Methods call in assertion: [org/joda/time/LocalDateTime.getMinuteOfHour]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/LocalDateTime.getMinuteOfHour
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/LocalDateTime.<init>
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/LocalDateTime.<init>
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/LocalDateTime.getMinuteOfHour
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/chrono/GregorianChronology.withUTC
+after post processing ......
+org/joda/time/LocalDateTime.<init>
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/LocalDateTime.getMinuteOfHour
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

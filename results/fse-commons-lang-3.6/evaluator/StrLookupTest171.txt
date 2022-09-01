@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.StrLookupTest.testMapLookup:115
+Methods call in assertion: [org/apache/commons/lang3/text/StrLookup.lookup, org/apache/commons/lang3/text/StrLookup.mapLookup]
+org/apache/commons/lang3/text/StrLookup.lookup
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrLookup.lookup
+after post processing ......
+org/apache/commons/lang3/text/StrLookup.lookup
+not matched

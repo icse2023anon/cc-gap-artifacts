@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.exception.ExceptionUtilsTest.testIndexOf_ThrowableClassInt:337
+Methods call in assertion: [org/apache/commons/lang3/exception/ExceptionUtils.indexOfThrowable]
+org/apache/commons/lang3/exception/ExceptionUtils.getCause
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableList
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowables
+org/apache/commons/lang3/exception/ExceptionUtils.indexOfThrowable
+top 10 recommendations: 
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowables
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableList
+org/apache/commons/lang3/exception/ExceptionUtils.getCause
+org/apache/commons/lang3/exception/ExceptionUtils.indexOfThrowable
+after post processing ......
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowables
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableList
+org/apache/commons/lang3/exception/ExceptionUtils.getCause
+org/apache/commons/lang3/exception/ExceptionUtils.indexOfThrowable
+found in top 10

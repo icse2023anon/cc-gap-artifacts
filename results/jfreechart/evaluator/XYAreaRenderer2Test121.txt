@@ -1,0 +1,29 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYAreaRenderer2Test.testCloning:117
+Methods call in assertion: [org/jfree/chart/renderer/xy/XYAreaRenderer2.equals]
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getSeriesToolTipGenerator
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/renderer/xy/XYAreaRenderer2.clone
+org/jfree/chart/renderer/AbstractRenderer.clone
+org/jfree/chart/renderer/xy/XYAreaRenderer2.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/ShapeUtils.clone
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/XYAreaRenderer2.clone
+org/jfree/chart/renderer/AbstractRenderer.clone
+org/jfree/chart/renderer/xy/XYAreaRenderer2.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getSeriesToolTipGenerator
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/renderer/xy/XYAreaRenderer2.clone
+org/jfree/chart/renderer/AbstractRenderer.clone
+org/jfree/chart/renderer/xy/XYAreaRenderer2.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getSeriesToolTipGenerator
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/util/ObjectUtils.equal
+found in top 10

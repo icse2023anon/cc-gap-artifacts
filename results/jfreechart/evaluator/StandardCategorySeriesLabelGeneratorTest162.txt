@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.labels.StandardCategorySeriesLabelGeneratorTest.testHashCode:102
+Methods call in assertion: [org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.equals]
+org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.equals
+after post processing ......
+org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.equals
+perfect match

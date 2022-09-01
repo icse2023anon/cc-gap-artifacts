@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.axis.SymbolAxisTest.testEquals:112
+Methods call in assertion: [org/jfree/chart/axis/SymbolAxis.equals]
+org/jfree/chart/axis/SymbolAxis.equals
+org/jfree/chart/util/PaintUtils.equal
+top 10 recommendations: 
+org/jfree/chart/axis/SymbolAxis.equals
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/axis/SymbolAxis.equals
+org/jfree/chart/util/PaintUtils.equal
+perfect match

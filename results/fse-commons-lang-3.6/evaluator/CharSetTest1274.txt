@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.CharSetTest.testConstructor_String_simple:94
+Methods call in assertion: [org/apache/commons/lang3/CharSet.toString]
+org/apache/commons/lang3/CharSet.getInstance
+org/apache/commons/lang3/CharSet.toString
+top 10 recommendations: 
+org/apache/commons/lang3/CharSet.getInstance
+org/apache/commons/lang3/CharSet.toString
+after post processing ......
+org/apache/commons/lang3/CharSet.getInstance
+org/apache/commons/lang3/CharSet.toString
+found in top 10

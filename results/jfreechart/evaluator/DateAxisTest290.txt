@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.axis.DateAxisTest.testSetMinimumDate:240
+Methods call in assertion: [org/jfree/chart/axis/DateAxis.getMinimumDate]
+org/jfree/data/time/DateRange.getLowerDate
+org/jfree/chart/axis/ValueAxis.getRange
+org/jfree/chart/axis/DateAxis.getMinimumDate
+top 10 recommendations: 
+org/jfree/chart/axis/DateAxis.getMinimumDate
+org/jfree/data/time/DateRange.getLowerDate
+org/jfree/chart/axis/ValueAxis.getRange
+after post processing ......
+org/jfree/chart/axis/DateAxis.getMinimumDate
+org/jfree/data/time/DateRange.getLowerDate
+org/jfree/chart/axis/ValueAxis.getRange
+perfect match

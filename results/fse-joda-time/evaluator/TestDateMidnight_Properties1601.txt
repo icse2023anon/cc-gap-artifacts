@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDateMidnight_Properties.testPropertyGetDayOfWeek:495
+Methods call in assertion: [org/joda/time/DateMidnight.dayOfWeek, org/joda/time/DateMidnight$Property.getDateMidnight]
+org/joda/time/DateMidnight.dayOfWeek
+top 10 recommendations: 
+org/joda/time/DateMidnight.dayOfWeek
+after post processing ......
+org/joda/time/DateMidnight.dayOfWeek
+not matched

@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestPeriodType.testMinutes:453
+Methods call in assertion: [org/joda/time/PeriodType.hashCode]
+org/joda/time/DurationFieldType.minutes
+org/joda/time/PeriodType.hashCode
+org/joda/time/PeriodType.minutes
+top 10 recommendations: 
+org/joda/time/PeriodType.minutes
+org/joda/time/DurationFieldType.minutes
+org/joda/time/PeriodType.hashCode
+after post processing ......
+org/joda/time/PeriodType.minutes
+org/joda/time/DurationFieldType.minutes
+org/joda/time/PeriodType.hashCode
+found in top 10

@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.JFreeChartTest.testBug942:476
+Methods call in assertion: [org/jfree/chart/title/TextTitle.getText, org/jfree/chart/ChartFactory.createPieChart, org/jfree/chart/JFreeChart.getTitle]
+org/jfree/chart/JFreeChart.<init>
+org/jfree/chart/title/TextTitle.getText
+org/jfree/chart/JFreeChart.getTitle
+org/jfree/chart/ChartFactory.createPieChart
+top 10 recommendations: 
+org/jfree/chart/ChartFactory.createPieChart
+org/jfree/chart/JFreeChart.<init>
+org/jfree/chart/title/TextTitle.getText
+org/jfree/chart/JFreeChart.getTitle
+after post processing ......
+org/jfree/chart/ChartFactory.createPieChart
+org/jfree/chart/JFreeChart.<init>
+org/jfree/chart/title/TextTitle.getText
+org/jfree/chart/JFreeChart.getTitle
+found in top 10

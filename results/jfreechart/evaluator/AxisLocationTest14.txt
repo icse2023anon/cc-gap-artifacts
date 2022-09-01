@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.axis.AxisLocationTest.testHashCode:74
+Methods call in assertion: [org/jfree/chart/axis/AxisLocation.equals]
+org/jfree/chart/axis/AxisLocation.equals
+top 10 recommendations: 
+org/jfree/chart/axis/AxisLocation.equals
+after post processing ......
+org/jfree/chart/axis/AxisLocation.equals
+perfect match

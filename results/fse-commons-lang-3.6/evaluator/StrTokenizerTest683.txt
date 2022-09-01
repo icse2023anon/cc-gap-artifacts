@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.text.StrTokenizerTest.testXSVAbc:840
+Methods call in assertion: [org/apache/commons/lang3/text/StrTokenizer.previousIndex]
+org/apache/commons/lang3/text/StrTokenizer.cloneReset
+org/apache/commons/lang3/text/StrTokenizer.getCSVInstance
+org/apache/commons/lang3/text/StrTokenizer.getTSVInstance
+org/apache/commons/lang3/text/StrTokenizer.previousIndex
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrTokenizer.cloneReset
+org/apache/commons/lang3/text/StrTokenizer.getCSVInstance
+org/apache/commons/lang3/text/StrTokenizer.getTSVInstance
+org/apache/commons/lang3/text/StrTokenizer.previousIndex
+after post processing ......
+org/apache/commons/lang3/text/StrTokenizer.cloneReset
+org/apache/commons/lang3/text/StrTokenizer.getCSVInstance
+org/apache/commons/lang3/text/StrTokenizer.getTSVInstance
+org/apache/commons/lang3/text/StrTokenizer.previousIndex
+found in top 10

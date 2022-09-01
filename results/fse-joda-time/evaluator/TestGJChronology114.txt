@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.chrono.TestGJChronology.testTimeOfDayAdd:652
+Methods call in assertion: [org/joda/time/TimeOfDay.minusHours]
+org/joda/time/TimeOfDay.withFieldAdded
+org/joda/time/TimeOfDay.minusHours
+org/joda/time/field/FieldUtils.safeNegate
+top 10 recommendations: 
+org/joda/time/TimeOfDay.minusHours
+org/joda/time/TimeOfDay.withFieldAdded
+org/joda/time/field/FieldUtils.safeNegate
+after post processing ......
+org/joda/time/TimeOfDay.minusHours
+org/joda/time/TimeOfDay.withFieldAdded
+org/joda/time/field/FieldUtils.safeNegate
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.CharSetTest.testGetInstance:65
+Methods call in assertion: [org/apache/commons/lang3/CharSet.getInstance]
+org/apache/commons/lang3/CharSet.getInstance
+top 10 recommendations: 
+org/apache/commons/lang3/CharSet.getInstance
+after post processing ......
+org/apache/commons/lang3/CharSet.getInstance
+perfect match

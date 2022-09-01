@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.field.TestScaledDurationField.test_compareTo:290
+Methods call in assertion: [org/joda/time/field/ScaledDurationField.compareTo]
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/field/ScaledDurationField.getUnitMillis
+org/joda/time/field/BaseDurationField.compareTo
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/field/ScaledDurationField.getUnitMillis
+org/joda/time/field/BaseDurationField.compareTo
+after post processing ......
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/field/ScaledDurationField.getUnitMillis
+org/joda/time/field/BaseDurationField.compareTo
+found in top 10

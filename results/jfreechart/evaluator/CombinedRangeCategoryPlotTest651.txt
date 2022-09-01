@@ -1,0 +1,39 @@
+slicing criterion: org.jfree.chart.plot.CombinedRangeCategoryPlotTest.testEquals:90
+Methods call in assertion: [org/jfree/chart/plot/CombinedRangeCategoryPlot.equals]
+org/jfree/chart/plot/CategoryPlot.mapDatasetToRangeAxes
+org/jfree/chart/plot/CategoryPlot.mapDatasetToDomainAxis
+org/jfree/chart/plot/CategoryPlot.mapDatasetToRangeAxis
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/plot/CategoryPlot.mapDatasetToDomainAxes
+org/jfree/chart/plot/CombinedRangeCategoryPlot.add
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/CombinedRangeCategoryPlot.equals
+org/jfree/chart/plot/CategoryPlot.getOrientation
+org/jfree/chart/plot/CategoryPlot.equals
+org/jfree/chart/plot/CategoryPlot.setDomainGridlinesVisible
+top 10 recommendations: 
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/plot/CombinedRangeCategoryPlot.equals
+org/jfree/chart/plot/CategoryPlot.equals
+org/jfree/chart/plot/CategoryPlot.mapDatasetToDomainAxis
+org/jfree/chart/plot/CategoryPlot.mapDatasetToRangeAxis
+org/jfree/chart/plot/CategoryPlot.mapDatasetToRangeAxes
+org/jfree/chart/plot/CategoryPlot.mapDatasetToDomainAxes
+org/jfree/chart/plot/CombinedRangeCategoryPlot.add
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/plot/CombinedRangeCategoryPlot.equals
+org/jfree/chart/plot/CategoryPlot.equals
+org/jfree/chart/plot/CategoryPlot.mapDatasetToDomainAxis
+org/jfree/chart/plot/CategoryPlot.mapDatasetToRangeAxis
+org/jfree/chart/plot/CategoryPlot.mapDatasetToRangeAxes
+org/jfree/chart/plot/CategoryPlot.mapDatasetToDomainAxes
+org/jfree/chart/plot/CombinedRangeCategoryPlot.add
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/CategoryPlot.getOrientation
+org/jfree/chart/plot/CategoryPlot.setDomainGridlinesVisible
+found in top 10

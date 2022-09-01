@@ -1,0 +1,24 @@
+Aug 28, 2022 9:28:14 PM omc_ob.OMCob main
+INFO: total slices = total criteria = total assertions = 780
+Aug 28, 2022 9:28:17 PM omc_ob.OMCob printOMC_ob
+INFO: Total condition covered: 1014
+Aug 28, 2022 9:28:17 PM omc_ob.OMCob printOMC_ob
+WARNING: org.codehaus.plexus.util.cli.StreamPumperTest$GeneratorInputStream class not found in the jacoco report report
+Aug 28, 2022 9:28:17 PM omc_ob.OMCob printOMC_ob
+WARNING: org.codehaus.plexus.util.cli.StreamPumperTest$TestConsumer class not found in the jacoco report report
+Aug 28, 2022 9:28:17 PM omc_ob.OMCob printOMC_ob
+WARNING: org.codehaus.plexus.util.FileBasedTestCase class not found in the jacoco report report
+Aug 28, 2022 9:28:17 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per class coverage for object branch!
+Aug 28, 2022 9:28:17 PM omc_ob.OMCob printOMC_ob
+WARNING: org.codehaus.plexus.util.cli.StreamPumperTest$GeneratorInputStream.read not found in the jacoco report
+Aug 28, 2022 9:28:17 PM omc_ob.OMCob printOMC_ob
+WARNING: org.codehaus.plexus.util.cli.StreamPumperTest$TestConsumer.wasLineConsumed not found in the jacoco report
+Aug 28, 2022 9:28:17 PM omc_ob.OMCob printOMC_ob
+WARNING: org.codehaus.plexus.util.FileBasedTestCase.getTestDirectory not found in the jacoco report
+Aug 28, 2022 9:28:17 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per method coverage for object branch!
+Aug 28, 2022 9:28:17 PM omc_ob.OMCob main
+INFO: OBC :36.959276018099544
+Aug 28, 2022 9:28:17 PM omc_ob.OMCob main
+INFO: OMC_OBC :18.352941176470587

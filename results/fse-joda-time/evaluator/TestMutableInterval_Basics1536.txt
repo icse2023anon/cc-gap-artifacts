@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMutableInterval_Basics.testIsBefore_long:332
+Methods call in assertion: [org/joda/time/MutableInterval.isBefore]
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/AbstractInterval.isBefore
+top 10 recommendations: 
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/AbstractInterval.isBefore
+after post processing ......
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/AbstractInterval.isBefore
+found in top 10

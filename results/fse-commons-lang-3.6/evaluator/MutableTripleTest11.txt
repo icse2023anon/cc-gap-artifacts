@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.tuple.MutableTripleTest.testTripleOf:82
+Methods call in assertion: [org/apache/commons/lang3/tuple/MutableTriple.getLeft]
+org/apache/commons/lang3/tuple/MutableTriple.getLeft
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/MutableTriple.getLeft
+after post processing ......
+org/apache/commons/lang3/tuple/MutableTriple.getLeft
+perfect match

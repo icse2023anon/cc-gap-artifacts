@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.lang3.reflect.MethodUtilsTest.testGetAnnotationSearchSupersAndIgnoreAccess:855
+Methods call in assertion: [org/apache/commons/lang3/reflect/MethodUtils.getAnnotation]
+org/apache/commons/lang3/reflect/MethodUtils.getAnnotation
+org/apache/commons/lang3/ClassUtils.getAllSuperclasses
+org/apache/commons/lang3/reflect/MethodUtils.getMethodsWithAnnotation
+org/apache/commons/lang3/reflect/MethodUtils.getMethodsListWithAnnotation
+org/apache/commons/lang3/ClassUtils.getAllInterfaces
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/MethodUtils.getMethodsWithAnnotation
+org/apache/commons/lang3/reflect/MethodUtils.getAnnotation
+org/apache/commons/lang3/ClassUtils.getAllSuperclasses
+org/apache/commons/lang3/reflect/MethodUtils.getMethodsListWithAnnotation
+org/apache/commons/lang3/ClassUtils.getAllInterfaces
+after post processing ......
+org/apache/commons/lang3/reflect/MethodUtils.getMethodsWithAnnotation
+org/apache/commons/lang3/reflect/MethodUtils.getAnnotation
+org/apache/commons/lang3/ClassUtils.getAllSuperclasses
+org/apache/commons/lang3/reflect/MethodUtils.getMethodsListWithAnnotation
+org/apache/commons/lang3/ClassUtils.getAllInterfaces
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.GrayPaintScaleTest.testConstructor:69
+Methods call in assertion: [org/jfree/chart/renderer/GrayPaintScale.getAlpha]
+org/jfree/chart/renderer/GrayPaintScale.getAlpha
+top 10 recommendations: 
+org/jfree/chart/renderer/GrayPaintScale.getAlpha
+after post processing ......
+org/jfree/chart/renderer/GrayPaintScale.getAlpha
+perfect match

@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.format.TestPeriodFormatterBuilder.testFormatMinutes:261
+Methods call in assertion: [org/joda/time/format/PeriodFormatter.getPrinter, org/joda/time/format/PeriodPrinter.calculatePrintedLength]
+org/joda/time/format/PeriodFormatterBuilder.appendMinutes
+org/joda/time/format/PeriodFormatter.getPrinter
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+top 10 recommendations: 
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+org/joda/time/format/PeriodFormatterBuilder.appendMinutes
+org/joda/time/format/PeriodFormatter.getPrinter
+after post processing ......
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+org/joda/time/format/PeriodFormatterBuilder.appendMinutes
+org/joda/time/format/PeriodFormatter.getPrinter
+not matched

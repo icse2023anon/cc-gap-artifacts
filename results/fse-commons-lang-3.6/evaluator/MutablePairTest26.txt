@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.tuple.MutablePairTest.testEquals:91
+Methods call in assertion: [org/apache/commons/lang3/tuple/MutablePair.equals]
+org/apache/commons/lang3/tuple/MutablePair.getRight
+org/apache/commons/lang3/tuple/Pair.equals
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/MutablePair.getRight
+org/apache/commons/lang3/tuple/Pair.equals
+after post processing ......
+org/apache/commons/lang3/tuple/MutablePair.getRight
+org/apache/commons/lang3/tuple/Pair.equals
+found in top 10

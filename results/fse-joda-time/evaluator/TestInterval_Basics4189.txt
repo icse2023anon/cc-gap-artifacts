@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestInterval_Basics.testIsBefore_RI_null:957
+Methods call in assertion: [org/joda/time/Interval.isBefore]
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/AbstractInterval.isBefore
+org/joda/time/base/AbstractInterval.isBeforeNow
+top 10 recommendations: 
+org/joda/time/base/AbstractInterval.isBefore
+org/joda/time/base/AbstractInterval.isBeforeNow
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/BaseInterval.getEndMillis
+after post processing ......
+org/joda/time/base/AbstractInterval.isBefore
+org/joda/time/base/AbstractInterval.isBeforeNow
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/BaseInterval.getEndMillis
+found in top 10

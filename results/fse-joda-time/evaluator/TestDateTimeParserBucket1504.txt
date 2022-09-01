@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.format.TestDateTimeParserBucket.testReset:273
+Methods call in assertion: [org/joda/time/format/DateTimeParserBucket.getChronology]
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/format/DateTimeParserBucket.getChronology
+top 10 recommendations: 
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/format/DateTimeParserBucket.getChronology
+after post processing ......
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/format/DateTimeParserBucket.getChronology
+found in top 10

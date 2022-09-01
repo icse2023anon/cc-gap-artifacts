@@ -1,0 +1,61 @@
+slicing criterion: org.jsoup.parser.HtmlParserTest.handleNullContextInParseFragment:739
+Methods call in assertion: [org/jsoup/nodes/Node.nodeName]
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/parser/Tokeniser.read
+org/jsoup/parser/Tag.getName
+org/jsoup/parser/HtmlTreeBuilder.insertStartTag
+org/jsoup/parser/Token.isComment
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/HtmlTreeBuilder.insert
+org/jsoup/parser/Token.isEndTag
+org/jsoup/parser/TreeBuilder.initialiseParse
+org/jsoup/parser/CharacterReader.current
+org/jsoup/parser/Tag.valueOf
+org/jsoup/nodes/Node.childNodes
+org/jsoup/nodes/Element.nodeName
+org/jsoup/parser/Token.isCharacter
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/Token.isStartTag
+org/jsoup/parser/CharacterReader.consumeTagName
+org/jsoup/parser/HtmlTreeBuilder.parseFragment
+org/jsoup/parser/CharacterReader.consume
+org/jsoup/parser/Token.asStartTag
+org/jsoup/nodes/Element.appendChild
+org/jsoup/parser/Token.isDoctype
+top 10 recommendations: 
+org/jsoup/parser/HtmlTreeBuilder.insertStartTag
+org/jsoup/parser/HtmlTreeBuilder.insert
+org/jsoup/parser/HtmlTreeBuilder.parseFragment
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/nodes/Element.nodeName
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/parser/Tokeniser.read
+org/jsoup/parser/Tag.getName
+org/jsoup/parser/Token.isComment
+after post processing ......
+org/jsoup/parser/HtmlTreeBuilder.insertStartTag
+org/jsoup/parser/HtmlTreeBuilder.insert
+org/jsoup/parser/HtmlTreeBuilder.parseFragment
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/nodes/Element.nodeName
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/parser/Tokeniser.read
+org/jsoup/parser/Tag.getName
+org/jsoup/parser/Token.isComment
+org/jsoup/parser/Token.isEndTag
+org/jsoup/parser/TreeBuilder.initialiseParse
+org/jsoup/parser/CharacterReader.current
+org/jsoup/parser/Tag.valueOf
+org/jsoup/nodes/Node.childNodes
+org/jsoup/parser/Token.isCharacter
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/Token.isStartTag
+org/jsoup/parser/CharacterReader.consumeTagName
+org/jsoup/parser/CharacterReader.consume
+org/jsoup/parser/Token.asStartTag
+org/jsoup/nodes/Element.appendChild
+org/jsoup/parser/Token.isDoctype
+found in top 10

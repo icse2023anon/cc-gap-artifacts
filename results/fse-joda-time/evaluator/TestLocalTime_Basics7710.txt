@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.TestLocalTime_Basics.testGetFieldTypes:207
+Methods call in assertion: [org/joda/time/DateTimeFieldType.hourOfDay]
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.getFieldTypes
+org/joda/time/LocalTime.getField
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+org/joda/time/LocalTime.size
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.getFieldTypes
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalTime.getField
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+org/joda/time/LocalTime.size
+after post processing ......
+org/joda/time/base/AbstractPartial.getFieldTypes
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalTime.getField
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+org/joda/time/LocalTime.size
+found in top 10

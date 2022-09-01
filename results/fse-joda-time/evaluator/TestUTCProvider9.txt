@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.tz.TestUTCProvider.testGetZone_String:81
+Methods call in assertion: [org/joda/time/tz/Provider.getZone]
+org/joda/time/tz/UTCProvider.getZone
+top 10 recommendations: 
+org/joda/time/tz/UTCProvider.getZone
+after post processing ......
+org/joda/time/tz/UTCProvider.getZone
+perfect match

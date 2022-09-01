@@ -1,0 +1,23 @@
+slicing criterion: org.apache.commons.lang3.CharSetTest.testContains_Char:419
+Methods call in assertion: [org/apache/commons/lang3/CharSet.contains]
+org/apache/commons/lang3/CharRange.is
+org/apache/commons/lang3/CharSet.add
+org/apache/commons/lang3/CharSet.contains
+org/apache/commons/lang3/CharSet.getInstance
+org/apache/commons/lang3/CharSet.<init>
+org/apache/commons/lang3/CharRange.hashCode
+top 10 recommendations: 
+org/apache/commons/lang3/CharSet.getInstance
+org/apache/commons/lang3/CharSet.<init>
+org/apache/commons/lang3/CharSet.add
+org/apache/commons/lang3/CharRange.is
+org/apache/commons/lang3/CharSet.contains
+org/apache/commons/lang3/CharRange.hashCode
+after post processing ......
+org/apache/commons/lang3/CharSet.getInstance
+org/apache/commons/lang3/CharSet.<init>
+org/apache/commons/lang3/CharSet.add
+org/apache/commons/lang3/CharRange.is
+org/apache/commons/lang3/CharSet.contains
+org/apache/commons/lang3/CharRange.hashCode
+found in top 10

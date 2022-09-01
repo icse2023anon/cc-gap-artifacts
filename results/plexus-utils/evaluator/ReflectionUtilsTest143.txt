@@ -1,0 +1,14 @@
+slicing criterion: org.codehaus.plexus.util.ReflectionUtilsTest.testSettingVariableValue:72
+Methods call in assertion: [org/codehaus/plexus/util/ReflectionUtils.getValueIncludingSuperclasses]
+org/codehaus/plexus/util/ReflectionUtils.setVariableValueInObject
+org/codehaus/plexus/util/ReflectionUtils.getValueIncludingSuperclasses
+org/codehaus/plexus/util/ReflectionUtils.getFieldByNameIncludingSuperclasses
+top 10 recommendations: 
+org/codehaus/plexus/util/ReflectionUtils.setVariableValueInObject
+org/codehaus/plexus/util/ReflectionUtils.getValueIncludingSuperclasses
+org/codehaus/plexus/util/ReflectionUtils.getFieldByNameIncludingSuperclasses
+after post processing ......
+org/codehaus/plexus/util/ReflectionUtils.setVariableValueInObject
+org/codehaus/plexus/util/ReflectionUtils.getValueIncludingSuperclasses
+org/codehaus/plexus/util/ReflectionUtils.getFieldByNameIncludingSuperclasses
+found in top 10

@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestInstant_Basics.testGet_DateTimeFieldType:155
+Methods call in assertion: [org/joda/time/DateTimeFieldType.era, org/joda/time/Instant.get]
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/DateTimeFieldType.era
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/chrono/GJEraDateTimeField.get
+org/joda/time/Instant.getMillis
+top 10 recommendations: 
+org/joda/time/chrono/GJEraDateTimeField.get
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/DateTimeFieldType.era
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/Instant.getMillis
+after post processing ......
+org/joda/time/chrono/GJEraDateTimeField.get
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/DateTimeFieldType.era
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/Instant.getMillis
+found in top 10

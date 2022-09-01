@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.AnnotationUtilsTest.testHashCode:498
+Methods call in assertion: [org/apache/commons/lang3/AnnotationUtils.hashCode]
+org/apache/commons/lang3/AnnotationUtils.hashCode
+top 10 recommendations: 
+org/apache/commons/lang3/AnnotationUtils.hashCode
+after post processing ......
+org/apache/commons/lang3/AnnotationUtils.hashCode
+perfect match

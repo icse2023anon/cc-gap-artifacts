@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.RandomUtilsTest.testNextLongMinimalRange:232
+Methods call in assertion: [org/apache/commons/lang3/RandomUtils.nextLong]
+org/apache/commons/lang3/RandomUtils.nextLong
+top 10 recommendations: 
+org/apache/commons/lang3/RandomUtils.nextLong
+after post processing ......
+org/apache/commons/lang3/RandomUtils.nextLong
+perfect match

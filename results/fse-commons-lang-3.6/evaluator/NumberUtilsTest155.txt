@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.math.NumberUtilsTest.TestLang747:369
+Methods call in assertion: [org/apache/commons/lang3/math/NumberUtils.createNumber]
+org/apache/commons/lang3/math/NumberUtils.createNumber
+org/apache/commons/lang3/math/NumberUtils.createBigInteger
+top 10 recommendations: 
+org/apache/commons/lang3/math/NumberUtils.createNumber
+org/apache/commons/lang3/math/NumberUtils.createBigInteger
+after post processing ......
+org/apache/commons/lang3/math/NumberUtils.createNumber
+org/apache/commons/lang3/math/NumberUtils.createBigInteger
+perfect match

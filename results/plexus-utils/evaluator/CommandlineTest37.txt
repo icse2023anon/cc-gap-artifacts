@@ -1,0 +1,23 @@
+slicing criterion: org.codehaus.plexus.util.cli.CommandlineTest.testExecute:125
+Methods call in assertion: [org/codehaus/plexus/util/cli/Commandline.getShell, org/codehaus/plexus/util/cli/shell/Shell.getOriginalExecutable]
+org/codehaus/plexus/util/Os.isOs
+org/codehaus/plexus/util/cli/Commandline.<init>
+org/codehaus/plexus/util/Os.isFamily
+org/codehaus/plexus/util/cli/shell/Shell.setExecutable
+org/codehaus/plexus/util/cli/Commandline.getShell
+org/codehaus/plexus/util/cli/shell/Shell.getOriginalExecutable
+top 10 recommendations: 
+org/codehaus/plexus/util/Os.isOs
+org/codehaus/plexus/util/Os.isFamily
+org/codehaus/plexus/util/cli/Commandline.<init>
+org/codehaus/plexus/util/cli/shell/Shell.setExecutable
+org/codehaus/plexus/util/cli/Commandline.getShell
+org/codehaus/plexus/util/cli/shell/Shell.getOriginalExecutable
+after post processing ......
+org/codehaus/plexus/util/Os.isOs
+org/codehaus/plexus/util/Os.isFamily
+org/codehaus/plexus/util/cli/Commandline.<init>
+org/codehaus/plexus/util/cli/shell/Shell.setExecutable
+org/codehaus/plexus/util/cli/Commandline.getShell
+org/codehaus/plexus/util/cli/shell/Shell.getOriginalExecutable
+found in top 10

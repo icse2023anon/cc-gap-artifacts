@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableDoubleTest.testNanInfinite:109
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableDouble.isInfinite]
+org/apache/commons/lang3/mutable/MutableDouble.isInfinite
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableDouble.isInfinite
+after post processing ......
+org/apache/commons/lang3/mutable/MutableDouble.isInfinite
+perfect match

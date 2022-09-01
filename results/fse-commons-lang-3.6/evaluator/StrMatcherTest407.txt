@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.text.StrMatcherTest.testCharSetMatcher_charArray:198
+Methods call in assertion: [org/apache/commons/lang3/text/StrMatcher.isMatch]
+org/apache/commons/lang3/text/StrMatcher.charSetMatcher
+org/apache/commons/lang3/text/StrMatcher.isMatch
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrMatcher.charSetMatcher
+org/apache/commons/lang3/text/StrMatcher.isMatch
+after post processing ......
+org/apache/commons/lang3/text/StrMatcher.charSetMatcher
+org/apache/commons/lang3/text/StrMatcher.isMatch
+found in top 10

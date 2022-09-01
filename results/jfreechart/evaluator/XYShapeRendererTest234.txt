@@ -1,0 +1,41 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYShapeRendererTest.test3026341:186
+Methods call in assertion: [org/jfree/data/Range.getUpperBound]
+org/jfree/chart/renderer/xy/XYShapeRenderer.findDomainBounds
+org/jfree/data/xy/XYSeries.getMaxX
+org/jfree/data/general/DatasetUtils.findDomainBounds
+org/jfree/data/xy/XYSeries.<init>
+org/jfree/data/xy/XYDataItem.getXValue
+org/jfree/data/xy/XYSeriesCollection.addSeries
+org/jfree/data/xy/XYSeriesCollection.getDomainBounds
+org/jfree/data/Range.getUpperBound
+org/jfree/data/xy/XYSeriesCollection.getSeriesCount
+org/jfree/data/xy/XYDataItem.clone
+org/jfree/data/xy/XYSeries.add
+org/jfree/data/xy/XYSeries.getMinX
+org/jfree/data/xy/XYSeriesCollection.getSeries
+top 10 recommendations: 
+org/jfree/data/xy/XYSeriesCollection.getDomainBounds
+org/jfree/chart/renderer/xy/XYShapeRenderer.findDomainBounds
+org/jfree/data/xy/XYSeries.add
+org/jfree/data/xy/XYSeriesCollection.getSeries
+org/jfree/data/xy/XYSeries.getMaxX
+org/jfree/data/general/DatasetUtils.findDomainBounds
+org/jfree/data/xy/XYSeries.<init>
+org/jfree/data/xy/XYDataItem.getXValue
+org/jfree/data/xy/XYSeriesCollection.addSeries
+org/jfree/data/Range.getUpperBound
+after post processing ......
+org/jfree/data/xy/XYSeriesCollection.getDomainBounds
+org/jfree/chart/renderer/xy/XYShapeRenderer.findDomainBounds
+org/jfree/data/xy/XYSeries.add
+org/jfree/data/xy/XYSeriesCollection.getSeries
+org/jfree/data/xy/XYSeries.getMaxX
+org/jfree/data/general/DatasetUtils.findDomainBounds
+org/jfree/data/xy/XYSeries.<init>
+org/jfree/data/xy/XYDataItem.getXValue
+org/jfree/data/xy/XYSeriesCollection.addSeries
+org/jfree/data/Range.getUpperBound
+org/jfree/data/xy/XYSeriesCollection.getSeriesCount
+org/jfree/data/xy/XYDataItem.clone
+org/jfree/data/xy/XYSeries.getMinX
+found in top 10

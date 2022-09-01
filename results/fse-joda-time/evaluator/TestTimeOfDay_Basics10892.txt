@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Basics.testSerialization:927
+Methods call in assertion: [org/joda/time/TimeOfDay.getFields]
+org/joda/time/TimeOfDay.size
+org/joda/time/base/AbstractPartial.getFields
+top 10 recommendations: 
+org/joda/time/TimeOfDay.size
+org/joda/time/base/AbstractPartial.getFields
+after post processing ......
+org/joda/time/TimeOfDay.size
+org/joda/time/base/AbstractPartial.getFields
+found in top 10

@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.tz.TestZoneInfoCompiler.testTestOne:76
+Methods call in assertion: [org/joda/time/tz/ZoneInfoCompiler.test]
+org/joda/time/tz/ZoneInfoCompiler.test
+org/joda/time/DateTimeZone.getID
+org/joda/time/DateTimeZone.forOffsetMillis
+top 10 recommendations: 
+org/joda/time/tz/ZoneInfoCompiler.test
+org/joda/time/DateTimeZone.getID
+org/joda/time/DateTimeZone.forOffsetMillis
+after post processing ......
+org/joda/time/tz/ZoneInfoCompiler.test
+org/joda/time/DateTimeZone.getID
+org/joda/time/DateTimeZone.forOffsetMillis
+perfect match

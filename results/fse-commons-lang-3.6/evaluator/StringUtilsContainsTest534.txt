@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsContainsTest.testContainsOnly_String:485
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.containsOnly]
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/StringUtils.indexOfAnyBut
+org/apache/commons/lang3/StringUtils.containsOnly
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.containsOnly
+org/apache/commons/lang3/StringUtils.indexOfAnyBut
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/StringUtils.containsOnly
+org/apache/commons/lang3/StringUtils.indexOfAnyBut
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isEmpty
+perfect match

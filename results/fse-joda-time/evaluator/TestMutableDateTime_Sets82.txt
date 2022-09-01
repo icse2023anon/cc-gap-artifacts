@@ -1,0 +1,47 @@
+slicing criterion: org.joda.time.TestMutableDateTime_Sets.testSetZoneRetainFields_DateTimeZone4:238
+Methods call in assertion: [org/joda/time/MutableDateTime.getMillis]
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/MutableDateTime.setZoneRetainFields
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/base/AbstractInstant.getZone
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/MutableDateTime.setZoneRetainFields
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+after post processing ......
+org/joda/time/MutableDateTime.setZoneRetainFields
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/base/AbstractInstant.getZone
+not matched

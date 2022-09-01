@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testEqualsHashCode:266
+Methods call in assertion: [org/joda/time/Partial.hashCode]
+org/joda/time/base/AbstractPartial.hashCode
+org/joda/time/Partial.getValue
+org/joda/time/Partial.getFieldType
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/Partial.getChronology
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.hashCode
+org/joda/time/Partial.getValue
+org/joda/time/Partial.getFieldType
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/Partial.getChronology
+after post processing ......
+org/joda/time/base/AbstractPartial.hashCode
+org/joda/time/Partial.getValue
+org/joda/time/Partial.getFieldType
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/Partial.getChronology
+not matched

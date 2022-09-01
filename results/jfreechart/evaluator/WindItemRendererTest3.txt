@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.renderer.xy.WindItemRendererTest.testHashcode:74
+Methods call in assertion: [org/jfree/chart/renderer/xy/WindItemRenderer.equals]
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/StandardXYSeriesLabelGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/StandardXYSeriesLabelGenerator.equals
+after post processing ......
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/StandardXYSeriesLabelGenerator.equals
+found in top 10

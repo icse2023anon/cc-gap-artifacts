@@ -1,0 +1,26 @@
+slicing criterion: org.jfree.chart.plot.FastScatterPlotTest.testEquals:116
+Methods call in assertion: [org/jfree/chart/plot/FastScatterPlot.equals]
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/plot/FastScatterPlot.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/FastScatterPlot.setRangeGridlinesVisible
+org/jfree/chart/plot/FastScatterPlot.setDomainGridlinesVisible
+org/jfree/chart/util/ArrayUtils.equal
+top 10 recommendations: 
+org/jfree/chart/plot/FastScatterPlot.equals
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/FastScatterPlot.setRangeGridlinesVisible
+org/jfree/chart/plot/FastScatterPlot.setDomainGridlinesVisible
+org/jfree/chart/util/ArrayUtils.equal
+after post processing ......
+org/jfree/chart/plot/FastScatterPlot.equals
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/FastScatterPlot.setRangeGridlinesVisible
+org/jfree/chart/plot/FastScatterPlot.setDomainGridlinesVisible
+org/jfree/chart/util/ArrayUtils.equal
+perfect match

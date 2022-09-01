@@ -1,0 +1,37 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testGetters:806
+Methods call in assertion: [org/joda/time/LocalDateTime.getMillisOfSecond]
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/GJChronology.withUTC
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/GJChronology.getZone
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/LocalDateTime.getMillisOfSecond
+org/joda/time/chrono/GJChronology.getDateTimeMillis
+org/joda/time/LocalDateTime.<init>
+org/joda/time/chrono/GJChronology.withZone
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/chrono/GJChronology.withUTC
+org/joda/time/LocalDateTime.getMillisOfSecond
+org/joda/time/LocalDateTime.<init>
+org/joda/time/chrono/GJChronology.withZone
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/GJChronology.getZone
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/chrono/GJChronology.getDateTimeMillis
+org/joda/time/chrono/AssembledChronology.getBase
+after post processing ......
+org/joda/time/chrono/GJChronology.withUTC
+org/joda/time/LocalDateTime.getMillisOfSecond
+org/joda/time/LocalDateTime.<init>
+org/joda/time/chrono/GJChronology.withZone
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/GJChronology.getZone
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/chrono/GJChronology.getDateTimeMillis
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

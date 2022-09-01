@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.lang3.CharSetTest.testStatics:478
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.contains, org/apache/commons/lang3/CharRange.isIn]
+org/apache/commons/lang3/CharSet.getCharRanges
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/CharRange.isIn
+org/apache/commons/lang3/CharRange.equals
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/CharSet.getCharRanges
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/CharRange.isIn
+org/apache/commons/lang3/CharRange.equals
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/CharSet.getCharRanges
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/CharRange.isIn
+org/apache/commons/lang3/CharRange.equals
+found in top 10

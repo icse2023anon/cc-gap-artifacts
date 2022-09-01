@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.parser.CharacterReaderTest.mark:57
+Methods call in assertion: [org/jsoup/parser/CharacterReader.consume]
+org/jsoup/parser/CharacterReader.consume
+top 10 recommendations: 
+org/jsoup/parser/CharacterReader.consume
+after post processing ......
+org/jsoup/parser/CharacterReader.consume
+perfect match

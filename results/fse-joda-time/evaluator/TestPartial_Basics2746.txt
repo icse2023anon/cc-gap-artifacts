@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testEqualsHashCode:271
+Methods call in assertion: [org/joda/time/Partial.equals]
+org/joda/time/Partial.getValue
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/base/AbstractPartial.equals
+top 10 recommendations: 
+org/joda/time/Partial.getValue
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/base/AbstractPartial.equals
+after post processing ......
+org/joda/time/Partial.getValue
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/base/AbstractPartial.equals
+not matched

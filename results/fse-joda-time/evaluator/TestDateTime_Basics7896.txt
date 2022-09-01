@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestDateTime_Basics.testIsBefore_long:505
+Methods call in assertion: [org/joda/time/DateTime.isBefore]
+org/joda/time/base/AbstractInstant.isBefore
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.getMillis
+top 10 recommendations: 
+org/joda/time/base/AbstractInstant.isBefore
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.getMillis
+after post processing ......
+org/joda/time/base/AbstractInstant.isBefore
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.getMillis
+not matched

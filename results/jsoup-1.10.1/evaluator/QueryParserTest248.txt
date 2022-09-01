@@ -1,0 +1,43 @@
+slicing criterion: org.jsoup.select.QueryParserTest.testParsesMultiCorrectly:39
+Methods call in assertion: [org/jsoup/select/CombiningEvaluator$And.toString]
+org/jsoup/helper/StringUtil.join
+org/jsoup/parser/TokenQueue.isEmpty
+org/jsoup/parser/TokenQueue.matchesWord
+org/jsoup/parser/TokenQueue.matchChomp
+org/jsoup/select/QueryParser.parse
+org/jsoup/select/CombiningEvaluator.replaceRightMostEvaluator
+org/jsoup/parser/TokenQueue.consumeCssIdentifier
+org/jsoup/select/CombiningEvaluator.<init>
+org/jsoup/parser/TokenQueue.matches
+org/jsoup/helper/StringUtil.isWhitespace
+org/jsoup/parser/TokenQueue.matchesWhitespace
+org/jsoup/select/CombiningEvaluator.rightMostEvaluator
+org/jsoup/parser/TokenQueue.matchesAny
+org/jsoup/parser/TokenQueue.consumeWhitespace
+top 10 recommendations: 
+org/jsoup/select/QueryParser.parse
+org/jsoup/parser/TokenQueue.consumeCssIdentifier
+org/jsoup/parser/TokenQueue.consumeWhitespace
+org/jsoup/parser/TokenQueue.matchesWhitespace
+org/jsoup/parser/TokenQueue.matchesAny
+org/jsoup/parser/TokenQueue.matchesWord
+org/jsoup/parser/TokenQueue.matchChomp
+org/jsoup/helper/StringUtil.join
+org/jsoup/parser/TokenQueue.isEmpty
+org/jsoup/select/CombiningEvaluator.replaceRightMostEvaluator
+after post processing ......
+org/jsoup/select/QueryParser.parse
+org/jsoup/parser/TokenQueue.consumeCssIdentifier
+org/jsoup/parser/TokenQueue.consumeWhitespace
+org/jsoup/parser/TokenQueue.matchesWhitespace
+org/jsoup/parser/TokenQueue.matchesAny
+org/jsoup/parser/TokenQueue.matchesWord
+org/jsoup/parser/TokenQueue.matchChomp
+org/jsoup/helper/StringUtil.join
+org/jsoup/parser/TokenQueue.isEmpty
+org/jsoup/select/CombiningEvaluator.replaceRightMostEvaluator
+org/jsoup/select/CombiningEvaluator.<init>
+org/jsoup/parser/TokenQueue.matches
+org/jsoup/helper/StringUtil.isWhitespace
+org/jsoup/select/CombiningEvaluator.rightMostEvaluator
+not matched

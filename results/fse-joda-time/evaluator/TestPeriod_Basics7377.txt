@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestPeriod_Basics.testToDurationTo:622
+Methods call in assertion: [org/joda/time/Period.toDurationTo]
+org/joda/time/base/BasePeriod.toDurationTo
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.toDurationTo
+after post processing ......
+org/joda/time/base/BasePeriod.toDurationTo
+perfect match

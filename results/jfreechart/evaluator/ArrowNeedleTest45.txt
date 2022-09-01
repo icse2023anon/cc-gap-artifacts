@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.needle.ArrowNeedleTest.testSerialization:89
+Methods call in assertion: [org/jfree/chart/needle/ArrowNeedle.equals]
+org/jfree/chart/needle/ArrowNeedle.equals
+top 10 recommendations: 
+org/jfree/chart/needle/ArrowNeedle.equals
+after post processing ......
+org/jfree/chart/needle/ArrowNeedle.equals
+perfect match

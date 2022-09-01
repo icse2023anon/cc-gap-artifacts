@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableFloatTest.testConstructors:62
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableFloat.floatValue]
+org/apache/commons/lang3/mutable/MutableFloat.floatValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableFloat.floatValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableFloat.floatValue
+perfect match

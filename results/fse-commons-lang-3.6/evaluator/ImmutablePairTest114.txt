@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.tuple.ImmutablePairTest.testEquals:85
+Methods call in assertion: [org/apache/commons/lang3/tuple/ImmutablePair.of]
+org/apache/commons/lang3/tuple/ImmutablePair.getLeft
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/ImmutablePair.getLeft
+after post processing ......
+org/apache/commons/lang3/tuple/ImmutablePair.getLeft
+not matched

@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.validator.CreditCardValidatorTest.testIsValid:56
+Methods call in assertion: [org/apache/commons/validator/CreditCardValidator.isValid]
+org/apache/commons/validator/CreditCardValidator.luhnCheck
+org/apache/commons/validator/CreditCardValidator.<init>
+org/apache/commons/validator/CreditCardValidator.isValid
+org/apache/commons/validator/util/Flags.isOn
+top 10 recommendations: 
+org/apache/commons/validator/CreditCardValidator.<init>
+org/apache/commons/validator/CreditCardValidator.isValid
+org/apache/commons/validator/CreditCardValidator.luhnCheck
+org/apache/commons/validator/util/Flags.isOn
+after post processing ......
+org/apache/commons/validator/CreditCardValidator.<init>
+org/apache/commons/validator/CreditCardValidator.isValid
+org/apache/commons/validator/CreditCardValidator.luhnCheck
+org/apache/commons/validator/util/Flags.isOn
+found in top 10

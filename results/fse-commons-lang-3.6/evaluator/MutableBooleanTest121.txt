@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableBooleanTest.testGetSet:105
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableBoolean.isFalse]
+org/apache/commons/lang3/mutable/MutableBoolean.isFalse
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableBoolean.isFalse
+after post processing ......
+org/apache/commons/lang3/mutable/MutableBoolean.isFalse
+perfect match

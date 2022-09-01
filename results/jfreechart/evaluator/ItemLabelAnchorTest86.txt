@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.labels.ItemLabelAnchorTest.testEquals:60
+Methods call in assertion: [org/jfree/chart/labels/ItemLabelAnchor.equals]
+org/jfree/chart/labels/ItemLabelAnchor.equals
+org/jfree/chart/labels/ItemLabelAnchor.toString
+top 10 recommendations: 
+org/jfree/chart/labels/ItemLabelAnchor.equals
+org/jfree/chart/labels/ItemLabelAnchor.toString
+after post processing ......
+org/jfree/chart/labels/ItemLabelAnchor.equals
+org/jfree/chart/labels/ItemLabelAnchor.toString
+perfect match

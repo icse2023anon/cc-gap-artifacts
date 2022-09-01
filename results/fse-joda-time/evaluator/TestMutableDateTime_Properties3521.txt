@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMutableDateTime_Properties.testPropertyGetMinuteOfDay:665
+Methods call in assertion: [org/joda/time/MutableDateTime.minuteOfDay, org/joda/time/MutableDateTime$Property.toString]
+org/joda/time/MutableDateTime.getChronology
+org/joda/time/field/AbstractReadableInstantFieldProperty.toString
+top 10 recommendations: 
+org/joda/time/MutableDateTime.getChronology
+org/joda/time/field/AbstractReadableInstantFieldProperty.toString
+after post processing ......
+org/joda/time/MutableDateTime.getChronology
+org/joda/time/field/AbstractReadableInstantFieldProperty.toString
+not matched

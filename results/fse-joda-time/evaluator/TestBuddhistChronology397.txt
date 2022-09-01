@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.chrono.TestBuddhistChronology.testWithZone:209
+Methods call in assertion: [org/joda/time/chrono/BuddhistChronology.getInstance, org/joda/time/chrono/BuddhistChronology.withZone]
+org/joda/time/chrono/LimitChronology.getAsText
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/chrono/BuddhistChronology.withZone
+org/joda/time/tz/CachedDateTimeZone.hashCode
+top 10 recommendations: 
+org/joda/time/chrono/BuddhistChronology.withZone
+org/joda/time/chrono/LimitChronology.getAsText
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/tz/CachedDateTimeZone.hashCode
+after post processing ......
+org/joda/time/chrono/BuddhistChronology.withZone
+org/joda/time/chrono/LimitChronology.getAsText
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/tz/CachedDateTimeZone.hashCode
+found in top 10

@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestPeriod_Basics.testGet:288
+Methods call in assertion: [org/joda/time/DurationFieldType.weeks, org/joda/time/Period.get]
+org/joda/time/DurationFieldType.weeks
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.yearDayTime
+org/joda/time/base/AbstractPeriod.get
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/BasePeriod.checkPeriodType
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/AbstractPeriod.get
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DurationFieldType.weeks
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.yearDayTime
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/DateTimeUtils.getPeriodType
+after post processing ......
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/AbstractPeriod.get
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DurationFieldType.weeks
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.yearDayTime
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/DateTimeUtils.getPeriodType
+found in top 10

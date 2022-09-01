@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.EnumUtilsTest.test_isEnum:83
+Methods call in assertion: [org/apache/commons/lang3/EnumUtils.isValidEnum]
+org/apache/commons/lang3/EnumUtils.getEnumMap
+org/apache/commons/lang3/EnumUtils.isValidEnum
+top 10 recommendations: 
+org/apache/commons/lang3/EnumUtils.getEnumMap
+org/apache/commons/lang3/EnumUtils.isValidEnum
+after post processing ......
+org/apache/commons/lang3/EnumUtils.getEnumMap
+org/apache/commons/lang3/EnumUtils.isValidEnum
+found in top 10

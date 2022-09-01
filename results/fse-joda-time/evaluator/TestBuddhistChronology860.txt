@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.chrono.TestBuddhistChronology.testDurationFields:276
+Methods call in assertion: [org/joda/time/chrono/BuddhistChronology.halfdays, org/joda/time/DurationField.isPrecise]
+org/joda/time/field/DecoratedDurationField.isPrecise
+org/joda/time/chrono/AssembledChronology.halfdays
+org/joda/time/chrono/BuddhistChronology.getInstanceUTC
+top 10 recommendations: 
+org/joda/time/field/DecoratedDurationField.isPrecise
+org/joda/time/chrono/AssembledChronology.halfdays
+org/joda/time/chrono/BuddhistChronology.getInstanceUTC
+after post processing ......
+org/joda/time/field/DecoratedDurationField.isPrecise
+org/joda/time/chrono/AssembledChronology.halfdays
+org/joda/time/chrono/BuddhistChronology.getInstanceUTC
+found in top 10

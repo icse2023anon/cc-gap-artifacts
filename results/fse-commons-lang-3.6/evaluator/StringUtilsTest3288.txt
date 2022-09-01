@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testReplaceFirst:1407
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.replaceFirst]
+org/apache/commons/lang3/StringUtils.replaceFirst
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.replaceFirst
+after post processing ......
+org/apache/commons/lang3/StringUtils.replaceFirst
+perfect match

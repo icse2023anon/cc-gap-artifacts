@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableBooleanTest.testCompareTo:51
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableBoolean.compareTo]
+org/apache/commons/lang3/BooleanUtils.compare
+org/apache/commons/lang3/mutable/MutableBoolean.compareTo
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableBoolean.compareTo
+org/apache/commons/lang3/BooleanUtils.compare
+after post processing ......
+org/apache/commons/lang3/mutable/MutableBoolean.compareTo
+org/apache/commons/lang3/BooleanUtils.compare
+perfect match

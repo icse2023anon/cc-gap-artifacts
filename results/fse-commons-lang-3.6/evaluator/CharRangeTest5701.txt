@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.CharRangeTest.testConstructorAccessors_isNot:81
+Methods call in assertion: [org/apache/commons/lang3/CharRange.isNegated]
+org/apache/commons/lang3/CharRange.isNot
+org/apache/commons/lang3/CharRange.isNegated
+top 10 recommendations: 
+org/apache/commons/lang3/CharRange.isNot
+org/apache/commons/lang3/CharRange.isNegated
+after post processing ......
+org/apache/commons/lang3/CharRange.isNot
+org/apache/commons/lang3/CharRange.isNegated
+found in top 10

@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.PieChart3DTest.testReplaceDatasetOnPieChart:89
+Methods call in assertion: [org/jfree/chart/plot/PiePlot.getDataset]
+org/jfree/chart/ChartFactory.createPieChart3D
+org/jfree/chart/plot/PiePlot.getDataset
+org/jfree/chart/JFreeChart.getPlot
+top 10 recommendations: 
+org/jfree/chart/ChartFactory.createPieChart3D
+org/jfree/chart/plot/PiePlot.getDataset
+org/jfree/chart/JFreeChart.getPlot
+after post processing ......
+org/jfree/chart/ChartFactory.createPieChart3D
+org/jfree/chart/plot/PiePlot.getDataset
+org/jfree/chart/JFreeChart.getPlot
+found in top 10

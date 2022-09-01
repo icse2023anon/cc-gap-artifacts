@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.chrono.TestISOChronology.testWithUTC:154
+Methods call in assertion: [org/joda/time/chrono/ISOChronology.getInstanceUTC, org/joda/time/chrono/ISOChronology.withUTC, org/joda/time/chrono/ISOChronology.getInstance]
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/ISOChronology.getInstance
+top 10 recommendations: 
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/ISOChronology.getInstance
+after post processing ......
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/ISOChronology.getInstance
+found in top 10

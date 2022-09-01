@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.TestLocalTime_Basics.testIsSupported_DateTimeFieldType:272
+Methods call in assertion: [org/joda/time/LocalTime.isSupported, org/joda/time/DateTimeFieldType.hourOfHalfday]
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.halfdays
+org/joda/time/LocalTime.isSupported
+org/joda/time/LocalTime.getChronology
+org/joda/time/DateTimeFieldType.hourOfHalfday
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/LocalTime.<init>
+top 10 recommendations: 
+org/joda/time/LocalTime.isSupported
+org/joda/time/LocalTime.<init>
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.halfdays
+org/joda/time/LocalTime.getChronology
+org/joda/time/DateTimeFieldType.hourOfHalfday
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/LocalTime.isSupported
+org/joda/time/LocalTime.<init>
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.halfdays
+org/joda/time/LocalTime.getChronology
+org/joda/time/DateTimeFieldType.hourOfHalfday
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

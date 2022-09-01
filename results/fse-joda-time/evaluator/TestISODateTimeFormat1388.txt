@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.format.TestISODateTimeFormat.testFormat_basicWeekDate:437
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.print, org/joda/time/format/ISODateTimeFormat.basicWeekDate]
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/ISODateTimeFormat.basicWeekDate
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/ISODateTimeFormat.basicWeekDate
+after post processing ......
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/ISODateTimeFormat.basicWeekDate
+perfect match

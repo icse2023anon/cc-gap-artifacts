@@ -1,0 +1,17 @@
+slicing criterion: com.google.gson.internal.bind.JsonElementReaderTest.testObject:151
+Methods call in assertion: [com/google/gson/internal/bind/JsonTreeReader.peek]
+com/google/gson/internal/bind/JsonTreeReader.nextName
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/internal/bind/JsonTreeReader.peek
+top 10 recommendations: 
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/internal/bind/JsonTreeReader.nextName
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/internal/bind/JsonTreeReader.peek
+after post processing ......
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/internal/bind/JsonTreeReader.nextName
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/internal/bind/JsonTreeReader.peek
+found in top 10

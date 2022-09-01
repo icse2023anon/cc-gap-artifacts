@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.chrono.TestGJChronology.testFactory_Zone:228
+Methods call in assertion: [org/joda/time/chrono/GJChronology.getZone, org/joda/time/chrono/GJChronology.getInstance]
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/chrono/GJChronology.getZone
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.hashCode
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/chrono/GJChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.getBase
+top 10 recommendations: 
+org/joda/time/chrono/GJChronology.getInstanceUTC
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/chrono/GJChronology.getZone
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.hashCode
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/chrono/AssembledChronology.getBase
+after post processing ......
+org/joda/time/chrono/GJChronology.getInstanceUTC
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/chrono/GJChronology.getZone
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.hashCode
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/chrono/AssembledChronology.getBase
+found in top 10

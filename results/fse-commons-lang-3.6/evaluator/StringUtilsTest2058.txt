@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testReplaceOnce_StringStringString:1501
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.replaceOnce]
+org/apache/commons/lang3/StringUtils.replaceOnce
+org/apache/commons/lang3/StringUtils.replace
+org/apache/commons/lang3/StringUtils.isEmpty
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.replaceOnce
+org/apache/commons/lang3/StringUtils.replace
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/StringUtils.replaceOnce
+org/apache/commons/lang3/StringUtils.replace
+org/apache/commons/lang3/StringUtils.isEmpty
+perfect match

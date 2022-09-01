@@ -1,0 +1,43 @@
+slicing criterion: org.jsoup.safety.CleanerTest.cleansInternationalText:236
+Methods call in assertion: [org/jsoup/safety/Whitelist.none, org/jsoup/Jsoup.clean]
+org/jsoup/safety/Cleaner.clean
+org/jsoup/nodes/Node.childNodesAsArray
+org/jsoup/nodes/Document.body
+org/jsoup/nodes/Attributes.equals
+org/jsoup/safety/Whitelist.addAttributes
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/nodes/Document.createShell
+org/jsoup/nodes/Element.appendElement
+org/jsoup/nodes/Node.ownerDocument
+org/jsoup/nodes/Document.<init>
+org/jsoup/Jsoup.clean
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Document.nodeName
+org/jsoup/nodes/Element.appendChild
+top 10 recommendations: 
+org/jsoup/Jsoup.clean
+org/jsoup/safety/Cleaner.clean
+org/jsoup/nodes/Document.createShell
+org/jsoup/nodes/Element.appendElement
+org/jsoup/nodes/Node.childNodesAsArray
+org/jsoup/nodes/Document.body
+org/jsoup/nodes/Attributes.equals
+org/jsoup/safety/Whitelist.addAttributes
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/nodes/Node.ownerDocument
+after post processing ......
+org/jsoup/Jsoup.clean
+org/jsoup/safety/Cleaner.clean
+org/jsoup/nodes/Document.createShell
+org/jsoup/nodes/Element.appendElement
+org/jsoup/nodes/Node.childNodesAsArray
+org/jsoup/nodes/Document.body
+org/jsoup/nodes/Attributes.equals
+org/jsoup/safety/Whitelist.addAttributes
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/nodes/Node.ownerDocument
+org/jsoup/nodes/Document.<init>
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Document.nodeName
+org/jsoup/nodes/Element.appendChild
+not matched

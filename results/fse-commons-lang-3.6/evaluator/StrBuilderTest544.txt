@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testIndexOf_String:1528
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.indexOf]
+org/apache/commons/lang3/text/StrBuilder.indexOf
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.indexOf
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.indexOf
+perfect match

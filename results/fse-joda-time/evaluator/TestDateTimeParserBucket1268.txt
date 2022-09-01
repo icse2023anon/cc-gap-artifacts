@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.format.TestDateTimeParserBucket.testSaveRestoreState_badType:267
+Methods call in assertion: [org/joda/time/format/DateTimeParserBucket.saveState, org/joda/time/format/DateTimeParserBucket.restoreState]
+org/joda/time/format/DateTimeParserBucket.saveState
+org/joda/time/format/DateTimeParserBucket.restoreState
+top 10 recommendations: 
+org/joda/time/format/DateTimeParserBucket.saveState
+org/joda/time/format/DateTimeParserBucket.restoreState
+after post processing ......
+org/joda/time/format/DateTimeParserBucket.saveState
+org/joda/time/format/DateTimeParserBucket.restoreState
+perfect match

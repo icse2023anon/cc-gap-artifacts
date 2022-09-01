@@ -1,0 +1,32 @@
+slicing criterion: com.google.gson.JsonObjectTest.testDeepCopy:184
+Methods call in assertion: [com/google/gson/JsonArray.size, com/google/gson/JsonObject.get, com/google/gson/JsonElement.getAsJsonArray]
+com/google/gson/JsonArray.size
+com/google/gson/internal/LinkedTreeMap.entrySet
+com/google/gson/JsonElement.getAsJsonArray
+com/google/gson/JsonObject.get
+com/google/gson/JsonArray.deepCopy
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/JsonObject.deepCopy
+com/google/gson/JsonElement.isJsonArray
+com/google/gson/internal/LinkedTreeMap.find
+top 10 recommendations: 
+com/google/gson/JsonElement.getAsJsonArray
+com/google/gson/JsonObject.get
+com/google/gson/JsonObject.deepCopy
+com/google/gson/JsonArray.size
+com/google/gson/internal/LinkedTreeMap.entrySet
+com/google/gson/JsonArray.deepCopy
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/JsonElement.isJsonArray
+com/google/gson/internal/LinkedTreeMap.find
+after post processing ......
+com/google/gson/JsonElement.getAsJsonArray
+com/google/gson/JsonObject.get
+com/google/gson/JsonObject.deepCopy
+com/google/gson/JsonArray.size
+com/google/gson/internal/LinkedTreeMap.entrySet
+com/google/gson/JsonArray.deepCopy
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/JsonElement.isJsonArray
+com/google/gson/internal/LinkedTreeMap.find
+found in top 10

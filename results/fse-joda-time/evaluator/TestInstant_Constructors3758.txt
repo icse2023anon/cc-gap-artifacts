@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestInstant_Constructors.test_ofEpochMilli:135
+Methods call in assertion: [org/joda/time/Instant.getMillis]
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/Instant.getChronology
+org/joda/time/Instant.getMillis
+top 10 recommendations: 
+org/joda/time/Instant.getChronology
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/Instant.getMillis
+after post processing ......
+org/joda/time/Instant.getChronology
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/Instant.getMillis
+found in top 10

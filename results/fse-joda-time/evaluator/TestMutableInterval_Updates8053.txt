@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestMutableInterval_Updates.testSetStart_RI1:256
+Methods call in assertion: [org/joda/time/MutableInterval.getStartMillis]
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/MutableInterval.setStart
+org/joda/time/base/BaseInterval.getStartMillis
+org/joda/time/Instant.getMillis
+top 10 recommendations: 
+org/joda/time/MutableInterval.setStart
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/base/BaseInterval.getStartMillis
+org/joda/time/Instant.getMillis
+after post processing ......
+org/joda/time/MutableInterval.setStart
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/base/BaseInterval.getStartMillis
+org/joda/time/Instant.getMillis
+found in top 10

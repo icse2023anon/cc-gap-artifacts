@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ClassUtilsTest.test_isAssignable_NoAutoboxing:579
+Methods call in assertion: [org/apache/commons/lang3/ClassUtils.isAssignable]
+org/apache/commons/lang3/ClassUtils.isAssignable
+top 10 recommendations: 
+org/apache/commons/lang3/ClassUtils.isAssignable
+after post processing ......
+org/apache/commons/lang3/ClassUtils.isAssignable
+perfect match

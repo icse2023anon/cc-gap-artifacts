@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestDateTime_Basics.testIsSupported_DateTimeFieldType:296
+Methods call in assertion: [org/joda/time/DateTime.isSupported, org/joda/time/DateTimeFieldType.yearOfCentury]
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/base/AbstractInstant.isSupported
+org/joda/time/DateTimeFieldType.yearOfCentury
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/base/AbstractInstant.isSupported
+org/joda/time/DateTimeFieldType.yearOfCentury
+after post processing ......
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/base/AbstractInstant.isSupported
+org/joda/time/DateTimeFieldType.yearOfCentury
+not matched

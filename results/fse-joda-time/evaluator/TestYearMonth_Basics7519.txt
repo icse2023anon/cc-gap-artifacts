@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestYearMonth_Basics.testIsAfter_YM:365
+Methods call in assertion: [org/joda/time/YearMonth.isAfter]
+org/joda/time/base/AbstractPartial.isAfter
+org/joda/time/base/AbstractPartial.compareTo
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.isAfter
+org/joda/time/base/AbstractPartial.compareTo
+after post processing ......
+org/joda/time/base/AbstractPartial.isAfter
+org/joda/time/base/AbstractPartial.compareTo
+not matched

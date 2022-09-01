@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.needle.PlumNeedleTest.testCloning:73
+Methods call in assertion: [org/jfree/chart/needle/PlumNeedle.equals]
+org/jfree/chart/needle/PlumNeedle.equals
+org/jfree/chart/needle/PlumNeedle.clone
+top 10 recommendations: 
+org/jfree/chart/needle/PlumNeedle.equals
+org/jfree/chart/needle/PlumNeedle.clone
+after post processing ......
+org/jfree/chart/needle/PlumNeedle.equals
+org/jfree/chart/needle/PlumNeedle.clone
+perfect match

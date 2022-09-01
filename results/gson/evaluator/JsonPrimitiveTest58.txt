@@ -1,0 +1,11 @@
+slicing criterion: com.google.gson.JsonPrimitiveTest.testBoolean:36
+Methods call in assertion: [com/google/gson/JsonPrimitive.isBoolean]
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.isBoolean
+top 10 recommendations: 
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.isBoolean
+after post processing ......
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.isBoolean
+found in top 10

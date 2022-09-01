@@ -1,0 +1,37 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testGetValue_int:285
+Methods call in assertion: [org/joda/time/LocalDateTime.getValue]
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/LocalDateTime.<init>
+org/joda/time/LocalDateTime.getValue
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/LocalDateTime.<init>
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/LocalDateTime.getValue
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/chrono/BasicChronology.getYear
+after post processing ......
+org/joda/time/LocalDateTime.<init>
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/LocalDateTime.getValue
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

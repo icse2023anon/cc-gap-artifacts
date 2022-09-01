@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTrimStripTest.testStripToEmpty_String:111
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.stripToEmpty]
+org/apache/commons/lang3/StringUtils.strip
+org/apache/commons/lang3/StringUtils.stripEnd
+org/apache/commons/lang3/StringUtils.stripToEmpty
+org/apache/commons/lang3/StringUtils.stripStart
+org/apache/commons/lang3/StringUtils.isEmpty
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.stripToEmpty
+org/apache/commons/lang3/StringUtils.strip
+org/apache/commons/lang3/StringUtils.stripEnd
+org/apache/commons/lang3/StringUtils.stripStart
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/StringUtils.stripToEmpty
+org/apache/commons/lang3/StringUtils.strip
+org/apache/commons/lang3/StringUtils.stripEnd
+org/apache/commons/lang3/StringUtils.stripStart
+org/apache/commons/lang3/StringUtils.isEmpty
+perfect match

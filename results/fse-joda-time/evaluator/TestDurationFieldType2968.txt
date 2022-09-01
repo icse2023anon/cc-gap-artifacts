@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDurationFieldType.test_halfdays:130
+Methods call in assertion: [org/joda/time/DurationFieldType.getName, org/joda/time/DurationFieldType.halfdays]
+org/joda/time/DurationFieldType.getName
+org/joda/time/DurationFieldType.halfdays
+top 10 recommendations: 
+org/joda/time/DurationFieldType.getName
+org/joda/time/DurationFieldType.halfdays
+after post processing ......
+org/joda/time/DurationFieldType.getName
+org/joda/time/DurationFieldType.halfdays
+perfect match

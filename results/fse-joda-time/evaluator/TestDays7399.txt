@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDays.testIsLessThan:254
+Methods call in assertion: [org/joda/time/Days.isLessThan]
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Days.isLessThan
+top 10 recommendations: 
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Days.isLessThan
+after post processing ......
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Days.isLessThan
+found in top 10

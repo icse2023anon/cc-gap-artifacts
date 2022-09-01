@@ -1,0 +1,20 @@
+slicing criterion: org.jfree.chart.title.DateTitleTest.testCloning:112
+Methods call in assertion: [org/jfree/chart/title/DateTitle.equals]
+org/jfree/chart/title/DateTitle.<init>
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/title/TextTitle.clone
+top 10 recommendations: 
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/title/DateTitle.<init>
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/title/TextTitle.clone
+after post processing ......
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/title/DateTitle.<init>
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/title/TextTitle.clone
+found in top 10

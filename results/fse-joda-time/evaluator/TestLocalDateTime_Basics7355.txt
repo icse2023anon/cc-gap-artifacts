@@ -1,0 +1,43 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testEqualsHashCode:365
+Methods call in assertion: [org/joda/time/LocalDateTime.hashCode]
+org/joda/time/base/AbstractPartial.hashCode
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/LocalDateTime.getValue
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/LocalDateTime.getField
+org/joda/time/LocalDateTime.<init>
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/LocalDateTime.size
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.hashCode
+org/joda/time/LocalDateTime.getValue
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/LocalDateTime.getField
+after post processing ......
+org/joda/time/base/AbstractPartial.hashCode
+org/joda/time/LocalDateTime.getValue
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/LocalDateTime.getField
+org/joda/time/LocalDateTime.<init>
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/LocalDateTime.size
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+not matched

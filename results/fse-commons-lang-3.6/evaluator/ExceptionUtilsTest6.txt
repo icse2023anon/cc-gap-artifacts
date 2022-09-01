@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.exception.ExceptionUtilsTest.testCatchTechniques:598
+Methods call in assertion: [org/apache/commons/lang3/exception/ExceptionUtils.getThrowableCount]
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableCount
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableList
+org/apache/commons/lang3/exception/ExceptionUtils.getCause
+org/apache/commons/lang3/exception/ExceptionUtils.rethrow
+top 10 recommendations: 
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableCount
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableList
+org/apache/commons/lang3/exception/ExceptionUtils.getCause
+org/apache/commons/lang3/exception/ExceptionUtils.rethrow
+after post processing ......
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableCount
+org/apache/commons/lang3/exception/ExceptionUtils.getThrowableList
+org/apache/commons/lang3/exception/ExceptionUtils.getCause
+org/apache/commons/lang3/exception/ExceptionUtils.rethrow
+perfect match

@@ -1,0 +1,23 @@
+slicing criterion: org.jsoup.parser.XmlTreeBuilderTest.caseSensitiveDeclaration:163
+Methods call in assertion: [org/jsoup/nodes/Document.outerHtml]
+org/jsoup/nodes/Document.outerHtml
+org/jsoup/parser/Parser.parseInput
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/parser/TreeBuilder.currentElement
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Node.ownerDocument
+top 10 recommendations: 
+org/jsoup/nodes/Document.outerHtml
+org/jsoup/parser/Parser.parseInput
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/parser/TreeBuilder.currentElement
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Node.ownerDocument
+after post processing ......
+org/jsoup/nodes/Document.outerHtml
+org/jsoup/parser/Parser.parseInput
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/parser/TreeBuilder.currentElement
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Node.ownerDocument
+perfect match

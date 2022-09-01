@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.BooleanUtilsTest.testOr_primitive_validInput_2items:890
+Methods call in assertion: [org/apache/commons/lang3/BooleanUtils.or]
+org/apache/commons/lang3/BooleanUtils.or
+top 10 recommendations: 
+org/apache/commons/lang3/BooleanUtils.or
+after post processing ......
+org/apache/commons/lang3/BooleanUtils.or
+perfect match

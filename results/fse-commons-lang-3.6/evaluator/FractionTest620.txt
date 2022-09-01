@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.math.FractionTest.testConstants:85
+Methods call in assertion: [org/apache/commons/lang3/math/Fraction.getNumerator]
+org/apache/commons/lang3/math/Fraction.getNumerator
+top 10 recommendations: 
+org/apache/commons/lang3/math/Fraction.getNumerator
+after post processing ......
+org/apache/commons/lang3/math/Fraction.getNumerator
+perfect match

@@ -1,0 +1,26 @@
+slicing criterion: org.jfree.chart.plot.ThermometerPlotTest.testCloning:180
+Methods call in assertion: [org/jfree/chart/plot/ThermometerPlot.equals]
+org/jfree/chart/plot/ThermometerPlot.equals
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/ThermometerPlot.clone
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/axis/NumberAxis.clone
+top 10 recommendations: 
+org/jfree/chart/plot/ThermometerPlot.equals
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/plot/ThermometerPlot.clone
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/axis/NumberAxis.clone
+after post processing ......
+org/jfree/chart/plot/ThermometerPlot.equals
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/plot/ThermometerPlot.clone
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/axis/NumberAxis.clone
+perfect match

@@ -1,0 +1,17 @@
+slicing criterion: org.jsoup.parser.TokenQueueTest.chompEscapedBalanced:29
+Methods call in assertion: [org/jsoup/parser/TokenQueue.unescape]
+org/jsoup/parser/TokenQueue.isEmpty
+org/jsoup/parser/TokenQueue.consumeTo
+org/jsoup/parser/TokenQueue.unescape
+org/jsoup/parser/TokenQueue.chompBalanced
+top 10 recommendations: 
+org/jsoup/parser/TokenQueue.chompBalanced
+org/jsoup/parser/TokenQueue.isEmpty
+org/jsoup/parser/TokenQueue.consumeTo
+org/jsoup/parser/TokenQueue.unescape
+after post processing ......
+org/jsoup/parser/TokenQueue.chompBalanced
+org/jsoup/parser/TokenQueue.isEmpty
+org/jsoup/parser/TokenQueue.consumeTo
+org/jsoup/parser/TokenQueue.unescape
+found in top 10

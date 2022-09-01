@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableDoubleTest.testPrimitiveValues:165
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableDouble.doubleValue]
+org/apache/commons/lang3/mutable/MutableDouble.floatValue
+org/apache/commons/lang3/mutable/MutableDouble.doubleValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableDouble.floatValue
+org/apache/commons/lang3/mutable/MutableDouble.doubleValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableDouble.floatValue
+org/apache/commons/lang3/mutable/MutableDouble.doubleValue
+found in top 10

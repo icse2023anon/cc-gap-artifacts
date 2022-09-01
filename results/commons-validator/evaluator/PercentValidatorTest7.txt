@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.validator.routines.PercentValidatorTest.testFormatType:61
+Methods call in assertion: [org/apache/commons/validator/routines/BigDecimalValidator.getFormatType, org/apache/commons/validator/routines/PercentValidator.getInstance]
+org/apache/commons/validator/routines/PercentValidator.getInstance
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormatType
+top 10 recommendations: 
+org/apache/commons/validator/routines/PercentValidator.getInstance
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormatType
+after post processing ......
+org/apache/commons/validator/routines/PercentValidator.getInstance
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormatType
+perfect match

@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.plot.PolarPlotTest.testEquals:206
+Methods call in assertion: [org/jfree/chart/plot/PolarPlot.equals]
+org/jfree/chart/plot/PolarPlot.setAngleLabelsVisible
+org/jfree/chart/plot/PolarPlot.equals
+org/jfree/chart/plot/PolarPlot.setAngleGridlinesVisible
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/PolarPlot.setRadiusGridlinesVisible
+top 10 recommendations: 
+org/jfree/chart/plot/PolarPlot.equals
+org/jfree/chart/plot/PolarPlot.setAngleLabelsVisible
+org/jfree/chart/plot/PolarPlot.setAngleGridlinesVisible
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/PolarPlot.setRadiusGridlinesVisible
+after post processing ......
+org/jfree/chart/plot/PolarPlot.equals
+org/jfree/chart/plot/PolarPlot.setAngleLabelsVisible
+org/jfree/chart/plot/PolarPlot.setAngleGridlinesVisible
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/PolarPlot.setRadiusGridlinesVisible
+perfect match

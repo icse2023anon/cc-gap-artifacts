@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.math.FractionTest.testReducedFactory_int_int:285
+Methods call in assertion: [org/apache/commons/lang3/math/Fraction.getDenominator]
+org/apache/commons/lang3/math/Fraction.getReducedFraction
+org/apache/commons/lang3/math/Fraction.getDenominator
+top 10 recommendations: 
+org/apache/commons/lang3/math/Fraction.getReducedFraction
+org/apache/commons/lang3/math/Fraction.getDenominator
+after post processing ......
+org/apache/commons/lang3/math/Fraction.getReducedFraction
+org/apache/commons/lang3/math/Fraction.getDenominator
+found in top 10

@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.field.TestPreciseDateTimeField.test_getAsText_long_Locale:200
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.getAsText]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/field/PreciseDateTimeField.<init>
+org/joda/time/field/BaseDateTimeField.getAsText
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/field/PreciseDateTimeField.<init>
+org/joda/time/field/BaseDateTimeField.getAsText
+after post processing ......
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/field/PreciseDateTimeField.<init>
+org/joda/time/field/BaseDateTimeField.getAsText
+found in top 10

@@ -1,0 +1,147 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------< [0;36morg.apache.commons:commons-lang3[0;1m >------------------[m
+[[1;34mINFO[m] [1mBuilding Apache Commons Lang 3.6[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mpitest-maven:1.6.7:mutationCoverage[m [1m(default-cli)[m @ [36mcommons-lang3[0;1m ---[m
+[[1;34mINFO[m] Found plugin : Default csv report plugin
+[[1;34mINFO[m] Found plugin : Default xml report plugin
+[[1;34mINFO[m] Found plugin : Default html report plugin
+[[1;34mINFO[m] Found plugin : Static initializer code detector plugin
+[[1;34mINFO[m] Found plugin : Static initializer filter plugin
+[[1;34mINFO[m] Found plugin : Excluded annotations plugin
+[[1;34mINFO[m] Found plugin : Try with resources filter
+[[1;34mINFO[m] Found plugin : Inlined finally block filter plugin
+[[1;34mINFO[m] Found plugin : Implicit null check filter
+[[1;34mINFO[m] Found plugin : Method reference null check filter
+[[1;34mINFO[m] Found plugin : For each loop filter
+[[1;34mINFO[m] Found plugin : Enum constructor filter
+[[1;34mINFO[m] Found plugin : Logging calls filter
+[[1;34mINFO[m] Found plugin : Infinite for loop filter
+[[1;34mINFO[m] Found plugin : Long running iterator loop filter
+[[1;34mINFO[m] Found plugin : For loop counter filter
+[[1;34mINFO[m] Found plugin : Kotlin junk mutations filter
+[[1;34mINFO[m] Found plugin : Max mutations per class limit
+[[1;34mINFO[m] Found plugin : Equals shortcut equivalent mutant filter
+[[1;34mINFO[m] Found plugin : Trivial return vals equivalence filter
+[[1;34mINFO[m] Found plugin : Mutant export plugin
+[[1;34mINFO[m] Found shared classpath plugin : Default mutation engine
+[[1;34mINFO[m] Found shared classpath plugin : JUnit plugin
+[[1;34mINFO[m] Found shared classpath plugin : TestNG plugin
+[[1;34mINFO[m] Adding org.pitest:pitest to SUT classpath
+[[1;34mINFO[m] Mutating from /home/stg/omc_experiments/subjects/fse-commons-lang-3.6/rq2_test_suites/test_suite_1/target/classes
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\stderr  : 4:56:09 PM PIT >> WARNING : Mutation MutationDetails [id=MutationIdentifier [location=Location [clazz=org.apache.commons.lang3.ArchUtils, method=addProcessors, methodDesc=(Lorg/apache/commons/lang3/arch/Processor;[Ljava/lang/String;)V], indexes=[23], mutator=org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator], filename=ArchUtils.java, block=2, lineNumber=106, description=removed call to org/apache/commons/lang3/ArchUtils::addProcessor, testsInOrder=[org.apache.commons.lang3.ArchUtilsTest.testArch(org.apache.commons.lang3.ArchUtilsTest)], isInFinallyBlock=false, poison=NORMAL] was not viable 
+stderr  : 4:56:09 PM PIT >> WARNING : Mutation MutationDetails [id=MutationIdentifier [location=Location [clazz=org.apache.commons.lang3.ArchUtils, method=init_IA64_64Bit, methodDesc=()V], indexes=[22], mutator=org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator], filename=ArchUtils.java, block=1, lineNumber=68, description=removed call to org/apache/commons/lang3/ArchUtils::addProcessors, testsInOrder=[org.apache.commons.lang3.ArchUtilsTest.testArch(org.apache.commons.lang3.ArchUtilsTest)], isInFinallyBlock=false, poison=NORMAL] was not viable 
+stderr  : 4:56:09 PM PIT >> WARNING : Mutation MutationDetails [id=MutationIdentifier [location=Location [clazz=org.apache.commons.lang3.ArchUtils, method=init_PPC_32Bit, methodDesc=()V], indexes=[34], mutator=org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator], filename=ArchUtils.java, block=1, lineNumber=73, description=removed call to org/apache/commons/lang3/ArchUtils::addProcessors, testsInOrder=[org.apache.commons.lang3.ArchUtilsTest.testArch(org.apache.commons.lang3.ArchUtilsTest)], isInFinallyBlock=false, poison=NORMAL] was not viable 
+stderr  : 4:56:09 PM PIT >> WARNING : Mutation MutationDetails [id=MutationIdentifier [location=Location [clazz=org.apache.commons.lang3.ArchUtils, method=init_IA64_32Bit, methodDesc=()V], indexes=[22], mutator=org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator], filename=ArchUtils.java, block=1, lineNumber=63, description=removed call to org/apache/commons/lang3/ArchUtils::addProcessors, testsInOrder=[org.apache.commons.lang3.ArchUtilsTest.testArch(org.apache.commons.lang3.ArchUtilsTest)], isInFinallyBlock=false, poison=NORMAL] was not viable 
+stderr  : 4:56:09 PM PIT >> WARNING : Mutation MutationDetails [id=MutationIdentifier [location=Location [clazz=org.apache.commons.lang3.ArchUtils, method=init_X86_64Bit, methodDesc=()V], indexes=[30], mutator=org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator], filename=ArchUtils.java, block=1, lineNumber=58, description=removed call to org/apache/commons/lang3/ArchUtils::addProcessors, testsInOrder=[org.apache.commons.lang3.ArchUtilsTest.testArch(org.apache.commons.lang3.ArchUtilsTest)], isInFinallyBlock=false, poison=NORMAL] was not viable 
+stderr  : 4:56:09 PM PIT >> WARNING : Mutation MutationDetails [id=MutationIdentifier [location=Location [clazz=org.apache.commons.lang3.ArchUtils, method=addProcessor, methodDesc=(Ljava/lang/String;Lorg/apache/commons/lang3/arch/Processor;)V], indexes=[6], mutator=org.pitest.mutationtest.engine.gregor.mutators.RemoveConditionalMutator_EQUAL_ELSE], filename=ArchUtils.java, block=1, lineNumber=89, description=removed conditional - replaced equality check with false, testsInOrder=[org.apache.commons.lang3.ArchUtilsTest.testArch(org.apache.commons.lang3.ArchUtilsTest)], isInFinallyBlock=false, poison=NORMAL] was not viable 
+stderr  : 4:56:09 PM PIT >> WARNING : Mutation MutationDetails [id=MutationIdentifier [location=Location [clazz=org.apache.commons.lang3.ArchUtils, method=init_PPC_64Bit, methodDesc=()V], indexes=[34], mutator=org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator], filename=ArchUtils.java, block=1, lineNumber=78, description=removed call to org/apache/commons/lang3/ArchUtils::addProcessors, testsInOrder=[org.apache.commons.lang3.ArchUtilsTest.testArch(org.apache.commons.lang3.ArchUtilsTest)], isInFinallyBlock=false, poison=NORMAL] was not viable 
+stderr  : 4:56:09 PM PIT >> WARNING : Mutation MutationDetails [id=MutationIdentifier [location=Location [clazz=org.apache.commons.lang3.ArchUtils, method=getProcessor, methodDesc=(Ljava/lang/String;)Lorg/apache/commons/lang3/arch/Processor;], indexes=[7], mutator=org.pitest.mutationtest.engine.gregor.mutators.NullReturnValsMutator], filename=ArchUtils.java, block=1, lineNumber=132, description=replaced return value with null for org/apache/commons/lang3/ArchUtils::getProcessor, testsInOrder=[org.apache.commons.lang3.ArchUtilsTest.testGetProcessor(org.apache.commons.lang3.ArchUtilsTest), org.apache.commons.lang3.ArchUtilsTest.testIs32BitJVM(org.apache.commons.lang3.ArchUtilsTest), org.apache.commons.lang3.ArchUtilsTest.testIs64BitJVM(org.apache.commons.lang3.ArchUtilsTest), org.apache.commons.lang3.ArchUtilsTest.testArch(org.apache.commons.lang3.ArchUtilsTest)], isInFinallyBlock=false, poison=NORMAL] was not viable 
+stderr  : 4:56:09 PM PIT >> WARNING : Mutation MutationDetails [id=MutationIdentifier [location=Location [clazz=org.apache.commons.lang3.ArchUtils, method=init_X86_32Bit, methodDesc=()V], indexes=[38], mutator=org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator], filename=ArchUtils.java, block=1, lineNumber=53, description=removed call to org/apache/commons/lang3/ArchUtils::addProcessors, testsInOrder=[org.apache.commons.lang3.ArchUtilsTest.testArch(org.apache.commons.lang3.ArchUtilsTest)], isInFinallyBlock=false, poison=NORMAL] was not viable 
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-================================================================================
+- Mutators
+================================================================================
+> org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator
+>> Generated 983 Killed 231 (23%)
+> KILLED 220 SURVIVED 537 TIMED_OUT 4 NON_VIABLE 7 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 215 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.experimental.SwitchMutator
+>> Generated 26 Killed 11 (42%)
+> KILLED 10 SURVIVED 1 TIMED_OUT 1 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 14 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.RemoveConditionalMutator_EQUAL_ELSE
+>> Generated 3288 Killed 1313 (40%)
+> KILLED 1298 SURVIVED 1547 TIMED_OUT 14 NON_VIABLE 1 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 428 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.MathMutator
+>> Generated 1585 Killed 633 (40%)
+> KILLED 579 SURVIVED 785 TIMED_OUT 54 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 167 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator
+>> Generated 4658 Killed 2467 (53%)
+> KILLED 2409 SURVIVED 1673 TIMED_OUT 58 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 518 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.PrimitiveReturnsMutator
+>> Generated 728 Killed 95 (13%)
+> KILLED 85 SURVIVED 542 TIMED_OUT 10 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 91 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.BooleanTrueReturnValsMutator
+>> Generated 611 Killed 91 (15%)
+> KILLED 91 SURVIVED 375 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 145 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.EmptyObjectReturnValsMutator
+>> Generated 693 Killed 90 (13%)
+> KILLED 90 SURVIVED 519 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 84 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.ConditionalsBoundaryMutator
+>> Generated 1356 Killed 473 (35%)
+> KILLED 442 SURVIVED 796 TIMED_OUT 31 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 87 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.IncrementsMutator
+>> Generated 429 Killed 339 (79%)
+> KILLED 311 SURVIVED 43 TIMED_OUT 28 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 47 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.NullReturnValsMutator
+>> Generated 1429 Killed 699 (49%)
+> KILLED 698 SURVIVED 449 TIMED_OUT 0 NON_VIABLE 1 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 281 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.InvertNegsMutator
+>> Generated 19 Killed 9 (47%)
+> KILLED 6 SURVIVED 8 TIMED_OUT 3 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 2 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.BooleanFalseReturnValsMutator
+>> Generated 339 Killed 54 (16%)
+> KILLED 54 SURVIVED 208 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 77 
+--------------------------------------------------------------------------------
+================================================================================
+- Timings
+================================================================================
+> pre-scan for mutations : 10 seconds
+> scan classpath : < 1 second
+> coverage and dependency analysis : 7 seconds
+> build mutation tests : 7 seconds
+> run mutation analysis : 12 minutes and 31 seconds
+--------------------------------------------------------------------------------
+> Total  : 12 minutes and 58 seconds
+--------------------------------------------------------------------------------
+================================================================================
+- Statistics
+================================================================================
+>> Line Coverage: 12232/14985 (82%)
+>> Generated 16144 mutations Killed 6505 (40%)
+>> Mutations with no coverage 2156. Test strength 47%
+>> Ran 50559 tests (3.13 tests per mutation)
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  13:04 min
+[[1;34mINFO[m] Finished at: 2022-08-30T17:03:00Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m

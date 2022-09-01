@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testEqualsIgnoreCase:1918
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.equalsIgnoreCase]
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.equalsIgnoreCase
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.equalsIgnoreCase
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.equalsIgnoreCase
+found in top 10

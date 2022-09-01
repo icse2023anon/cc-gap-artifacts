@@ -1,0 +1,39 @@
+slicing criterion: org.jfree.chart.renderer.category.LineAndShapeRendererTest.testFindRangeBounds:296
+Methods call in assertion: [org/jfree/chart/renderer/category/LineAndShapeRenderer.findRangeBounds]
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultLinesVisible
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/chart/renderer/AbstractRenderer.getDataBoundsIncludesVisibleSeriesOnly
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/data/category/DefaultCategoryDataset.getRowIndex
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/general/DatasetUtils.iterateToFindRangeBounds
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+org/jfree/data/category/DefaultCategoryDataset.getValue
+org/jfree/data/category/DefaultCategoryDataset.getColumnCount
+top 10 recommendations: 
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultLinesVisible
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/chart/renderer/AbstractRenderer.getDataBoundsIncludesVisibleSeriesOnly
+org/jfree/data/category/DefaultCategoryDataset.getRowIndex
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/general/DatasetUtils.iterateToFindRangeBounds
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+after post processing ......
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getDefaultLinesVisible
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/chart/renderer/AbstractRenderer.getDataBoundsIncludesVisibleSeriesOnly
+org/jfree/data/category/DefaultCategoryDataset.getRowIndex
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/general/DatasetUtils.iterateToFindRangeBounds
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+org/jfree/data/category/DefaultCategoryDataset.getValue
+org/jfree/data/category/DefaultCategoryDataset.getColumnCount
+found in top 10

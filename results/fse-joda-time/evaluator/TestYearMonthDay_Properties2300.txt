@@ -1,0 +1,32 @@
+slicing criterion: org.joda.time.TestYearMonthDay_Properties.testPropertyHashCode:557
+Methods call in assertion: [org/joda/time/YearMonthDay.monthOfYear, org/joda/time/YearMonthDay$Property.hashCode]
+org/joda/time/field/AbstractPartialFieldProperty.getFieldType
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/YearMonthDay.getField
+org/joda/time/field/AbstractPartialFieldProperty.hashCode
+top 10 recommendations: 
+org/joda/time/field/AbstractPartialFieldProperty.hashCode
+org/joda/time/field/AbstractPartialFieldProperty.getFieldType
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/YearMonthDay.getField
+after post processing ......
+org/joda/time/field/AbstractPartialFieldProperty.hashCode
+org/joda/time/field/AbstractPartialFieldProperty.getFieldType
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/YearMonthDay.getField
+not matched

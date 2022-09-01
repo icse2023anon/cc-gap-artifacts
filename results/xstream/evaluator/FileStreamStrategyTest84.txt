@@ -1,0 +1,17 @@
+slicing criterion: com.thoughtworks.xstream.persistence.FileStreamStrategyTest.testContainsAllItems:217
+Methods call in assertion: [com/thoughtworks/xstream/persistence/FileStreamStrategy.containsKey]
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.access$404
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.<init>
+com/thoughtworks/xstream/persistence/FileStreamStrategy.getName
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.containsKey
+top 10 recommendations: 
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.access$404
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.<init>
+com/thoughtworks/xstream/persistence/FileStreamStrategy.getName
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.containsKey
+after post processing ......
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.access$404
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.<init>
+com/thoughtworks/xstream/persistence/FileStreamStrategy.getName
+com/thoughtworks/xstream/persistence/AbstractFilePersistenceStrategy.containsKey
+not matched

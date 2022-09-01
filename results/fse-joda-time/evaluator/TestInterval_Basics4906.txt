@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestInterval_Basics.testAbuts_RInterval:874
+Methods call in assertion: [org/joda/time/Interval.abuts]
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/Interval.abuts
+org/joda/time/base/BaseInterval.getStartMillis
+top 10 recommendations: 
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/Interval.abuts
+org/joda/time/base/BaseInterval.getStartMillis
+after post processing ......
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/Interval.abuts
+org/joda/time/base/BaseInterval.getStartMillis
+found in top 10

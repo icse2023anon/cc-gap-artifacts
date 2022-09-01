@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.text.StrTokenizerTest.testConstructor_charArray_char:759
+Methods call in assertion: [org/apache/commons/lang3/text/StrTokenizer.hasNext]
+org/apache/commons/lang3/text/StrTokenizer.cloneReset
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+org/apache/commons/lang3/ArrayUtils.clone
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrTokenizer.cloneReset
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+org/apache/commons/lang3/ArrayUtils.clone
+after post processing ......
+org/apache/commons/lang3/text/StrTokenizer.cloneReset
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+org/apache/commons/lang3/ArrayUtils.clone
+found in top 10

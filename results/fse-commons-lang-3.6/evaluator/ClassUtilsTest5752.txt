@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ClassUtilsTest.testGetClassRawPrimitives:1119
+Methods call in assertion: [org/apache/commons/lang3/ClassUtils.getClass]
+org/apache/commons/lang3/ClassUtils.getClass
+top 10 recommendations: 
+org/apache/commons/lang3/ClassUtils.getClass
+after post processing ......
+org/apache/commons/lang3/ClassUtils.getClass
+perfect match

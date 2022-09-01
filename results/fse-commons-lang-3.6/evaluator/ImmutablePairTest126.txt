@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.tuple.ImmutablePairTest.testBasic:66
+Methods call in assertion: [org/apache/commons/lang3/tuple/ImmutablePair.getRight]
+org/apache/commons/lang3/tuple/ImmutablePair.getRight
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/ImmutablePair.getRight
+after post processing ......
+org/apache/commons/lang3/tuple/ImmutablePair.getRight
+perfect match

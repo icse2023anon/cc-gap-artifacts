@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.renderer.category.MinMaxCategoryRendererTest.testEquals:90
+Methods call in assertion: [org/jfree/chart/renderer/category/MinMaxCategoryRenderer.equals]
+org/jfree/chart/renderer/category/MinMaxCategoryRenderer.equals
+org/jfree/chart/renderer/category/MinMaxCategoryRenderer.setDrawLines
+org/jfree/chart/util/PaintUtils.equal
+top 10 recommendations: 
+org/jfree/chart/renderer/category/MinMaxCategoryRenderer.equals
+org/jfree/chart/renderer/category/MinMaxCategoryRenderer.setDrawLines
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/renderer/category/MinMaxCategoryRenderer.equals
+org/jfree/chart/renderer/category/MinMaxCategoryRenderer.setDrawLines
+org/jfree/chart/util/PaintUtils.equal
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTime_Basics.testProperty:1393
+Methods call in assertion: [org/joda/time/DateTimeFieldType.year, org/joda/time/DateTime.year, org/joda/time/DateTime.property]
+org/joda/time/DateTime.getMillis
+org/joda/time/DateTimeFieldType.year
+top 10 recommendations: 
+org/joda/time/DateTime.getMillis
+org/joda/time/DateTimeFieldType.year
+after post processing ......
+org/joda/time/DateTime.getMillis
+org/joda/time/DateTimeFieldType.year
+not matched

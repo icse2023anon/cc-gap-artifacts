@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestYearMonth_Basics.testGetValues:217
+Methods call in assertion: [org/joda/time/YearMonth.getValues]
+org/joda/time/YearMonth.size
+org/joda/time/base/BasePartial.getValues
+org/joda/time/chrono/BaseChronology.get
+top 10 recommendations: 
+org/joda/time/YearMonth.size
+org/joda/time/base/BasePartial.getValues
+org/joda/time/chrono/BaseChronology.get
+after post processing ......
+org/joda/time/YearMonth.size
+org/joda/time/base/BasePartial.getValues
+org/joda/time/chrono/BaseChronology.get
+not matched

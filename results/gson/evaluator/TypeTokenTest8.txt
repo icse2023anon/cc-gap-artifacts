@@ -1,0 +1,8 @@
+slicing criterion: com.google.gson.reflect.TypeTokenTest.testIsAssignableFromWithBasicWildcards:66
+Methods call in assertion: [com/google/gson/reflect/TypeToken.get, com/google/gson/reflect/TypeToken.isAssignableFrom]
+com/google/gson/reflect/TypeToken.isAssignableFrom
+top 10 recommendations: 
+com/google/gson/reflect/TypeToken.isAssignableFrom
+after post processing ......
+com/google/gson/reflect/TypeToken.isAssignableFrom
+not matched

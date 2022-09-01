@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.TestPeriod_Basics.testIsSupported:268
+Methods call in assertion: [org/joda/time/DurationFieldType.seconds, org/joda/time/Period.isSupported]
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.yearDayTime
+org/joda/time/DurationFieldType.seconds
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/base/AbstractPeriod.isSupported
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/PeriodType.yearDayTime
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/DurationFieldType.seconds
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/AbstractPeriod.isSupported
+after post processing ......
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/PeriodType.yearDayTime
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/DurationFieldType.seconds
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/AbstractPeriod.isSupported
+found in top 10

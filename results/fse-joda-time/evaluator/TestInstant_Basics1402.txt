@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestInstant_Basics.testCompareTo:262
+Methods call in assertion: [org/joda/time/Instant.compareTo]
+org/joda/time/base/AbstractInstant.compareTo
+top 10 recommendations: 
+org/joda/time/base/AbstractInstant.compareTo
+after post processing ......
+org/joda/time/base/AbstractInstant.compareTo
+perfect match

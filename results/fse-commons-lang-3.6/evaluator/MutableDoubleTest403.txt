@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableDoubleTest.testCompareTo:150
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableDouble.compareTo]
+org/apache/commons/lang3/mutable/MutableDouble.compareTo
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableDouble.compareTo
+after post processing ......
+org/apache/commons/lang3/mutable/MutableDouble.compareTo
+perfect match

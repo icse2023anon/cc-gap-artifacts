@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYStepRendererTest.testCloning:109
+Methods call in assertion: [org/jfree/chart/renderer/xy/XYStepRenderer.equals]
+org/jfree/chart/renderer/xy/XYStepRenderer.equals
+org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.clone
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/XYStepRenderer.equals
+org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.clone
+after post processing ......
+org/jfree/chart/renderer/xy/XYStepRenderer.equals
+org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.clone
+perfect match

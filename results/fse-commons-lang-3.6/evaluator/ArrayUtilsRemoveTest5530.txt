@@ -1,0 +1,26 @@
+slicing criterion: org.apache.commons.lang3.ArrayUtilsRemoveTest.testRemoveAllByteOccurences:569
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.removeAllOccurences]
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ArrayUtils.removeAllOccurences
+org/apache/commons/lang3/ArrayUtils.isNotEmpty
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.removeAll
+org/apache/commons/lang3/ArrayUtils.clone
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.removeAllOccurences
+org/apache/commons/lang3/ArrayUtils.removeAll
+org/apache/commons/lang3/ArrayUtils.isNotEmpty
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ArrayUtils.clone
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.removeAllOccurences
+org/apache/commons/lang3/ArrayUtils.removeAll
+org/apache/commons/lang3/ArrayUtils.isNotEmpty
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ArrayUtils.clone
+perfect match

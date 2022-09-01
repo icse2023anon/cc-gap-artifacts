@@ -1,0 +1,32 @@
+slicing criterion: org.joda.time.chrono.TestIslamicChronology.testCalendar:467
+Methods call in assertion: [org/joda/time/DateTimeField.getAsText]
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/chrono/AssembledChronology.era
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/field/BaseDateTimeField.getAsText
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/AssembledChronology.era
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/field/BaseDateTimeField.getAsText
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+after post processing ......
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/AssembledChronology.era
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/field/BaseDateTimeField.getAsText
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+found in top 10

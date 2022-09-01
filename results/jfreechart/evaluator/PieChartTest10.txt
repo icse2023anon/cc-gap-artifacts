@@ -1,0 +1,20 @@
+slicing criterion: org.jfree.chart.PieChartTest.testReplaceDatasetOnPieChart:83
+Methods call in assertion: [org/jfree/chart/plot/PiePlot.getDataset]
+org/jfree/chart/plot/PiePlot.<init>
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.<init>
+org/jfree/chart/plot/PiePlot.getDataset
+org/jfree/chart/JFreeChart.getPlot
+org/jfree/chart/ChartFactory.createPieChart
+top 10 recommendations: 
+org/jfree/chart/ChartFactory.createPieChart
+org/jfree/chart/plot/PiePlot.<init>
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.<init>
+org/jfree/chart/plot/PiePlot.getDataset
+org/jfree/chart/JFreeChart.getPlot
+after post processing ......
+org/jfree/chart/ChartFactory.createPieChart
+org/jfree/chart/plot/PiePlot.<init>
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.<init>
+org/jfree/chart/plot/PiePlot.getDataset
+org/jfree/chart/JFreeChart.getPlot
+found in top 10

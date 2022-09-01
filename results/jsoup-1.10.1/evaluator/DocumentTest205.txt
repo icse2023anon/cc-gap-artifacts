@@ -1,0 +1,11 @@
+slicing criterion: org.jsoup.nodes.DocumentTest.testOutputEncoding:66
+Methods call in assertion: [org/jsoup/nodes/Document.outputSettings, org/jsoup/nodes/Document$OutputSettings.escapeMode]
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/Jsoup.parse
+top 10 recommendations: 
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/Jsoup.parse
+after post processing ......
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/Jsoup.parse
+not matched

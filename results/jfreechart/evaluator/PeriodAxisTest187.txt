@@ -1,0 +1,20 @@
+slicing criterion: org.jfree.chart.axis.PeriodAxisTest.testCloning:212
+Methods call in assertion: [org/jfree/chart/axis/PeriodAxis.equals]
+org/jfree/chart/axis/PeriodAxisLabelInfo.equals
+org/jfree/chart/axis/PeriodAxis.equals
+org/jfree/data/time/RegularTimePeriod.downsize
+org/jfree/chart/axis/PeriodAxis.clone
+org/jfree/chart/axis/PeriodAxis.isMinorTickMarksVisible
+top 10 recommendations: 
+org/jfree/chart/axis/PeriodAxis.equals
+org/jfree/chart/axis/PeriodAxisLabelInfo.equals
+org/jfree/data/time/RegularTimePeriod.downsize
+org/jfree/chart/axis/PeriodAxis.clone
+org/jfree/chart/axis/PeriodAxis.isMinorTickMarksVisible
+after post processing ......
+org/jfree/chart/axis/PeriodAxis.equals
+org/jfree/chart/axis/PeriodAxisLabelInfo.equals
+org/jfree/data/time/RegularTimePeriod.downsize
+org/jfree/chart/axis/PeriodAxis.clone
+org/jfree/chart/axis/PeriodAxis.isMinorTickMarksVisible
+perfect match

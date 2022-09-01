@@ -1,0 +1,51 @@
+slicing criterion: org.apache.commons.lang3.reflect.MethodUtilsTest.testGetOverrideHierarchyIncludingInterfaces:751
+Methods call in assertion: [org/apache/commons/lang3/reflect/TypeUtils.equals]
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/reflect/TypeUtils.unrollVariables
+org/apache/commons/lang3/reflect/TypeUtils.equals
+org/apache/commons/lang3/JavaVersion.atLeast
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+org/apache/commons/lang3/reflect/TypeUtils.isAssignable
+org/apache/commons/lang3/ArrayUtils.isSameLength
+org/apache/commons/lang3/ClassUtils.hierarchy
+org/apache/commons/lang3/reflect/MethodUtils.getAccessibleMethod
+org/apache/commons/lang3/mutable/MutableObject.getValue
+org/apache/commons/lang3/reflect/MemberUtils.isMatchingMethod
+org/apache/commons/lang3/reflect/TypeUtils.containsTypeVariables
+org/apache/commons/lang3/SystemUtils.isJavaVersionAtLeast
+org/apache/commons/lang3/ClassUtils.isAssignable
+org/apache/commons/lang3/reflect/MethodUtils.invokeStaticMethod
+org/apache/commons/lang3/reflect/TypeUtils.getTypeArguments
+org/apache/commons/lang3/reflect/MethodUtils.getOverrideHierarchy
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingAccessibleMethod
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/MethodUtils.getOverrideHierarchy
+org/apache/commons/lang3/reflect/TypeUtils.unrollVariables
+org/apache/commons/lang3/reflect/TypeUtils.isAssignable
+org/apache/commons/lang3/reflect/TypeUtils.getTypeArguments
+org/apache/commons/lang3/ClassUtils.isAssignable
+org/apache/commons/lang3/reflect/MethodUtils.invokeStaticMethod
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingAccessibleMethod
+org/apache/commons/lang3/ArrayUtils.isSameLength
+org/apache/commons/lang3/reflect/MethodUtils.getAccessibleMethod
+org/apache/commons/lang3/SystemUtils.isJavaVersionAtLeast
+after post processing ......
+org/apache/commons/lang3/reflect/MethodUtils.getOverrideHierarchy
+org/apache/commons/lang3/reflect/TypeUtils.unrollVariables
+org/apache/commons/lang3/reflect/TypeUtils.isAssignable
+org/apache/commons/lang3/reflect/TypeUtils.getTypeArguments
+org/apache/commons/lang3/ClassUtils.isAssignable
+org/apache/commons/lang3/reflect/MethodUtils.invokeStaticMethod
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingAccessibleMethod
+org/apache/commons/lang3/ArrayUtils.isSameLength
+org/apache/commons/lang3/reflect/MethodUtils.getAccessibleMethod
+org/apache/commons/lang3/SystemUtils.isJavaVersionAtLeast
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/reflect/TypeUtils.equals
+org/apache/commons/lang3/JavaVersion.atLeast
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+org/apache/commons/lang3/ClassUtils.hierarchy
+org/apache/commons/lang3/mutable/MutableObject.getValue
+org/apache/commons/lang3/reflect/MemberUtils.isMatchingMethod
+org/apache/commons/lang3/reflect/TypeUtils.containsTypeVariables
+all method calls are suggested

@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.annotations.XYBoxAnnotationTest.testEquals:92
+Methods call in assertion: [org/jfree/chart/annotations/XYBoxAnnotation.equals]
+org/jfree/chart/annotations/XYBoxAnnotation.equals
+top 10 recommendations: 
+org/jfree/chart/annotations/XYBoxAnnotation.equals
+after post processing ......
+org/jfree/chart/annotations/XYBoxAnnotation.equals
+perfect match

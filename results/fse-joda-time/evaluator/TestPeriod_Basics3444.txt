@@ -1,0 +1,45 @@
+slicing criterion: org.joda.time.TestPeriod_Basics.testMinus:937
+Methods call in assertion: [org/joda/time/Period.getDays]
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/AbstractPeriod.getValues
+org/joda/time/Period.minus
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/PeriodType.addIndexedField
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/base/BasePeriod.getValue
+org/joda/time/PeriodType.days
+org/joda/time/base/AbstractPeriod.get
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/Period.getDays
+org/joda/time/PeriodType.getIndexedField
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/Period.minus
+org/joda/time/base/AbstractPeriod.getValues
+org/joda/time/PeriodType.addIndexedField
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/base/AbstractPeriod.get
+org/joda/time/Period.getDays
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/base/AbstractPeriod.indexOf
+after post processing ......
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/Period.minus
+org/joda/time/base/AbstractPeriod.getValues
+org/joda/time/PeriodType.addIndexedField
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/base/AbstractPeriod.get
+org/joda/time/Period.getDays
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/base/AbstractPeriod.indexOf
+org/joda/time/base/BasePeriod.getValue
+org/joda/time/PeriodType.days
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/PeriodType.getIndexedField
+found in top 10

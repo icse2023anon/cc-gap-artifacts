@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.format.TestDateTimeParserBucket.testSetOffset:123
+Methods call in assertion: [org/joda/time/format/DateTimeParserBucket.getOffsetInteger]
+org/joda/time/format/DateTimeParserBucket.getOffsetInteger
+top 10 recommendations: 
+org/joda/time/format/DateTimeParserBucket.getOffsetInteger
+after post processing ......
+org/joda/time/format/DateTimeParserBucket.getOffsetInteger
+perfect match

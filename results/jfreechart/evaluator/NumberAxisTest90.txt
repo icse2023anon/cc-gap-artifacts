@@ -1,0 +1,55 @@
+slicing criterion: org.jfree.chart.axis.NumberAxisTest.testAutoRange4:264
+Methods call in assertion: [org/jfree/chart/axis/NumberAxis.getLowerBound]
+org/jfree/data/general/DatasetChangeEvent.getDataset
+org/jfree/chart/plot/CategoryPlot.mapDatasetToDomainAxis
+org/jfree/chart/ChartFactory.createBarChart
+org/jfree/chart/axis/Axis.getPlot
+org/jfree/chart/event/RendererChangeEvent.getRenderer
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/axis/ValueAxis.isAutoRange
+org/jfree/chart/renderer/AbstractRenderer.hasListener
+org/jfree/chart/plot/CategoryPlot.datasetChanged
+org/jfree/chart/plot/Plot.getParent
+org/jfree/chart/renderer/AbstractRenderer.addChangeListener
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/category/BarRenderer.setIncludeBaseInRange
+org/jfree/chart/plot/CategoryPlot.rendererChanged
+org/jfree/chart/renderer/category/BarRenderer.findRangeBounds
+org/jfree/chart/plot/CategoryPlot.getRenderer
+org/jfree/chart/plot/CategoryPlot.getRangeAxis
+org/jfree/chart/axis/ValueAxis.getLowerBound
+org/jfree/chart/JFreeChart.getPlot
+org/jfree/chart/renderer/AbstractRenderer.notifyListeners
+top 10 recommendations: 
+org/jfree/chart/ChartFactory.createBarChart
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/data/general/DatasetChangeEvent.getDataset
+org/jfree/chart/plot/CategoryPlot.mapDatasetToDomainAxis
+org/jfree/chart/axis/Axis.getPlot
+org/jfree/chart/event/RendererChangeEvent.getRenderer
+org/jfree/chart/axis/ValueAxis.isAutoRange
+org/jfree/chart/renderer/AbstractRenderer.hasListener
+org/jfree/chart/plot/CategoryPlot.datasetChanged
+org/jfree/chart/plot/Plot.getParent
+after post processing ......
+org/jfree/chart/ChartFactory.createBarChart
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/data/general/DatasetChangeEvent.getDataset
+org/jfree/chart/plot/CategoryPlot.mapDatasetToDomainAxis
+org/jfree/chart/axis/Axis.getPlot
+org/jfree/chart/event/RendererChangeEvent.getRenderer
+org/jfree/chart/axis/ValueAxis.isAutoRange
+org/jfree/chart/renderer/AbstractRenderer.hasListener
+org/jfree/chart/plot/CategoryPlot.datasetChanged
+org/jfree/chart/plot/Plot.getParent
+org/jfree/chart/renderer/AbstractRenderer.addChangeListener
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/category/BarRenderer.setIncludeBaseInRange
+org/jfree/chart/plot/CategoryPlot.rendererChanged
+org/jfree/chart/renderer/category/BarRenderer.findRangeBounds
+org/jfree/chart/plot/CategoryPlot.getRenderer
+org/jfree/chart/plot/CategoryPlot.getRangeAxis
+org/jfree/chart/axis/ValueAxis.getLowerBound
+org/jfree/chart/JFreeChart.getPlot
+org/jfree/chart/renderer/AbstractRenderer.notifyListeners
+all method calls are suggested

@@ -1,0 +1,53 @@
+slicing criterion: org.jfree.chart.renderer.category.ScatterRendererTest.testFindRangeBounds:216
+Methods call in assertion: [org/jfree/chart/renderer/category/ScatterRenderer.findRangeBounds]
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/data/statistics/DefaultMultiValueCategoryDataset.getRowCount
+org/jfree/chart/renderer/AbstractRenderer.getDataBoundsIncludesVisibleSeriesOnly
+org/jfree/data/statistics/DefaultMultiValueCategoryDataset.add
+org/jfree/data/KeyedObjects.setObject
+org/jfree/data/statistics/DefaultMultiValueCategoryDataset.getRowIndex
+org/jfree/data/statistics/DefaultMultiValueCategoryDataset.getValues
+org/jfree/data/KeyedObjects.getObject
+org/jfree/data/KeyedObjects2D.addObject
+org/jfree/data/KeyedObject.getObject
+org/jfree/data/KeyedObject.getKey
+org/jfree/chart/renderer/category/ScatterRenderer.findRangeBounds
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/data/statistics/DefaultMultiValueCategoryDataset.getColumnCount
+org/jfree/data/KeyedObjects.getIndex
+org/jfree/data/KeyedObjects2D.getObject
+org/jfree/data/general/DatasetUtils.iterateToFindRangeBounds
+org/jfree/data/KeyedObjects2D.setObject
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+top 10 recommendations: 
+org/jfree/data/statistics/DefaultMultiValueCategoryDataset.add
+org/jfree/data/statistics/DefaultMultiValueCategoryDataset.getValues
+org/jfree/data/KeyedObjects2D.addObject
+org/jfree/data/KeyedObjects2D.getObject
+org/jfree/data/KeyedObjects.getObject
+org/jfree/data/KeyedObjects2D.setObject
+org/jfree/data/KeyedObjects.setObject
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/data/KeyedObjects.getIndex
+after post processing ......
+org/jfree/data/statistics/DefaultMultiValueCategoryDataset.add
+org/jfree/data/statistics/DefaultMultiValueCategoryDataset.getValues
+org/jfree/data/KeyedObjects2D.addObject
+org/jfree/data/KeyedObjects2D.getObject
+org/jfree/data/KeyedObjects.getObject
+org/jfree/data/KeyedObjects2D.setObject
+org/jfree/data/KeyedObjects.setObject
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/data/general/DatasetUtils.findRangeBounds
+org/jfree/data/KeyedObjects.getIndex
+org/jfree/data/statistics/DefaultMultiValueCategoryDataset.getRowCount
+org/jfree/chart/renderer/AbstractRenderer.getDataBoundsIncludesVisibleSeriesOnly
+org/jfree/data/statistics/DefaultMultiValueCategoryDataset.getRowIndex
+org/jfree/data/KeyedObject.getObject
+org/jfree/data/KeyedObject.getKey
+org/jfree/chart/renderer/category/ScatterRenderer.findRangeBounds
+org/jfree/data/statistics/DefaultMultiValueCategoryDataset.getColumnCount
+org/jfree/data/general/DatasetUtils.iterateToFindRangeBounds
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+found in top 10

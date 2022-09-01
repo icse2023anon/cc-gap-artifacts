@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.ToStringStyleTest.testSetArrayEnd:61
+Methods call in assertion: [org/apache/commons/lang3/builder/ToStringStyle.getArrayEnd]
+org/apache/commons/lang3/builder/ToStringStyle.setArrayEnd
+org/apache/commons/lang3/builder/ToStringStyle.getArrayEnd
+top 10 recommendations: 
+org/apache/commons/lang3/builder/ToStringStyle.setArrayEnd
+org/apache/commons/lang3/builder/ToStringStyle.getArrayEnd
+after post processing ......
+org/apache/commons/lang3/builder/ToStringStyle.setArrayEnd
+org/apache/commons/lang3/builder/ToStringStyle.getArrayEnd
+found in top 10

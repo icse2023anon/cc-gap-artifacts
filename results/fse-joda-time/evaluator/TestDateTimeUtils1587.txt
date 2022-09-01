@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTimeUtils.testIsContiguous_RP:462
+Methods call in assertion: [org/joda/time/DateTimeUtils.isContiguous]
+org/joda/time/Partial.size
+org/joda/time/DateTimeUtils.isContiguous
+top 10 recommendations: 
+org/joda/time/Partial.size
+org/joda/time/DateTimeUtils.isContiguous
+after post processing ......
+org/joda/time/Partial.size
+org/joda/time/DateTimeUtils.isContiguous
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.chrono.TestCopticChronology.testEquality:212
+Methods call in assertion: [org/joda/time/chrono/CopticChronology.getInstanceUTC]
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+top 10 recommendations: 
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+after post processing ......
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.SystemUtilsTest.testJavaAwtHeadless:526
+Methods call in assertion: [org/apache/commons/lang3/SystemUtils.isJavaAwtHeadless]
+org/apache/commons/lang3/SystemUtils.isJavaAwtHeadless
+top 10 recommendations: 
+org/apache/commons/lang3/SystemUtils.isJavaAwtHeadless
+after post processing ......
+org/apache/commons/lang3/SystemUtils.isJavaAwtHeadless
+perfect match

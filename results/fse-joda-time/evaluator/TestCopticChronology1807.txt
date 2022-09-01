@@ -1,0 +1,37 @@
+slicing criterion: org.joda.time.chrono.TestCopticChronology.testSampleDate:522
+Methods call in assertion: [org/joda/time/DateTime$Property.addWrapFieldToCopy]
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/DateTime.withChronology
+org/joda/time/DateTime.getMillis
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/DateTime.withChronology
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.getMillis
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/DateTime.withChronology
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.getMillis
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+not matched

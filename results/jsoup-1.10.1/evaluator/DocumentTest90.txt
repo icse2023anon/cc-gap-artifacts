@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.nodes.DocumentTest.setTextPreservesDocumentStructure:36
+Methods call in assertion: [org/jsoup/nodes/Document.text]
+org/jsoup/Jsoup.parse
+top 10 recommendations: 
+org/jsoup/Jsoup.parse
+after post processing ......
+org/jsoup/Jsoup.parse
+not matched

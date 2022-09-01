@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.tuple.ImmutableTripleTest.testEquals:92
+Methods call in assertion: [org/apache/commons/lang3/tuple/ImmutableTriple.of]
+org/apache/commons/lang3/tuple/ImmutableTriple.getMiddle
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/ImmutableTriple.getMiddle
+after post processing ......
+org/apache/commons/lang3/tuple/ImmutableTriple.getMiddle
+not matched

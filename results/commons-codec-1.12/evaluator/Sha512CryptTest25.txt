@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.codec.digest.Sha512CryptTest.testSha512CryptExplicitCall:56
+Methods call in assertion: [org/apache/commons/codec/digest/Sha2Crypt.sha512Crypt]
+org/apache/commons/codec/digest/Sha2Crypt.sha512Crypt
+org/apache/commons/codec/digest/DigestUtils.getDigest
+top 10 recommendations: 
+org/apache/commons/codec/digest/Sha2Crypt.sha512Crypt
+org/apache/commons/codec/digest/DigestUtils.getDigest
+after post processing ......
+org/apache/commons/codec/digest/Sha2Crypt.sha512Crypt
+org/apache/commons/codec/digest/DigestUtils.getDigest
+perfect match

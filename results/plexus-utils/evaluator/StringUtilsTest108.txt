@@ -1,0 +1,8 @@
+slicing criterion: org.codehaus.plexus.util.StringUtilsTest.testRemoveDuplicateWhitespace:234
+Methods call in assertion: [org/codehaus/plexus/util/StringUtils.removeDuplicateWhitespace]
+org/codehaus/plexus/util/StringUtils.removeDuplicateWhitespace
+top 10 recommendations: 
+org/codehaus/plexus/util/StringUtils.removeDuplicateWhitespace
+after post processing ......
+org/codehaus/plexus/util/StringUtils.removeDuplicateWhitespace
+perfect match

@@ -1,0 +1,29 @@
+slicing criterion: org.apache.commons.validator.routines.BigIntegerValidatorTest.testBigIntegerRangeMinMax:131
+Methods call in assertion: [org/apache/commons/validator/routines/BigIntegerValidator.minValue]
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/BigIntegerValidator.minValue
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/BigIntegerValidator.processParsedValue
+org/apache/commons/validator/routines/BigIntegerValidator.<init>
+org/apache/commons/validator/routines/BigIntegerValidator.validate
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+top 10 recommendations: 
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/BigIntegerValidator.minValue
+org/apache/commons/validator/routines/BigIntegerValidator.processParsedValue
+org/apache/commons/validator/routines/BigIntegerValidator.<init>
+org/apache/commons/validator/routines/BigIntegerValidator.validate
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+after post processing ......
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/BigIntegerValidator.minValue
+org/apache/commons/validator/routines/BigIntegerValidator.processParsedValue
+org/apache/commons/validator/routines/BigIntegerValidator.<init>
+org/apache/commons/validator/routines/BigIntegerValidator.validate
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+found in top 10

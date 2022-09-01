@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.axis.DateAxisTest.test1472942:161
+Methods call in assertion: [org/jfree/chart/axis/DateAxis.equals]
+org/jfree/chart/axis/DateTickUnit.equals
+org/jfree/chart/axis/ValueAxis.getDefaultAutoRange
+org/jfree/chart/axis/DateAxis.equals
+org/jfree/chart/axis/ValueAxis.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/DateAxis.createStandardDateTickUnits
+top 10 recommendations: 
+org/jfree/chart/axis/DateAxis.equals
+org/jfree/chart/axis/DateTickUnit.equals
+org/jfree/chart/axis/ValueAxis.equals
+org/jfree/chart/axis/ValueAxis.getDefaultAutoRange
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/DateAxis.createStandardDateTickUnits
+after post processing ......
+org/jfree/chart/axis/DateAxis.equals
+org/jfree/chart/axis/DateTickUnit.equals
+org/jfree/chart/axis/ValueAxis.equals
+org/jfree/chart/axis/ValueAxis.getDefaultAutoRange
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/DateAxis.createStandardDateTickUnits
+perfect match

@@ -1,0 +1,41 @@
+slicing criterion: org.codehaus.plexus.util.xml.pull.MXParserTest.testProcessingInstruction:162
+Methods call in assertion: [org/codehaus/plexus/util/xml/pull/MXParser.nextToken]
+org/codehaus/plexus/util/xml/pull/MXParser.requireInput
+org/codehaus/plexus/util/xml/pull/MXParser.parseProlog
+org/codehaus/plexus/util/xml/pull/MXParser.skipS
+org/codehaus/plexus/util/xml/pull/MXParser.parseXmlDeclWithVersion
+org/codehaus/plexus/util/xml/pull/MXParser.nextImpl
+org/codehaus/plexus/util/xml/pull/MXParser.isNameChar
+org/codehaus/plexus/util/xml/pull/MXParser.parseStartTag
+org/codehaus/plexus/util/xml/pull/MXParser.isS
+org/codehaus/plexus/util/xml/pull/MXParser.parseXmlDecl
+org/codehaus/plexus/util/xml/pull/MXParser.isNameStartChar
+org/codehaus/plexus/util/xml/pull/MXParser.setInput
+org/codehaus/plexus/util/xml/pull/MXParser.parsePI
+org/codehaus/plexus/util/xml/pull/MXParser.more
+top 10 recommendations: 
+org/codehaus/plexus/util/xml/pull/MXParser.nextImpl
+org/codehaus/plexus/util/xml/pull/MXParser.parseProlog
+org/codehaus/plexus/util/xml/pull/MXParser.parsePI
+org/codehaus/plexus/util/xml/pull/MXParser.parseXmlDecl
+org/codehaus/plexus/util/xml/pull/MXParser.parseXmlDeclWithVersion
+org/codehaus/plexus/util/xml/pull/MXParser.parseStartTag
+org/codehaus/plexus/util/xml/pull/MXParser.skipS
+org/codehaus/plexus/util/xml/pull/MXParser.requireInput
+org/codehaus/plexus/util/xml/pull/MXParser.isNameChar
+org/codehaus/plexus/util/xml/pull/MXParser.isS
+after post processing ......
+org/codehaus/plexus/util/xml/pull/MXParser.nextImpl
+org/codehaus/plexus/util/xml/pull/MXParser.parseProlog
+org/codehaus/plexus/util/xml/pull/MXParser.parsePI
+org/codehaus/plexus/util/xml/pull/MXParser.parseXmlDecl
+org/codehaus/plexus/util/xml/pull/MXParser.parseXmlDeclWithVersion
+org/codehaus/plexus/util/xml/pull/MXParser.parseStartTag
+org/codehaus/plexus/util/xml/pull/MXParser.skipS
+org/codehaus/plexus/util/xml/pull/MXParser.requireInput
+org/codehaus/plexus/util/xml/pull/MXParser.isNameChar
+org/codehaus/plexus/util/xml/pull/MXParser.isS
+org/codehaus/plexus/util/xml/pull/MXParser.isNameStartChar
+org/codehaus/plexus/util/xml/pull/MXParser.setInput
+org/codehaus/plexus/util/xml/pull/MXParser.more
+not matched

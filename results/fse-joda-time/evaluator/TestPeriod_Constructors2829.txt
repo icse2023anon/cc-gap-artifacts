@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestPeriod_Constructors.testFactoryMillis:1459
+Methods call in assertion: [org/joda/time/PeriodType.standard, org/joda/time/Period.getPeriodType]
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.standard
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.standard
+after post processing ......
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.standard
+perfect match

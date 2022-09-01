@@ -1,0 +1,26 @@
+slicing criterion: org.jfree.chart.ChartRenderingInfoTest.testEquals:83
+Methods call in assertion: [org/jfree/chart/ChartRenderingInfo.equals]
+org/jfree/chart/ChartRenderingInfo.equals
+org/jfree/chart/plot/PlotRenderingInfo.equals
+org/jfree/chart/entity/StandardEntityCollection.add
+org/jfree/chart/entity/StandardEntityCollection.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/ChartRenderingInfo.setChartArea
+org/jfree/chart/ChartRenderingInfo.getPlotInfo
+top 10 recommendations: 
+org/jfree/chart/ChartRenderingInfo.equals
+org/jfree/chart/plot/PlotRenderingInfo.equals
+org/jfree/chart/entity/StandardEntityCollection.equals
+org/jfree/chart/entity/StandardEntityCollection.add
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/ChartRenderingInfo.setChartArea
+org/jfree/chart/ChartRenderingInfo.getPlotInfo
+after post processing ......
+org/jfree/chart/ChartRenderingInfo.equals
+org/jfree/chart/plot/PlotRenderingInfo.equals
+org/jfree/chart/entity/StandardEntityCollection.equals
+org/jfree/chart/entity/StandardEntityCollection.add
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/ChartRenderingInfo.setChartArea
+org/jfree/chart/ChartRenderingInfo.getPlotInfo
+perfect match

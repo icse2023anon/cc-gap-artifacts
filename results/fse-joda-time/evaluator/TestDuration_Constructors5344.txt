@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDuration_Constructors.testFactory_millis_long:191
+Methods call in assertion: [org/joda/time/Duration.getMillis]
+org/joda/time/Duration.millis
+org/joda/time/base/BaseDuration.getMillis
+top 10 recommendations: 
+org/joda/time/Duration.millis
+org/joda/time/base/BaseDuration.getMillis
+after post processing ......
+org/joda/time/Duration.millis
+org/joda/time/base/BaseDuration.getMillis
+found in top 10

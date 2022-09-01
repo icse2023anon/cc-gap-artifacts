@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestWeeks.testFactory_standardWeeksIn_RPeriod:147
+Methods call in assertion: [org/joda/time/Weeks.getWeeks, org/joda/time/Weeks.standardWeeksIn]
+org/joda/time/field/FieldUtils.safeToInt
+org/joda/time/base/BaseSingleFieldPeriod.standardPeriodIn
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/Weeks.getWeeks
+org/joda/time/Weeks.standardWeeksIn
+org/joda/time/Weeks.weeks
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+top 10 recommendations: 
+org/joda/time/Weeks.standardWeeksIn
+org/joda/time/base/BaseSingleFieldPeriod.standardPeriodIn
+org/joda/time/field/FieldUtils.safeToInt
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/Weeks.getWeeks
+org/joda/time/Weeks.weeks
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+after post processing ......
+org/joda/time/Weeks.standardWeeksIn
+org/joda/time/base/BaseSingleFieldPeriod.standardPeriodIn
+org/joda/time/field/FieldUtils.safeToInt
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/Weeks.getWeeks
+org/joda/time/Weeks.weeks
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+found in top 10

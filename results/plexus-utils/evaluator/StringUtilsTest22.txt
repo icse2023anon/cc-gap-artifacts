@@ -1,0 +1,8 @@
+slicing criterion: org.codehaus.plexus.util.StringUtilsTest.testRemoveAndHumpTurkish:110
+Methods call in assertion: [org/codehaus/plexus/util/StringUtils.removeAndHump]
+org/codehaus/plexus/util/StringUtils.removeAndHump
+top 10 recommendations: 
+org/codehaus/plexus/util/StringUtils.removeAndHump
+after post processing ......
+org/codehaus/plexus/util/StringUtils.removeAndHump
+perfect match

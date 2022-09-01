@@ -1,0 +1,14 @@
+slicing criterion: org.codehaus.plexus.util.DirectoryScannerTest.testIsSymbolicLink:419
+Methods call in assertion: [org/codehaus/plexus/util/DirectoryScanner.isSymbolicLink]
+org/codehaus/plexus/util/NioFiles.isSymbolicLink
+org/codehaus/plexus/util/DirectoryScanner.isSymbolicLink
+org/codehaus/plexus/util/Java7Detector.isJava7
+top 10 recommendations: 
+org/codehaus/plexus/util/DirectoryScanner.isSymbolicLink
+org/codehaus/plexus/util/NioFiles.isSymbolicLink
+org/codehaus/plexus/util/Java7Detector.isJava7
+after post processing ......
+org/codehaus/plexus/util/DirectoryScanner.isSymbolicLink
+org/codehaus/plexus/util/NioFiles.isSymbolicLink
+org/codehaus/plexus/util/Java7Detector.isJava7
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_weekyear:155
+Methods call in assertion: [org/joda/time/DurationFieldType.weekyears, org/joda/time/DateTimeFieldType.getDurationType, org/joda/time/DateTimeFieldType.weekyear]
+org/joda/time/DurationFieldType.weekyears
+org/joda/time/DateTimeFieldType.weekyear
+top 10 recommendations: 
+org/joda/time/DurationFieldType.weekyears
+org/joda/time/DateTimeFieldType.weekyear
+after post processing ......
+org/joda/time/DurationFieldType.weekyears
+org/joda/time/DateTimeFieldType.weekyear
+not matched

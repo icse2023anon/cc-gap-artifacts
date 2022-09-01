@@ -1,0 +1,32 @@
+slicing criterion: org.apache.commons.validator.routines.TimeValidatorTest.testPatternValid:130
+Methods call in assertion: [org/apache/commons/validator/routines/TimeValidator.isValid]
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/AbstractFormatValidator.isValid
+org/apache/commons/validator/routines/AbstractCalendarValidator.getFormat
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractCalendarValidator.parse
+org/apache/commons/validator/routines/TimeValidator.processParsedValue
+org/apache/commons/validator/routines/TimeValidator.validate
+org/apache/commons/validator/routines/AbstractCalendarValidator.isValid
+org/apache/commons/validator/routines/TimeValidator.<init>
+top 10 recommendations: 
+org/apache/commons/validator/routines/AbstractCalendarValidator.isValid
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractCalendarValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/AbstractFormatValidator.isValid
+org/apache/commons/validator/routines/AbstractCalendarValidator.getFormat
+org/apache/commons/validator/routines/TimeValidator.processParsedValue
+org/apache/commons/validator/routines/TimeValidator.validate
+org/apache/commons/validator/routines/TimeValidator.<init>
+after post processing ......
+org/apache/commons/validator/routines/AbstractCalendarValidator.isValid
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractCalendarValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/AbstractFormatValidator.isValid
+org/apache/commons/validator/routines/AbstractCalendarValidator.getFormat
+org/apache/commons/validator/routines/TimeValidator.processParsedValue
+org/apache/commons/validator/routines/TimeValidator.validate
+org/apache/commons/validator/routines/TimeValidator.<init>
+found in top 10

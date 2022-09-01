@@ -1,0 +1,8 @@
+slicing criterion: org.codehaus.plexus.util.dag.VertexTest.testVertex:35
+Methods call in assertion: [org/codehaus/plexus/util/dag/Vertex.getChildren]
+org/codehaus/plexus/util/dag/Vertex.getChildren
+top 10 recommendations: 
+org/codehaus/plexus/util/dag/Vertex.getChildren
+after post processing ......
+org/codehaus/plexus/util/dag/Vertex.getChildren
+perfect match

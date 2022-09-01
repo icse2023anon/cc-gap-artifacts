@@ -1,0 +1,8 @@
+slicing criterion: org.codehaus.plexus.util.PathToolTest.testGetDirectoryComponent:48
+Methods call in assertion: [org/codehaus/plexus/util/PathTool.getDirectoryComponent]
+org/codehaus/plexus/util/PathTool.getDirectoryComponent
+top 10 recommendations: 
+org/codehaus/plexus/util/PathTool.getDirectoryComponent
+after post processing ......
+org/codehaus/plexus/util/PathTool.getDirectoryComponent
+perfect match

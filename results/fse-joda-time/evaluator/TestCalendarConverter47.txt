@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.convert.TestCalendarConverter.testGetChronology_Object_nullChronology:182
+Methods call in assertion: [org/joda/time/convert/CalendarConverter.getChronology, org/joda/time/chrono/BuddhistChronology.getInstance]
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/convert/CalendarConverter.getChronology
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/chrono/JulianChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+top 10 recommendations: 
+org/joda/time/convert/CalendarConverter.getChronology
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/JulianChronology.getInstance
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/CachedDateTimeZone.hashCode
+after post processing ......
+org/joda/time/convert/CalendarConverter.getChronology
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/JulianChronology.getInstance
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/CachedDateTimeZone.hashCode
+found in top 10

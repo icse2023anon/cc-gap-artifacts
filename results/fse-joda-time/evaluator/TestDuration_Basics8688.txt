@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestDuration_Basics.testToStandardSeconds:500
+Methods call in assertion: [org/joda/time/Duration.toStandardSeconds, org/joda/time/Seconds.seconds]
+org/joda/time/field/FieldUtils.safeToInt
+org/joda/time/Duration.toStandardSeconds
+org/joda/time/Seconds.seconds
+org/joda/time/Duration.getStandardSeconds
+org/joda/time/base/BaseDuration.getMillis
+top 10 recommendations: 
+org/joda/time/Duration.toStandardSeconds
+org/joda/time/field/FieldUtils.safeToInt
+org/joda/time/Seconds.seconds
+org/joda/time/Duration.getStandardSeconds
+org/joda/time/base/BaseDuration.getMillis
+after post processing ......
+org/joda/time/Duration.toStandardSeconds
+org/joda/time/field/FieldUtils.safeToInt
+org/joda/time/Seconds.seconds
+org/joda/time/Duration.getStandardSeconds
+org/joda/time/base/BaseDuration.getMillis
+found in top 10

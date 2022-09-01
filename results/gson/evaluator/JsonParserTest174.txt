@@ -1,0 +1,11 @@
+slicing criterion: com.google.gson.JsonParserTest.testParseString:61
+Methods call in assertion: [com/google/gson/JsonElement.isJsonObject]
+com/google/gson/JsonParser.parse
+com/google/gson/JsonElement.isJsonObject
+top 10 recommendations: 
+com/google/gson/JsonParser.parse
+com/google/gson/JsonElement.isJsonObject
+after post processing ......
+com/google/gson/JsonParser.parse
+com/google/gson/JsonElement.isJsonObject
+found in top 10

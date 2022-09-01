@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestMinMaxLong.testDateTime_max_math:97
+Methods call in assertion: [org/joda/time/DateTime.minus]
+org/joda/time/DateTime.withDurationAdded
+org/joda/time/DateTime.getMillis
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/DateTime.minus
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/field/FieldUtils.safeMultiply
+org/joda/time/chrono/BaseChronology.add
+top 10 recommendations: 
+org/joda/time/DateTime.minus
+org/joda/time/chrono/BaseChronology.add
+org/joda/time/DateTime.withDurationAdded
+org/joda/time/DateTime.getMillis
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/field/FieldUtils.safeMultiply
+after post processing ......
+org/joda/time/DateTime.minus
+org/joda/time/chrono/BaseChronology.add
+org/joda/time/DateTime.withDurationAdded
+org/joda/time/DateTime.getMillis
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/field/FieldUtils.safeMultiply
+perfect match

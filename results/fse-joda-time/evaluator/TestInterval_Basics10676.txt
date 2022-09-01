@@ -1,0 +1,32 @@
+slicing criterion: org.joda.time.TestInterval_Basics.testEqualsHashCode:244
+Methods call in assertion: [org/joda/time/Interval.hashCode]
+org/joda/time/base/AbstractInterval.hashCode
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/base/BaseInterval.getStartMillis
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/base/AbstractInterval.hashCode
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/base/BaseInterval.getStartMillis
+after post processing ......
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/base/AbstractInterval.hashCode
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/base/BaseInterval.getStartMillis
+found in top 10

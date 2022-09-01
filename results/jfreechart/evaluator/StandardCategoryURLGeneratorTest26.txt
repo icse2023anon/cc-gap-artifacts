@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.urls.StandardCategoryURLGeneratorTest.testGenerateURL:72
+Methods call in assertion: [org/jfree/chart/urls/StandardCategoryURLGenerator.generateURL]
+org/jfree/chart/urls/StandardCategoryURLGenerator.generateURL
+top 10 recommendations: 
+org/jfree/chart/urls/StandardCategoryURLGenerator.generateURL
+after post processing ......
+org/jfree/chart/urls/StandardCategoryURLGenerator.generateURL
+perfect match

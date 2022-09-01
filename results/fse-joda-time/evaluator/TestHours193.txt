@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestHours.testToStandardWeeks:258
+Methods call in assertion: [org/joda/time/Hours.toStandardWeeks]
+org/joda/time/Hours.hours
+org/joda/time/Hours.toStandardWeeks
+org/joda/time/Weeks.weeks
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+top 10 recommendations: 
+org/joda/time/Hours.toStandardWeeks
+org/joda/time/Hours.hours
+org/joda/time/Weeks.weeks
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+after post processing ......
+org/joda/time/Hours.toStandardWeeks
+org/joda/time/Hours.hours
+org/joda/time/Weeks.weeks
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+perfect match

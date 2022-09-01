@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestPeriodType.testMaskHours:759
+Methods call in assertion: [org/joda/time/PeriodType.millis, org/joda/time/PeriodType.equals]
+org/joda/time/PeriodType.millis
+org/joda/time/PeriodType.withHoursRemoved
+org/joda/time/PeriodType.setIndexedField
+org/joda/time/PeriodType.equals
+org/joda/time/PeriodType.size
+org/joda/time/PeriodType.standard
+top 10 recommendations: 
+org/joda/time/PeriodType.millis
+org/joda/time/PeriodType.withHoursRemoved
+org/joda/time/PeriodType.setIndexedField
+org/joda/time/PeriodType.equals
+org/joda/time/PeriodType.size
+org/joda/time/PeriodType.standard
+after post processing ......
+org/joda/time/PeriodType.millis
+org/joda/time/PeriodType.withHoursRemoved
+org/joda/time/PeriodType.setIndexedField
+org/joda/time/PeriodType.equals
+org/joda/time/PeriodType.size
+org/joda/time/PeriodType.standard
+found in top 10

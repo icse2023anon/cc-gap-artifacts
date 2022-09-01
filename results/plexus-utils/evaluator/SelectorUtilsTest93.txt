@@ -1,0 +1,17 @@
+slicing criterion: org.codehaus.plexus.util.SelectorUtilsTest.testMatchPath_WindowsFileSeparator:63
+Methods call in assertion: [org/codehaus/plexus/util/SelectorUtils.matchPath]
+org/codehaus/plexus/util/SelectorUtils.matchPath
+org/codehaus/plexus/util/SelectorUtils.isRegexPrefixedPattern
+org/codehaus/plexus/util/SelectorUtils.matchAntPathPattern
+org/codehaus/plexus/util/SelectorUtils.match
+top 10 recommendations: 
+org/codehaus/plexus/util/SelectorUtils.matchPath
+org/codehaus/plexus/util/SelectorUtils.matchAntPathPattern
+org/codehaus/plexus/util/SelectorUtils.isRegexPrefixedPattern
+org/codehaus/plexus/util/SelectorUtils.match
+after post processing ......
+org/codehaus/plexus/util/SelectorUtils.matchPath
+org/codehaus/plexus/util/SelectorUtils.matchAntPathPattern
+org/codehaus/plexus/util/SelectorUtils.isRegexPrefixedPattern
+org/codehaus/plexus/util/SelectorUtils.match
+perfect match

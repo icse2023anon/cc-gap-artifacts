@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.labels.MultipleXYSeriesLabelGeneratorTest.testCloning:105
+Methods call in assertion: [org/jfree/chart/labels/MultipleXYSeriesLabelGenerator.equals]
+org/jfree/chart/labels/MultipleXYSeriesLabelGenerator.equals
+org/jfree/chart/labels/MultipleXYSeriesLabelGenerator.clone
+top 10 recommendations: 
+org/jfree/chart/labels/MultipleXYSeriesLabelGenerator.equals
+org/jfree/chart/labels/MultipleXYSeriesLabelGenerator.clone
+after post processing ......
+org/jfree/chart/labels/MultipleXYSeriesLabelGenerator.equals
+org/jfree/chart/labels/MultipleXYSeriesLabelGenerator.clone
+perfect match

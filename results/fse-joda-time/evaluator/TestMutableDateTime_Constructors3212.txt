@@ -1,0 +1,32 @@
+slicing criterion: org.joda.time.TestMutableDateTime_Constructors.testParse_noFormatter:204
+Methods call in assertion: [org/joda/time/MutableDateTime.parse, org/joda/time/chrono/ISOChronology.getInstance]
+org/joda/time/base/AbstractInstant.toMutableDateTime
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/MutableDateTime.getChronology
+org/joda/time/MutableDateTime.<init>
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/MutableDateTime.parse
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+top 10 recommendations: 
+org/joda/time/base/AbstractInstant.toMutableDateTime
+org/joda/time/MutableDateTime.<init>
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/MutableDateTime.getChronology
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/MutableDateTime.parse
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+after post processing ......
+org/joda/time/base/AbstractInstant.toMutableDateTime
+org/joda/time/MutableDateTime.<init>
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/MutableDateTime.getChronology
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/MutableDateTime.parse
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+found in top 10

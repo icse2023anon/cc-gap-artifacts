@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.exception.ExceptionUtilsTest.testGetCause_ThrowableArray:170
+Methods call in assertion: [org/apache/commons/lang3/exception/ExceptionUtils.getCause]
+org/apache/commons/lang3/exception/ExceptionUtils.getCause
+top 10 recommendations: 
+org/apache/commons/lang3/exception/ExceptionUtils.getCause
+after post processing ......
+org/apache/commons/lang3/exception/ExceptionUtils.getCause
+perfect match

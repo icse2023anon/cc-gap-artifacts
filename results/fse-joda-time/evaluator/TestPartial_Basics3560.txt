@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testGet:170
+Methods call in assertion: [org/joda/time/Partial.get, org/joda/time/DateTimeFieldType.minuteOfHour]
+org/joda/time/Partial.getValue
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/base/AbstractPartial.get
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.get
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/Partial.getValue
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+after post processing ......
+org/joda/time/base/AbstractPartial.get
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/Partial.getValue
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+not matched

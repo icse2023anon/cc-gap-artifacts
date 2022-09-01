@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestDateTime_Basics.testIsEqualNow:474
+Methods call in assertion: [org/joda/time/DateTime.isEqualNow]
+org/joda/time/base/AbstractInstant.isEqualNow
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/base/AbstractInstant.isEqual
+top 10 recommendations: 
+org/joda/time/base/AbstractInstant.isEqualNow
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/base/AbstractInstant.isEqual
+after post processing ......
+org/joda/time/base/AbstractInstant.isEqualNow
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/base/AbstractInstant.isEqual
+not matched

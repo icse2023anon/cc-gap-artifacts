@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.ArrayUtilsTest.testContainsLong:3868
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.contains]
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/ArrayUtils.contains
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/ArrayUtils.indexOf
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/ArrayUtils.indexOf
+perfect match

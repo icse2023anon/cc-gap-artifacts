@@ -1,0 +1,20 @@
+slicing criterion: org.jfree.chart.renderer.xy.StandardXYItemRendererTest.testCloning:169
+Methods call in assertion: [org/jfree/chart/renderer/xy/StandardXYItemRenderer.equals]
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.<init>
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.clone
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.<init>
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.clone
+after post processing ......
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.<init>
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.clone
+perfect match

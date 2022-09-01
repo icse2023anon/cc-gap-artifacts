@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_yearOfEra:116
+Methods call in assertion: [org/joda/time/DateTimeFieldType.getRangeDurationType, org/joda/time/DurationFieldType.eras, org/joda/time/DateTimeFieldType.yearOfEra]
+org/joda/time/DurationFieldType.eras
+org/joda/time/DateTimeFieldType.yearOfEra
+top 10 recommendations: 
+org/joda/time/DurationFieldType.eras
+org/joda/time/DateTimeFieldType.yearOfEra
+after post processing ......
+org/joda/time/DurationFieldType.eras
+org/joda/time/DateTimeFieldType.yearOfEra
+not matched

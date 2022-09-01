@@ -1,0 +1,35 @@
+slicing criterion: org.apache.commons.lang3.builder.EqualsBuilderTest.testObjectRecursive:496
+Methods call in assertion: [org/apache/commons/lang3/builder/EqualsBuilder.append, org/apache/commons/lang3/builder/EqualsBuilder.isEquals]
+org/apache/commons/lang3/builder/EqualsBuilder.append
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/ClassUtils.isPrimitiveWrapper
+org/apache/commons/lang3/builder/EqualsBuilder.getRegistry
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionAppend
+org/apache/commons/lang3/ClassUtils.isPrimitiveOrWrapper
+org/apache/commons/lang3/builder/EqualsBuilder.setTestRecursive
+org/apache/commons/lang3/builder/EqualsBuilder.isRegistered
+top 10 recommendations: 
+org/apache/commons/lang3/builder/EqualsBuilder.append
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionAppend
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/ClassUtils.isPrimitiveOrWrapper
+org/apache/commons/lang3/builder/EqualsBuilder.isRegistered
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/ClassUtils.isPrimitiveWrapper
+org/apache/commons/lang3/builder/EqualsBuilder.getRegistry
+org/apache/commons/lang3/builder/EqualsBuilder.setTestRecursive
+after post processing ......
+org/apache/commons/lang3/builder/EqualsBuilder.append
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionAppend
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/ClassUtils.isPrimitiveOrWrapper
+org/apache/commons/lang3/builder/EqualsBuilder.isRegistered
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/ClassUtils.isPrimitiveWrapper
+org/apache/commons/lang3/builder/EqualsBuilder.getRegistry
+org/apache/commons/lang3/builder/EqualsBuilder.setTestRecursive
+found in top 10

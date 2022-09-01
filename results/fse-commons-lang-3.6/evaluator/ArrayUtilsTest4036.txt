@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ArrayUtilsTest.testSubarrayShort:1310
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.subarray]
+org/apache/commons/lang3/ArrayUtils.subarray
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.subarray
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.subarray
+perfect match

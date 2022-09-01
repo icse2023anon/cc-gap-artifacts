@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.field.TestFieldUtils.testSafeMultiplyLongInt:253
+Methods call in assertion: [org/joda/time/field/FieldUtils.safeMultiply]
+org/joda/time/field/FieldUtils.safeMultiply
+top 10 recommendations: 
+org/joda/time/field/FieldUtils.safeMultiply
+after post processing ......
+org/joda/time/field/FieldUtils.safeMultiply
+perfect match

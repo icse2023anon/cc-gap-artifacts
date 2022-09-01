@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsEqualsIndexOfTest.testIndexOfAny_StringCharArrayWithSupplementaryChars:463
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.indexOfAny]
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.indexOfAny
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.isEmpty
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.indexOfAny
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/StringUtils.indexOfAny
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isEmpty
+perfect match

@@ -1,0 +1,59 @@
+slicing criterion: org.codehaus.plexus.util.xml.Xpp3DomBuilderTest.testEscapingInContent:148
+Methods call in assertion: [org/codehaus/plexus/util/xml/Xpp3Dom.getValue, org/codehaus/plexus/util/xml/Xpp3Dom.getChild]
+org/codehaus/plexus/util/xml/pull/MXParser.isEmptyElementTag
+org/codehaus/plexus/util/xml/pull/MXParser.parseProlog
+org/codehaus/plexus/util/xml/pull/MXParser.newString
+org/codehaus/plexus/util/xml/pull/MXParser.getEventType
+org/codehaus/plexus/util/xml/pull/MXParser.nextImpl
+org/codehaus/plexus/util/xml/pull/MXParser.parseStartTag
+org/codehaus/plexus/util/xml/pull/MXParser.isNameChar
+org/codehaus/plexus/util/xml/Xpp3Dom.getChildCount
+org/codehaus/plexus/util/xml/pull/MXParser.isS
+org/codehaus/plexus/util/xml/pull/MXParser.parseCDSect
+org/codehaus/plexus/util/xml/pull/MXParser.isNameStartChar
+org/codehaus/plexus/util/xml/Xpp3Dom.addChild
+org/codehaus/plexus/util/xml/Xpp3Dom.getValue
+org/codehaus/plexus/util/xml/Xpp3DomBuilder.build
+org/codehaus/plexus/util/xml/pull/MXParser.parseEndTag
+org/codehaus/plexus/util/xml/pull/MXParser.parseEntityRef
+org/codehaus/plexus/util/xml/pull/MXParser.setInput
+org/codehaus/plexus/util/xml/Xpp3Dom.getChild
+org/codehaus/plexus/util/xml/pull/MXParser.more
+org/codehaus/plexus/util/xml/pull/MXParser.getAttributeCount
+org/codehaus/plexus/util/xml/Xpp3Dom.getName
+org/codehaus/plexus/util/xml/pull/MXParser.getName
+top 10 recommendations: 
+org/codehaus/plexus/util/xml/pull/MXParser.nextImpl
+org/codehaus/plexus/util/xml/pull/MXParser.parseProlog
+org/codehaus/plexus/util/xml/pull/MXParser.parseStartTag
+org/codehaus/plexus/util/xml/pull/MXParser.parseEndTag
+org/codehaus/plexus/util/xml/pull/MXParser.parseEntityRef
+org/codehaus/plexus/util/xml/Xpp3DomBuilder.build
+org/codehaus/plexus/util/xml/pull/MXParser.parseCDSect
+org/codehaus/plexus/util/xml/Xpp3Dom.addChild
+org/codehaus/plexus/util/xml/pull/MXParser.getName
+org/codehaus/plexus/util/xml/pull/MXParser.isEmptyElementTag
+after post processing ......
+org/codehaus/plexus/util/xml/pull/MXParser.nextImpl
+org/codehaus/plexus/util/xml/pull/MXParser.parseProlog
+org/codehaus/plexus/util/xml/pull/MXParser.parseStartTag
+org/codehaus/plexus/util/xml/pull/MXParser.parseEndTag
+org/codehaus/plexus/util/xml/pull/MXParser.parseEntityRef
+org/codehaus/plexus/util/xml/Xpp3DomBuilder.build
+org/codehaus/plexus/util/xml/pull/MXParser.parseCDSect
+org/codehaus/plexus/util/xml/Xpp3Dom.addChild
+org/codehaus/plexus/util/xml/pull/MXParser.getName
+org/codehaus/plexus/util/xml/pull/MXParser.isEmptyElementTag
+org/codehaus/plexus/util/xml/pull/MXParser.newString
+org/codehaus/plexus/util/xml/pull/MXParser.getEventType
+org/codehaus/plexus/util/xml/pull/MXParser.isNameChar
+org/codehaus/plexus/util/xml/Xpp3Dom.getChildCount
+org/codehaus/plexus/util/xml/pull/MXParser.isS
+org/codehaus/plexus/util/xml/pull/MXParser.isNameStartChar
+org/codehaus/plexus/util/xml/Xpp3Dom.getValue
+org/codehaus/plexus/util/xml/pull/MXParser.setInput
+org/codehaus/plexus/util/xml/Xpp3Dom.getChild
+org/codehaus/plexus/util/xml/pull/MXParser.more
+org/codehaus/plexus/util/xml/pull/MXParser.getAttributeCount
+org/codehaus/plexus/util/xml/Xpp3Dom.getName
+all method calls are suggested

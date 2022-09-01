@@ -1,0 +1,8 @@
+slicing criterion: com.google.gson.LongSerializationPolicyTest.testStringLongSerialization:49
+Methods call in assertion: [com/google/gson/JsonElement.isJsonPrimitive]
+com/google/gson/JsonElement.isJsonPrimitive
+top 10 recommendations: 
+com/google/gson/JsonElement.isJsonPrimitive
+after post processing ......
+com/google/gson/JsonElement.isJsonPrimitive
+perfect match

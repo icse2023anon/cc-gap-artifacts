@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestDateTimeZone.testNameProvider:847
+Methods call in assertion: [org/joda/time/DateTimeZone.getShortName]
+org/joda/time/DateTimeZone.setNameProvider
+org/joda/time/DateTimeZone.getNameProvider
+org/joda/time/DateTimeZone.getShortName
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/UTCDateTimeZone.getNameKey
+top 10 recommendations: 
+org/joda/time/DateTimeZone.getShortName
+org/joda/time/DateTimeZone.setNameProvider
+org/joda/time/DateTimeZone.getNameProvider
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/UTCDateTimeZone.getNameKey
+after post processing ......
+org/joda/time/DateTimeZone.getShortName
+org/joda/time/DateTimeZone.setNameProvider
+org/joda/time/DateTimeZone.getNameProvider
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/UTCDateTimeZone.getNameKey
+perfect match

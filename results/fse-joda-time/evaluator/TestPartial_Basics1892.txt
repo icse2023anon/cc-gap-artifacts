@@ -1,0 +1,67 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testGetFormatter1:880
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.print, org/joda/time/Partial.getFormatter]
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/UnsupportedDurationField.isSupported
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/DateTimeFieldType.era
+org/joda/time/DateTimeFieldType.monthOfYear
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/Partial.getFieldType
+org/joda/time/format/DateTimeFormatter.getPrinter0
+org/joda/time/Partial.<init>
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/DateTimeFieldType.year
+org/joda/time/format/DateTimeFormatterBuilder.canBuildFormatter
+org/joda/time/field/BaseDurationField.compareTo
+org/joda/time/Partial.size
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/Partial.getFormatter
+org/joda/time/chrono/AssembledChronology.months
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/Partial.with
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/chrono/AssembledChronology.years
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/Partial.getFormatter
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/Partial.with
+org/joda/time/Partial.<init>
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/UnsupportedDurationField.isSupported
+after post processing ......
+org/joda/time/Partial.getFormatter
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/Partial.with
+org/joda/time/Partial.<init>
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/UnsupportedDurationField.isSupported
+org/joda/time/DateTimeFieldType.era
+org/joda/time/DateTimeFieldType.monthOfYear
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/Partial.getFieldType
+org/joda/time/format/DateTimeFormatter.getPrinter0
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/DateTimeFieldType.year
+org/joda/time/format/DateTimeFormatterBuilder.canBuildFormatter
+org/joda/time/field/BaseDurationField.compareTo
+org/joda/time/Partial.size
+org/joda/time/chrono/AssembledChronology.months
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/chrono/AssembledChronology.years
+org/joda/time/DateTimeUtils.getChronology
+all method calls are suggested

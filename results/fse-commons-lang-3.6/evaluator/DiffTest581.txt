@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.builder.DiffTest.testGetType:70
+Methods call in assertion: [org/apache/commons/lang3/builder/Diff.getType]
+org/apache/commons/lang3/builder/Diff.getType
+top 10 recommendations: 
+org/apache/commons/lang3/builder/Diff.getType
+after post processing ......
+org/apache/commons/lang3/builder/Diff.getType
+perfect match

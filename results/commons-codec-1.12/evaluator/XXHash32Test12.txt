@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.codec.digest.XXHash32Test.verifyChecksum:76
+Methods call in assertion: [org/apache/commons/codec/digest/XXHash32.getValue]
+org/apache/commons/codec/digest/XXHash32.update
+org/apache/commons/codec/digest/XXHash32.getValue
+org/apache/commons/codec/digest/XXHash32.<init>
+top 10 recommendations: 
+org/apache/commons/codec/digest/XXHash32.update
+org/apache/commons/codec/digest/XXHash32.getValue
+org/apache/commons/codec/digest/XXHash32.<init>
+after post processing ......
+org/apache/commons/codec/digest/XXHash32.update
+org/apache/commons/codec/digest/XXHash32.getValue
+org/apache/commons/codec/digest/XXHash32.<init>
+found in top 10

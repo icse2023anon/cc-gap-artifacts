@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.math.NumberUtilsTest.testToShortStringI:264
+Methods call in assertion: [org/apache/commons/lang3/math/NumberUtils.toShort]
+org/apache/commons/lang3/math/NumberUtils.toShort
+top 10 recommendations: 
+org/apache/commons/lang3/math/NumberUtils.toShort
+after post processing ......
+org/apache/commons/lang3/math/NumberUtils.toShort
+perfect match

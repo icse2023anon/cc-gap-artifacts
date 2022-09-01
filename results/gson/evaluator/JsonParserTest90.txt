@@ -1,0 +1,11 @@
+slicing criterion: com.google.gson.JsonParserTest.testParseMixedArray:92
+Methods call in assertion: [com/google/gson/JsonElement.isJsonArray]
+com/google/gson/JsonParser.parse
+com/google/gson/JsonElement.isJsonArray
+top 10 recommendations: 
+com/google/gson/JsonParser.parse
+com/google/gson/JsonElement.isJsonArray
+after post processing ......
+com/google/gson/JsonParser.parse
+com/google/gson/JsonElement.isJsonArray
+found in top 10

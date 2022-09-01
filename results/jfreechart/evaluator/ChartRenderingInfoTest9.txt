@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.ChartRenderingInfoTest.testSerialization2:138
+Methods call in assertion: [org/jfree/chart/plot/PlotRenderingInfo.getOwner, org/jfree/chart/ChartRenderingInfo.getPlotInfo]
+org/jfree/chart/plot/PlotRenderingInfo.getOwner
+org/jfree/chart/ChartRenderingInfo.getPlotInfo
+top 10 recommendations: 
+org/jfree/chart/plot/PlotRenderingInfo.getOwner
+org/jfree/chart/ChartRenderingInfo.getPlotInfo
+after post processing ......
+org/jfree/chart/plot/PlotRenderingInfo.getOwner
+org/jfree/chart/ChartRenderingInfo.getPlotInfo
+perfect match

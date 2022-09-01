@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.ToStringStyleTest.testSetContentEnd:82
+Methods call in assertion: [org/apache/commons/lang3/builder/ToStringStyle.getContentEnd]
+org/apache/commons/lang3/builder/ToStringStyle.setContentEnd
+org/apache/commons/lang3/builder/ToStringStyle.getContentEnd
+top 10 recommendations: 
+org/apache/commons/lang3/builder/ToStringStyle.setContentEnd
+org/apache/commons/lang3/builder/ToStringStyle.getContentEnd
+after post processing ......
+org/apache/commons/lang3/builder/ToStringStyle.setContentEnd
+org/apache/commons/lang3/builder/ToStringStyle.getContentEnd
+found in top 10

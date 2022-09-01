@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestPeriodType.testMonths:383
+Methods call in assertion: [org/joda/time/PeriodType.getFieldType, org/joda/time/DurationFieldType.months]
+org/joda/time/PeriodType.getFieldType
+org/joda/time/PeriodType.months
+org/joda/time/DurationFieldType.months
+top 10 recommendations: 
+org/joda/time/PeriodType.months
+org/joda/time/PeriodType.getFieldType
+org/joda/time/DurationFieldType.months
+after post processing ......
+org/joda/time/PeriodType.months
+org/joda/time/PeriodType.getFieldType
+org/joda/time/DurationFieldType.months
+found in top 10

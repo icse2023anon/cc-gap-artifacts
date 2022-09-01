@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestLocalTime_Basics.testProperty:800
+Methods call in assertion: [org/joda/time/LocalTime.property, org/joda/time/LocalTime$Property.getLocalTime, org/joda/time/DateTimeFieldType.hourOfHalfday]
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/DateTimeFieldType.hourOfHalfday
+top 10 recommendations: 
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/DateTimeFieldType.hourOfHalfday
+after post processing ......
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/DateTimeFieldType.hourOfHalfday
+not matched

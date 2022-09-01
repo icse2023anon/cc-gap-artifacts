@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.entity.PieSectionEntityTest.testCloning:119
+Methods call in assertion: [org/jfree/chart/entity/PieSectionEntity.equals]
+org/jfree/chart/entity/ChartEntity.clone
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/entity/PieSectionEntity.equals
+top 10 recommendations: 
+org/jfree/chart/entity/PieSectionEntity.equals
+org/jfree/chart/entity/ChartEntity.clone
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/entity/PieSectionEntity.equals
+org/jfree/chart/entity/ChartEntity.clone
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

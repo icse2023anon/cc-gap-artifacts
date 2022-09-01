@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.xy.CandlestickRendererTest.testConstructor:83
+Methods call in assertion: [org/jfree/chart/renderer/xy/CandlestickRenderer.getDownPaint]
+org/jfree/chart/renderer/xy/CandlestickRenderer.getDownPaint
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/CandlestickRenderer.getDownPaint
+after post processing ......
+org/jfree/chart/renderer/xy/CandlestickRenderer.getDownPaint
+perfect match

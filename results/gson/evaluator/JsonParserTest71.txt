@@ -1,0 +1,29 @@
+slicing criterion: com.google.gson.JsonParserTest.testParseUnquotedStringArrayFails:55
+Methods call in assertion: [com/google/gson/JsonArray.size, com/google/gson/JsonElement.getAsJsonArray]
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/JsonArray.size
+com/google/gson/JsonParser.parse
+com/google/gson/JsonElement.getAsJsonArray
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/JsonElement.isJsonArray
+top 10 recommendations: 
+com/google/gson/JsonParser.parse
+com/google/gson/internal/Streams.parse
+com/google/gson/JsonElement.getAsJsonArray
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/JsonArray.size
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/JsonElement.isJsonArray
+after post processing ......
+com/google/gson/JsonParser.parse
+com/google/gson/internal/Streams.parse
+com/google/gson/JsonElement.getAsJsonArray
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/JsonArray.size
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/JsonElement.isJsonArray
+found in top 10

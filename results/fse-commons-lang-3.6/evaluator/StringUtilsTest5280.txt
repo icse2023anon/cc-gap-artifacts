@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testGetJaroWinklerDistance_StringString:2625
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.getJaroWinklerDistance]
+org/apache/commons/lang3/StringUtils.getJaroWinklerDistance
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.getJaroWinklerDistance
+after post processing ......
+org/apache/commons/lang3/StringUtils.getJaroWinklerDistance
+perfect match

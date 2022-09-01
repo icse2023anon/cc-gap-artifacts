@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.LegendItemTest.testEquals:150
+Methods call in assertion: [org/jfree/chart/LegendItem.equals]
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/LegendItem.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/text/AttributedStringUtils.equal
+top 10 recommendations: 
+org/jfree/chart/LegendItem.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/text/AttributedStringUtils.equal
+after post processing ......
+org/jfree/chart/LegendItem.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/text/AttributedStringUtils.equal
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testEscapeSurrogatePairs:3100
+Methods call in assertion: [org/apache/commons/lang3/StringEscapeUtils.escapeHtml3]
+org/apache/commons/lang3/StringEscapeUtils.escapeHtml3
+top 10 recommendations: 
+org/apache/commons/lang3/StringEscapeUtils.escapeHtml3
+after post processing ......
+org/apache/commons/lang3/StringEscapeUtils.escapeHtml3
+perfect match

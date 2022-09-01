@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_yearOfCentury:105
+Methods call in assertion: [org/joda/time/DurationFieldType.years, org/joda/time/DateTimeFieldType.yearOfCentury, org/joda/time/DateTimeFieldType.getDurationType]
+org/joda/time/DurationFieldType.years
+org/joda/time/DateTimeFieldType.yearOfCentury
+top 10 recommendations: 
+org/joda/time/DurationFieldType.years
+org/joda/time/DateTimeFieldType.yearOfCentury
+after post processing ......
+org/joda/time/DurationFieldType.years
+org/joda/time/DateTimeFieldType.yearOfCentury
+not matched

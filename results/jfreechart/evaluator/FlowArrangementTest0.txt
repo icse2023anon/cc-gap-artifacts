@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.block.FlowArrangementTest.testEquals:82
+Methods call in assertion: [org/jfree/chart/block/FlowArrangement.equals]
+org/jfree/chart/block/FlowArrangement.equals
+top 10 recommendations: 
+org/jfree/chart/block/FlowArrangement.equals
+after post processing ......
+org/jfree/chart/block/FlowArrangement.equals
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.ClassUtilsTest.test_isAssignable_Unboxing_Widening:757
+Methods call in assertion: [org/apache/commons/lang3/ClassUtils.isAssignable]
+org/apache/commons/lang3/ClassUtils.wrapperToPrimitive
+org/apache/commons/lang3/ClassUtils.isAssignable
+top 10 recommendations: 
+org/apache/commons/lang3/ClassUtils.isAssignable
+org/apache/commons/lang3/ClassUtils.wrapperToPrimitive
+after post processing ......
+org/apache/commons/lang3/ClassUtils.isAssignable
+org/apache/commons/lang3/ClassUtils.wrapperToPrimitive
+perfect match

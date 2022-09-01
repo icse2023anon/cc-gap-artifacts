@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testAppendIfMissing:3135
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.appendIfMissing]
+org/apache/commons/lang3/StringUtils.appendIfMissing
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/CharSequenceUtils.regionMatches
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.appendIfMissing
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/CharSequenceUtils.regionMatches
+after post processing ......
+org/apache/commons/lang3/StringUtils.appendIfMissing
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/CharSequenceUtils.regionMatches
+perfect match

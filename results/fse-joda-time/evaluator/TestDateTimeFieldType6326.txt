@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_hourOfHalfday:236
+Methods call in assertion: [org/joda/time/DateTimeFieldType.getRangeDurationType, org/joda/time/DurationFieldType.halfdays, org/joda/time/DateTimeFieldType.hourOfHalfday]
+org/joda/time/DurationFieldType.halfdays
+org/joda/time/DateTimeFieldType.hourOfHalfday
+top 10 recommendations: 
+org/joda/time/DurationFieldType.halfdays
+org/joda/time/DateTimeFieldType.hourOfHalfday
+after post processing ......
+org/joda/time/DurationFieldType.halfdays
+org/joda/time/DateTimeFieldType.hourOfHalfday
+not matched

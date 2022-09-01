@@ -1,0 +1,39 @@
+slicing criterion: org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology8:580
+Methods call in assertion: [org/joda/time/DateTime.withZone, org/joda/time/MutableInterval.getEnd, org/joda/time/chrono/BuddhistChronology.getInstance]
+org/joda/time/DateTime.withZone
+org/joda/time/DateTime.withChronology
+org/joda/time/DateTime.getMillis
+org/joda/time/chrono/LimitChronology.getAsText
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/chrono/BuddhistChronology.withZone
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeZone.getID
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/tz/FixedDateTimeZone.hashCode
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/DateTime.withZone
+org/joda/time/DateTime.withChronology
+org/joda/time/chrono/BuddhistChronology.withZone
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.getMillis
+org/joda/time/chrono/LimitChronology.getAsText
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/DateTimeZone.getID
+org/joda/time/base/BaseDateTime.getChronology
+after post processing ......
+org/joda/time/DateTime.withZone
+org/joda/time/DateTime.withChronology
+org/joda/time/chrono/BuddhistChronology.withZone
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.getMillis
+org/joda/time/chrono/LimitChronology.getAsText
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/DateTimeZone.getID
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/tz/FixedDateTimeZone.hashCode
+org/joda/time/DateTimeUtils.getChronology
+not matched

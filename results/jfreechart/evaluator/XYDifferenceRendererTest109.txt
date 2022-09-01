@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYDifferenceRendererTest.testCloning:145
+Methods call in assertion: [org/jfree/chart/renderer/xy/XYDifferenceRenderer.equals]
+org/jfree/chart/renderer/xy/XYDifferenceRenderer.clone
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/renderer/xy/XYDifferenceRenderer.equals
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/util/PaintUtils.equal
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/XYDifferenceRenderer.clone
+org/jfree/chart/renderer/xy/XYDifferenceRenderer.equals
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/renderer/xy/XYDifferenceRenderer.clone
+org/jfree/chart/renderer/xy/XYDifferenceRenderer.equals
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/util/PaintUtils.equal
+found in top 10

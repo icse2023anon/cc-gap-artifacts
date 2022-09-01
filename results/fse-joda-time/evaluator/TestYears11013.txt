@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestYears.testGetPeriodType:174
+Methods call in assertion: [org/joda/time/PeriodType.years, org/joda/time/Years.getPeriodType]
+org/joda/time/PeriodType.years
+org/joda/time/Years.years
+top 10 recommendations: 
+org/joda/time/PeriodType.years
+org/joda/time/Years.years
+after post processing ......
+org/joda/time/PeriodType.years
+org/joda/time/Years.years
+not matched

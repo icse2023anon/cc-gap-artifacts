@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.chrono.TestEthiopicChronology.testWithZone:224
+Methods call in assertion: [org/joda/time/chrono/EthiopicChronology.getInstance, org/joda/time/chrono/EthiopicChronology.withZone]
+org/joda/time/chrono/EthiopicChronology.getInstance
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/EthiopicChronology.withZone
+top 10 recommendations: 
+org/joda/time/chrono/EthiopicChronology.withZone
+org/joda/time/chrono/EthiopicChronology.getInstance
+org/joda/time/tz/CachedDateTimeZone.hashCode
+after post processing ......
+org/joda/time/chrono/EthiopicChronology.withZone
+org/joda/time/chrono/EthiopicChronology.getInstance
+org/joda/time/tz/CachedDateTimeZone.hashCode
+found in top 10

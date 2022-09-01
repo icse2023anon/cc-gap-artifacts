@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.category.AbstractCategoryItemRendererTest.test2947660:335
+Methods call in assertion: [org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItems]
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItems
+top 10 recommendations: 
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItems
+after post processing ......
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItems
+perfect match

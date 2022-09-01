@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testEqualsOne:917
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getNullString]
+org/apache/commons/csv/CSVFormat.getNullString
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.getNullString
+after post processing ......
+org/apache/commons/csv/CSVFormat.getNullString
+perfect match

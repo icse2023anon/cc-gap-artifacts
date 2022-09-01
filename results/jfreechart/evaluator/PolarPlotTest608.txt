@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.PolarPlotTest.testEquals:179
+Methods call in assertion: [org/jfree/chart/plot/PolarPlot.equals]
+org/jfree/chart/plot/PolarPlot.equals
+top 10 recommendations: 
+org/jfree/chart/plot/PolarPlot.equals
+after post processing ......
+org/jfree/chart/plot/PolarPlot.equals
+perfect match

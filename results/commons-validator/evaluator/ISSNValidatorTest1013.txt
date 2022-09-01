@@ -1,0 +1,23 @@
+slicing criterion: org.apache.commons.validator.routines.ISSNValidatorTest.testIsValidISSNConvert:151
+Methods call in assertion: [org/apache/commons/validator/routines/checkdigit/CheckDigit.isValid]
+org/apache/commons/validator/routines/ISSNValidator.validate
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/checkdigit/EAN13CheckDigit.weightedValue
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.toInt
+org/apache/commons/validator/routines/ISSNValidator.convertToEAN13
+top 10 recommendations: 
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/ISSNValidator.convertToEAN13
+org/apache/commons/validator/routines/ISSNValidator.validate
+org/apache/commons/validator/routines/checkdigit/EAN13CheckDigit.weightedValue
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.toInt
+after post processing ......
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/ISSNValidator.convertToEAN13
+org/apache/commons/validator/routines/ISSNValidator.validate
+org/apache/commons/validator/routines/checkdigit/EAN13CheckDigit.weightedValue
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.toInt
+found in top 10

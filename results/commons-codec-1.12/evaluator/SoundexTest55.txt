@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.language.SoundexTest.testSoundexUtilsNullBehaviour:341
+Methods call in assertion: [org/apache/commons/codec/language/SoundexUtils.differenceEncoded]
+org/apache/commons/codec/language/SoundexUtils.differenceEncoded
+top 10 recommendations: 
+org/apache/commons/codec/language/SoundexUtils.differenceEncoded
+after post processing ......
+org/apache/commons/codec/language/SoundexUtils.differenceEncoded
+perfect match

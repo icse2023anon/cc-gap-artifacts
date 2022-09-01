@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_secondOfMinute:288
+Methods call in assertion: [org/joda/time/DateTimeFieldType.secondOfMinute, org/joda/time/DateTimeFieldType.isSupported, org/joda/time/chrono/CopticChronology.secondOfMinute, org/joda/time/chrono/CopticChronology.getInstanceUTC, org/joda/time/DateTimeField.isSupported]
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/DateTimeFieldType.secondOfMinute
+org/joda/time/DateTimeFieldType.isSupported
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/DateTimeFieldType.secondOfMinute
+org/joda/time/DateTimeFieldType.isSupported
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+after post processing ......
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/DateTimeFieldType.secondOfMinute
+org/joda/time/DateTimeFieldType.isSupported
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+not matched

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.builder.EqualsBuilderTest.testCyclicalObjectReferences:1299
+Methods call in assertion: [org/apache/commons/lang3/builder/EqualsBuilder.getRegistry]
+org/apache/commons/lang3/builder/EqualsBuilder.getRegistry
+top 10 recommendations: 
+org/apache/commons/lang3/builder/EqualsBuilder.getRegistry
+after post processing ......
+org/apache/commons/lang3/builder/EqualsBuilder.getRegistry
+perfect match

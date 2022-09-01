@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.xy.VectorRendererTest.testCloning:100
+Methods call in assertion: [org/jfree/chart/renderer/xy/VectorRenderer.equals]
+org/jfree/chart/renderer/xy/VectorRenderer.equals
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getSeriesToolTipGenerator
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/VectorRenderer.equals
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getSeriesToolTipGenerator
+after post processing ......
+org/jfree/chart/renderer/xy/VectorRenderer.equals
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getSeriesToolTipGenerator
+perfect match

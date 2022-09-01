@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.field.TestBaseDateTimeField.test_roundHalfFloor_long:533
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.roundHalfFloor]
+org/joda/time/field/BaseDateTimeField.roundHalfFloor
+org/joda/time/field/BaseDateTimeField.roundCeiling
+org/joda/time/field/BaseDateTimeField.add
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.roundHalfFloor
+org/joda/time/field/BaseDateTimeField.roundCeiling
+org/joda/time/field/BaseDateTimeField.add
+after post processing ......
+org/joda/time/field/BaseDateTimeField.roundHalfFloor
+org/joda/time/field/BaseDateTimeField.roundCeiling
+org/joda/time/field/BaseDateTimeField.add
+perfect match

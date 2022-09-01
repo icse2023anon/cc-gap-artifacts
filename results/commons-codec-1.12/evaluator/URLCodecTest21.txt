@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.codec.net.URLCodecTest.testEncodeUrlWithNullBitSet:194
+Methods call in assertion: [org/apache/commons/codec/net/URLCodec.decode]
+org/apache/commons/codec/net/URLCodec.decode
+org/apache/commons/codec/binary/StringUtils.getBytesUsAscii
+org/apache/commons/codec/net/URLCodec.decodeUrl
+org/apache/commons/codec/net/URLCodec.getDefaultCharset
+org/apache/commons/codec/net/URLCodec.encodeUrl
+top 10 recommendations: 
+org/apache/commons/codec/net/URLCodec.decode
+org/apache/commons/codec/binary/StringUtils.getBytesUsAscii
+org/apache/commons/codec/net/URLCodec.decodeUrl
+org/apache/commons/codec/net/URLCodec.getDefaultCharset
+org/apache/commons/codec/net/URLCodec.encodeUrl
+after post processing ......
+org/apache/commons/codec/net/URLCodec.decode
+org/apache/commons/codec/binary/StringUtils.getBytesUsAscii
+org/apache/commons/codec/net/URLCodec.decodeUrl
+org/apache/commons/codec/net/URLCodec.getDefaultCharset
+org/apache/commons/codec/net/URLCodec.encodeUrl
+perfect match

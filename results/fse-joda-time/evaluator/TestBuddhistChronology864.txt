@@ -1,0 +1,55 @@
+slicing criterion: org.joda.time.chrono.TestBuddhistChronology.testDurationFields:284
+Methods call in assertion: [org/joda/time/DurationField.isPrecise, org/joda/time/chrono/BuddhistChronology.centuries]
+org/joda/time/field/OffsetDateTimeField.get
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/chrono/AssembledChronology.getParam
+org/joda/time/field/DividedDateTimeField.getDurationField
+org/joda/time/chrono/LimitChronology.getAsText
+org/joda/time/chrono/LimitChronology.assemble
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/BuddhistChronology.assemble
+org/joda/time/field/DecoratedDateTimeField.getDurationField
+org/joda/time/tz/FixedDateTimeZone.hashCode
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/field/DecoratedDurationField.isPrecise
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/DateTimeZone.getID
+org/joda/time/field/DividedDateTimeField.<init>
+org/joda/time/chrono/AssembledChronology.centuries
+top 10 recommendations: 
+org/joda/time/chrono/BuddhistChronology.assemble
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.forID
+org/joda/time/field/OffsetDateTimeField.get
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/chrono/AssembledChronology.getParam
+org/joda/time/field/DividedDateTimeField.getDurationField
+org/joda/time/chrono/LimitChronology.getAsText
+org/joda/time/chrono/LimitChronology.assemble
+org/joda/time/chrono/BuddhistChronology.getInstance
+after post processing ......
+org/joda/time/chrono/BuddhistChronology.assemble
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.forID
+org/joda/time/field/OffsetDateTimeField.get
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/chrono/AssembledChronology.getParam
+org/joda/time/field/DividedDateTimeField.getDurationField
+org/joda/time/chrono/LimitChronology.getAsText
+org/joda/time/chrono/LimitChronology.assemble
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/field/DecoratedDateTimeField.getDurationField
+org/joda/time/tz/FixedDateTimeZone.hashCode
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/field/DecoratedDurationField.isPrecise
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/DateTimeZone.getID
+org/joda/time/field/DividedDateTimeField.<init>
+org/joda/time/chrono/AssembledChronology.centuries
+all method calls are suggested

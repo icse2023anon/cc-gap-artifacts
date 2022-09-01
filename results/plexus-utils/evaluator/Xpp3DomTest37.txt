@@ -1,0 +1,32 @@
+slicing criterion: org.codehaus.plexus.util.xml.Xpp3DomTest.testShouldPerformAppendAtFirstSubElementLevel:53
+Methods call in assertion: [org/codehaus/plexus/util/xml/Xpp3Dom.getChildren]
+org/codehaus/plexus/util/xml/Xpp3Dom.setAttribute
+org/codehaus/plexus/util/xml/Xpp3Dom.getAttributeNames
+org/codehaus/plexus/util/xml/Xpp3Dom.addChild
+org/codehaus/plexus/util/xml/Xpp3Dom.mergeXpp3Dom
+org/codehaus/plexus/util/xml/Xpp3Dom.getChildren
+org/codehaus/plexus/util/xml/Xpp3Dom.getChild
+org/codehaus/plexus/util/xml/Xpp3Dom.getChildCount
+org/codehaus/plexus/util/xml/Xpp3Dom.getAttribute
+org/codehaus/plexus/util/xml/Xpp3Dom.getName
+top 10 recommendations: 
+org/codehaus/plexus/util/xml/Xpp3Dom.addChild
+org/codehaus/plexus/util/xml/Xpp3Dom.getChildren
+org/codehaus/plexus/util/xml/Xpp3Dom.setAttribute
+org/codehaus/plexus/util/xml/Xpp3Dom.getAttributeNames
+org/codehaus/plexus/util/xml/Xpp3Dom.mergeXpp3Dom
+org/codehaus/plexus/util/xml/Xpp3Dom.getChild
+org/codehaus/plexus/util/xml/Xpp3Dom.getChildCount
+org/codehaus/plexus/util/xml/Xpp3Dom.getAttribute
+org/codehaus/plexus/util/xml/Xpp3Dom.getName
+after post processing ......
+org/codehaus/plexus/util/xml/Xpp3Dom.addChild
+org/codehaus/plexus/util/xml/Xpp3Dom.getChildren
+org/codehaus/plexus/util/xml/Xpp3Dom.setAttribute
+org/codehaus/plexus/util/xml/Xpp3Dom.getAttributeNames
+org/codehaus/plexus/util/xml/Xpp3Dom.mergeXpp3Dom
+org/codehaus/plexus/util/xml/Xpp3Dom.getChild
+org/codehaus/plexus/util/xml/Xpp3Dom.getChildCount
+org/codehaus/plexus/util/xml/Xpp3Dom.getAttribute
+org/codehaus/plexus/util/xml/Xpp3Dom.getName
+found in top 10

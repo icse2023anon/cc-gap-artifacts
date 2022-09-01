@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYAreaRenderer2Test.testHashcode:96
+Methods call in assertion: [org/jfree/chart/renderer/xy/XYAreaRenderer2.equals]
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/renderer/xy/XYAreaRenderer2.<init>
+org/jfree/chart/renderer/xy/XYAreaRenderer2.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/XYAreaRenderer2.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/renderer/xy/XYAreaRenderer2.<init>
+after post processing ......
+org/jfree/chart/renderer/xy/XYAreaRenderer2.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/renderer/xy/XYAreaRenderer2.<init>
+perfect match

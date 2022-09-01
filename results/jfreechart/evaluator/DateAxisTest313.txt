@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.axis.DateAxisTest.testCloning:186
+Methods call in assertion: [org/jfree/chart/axis/DateAxis.equals]
+org/jfree/chart/axis/DateAxis.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/DateAxis.clone
+top 10 recommendations: 
+org/jfree/chart/axis/DateAxis.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/DateAxis.clone
+after post processing ......
+org/jfree/chart/axis/DateAxis.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/DateAxis.clone
+perfect match

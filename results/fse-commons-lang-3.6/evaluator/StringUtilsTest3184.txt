@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testUpperCase:267
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.upperCase]
+org/apache/commons/lang3/StringUtils.upperCase
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.upperCase
+after post processing ......
+org/apache/commons/lang3/StringUtils.upperCase
+perfect match

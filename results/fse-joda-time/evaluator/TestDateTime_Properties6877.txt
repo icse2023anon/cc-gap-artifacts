@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTime_Properties.testPropertyGetDayOfYear:779
+Methods call in assertion: [org/joda/time/DateTime.dayOfYear, org/joda/time/DateTime$Property.toString]
+org/joda/time/DateTime.getMillis
+org/joda/time/field/AbstractReadableInstantFieldProperty.toString
+top 10 recommendations: 
+org/joda/time/DateTime.getMillis
+org/joda/time/field/AbstractReadableInstantFieldProperty.toString
+after post processing ......
+org/joda/time/DateTime.getMillis
+org/joda/time/field/AbstractReadableInstantFieldProperty.toString
+not matched

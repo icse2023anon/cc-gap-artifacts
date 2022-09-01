@@ -1,0 +1,55 @@
+slicing criterion: org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology5:557
+Methods call in assertion: [org/joda/time/MutableInterval.getChronology, org/joda/time/chrono/ISOChronology.getInstance]
+org/joda/time/convert/StringConverter.setInto
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/format/DateTimeParserBucket.saveState
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/format/DateTimeParserBucket.getZone
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/format/DateTimeFormatter.parseDateTime
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeParserBucket.<init>
+org/joda/time/format/DateTimeParserBucket.compareTo
+org/joda/time/format/InternalParserDateTimeParser.parseInto
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/format/ISODateTimeFormat.dateTimeParser
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/format/DateTimeParserBucket.restoreState
+top 10 recommendations: 
+org/joda/time/convert/StringConverter.setInto
+org/joda/time/format/DateTimeFormatter.parseDateTime
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/format/DateTimeParserBucket.<init>
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/format/DateTimeParserBucket.saveState
+after post processing ......
+org/joda/time/convert/StringConverter.setInto
+org/joda/time/format/DateTimeFormatter.parseDateTime
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/format/DateTimeParserBucket.<init>
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/format/DateTimeParserBucket.saveState
+org/joda/time/format/DateTimeParserBucket.getZone
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/format/DateTimeParserBucket.compareTo
+org/joda/time/format/InternalParserDateTimeParser.parseInto
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/format/ISODateTimeFormat.dateTimeParser
+org/joda/time/format/DateTimeParserBucket.restoreState
+all method calls are suggested

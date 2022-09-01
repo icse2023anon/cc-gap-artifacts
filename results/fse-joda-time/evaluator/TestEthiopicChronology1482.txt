@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.chrono.TestEthiopicChronology.testToString:236
+Methods call in assertion: [org/joda/time/chrono/EthiopicChronology.getInstanceUTC, org/joda/time/chrono/EthiopicChronology.toString]
+org/joda/time/chrono/EthiopicChronology.getInstanceUTC
+top 10 recommendations: 
+org/joda/time/chrono/EthiopicChronology.getInstanceUTC
+after post processing ......
+org/joda/time/chrono/EthiopicChronology.getInstanceUTC
+not matched

@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.renderer.category.ScatterRendererTest.testCloning:129
+Methods call in assertion: [org/jfree/chart/renderer/category/ScatterRenderer.equals]
+org/jfree/chart/util/BooleanList.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/renderer/category/ScatterRenderer.equals
+org/jfree/chart/renderer/category/ScatterRenderer.clone
+top 10 recommendations: 
+org/jfree/chart/renderer/category/ScatterRenderer.equals
+org/jfree/chart/util/BooleanList.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/renderer/category/ScatterRenderer.clone
+after post processing ......
+org/jfree/chart/renderer/category/ScatterRenderer.equals
+org/jfree/chart/util/BooleanList.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/renderer/category/ScatterRenderer.clone
+perfect match

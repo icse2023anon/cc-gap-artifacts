@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestOffsetDateTimeField.test_set_long_String_Locale:394
+Methods call in assertion: [org/joda/time/field/OffsetDateTimeField.set]
+org/joda/time/field/OffsetDateTimeField.set
+org/joda/time/field/BaseDateTimeField.set
+top 10 recommendations: 
+org/joda/time/field/OffsetDateTimeField.set
+org/joda/time/field/BaseDateTimeField.set
+after post processing ......
+org/joda/time/field/OffsetDateTimeField.set
+org/joda/time/field/BaseDateTimeField.set
+perfect match

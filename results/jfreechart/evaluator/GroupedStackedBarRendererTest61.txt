@@ -1,0 +1,26 @@
+slicing criterion: org.jfree.chart.renderer.category.GroupedStackedBarRendererTest.testFindRangeBounds:158
+Methods call in assertion: [org/jfree/chart/renderer/category/GroupedStackedBarRenderer.findRangeBounds]
+org/jfree/chart/renderer/category/GroupedStackedBarRenderer.findRangeBounds
+org/jfree/data/Range.combine
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/general/DatasetUtils.findStackedRangeBounds
+org/jfree/data/KeyToGroupMap.getGroupCount
+org/jfree/data/category/DefaultCategoryDataset.getValue
+org/jfree/data/category/DefaultCategoryDataset.getColumnCount
+top 10 recommendations: 
+org/jfree/chart/renderer/category/GroupedStackedBarRenderer.findRangeBounds
+org/jfree/data/general/DatasetUtils.findStackedRangeBounds
+org/jfree/data/Range.combine
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/KeyToGroupMap.getGroupCount
+org/jfree/data/category/DefaultCategoryDataset.getValue
+org/jfree/data/category/DefaultCategoryDataset.getColumnCount
+after post processing ......
+org/jfree/chart/renderer/category/GroupedStackedBarRenderer.findRangeBounds
+org/jfree/data/general/DatasetUtils.findStackedRangeBounds
+org/jfree/data/Range.combine
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/KeyToGroupMap.getGroupCount
+org/jfree/data/category/DefaultCategoryDataset.getValue
+org/jfree/data/category/DefaultCategoryDataset.getColumnCount
+perfect match

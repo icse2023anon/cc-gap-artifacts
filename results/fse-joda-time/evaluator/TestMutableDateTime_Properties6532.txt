@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMutableDateTime_Properties.testPropertyGetEra:157
+Methods call in assertion: [org/joda/time/MutableDateTime.era, org/joda/time/MutableDateTime$Property.toString]
+org/joda/time/MutableDateTime.era
+org/joda/time/field/AbstractReadableInstantFieldProperty.toString
+top 10 recommendations: 
+org/joda/time/MutableDateTime.era
+org/joda/time/field/AbstractReadableInstantFieldProperty.toString
+after post processing ......
+org/joda/time/MutableDateTime.era
+org/joda/time/field/AbstractReadableInstantFieldProperty.toString
+not matched

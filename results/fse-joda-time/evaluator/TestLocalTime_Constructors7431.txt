@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestLocalTime_Constructors.testConstantMidnight:168
+Methods call in assertion: [org/joda/time/LocalTime.getHourOfDay]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/LocalTime.getHourOfDay
+org/joda/time/LocalTime.getChronology
+top 10 recommendations: 
+org/joda/time/LocalTime.getHourOfDay
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/LocalTime.getChronology
+after post processing ......
+org/joda/time/LocalTime.getHourOfDay
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/LocalTime.getChronology
+perfect match

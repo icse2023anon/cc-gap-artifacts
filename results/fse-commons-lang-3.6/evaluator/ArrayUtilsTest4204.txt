@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.ArrayUtilsTest.testSubarrayFloat:1609
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.isEquals, org/apache/commons/lang3/ArrayUtils.subarray]
+org/apache/commons/lang3/builder/EqualsBuilder.append
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/ArrayUtils.subarray
+top 10 recommendations: 
+org/apache/commons/lang3/builder/EqualsBuilder.append
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/ArrayUtils.subarray
+after post processing ......
+org/apache/commons/lang3/builder/EqualsBuilder.append
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/ArrayUtils.subarray
+not matched

@@ -1,0 +1,37 @@
+slicing criterion: org.apache.commons.validator.routines.ISBNValidatorTest.testInvalid:269
+Methods call in assertion: [org/apache/commons/validator/routines/ISBNValidator.isValid]
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/ISBNValidator.isValidISBN13
+org/apache/commons/validator/routines/CodeValidator.isValid
+org/apache/commons/validator/routines/ISBNValidator.isValid
+org/apache/commons/validator/routines/checkdigit/ISBN10CheckDigit.weightedValue
+org/apache/commons/validator/routines/checkdigit/ISBN10CheckDigit.toInt
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/ISBNValidator.getInstance
+org/apache/commons/validator/routines/RegexValidator.validate
+org/apache/commons/validator/routines/ISBNValidator.isValidISBN10
+top 10 recommendations: 
+org/apache/commons/validator/routines/ISBNValidator.isValid
+org/apache/commons/validator/routines/ISBNValidator.isValidISBN13
+org/apache/commons/validator/routines/ISBNValidator.isValidISBN10
+org/apache/commons/validator/routines/CodeValidator.isValid
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/checkdigit/ISBN10CheckDigit.weightedValue
+org/apache/commons/validator/routines/checkdigit/ISBN10CheckDigit.toInt
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/ISBNValidator.getInstance
+after post processing ......
+org/apache/commons/validator/routines/ISBNValidator.isValid
+org/apache/commons/validator/routines/ISBNValidator.isValidISBN13
+org/apache/commons/validator/routines/ISBNValidator.isValidISBN10
+org/apache/commons/validator/routines/CodeValidator.isValid
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/checkdigit/ISBN10CheckDigit.weightedValue
+org/apache/commons/validator/routines/checkdigit/ISBN10CheckDigit.toInt
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/ISBNValidator.getInstance
+org/apache/commons/validator/routines/RegexValidator.validate
+perfect match

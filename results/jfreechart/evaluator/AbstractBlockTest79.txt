@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.block.AbstractBlockTest.testEquals:77
+Methods call in assertion: [org/jfree/chart/block/EmptyBlock.equals]
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/block/AbstractBlock.equals
+top 10 recommendations: 
+org/jfree/chart/block/AbstractBlock.equals
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/block/AbstractBlock.equals
+org/jfree/chart/util/ObjectUtils.equal
+found in top 10

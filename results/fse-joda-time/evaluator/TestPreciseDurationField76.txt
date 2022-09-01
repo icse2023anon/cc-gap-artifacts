@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestPreciseDurationField.test_add_long_int:197
+Methods call in assertion: [org/joda/time/field/PreciseDurationField.add]
+org/joda/time/field/PreciseDurationField.add
+org/joda/time/field/FieldUtils.safeAdd
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationField.add
+org/joda/time/field/FieldUtils.safeAdd
+after post processing ......
+org/joda/time/field/PreciseDurationField.add
+org/joda/time/field/FieldUtils.safeAdd
+perfect match

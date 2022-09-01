@@ -1,0 +1,11 @@
+slicing criterion: org.jsoup.helper.HttpConnectionTest.headers:63
+Methods call in assertion: [org/jsoup/Connection.request, org/jsoup/Connection$Request.header]
+org/jsoup/helper/HttpConnection.request
+org/jsoup/helper/HttpConnection.connect
+top 10 recommendations: 
+org/jsoup/helper/HttpConnection.request
+org/jsoup/helper/HttpConnection.connect
+after post processing ......
+org/jsoup/helper/HttpConnection.request
+org/jsoup/helper/HttpConnection.connect
+not matched

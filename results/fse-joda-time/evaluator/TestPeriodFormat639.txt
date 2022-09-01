@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.format.TestPeriodFormat.test_wordBased_pl_parseOneField:480
+Methods call in assertion: [org/joda/time/format/PeriodFormat.wordBased, org/joda/time/format/PeriodFormatter.parsePeriod]
+org/joda/time/format/PeriodFormat.wordBased
+org/joda/time/Period.days
+org/joda/time/format/PeriodFormatter.parsePeriod
+org/joda/time/base/AbstractPeriod.toPeriod
+top 10 recommendations: 
+org/joda/time/format/PeriodFormat.wordBased
+org/joda/time/Period.days
+org/joda/time/format/PeriodFormatter.parsePeriod
+org/joda/time/base/AbstractPeriod.toPeriod
+after post processing ......
+org/joda/time/format/PeriodFormat.wordBased
+org/joda/time/Period.days
+org/joda/time/format/PeriodFormatter.parsePeriod
+org/joda/time/base/AbstractPeriod.toPeriod
+found in top 10

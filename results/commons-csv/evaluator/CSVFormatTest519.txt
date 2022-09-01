@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testNewFormat:666
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getAllowMissingColumnNames]
+org/apache/commons/csv/CSVFormat.newFormat
+org/apache/commons/csv/CSVFormat.getAllowMissingColumnNames
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.newFormat
+org/apache/commons/csv/CSVFormat.getAllowMissingColumnNames
+after post processing ......
+org/apache/commons/csv/CSVFormat.newFormat
+org/apache/commons/csv/CSVFormat.getAllowMissingColumnNames
+found in top 10

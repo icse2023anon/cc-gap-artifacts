@@ -1,0 +1,39 @@
+slicing criterion: com.thoughtworks.xstream.io.xml.DomReaderTest.testExposesAttributesKeysAndValuesByIndex:84
+Methods call in assertion: [com/thoughtworks/xstream/io/HierarchicalStreamReader.getNodeName]
+com/thoughtworks/xstream/io/xml/DomReader.reassignCurrentElement
+com/thoughtworks/xstream/io/xml/DomDriver.createDocumentBuilderFactory
+com/thoughtworks/xstream/core/util/Cloneables.clone
+com/thoughtworks/xstream/io/xml/DomReader.getAttributeCount
+com/thoughtworks/xstream/io/xml/DomDriver.<init>
+com/thoughtworks/xstream/io/xml/DomReader.getNodeName
+com/thoughtworks/xstream/core/util/Cloneables.cloneIfPossible
+com/thoughtworks/xstream/io/xml/AbstractDocumentReader.<init>
+com/thoughtworks/xstream/io/xml/DomDriver.createReader
+com/thoughtworks/xstream/io/AbstractReader.decodeNode
+com/thoughtworks/xstream/io/xml/DomReader.<init>
+com/thoughtworks/xstream/io/AbstractDriver.getNameCoder
+top 10 recommendations: 
+com/thoughtworks/xstream/io/xml/DomDriver.createReader
+com/thoughtworks/xstream/core/util/Cloneables.cloneIfPossible
+com/thoughtworks/xstream/io/xml/DomReader.<init>
+com/thoughtworks/xstream/io/xml/DomReader.reassignCurrentElement
+com/thoughtworks/xstream/io/xml/DomDriver.createDocumentBuilderFactory
+com/thoughtworks/xstream/core/util/Cloneables.clone
+com/thoughtworks/xstream/io/xml/DomReader.getAttributeCount
+com/thoughtworks/xstream/io/xml/DomDriver.<init>
+com/thoughtworks/xstream/io/xml/DomReader.getNodeName
+com/thoughtworks/xstream/io/xml/AbstractDocumentReader.<init>
+after post processing ......
+com/thoughtworks/xstream/io/xml/DomDriver.createReader
+com/thoughtworks/xstream/core/util/Cloneables.cloneIfPossible
+com/thoughtworks/xstream/io/xml/DomReader.<init>
+com/thoughtworks/xstream/io/xml/DomReader.reassignCurrentElement
+com/thoughtworks/xstream/io/xml/DomDriver.createDocumentBuilderFactory
+com/thoughtworks/xstream/core/util/Cloneables.clone
+com/thoughtworks/xstream/io/xml/DomReader.getAttributeCount
+com/thoughtworks/xstream/io/xml/DomDriver.<init>
+com/thoughtworks/xstream/io/xml/DomReader.getNodeName
+com/thoughtworks/xstream/io/xml/AbstractDocumentReader.<init>
+com/thoughtworks/xstream/io/AbstractReader.decodeNode
+com/thoughtworks/xstream/io/AbstractDriver.getNameCoder
+not matched

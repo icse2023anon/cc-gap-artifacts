@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.field.TestScaledDurationField.test_hashCode:275
+Methods call in assertion: [org/joda/time/field/ScaledDurationField.hashCode]
+org/joda/time/DurationFieldType.minutes
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/field/BaseDurationField.getType
+org/joda/time/field/ScaledDurationField.hashCode
+top 10 recommendations: 
+org/joda/time/DurationFieldType.minutes
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/field/BaseDurationField.getType
+org/joda/time/field/ScaledDurationField.hashCode
+after post processing ......
+org/joda/time/DurationFieldType.minutes
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/field/BaseDurationField.getType
+org/joda/time/field/ScaledDurationField.hashCode
+found in top 10

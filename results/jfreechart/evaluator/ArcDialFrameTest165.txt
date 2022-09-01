@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.plot.dial.ArcDialFrameTest.testCloning:144
+Methods call in assertion: [org/jfree/chart/plot/dial/ArcDialFrame.equals]
+org/jfree/chart/plot/dial/ArcDialFrame.clone
+org/jfree/chart/plot/dial/ArcDialFrame.equals
+org/jfree/chart/util/PaintUtils.equal
+top 10 recommendations: 
+org/jfree/chart/plot/dial/ArcDialFrame.equals
+org/jfree/chart/plot/dial/ArcDialFrame.clone
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/plot/dial/ArcDialFrame.equals
+org/jfree/chart/plot/dial/ArcDialFrame.clone
+org/jfree/chart/util/PaintUtils.equal
+perfect match

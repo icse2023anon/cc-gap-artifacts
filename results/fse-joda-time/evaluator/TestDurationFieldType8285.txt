@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestDurationFieldType.test_minutes:147
+Methods call in assertion: [org/joda/time/DurationFieldType.minutes, org/joda/time/DurationFieldType.getField, org/joda/time/chrono/CopticChronology.minutes, org/joda/time/chrono/CopticChronology.getInstanceUTC]
+org/joda/time/DurationFieldType.minutes
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.minutes
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/DurationFieldType.minutes
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.minutes
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/DurationFieldType.minutes
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.minutes
+org/joda/time/DateTimeUtils.getChronology
+not matched

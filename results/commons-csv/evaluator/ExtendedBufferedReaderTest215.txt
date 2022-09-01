@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.csv.ExtendedBufferedReaderTest.testReadLine:151
+Methods call in assertion: [org/apache/commons/csv/ExtendedBufferedReader.lookAhead]
+org/apache/commons/csv/ExtendedBufferedReader.lookAhead
+org/apache/commons/csv/ExtendedBufferedReader.<init>
+org/apache/commons/csv/ExtendedBufferedReader.read
+org/apache/commons/csv/ExtendedBufferedReader.readLine
+top 10 recommendations: 
+org/apache/commons/csv/ExtendedBufferedReader.lookAhead
+org/apache/commons/csv/ExtendedBufferedReader.<init>
+org/apache/commons/csv/ExtendedBufferedReader.read
+org/apache/commons/csv/ExtendedBufferedReader.readLine
+after post processing ......
+org/apache/commons/csv/ExtendedBufferedReader.lookAhead
+org/apache/commons/csv/ExtendedBufferedReader.<init>
+org/apache/commons/csv/ExtendedBufferedReader.read
+org/apache/commons/csv/ExtendedBufferedReader.readLine
+perfect match

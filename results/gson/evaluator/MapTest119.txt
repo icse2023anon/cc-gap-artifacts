@@ -1,0 +1,14 @@
+slicing criterion: com.google.gson.functional.MapTest.testSerializeMapOfMaps:587
+Methods call in assertion: [com/google/gson/Gson.toJson]
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/Gson.toJson
+com/google/gson/reflect/TypeToken.getSuperclassTypeParameter
+top 10 recommendations: 
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/Gson.toJson
+com/google/gson/reflect/TypeToken.getSuperclassTypeParameter
+after post processing ......
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/Gson.toJson
+com/google/gson/reflect/TypeToken.getSuperclassTypeParameter
+found in top 10

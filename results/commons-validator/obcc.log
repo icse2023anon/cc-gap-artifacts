@@ -1,0 +1,24 @@
+Aug 29, 2022 2:31:17 PM omc_ob.OMCob main
+INFO: total slices = total criteria = total assertions = 2276
+Aug 29, 2022 2:31:26 PM omc_ob.OMCob printOMC_ob
+INFO: Total condition covered: 771
+Aug 29, 2022 2:31:26 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.validator.GenericValidatorImpl class not found in the jacoco report report
+Aug 29, 2022 2:31:26 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.validator.CreditCardValidatorTest$DinersClub class not found in the jacoco report report
+Aug 29, 2022 2:31:26 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per class coverage for object branch!
+Aug 29, 2022 2:31:26 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.validator.CreditCardValidatorTest$DinersClub.matches not found in the jacoco report
+Aug 29, 2022 2:31:26 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.validator.GenericValidatorImpl.isStringOrNull not found in the jacoco report
+Aug 29, 2022 2:31:26 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.validator.GenericValidatorImpl.validateRequired not found in the jacoco report
+Aug 29, 2022 2:31:26 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.validator.GenericValidatorImpl.validateRequiredIf not found in the jacoco report
+Aug 29, 2022 2:31:26 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per method coverage for object branch!
+Aug 29, 2022 2:31:26 PM omc_ob.OMCob main
+INFO: OBC :73.82075471698113
+Aug 29, 2022 2:31:26 PM omc_ob.OMCob main
+INFO: OMC_OBC :45.45990566037736

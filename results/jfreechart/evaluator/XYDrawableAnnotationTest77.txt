@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.annotations.XYDrawableAnnotationTest.testEquals:135
+Methods call in assertion: [org/jfree/chart/annotations/XYDrawableAnnotation.equals]
+org/jfree/chart/annotations/XYDrawableAnnotation.equals
+top 10 recommendations: 
+org/jfree/chart/annotations/XYDrawableAnnotation.equals
+after post processing ......
+org/jfree/chart/annotations/XYDrawableAnnotation.equals
+perfect match

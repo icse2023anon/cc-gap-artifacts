@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.BitFieldTest.testByte:200
+Methods call in assertion: [org/apache/commons/lang3/BitField.setByteBoolean]
+org/apache/commons/lang3/BitField.clear
+org/apache/commons/lang3/BitField.clearByte
+org/apache/commons/lang3/BitField.setByteBoolean
+top 10 recommendations: 
+org/apache/commons/lang3/BitField.setByteBoolean
+org/apache/commons/lang3/BitField.clearByte
+org/apache/commons/lang3/BitField.clear
+after post processing ......
+org/apache/commons/lang3/BitField.setByteBoolean
+org/apache/commons/lang3/BitField.clearByte
+org/apache/commons/lang3/BitField.clear
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.convert.TestLongConverter.testSupportedType:109
+Methods call in assertion: [org/joda/time/convert/LongConverter.getSupportedType]
+org/joda/time/convert/LongConverter.getSupportedType
+top 10 recommendations: 
+org/joda/time/convert/LongConverter.getSupportedType
+after post processing ......
+org/joda/time/convert/LongConverter.getSupportedType
+perfect match

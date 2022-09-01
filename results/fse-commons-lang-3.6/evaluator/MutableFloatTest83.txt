@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableFloatTest.testToString:307
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableFloat.toString]
+org/apache/commons/lang3/mutable/MutableFloat.toString
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableFloat.toString
+after post processing ......
+org/apache/commons/lang3/mutable/MutableFloat.toString
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestMonthDay_Constructors.testFactory_FromCalendarFields:130
+Methods call in assertion: [org/joda/time/MonthDay.fromCalendarFields]
+org/joda/time/MonthDay.getReadablePartial
+top 10 recommendations: 
+org/joda/time/MonthDay.getReadablePartial
+after post processing ......
+org/joda/time/MonthDay.getReadablePartial
+not matched

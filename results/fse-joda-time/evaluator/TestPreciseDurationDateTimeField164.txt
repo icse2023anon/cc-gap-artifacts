@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.field.TestPreciseDurationDateTimeField.test_set_long_String_Locale:364
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.set]
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/field/BaseDateTimeField.convertText
+org/joda/time/field/PreciseDurationDateTimeField.set
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/field/BaseDateTimeField.convertText
+org/joda/time/field/PreciseDurationDateTimeField.set
+after post processing ......
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/field/BaseDateTimeField.convertText
+org/joda/time/field/PreciseDurationDateTimeField.set
+perfect match

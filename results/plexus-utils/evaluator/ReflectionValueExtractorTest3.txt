@@ -1,0 +1,20 @@
+slicing criterion: org.codehaus.plexus.util.introspection.ReflectionValueExtractorTest.testBadMappedSyntax:233
+Methods call in assertion: [org/codehaus/plexus/util/introspection/ReflectionValueExtractor.evaluate]
+org/codehaus/plexus/util/StringUtils.isEmpty
+org/codehaus/plexus/util/introspection/ReflectionValueExtractor.evaluate
+org/codehaus/plexus/util/introspection/ClassMap.getPublicMethod
+org/codehaus/plexus/util/introspection/ClassMap.findMethod
+org/codehaus/plexus/util/introspection/ClassMap.<init>
+top 10 recommendations: 
+org/codehaus/plexus/util/introspection/ReflectionValueExtractor.evaluate
+org/codehaus/plexus/util/StringUtils.isEmpty
+org/codehaus/plexus/util/introspection/ClassMap.getPublicMethod
+org/codehaus/plexus/util/introspection/ClassMap.findMethod
+org/codehaus/plexus/util/introspection/ClassMap.<init>
+after post processing ......
+org/codehaus/plexus/util/introspection/ReflectionValueExtractor.evaluate
+org/codehaus/plexus/util/StringUtils.isEmpty
+org/codehaus/plexus/util/introspection/ClassMap.getPublicMethod
+org/codehaus/plexus/util/introspection/ClassMap.findMethod
+org/codehaus/plexus/util/introspection/ClassMap.<init>
+perfect match

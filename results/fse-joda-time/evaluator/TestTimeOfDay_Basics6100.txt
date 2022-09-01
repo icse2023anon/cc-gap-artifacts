@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Basics.testIsEqual_TOD:343
+Methods call in assertion: [org/joda/time/TimeOfDay.isEqual]
+org/joda/time/base/AbstractPartial.compareTo
+org/joda/time/base/AbstractPartial.isEqual
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.isEqual
+org/joda/time/base/AbstractPartial.compareTo
+after post processing ......
+org/joda/time/base/AbstractPartial.isEqual
+org/joda/time/base/AbstractPartial.compareTo
+found in top 10

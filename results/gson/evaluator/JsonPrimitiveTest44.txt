@@ -1,0 +1,20 @@
+slicing criterion: com.google.gson.JsonPrimitiveTest.testBoolean:44
+Methods call in assertion: [com/google/gson/JsonPrimitive.getAsBoolean]
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/JsonPrimitive.getAsBoolean
+com/google/gson/JsonPrimitive.getAsString
+top 10 recommendations: 
+com/google/gson/JsonPrimitive.getAsBoolean
+com/google/gson/JsonPrimitive.getAsString
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.isBoolean
+after post processing ......
+com/google/gson/JsonPrimitive.getAsBoolean
+com/google/gson/JsonPrimitive.getAsString
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.isBoolean
+perfect match

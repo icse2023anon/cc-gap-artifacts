@@ -1,0 +1,14 @@
+slicing criterion: com.google.gson.VersionExclusionStrategyTest.testClassAndFieldAreAheadInVersion:45
+Methods call in assertion: [com/google/gson/internal/Excluder.excludeClass]
+com/google/gson/internal/Excluder.clone
+com/google/gson/internal/Excluder.excludeClass
+com/google/gson/internal/Excluder.withVersion
+top 10 recommendations: 
+com/google/gson/internal/Excluder.withVersion
+com/google/gson/internal/Excluder.clone
+com/google/gson/internal/Excluder.excludeClass
+after post processing ......
+com/google/gson/internal/Excluder.withVersion
+com/google/gson/internal/Excluder.clone
+com/google/gson/internal/Excluder.excludeClass
+found in top 10

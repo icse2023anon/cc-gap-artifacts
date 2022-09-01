@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testHexToInt:725
+Methods call in assertion: [org/apache/commons/lang3/Conversion.hexToInt]
+org/apache/commons/lang3/Conversion.hexToInt
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.hexToInt
+after post processing ......
+org/apache/commons/lang3/Conversion.hexToInt
+perfect match

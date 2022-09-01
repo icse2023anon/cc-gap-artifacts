@@ -1,0 +1,67 @@
+slicing criterion: org.jsoup.parser.XmlTreeBuilderTest.xmlFragment:122
+Methods call in assertion: [org/jsoup/nodes/TextNode.text]
+org/jsoup/parser/Parser.parseXmlFragment
+org/jsoup/nodes/Node.hasAttr
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/nodes/TextNode.normaliseWhitespace
+org/jsoup/parser/XmlTreeBuilder.initialiseParse
+org/jsoup/parser/XmlTreeBuilder.process
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/nodes/Document.<init>
+org/jsoup/parser/CharacterReader.current
+org/jsoup/parser/TreeBuilder.currentElement
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/CharacterReader.consume
+org/jsoup/nodes/Element.appendChild
+org/jsoup/nodes/TextNode.getWholeText
+org/jsoup/nodes/Attributes.equals
+org/jsoup/parser/XmlTreeBuilder.insert
+org/jsoup/parser/Tokeniser.read
+org/jsoup/parser/CharacterReader.consumeData
+org/jsoup/parser/CharacterReader.consumeToAny
+org/jsoup/parser/Tokeniser.emit
+org/jsoup/parser/CharacterReader.consumeToAnySorted
+org/jsoup/parser/Token.asCharacter
+org/jsoup/nodes/Node.childNodes
+org/jsoup/parser/XmlTreeBuilder.parseFragment
+org/jsoup/parser/CharacterReader.consumeTagName
+org/jsoup/nodes/TextNode.text
+top 10 recommendations: 
+org/jsoup/parser/Parser.parseXmlFragment
+org/jsoup/parser/XmlTreeBuilder.process
+org/jsoup/nodes/TextNode.text
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/XmlTreeBuilder.parseFragment
+org/jsoup/nodes/Node.hasAttr
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/nodes/TextNode.normaliseWhitespace
+org/jsoup/parser/XmlTreeBuilder.initialiseParse
+org/jsoup/nodes/Document.<init>
+after post processing ......
+org/jsoup/parser/Parser.parseXmlFragment
+org/jsoup/parser/XmlTreeBuilder.process
+org/jsoup/nodes/TextNode.text
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/XmlTreeBuilder.parseFragment
+org/jsoup/nodes/Node.hasAttr
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/nodes/TextNode.normaliseWhitespace
+org/jsoup/parser/XmlTreeBuilder.initialiseParse
+org/jsoup/nodes/Document.<init>
+org/jsoup/parser/CharacterReader.current
+org/jsoup/parser/TreeBuilder.currentElement
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/CharacterReader.consume
+org/jsoup/nodes/Element.appendChild
+org/jsoup/nodes/TextNode.getWholeText
+org/jsoup/nodes/Attributes.equals
+org/jsoup/parser/XmlTreeBuilder.insert
+org/jsoup/parser/Tokeniser.read
+org/jsoup/parser/CharacterReader.consumeData
+org/jsoup/parser/CharacterReader.consumeToAny
+org/jsoup/parser/Tokeniser.emit
+org/jsoup/parser/CharacterReader.consumeToAnySorted
+org/jsoup/parser/Token.asCharacter
+org/jsoup/nodes/Node.childNodes
+org/jsoup/parser/CharacterReader.consumeTagName
+found in top 10

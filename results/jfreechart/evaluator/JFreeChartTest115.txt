@@ -1,0 +1,26 @@
+slicing criterion: org.jfree.chart.JFreeChartTest.testEquals:175
+Methods call in assertion: [org/jfree/chart/JFreeChart.equals]
+org/jfree/chart/JFreeChart.setBackgroundPaint
+org/jfree/chart/JFreeChart.<init>
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/plot/RingPlot.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/JFreeChart.equals
+top 10 recommendations: 
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/plot/RingPlot.equals
+org/jfree/chart/JFreeChart.equals
+org/jfree/chart/JFreeChart.setBackgroundPaint
+org/jfree/chart/JFreeChart.<init>
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/plot/RingPlot.equals
+org/jfree/chart/JFreeChart.equals
+org/jfree/chart/JFreeChart.setBackgroundPaint
+org/jfree/chart/JFreeChart.<init>
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+found in top 10

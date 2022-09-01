@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestHours.testFactory_standardHoursIn_RPeriod:156
+Methods call in assertion: [org/joda/time/Hours.getHours, org/joda/time/Hours.standardHoursIn]
+org/joda/time/Hours.hours
+org/joda/time/Hours.getHours
+org/joda/time/base/BaseSingleFieldPeriod.standardPeriodIn
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Hours.standardHoursIn
+top 10 recommendations: 
+org/joda/time/Hours.standardHoursIn
+org/joda/time/Hours.hours
+org/joda/time/Hours.getHours
+org/joda/time/base/BaseSingleFieldPeriod.standardPeriodIn
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+after post processing ......
+org/joda/time/Hours.standardHoursIn
+org/joda/time/Hours.hours
+org/joda/time/Hours.getHours
+org/joda/time/base/BaseSingleFieldPeriod.standardPeriodIn
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+found in top 10

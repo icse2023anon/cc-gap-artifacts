@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testEqualsWithNull:1045
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getSkipHeaderRecord]
+org/apache/commons/csv/CSVFormat.getSkipHeaderRecord
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.getSkipHeaderRecord
+after post processing ......
+org/apache/commons/csv/CSVFormat.getSkipHeaderRecord
+perfect match

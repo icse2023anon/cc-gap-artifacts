@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestInstant_Basics.testWithMillis_long:542
+Methods call in assertion: [org/joda/time/Instant.getChronology]
+org/joda/time/Instant.withMillis
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/Instant.getChronology
+top 10 recommendations: 
+org/joda/time/Instant.getChronology
+org/joda/time/Instant.withMillis
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+after post processing ......
+org/joda/time/Instant.getChronology
+org/joda/time/Instant.withMillis
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+perfect match

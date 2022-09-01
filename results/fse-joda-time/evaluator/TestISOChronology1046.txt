@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.chrono.TestISOChronology.testEquality:148
+Methods call in assertion: [org/joda/time/chrono/ISOChronology.getInstanceUTC]
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+top 10 recommendations: 
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+after post processing ......
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.math.NumberUtilsTest.testMaximumByte:1066
+Methods call in assertion: [org/apache/commons/lang3/math/NumberUtils.max]
+org/apache/commons/lang3/math/NumberUtils.max
+top 10 recommendations: 
+org/apache/commons/lang3/math/NumberUtils.max
+after post processing ......
+org/apache/commons/lang3/math/NumberUtils.max
+perfect match

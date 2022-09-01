@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ObjectUtilsTest.testCloneOfNotCloneable:489
+Methods call in assertion: [org/apache/commons/lang3/ObjectUtils.clone]
+org/apache/commons/lang3/ObjectUtils.clone
+top 10 recommendations: 
+org/apache/commons/lang3/ObjectUtils.clone
+after post processing ......
+org/apache/commons/lang3/ObjectUtils.clone
+perfect match

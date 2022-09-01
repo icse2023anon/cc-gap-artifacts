@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testToString_String_Locale:1159
+Methods call in assertion: [org/joda/time/LocalDateTime.toString]
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/LocalDateTime.toString
+top 10 recommendations: 
+org/joda/time/LocalDateTime.toString
+org/joda/time/format/DateTimeFormatter.print
+after post processing ......
+org/joda/time/LocalDateTime.toString
+org/joda/time/format/DateTimeFormatter.print
+perfect match

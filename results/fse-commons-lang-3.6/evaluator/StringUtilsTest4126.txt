@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testGetCommonPrefix_StringArray:2993
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.getCommonPrefix]
+org/apache/commons/lang3/StringUtils.getCommonPrefix
+org/apache/commons/lang3/StringUtils.indexOfDifference
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.getCommonPrefix
+org/apache/commons/lang3/StringUtils.indexOfDifference
+after post processing ......
+org/apache/commons/lang3/StringUtils.getCommonPrefix
+org/apache/commons/lang3/StringUtils.indexOfDifference
+perfect match

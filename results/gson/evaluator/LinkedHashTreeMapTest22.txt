@@ -1,0 +1,14 @@
+slicing criterion: com.google.gson.internal.LinkedHashTreeMapTest.testForceDoublingAndRehash:115
+Methods call in assertion: [com/google/gson/internal/LinkedHashTreeMap.containsKey]
+com/google/gson/internal/LinkedHashTreeMap.find
+com/google/gson/internal/LinkedHashTreeMap.doubleCapacity
+com/google/gson/internal/LinkedHashTreeMap.containsKey
+top 10 recommendations: 
+com/google/gson/internal/LinkedHashTreeMap.find
+com/google/gson/internal/LinkedHashTreeMap.doubleCapacity
+com/google/gson/internal/LinkedHashTreeMap.containsKey
+after post processing ......
+com/google/gson/internal/LinkedHashTreeMap.find
+com/google/gson/internal/LinkedHashTreeMap.doubleCapacity
+com/google/gson/internal/LinkedHashTreeMap.containsKey
+found in top 10

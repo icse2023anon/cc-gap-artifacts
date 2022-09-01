@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsEmptyBlankTest.testIsAllBlank:152
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.isAllBlank]
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isNotBlank
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/StringUtils.isAllBlank
+org/apache/commons/lang3/StringUtils.isBlank
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.isAllBlank
+org/apache/commons/lang3/StringUtils.isNotBlank
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isBlank
+after post processing ......
+org/apache/commons/lang3/StringUtils.isAllBlank
+org/apache/commons/lang3/StringUtils.isNotBlank
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isBlank
+perfect match

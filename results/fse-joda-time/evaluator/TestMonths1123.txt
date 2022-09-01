@@ -1,0 +1,49 @@
+slicing criterion: org.joda.time.TestMonths.testFactory_monthsBetween_RPartial_LocalDate_EndMonth:171
+Methods call in assertion: [org/joda/time/Months.getMonths, org/joda/time/Months.monthsBetween]
+org/joda/time/Months.months
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.getChronology
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/chrono/AssembledChronology.months
+org/joda/time/base/BasePartial.<init>
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonthDay.addToCopy
+org/joda/time/Months.getMonths
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/Months.monthsBetween
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/Months.monthsBetween
+org/joda/time/LocalDate.<init>
+org/joda/time/base/BasePartial.<init>
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/Months.months
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/chrono/ISOChronology.withUTC
+after post processing ......
+org/joda/time/Months.monthsBetween
+org/joda/time/LocalDate.<init>
+org/joda/time/base/BasePartial.<init>
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/Months.months
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDate.getChronology
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/chrono/AssembledChronology.months
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonthDay.addToCopy
+org/joda/time/Months.getMonths
+all method calls are suggested

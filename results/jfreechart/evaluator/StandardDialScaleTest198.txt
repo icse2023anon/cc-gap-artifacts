@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.dial.StandardDialScaleTest.testEquals:73
+Methods call in assertion: [org/jfree/chart/plot/dial/StandardDialScale.equals]
+org/jfree/chart/plot/dial/StandardDialScale.equals
+top 10 recommendations: 
+org/jfree/chart/plot/dial/StandardDialScale.equals
+after post processing ......
+org/jfree/chart/plot/dial/StandardDialScale.equals
+perfect match

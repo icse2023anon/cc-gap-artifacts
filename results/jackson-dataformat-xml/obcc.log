@@ -1,0 +1,32 @@
+Aug 31, 2022 10:08:15 PM omc_ob.OMCob main
+INFO: total slices = total criteria = total assertions = 530
+Aug 31, 2022 10:08:33 PM omc_ob.OMCob printOMC_ob
+INFO: Total condition covered: 495
+Aug 31, 2022 10:08:33 PM omc_ob.OMCob printOMC_ob
+WARNING: com.fasterxml.jackson.dataformat.xml.MediaItem$Content class not found in the jacoco report report
+Aug 31, 2022 10:08:33 PM omc_ob.OMCob printOMC_ob
+WARNING: com.fasterxml.jackson.dataformat.xml.XmlTestBase class not found in the jacoco report report
+Aug 31, 2022 10:08:33 PM omc_ob.OMCob printOMC_ob
+WARNING: com.fasterxml.jackson.dataformat.xml.MediaItem class not found in the jacoco report report
+Aug 31, 2022 10:08:33 PM omc_ob.OMCob printOMC_ob
+WARNING: com.fasterxml.jackson.dataformat.xml.lists.ListSerializationTest$StringListBean class not found in the jacoco report report
+Aug 31, 2022 10:08:33 PM omc_ob.OMCob printOMC_ob
+WARNING: com.fasterxml.jackson.dataformat.xml.lists.ListSerializationTest$ListBean class not found in the jacoco report report
+Aug 31, 2022 10:08:33 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per class coverage for object branch!
+Aug 31, 2022 10:08:33 PM omc_ob.OMCob printOMC_ob
+WARNING: com.fasterxml.jackson.dataformat.xml.lists.ListSerializationTest$ListBean.<init> not found in the jacoco report
+Aug 31, 2022 10:08:33 PM omc_ob.OMCob printOMC_ob
+WARNING: com.fasterxml.jackson.dataformat.xml.XmlTestBase.readAll not found in the jacoco report
+Aug 31, 2022 10:08:33 PM omc_ob.OMCob printOMC_ob
+WARNING: com.fasterxml.jackson.dataformat.xml.lists.ListSerializationTest$StringListBean.<init> not found in the jacoco report
+Aug 31, 2022 10:08:33 PM omc_ob.OMCob printOMC_ob
+WARNING: com.fasterxml.jackson.dataformat.xml.MediaItem$Content.addPerson not found in the jacoco report
+Aug 31, 2022 10:08:33 PM omc_ob.OMCob printOMC_ob
+WARNING: com.fasterxml.jackson.dataformat.xml.MediaItem.addPhoto not found in the jacoco report
+Aug 31, 2022 10:08:33 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per method coverage for object branch!
+Aug 31, 2022 10:08:33 PM omc_ob.OMCob main
+INFO: OBC :60.39441248972884
+Aug 31, 2022 10:08:33 PM omc_ob.OMCob main
+INFO: OMC_OBC :40.673788003286774

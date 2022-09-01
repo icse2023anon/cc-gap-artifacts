@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.validator.routines.CalendarValidatorTest.testCompare:153
+Methods call in assertion: [org/apache/commons/validator/routines/CalendarValidator.compareQuarters]
+org/apache/commons/validator/routines/CalendarValidator.compareQuarters
+top 10 recommendations: 
+org/apache/commons/validator/routines/CalendarValidator.compareQuarters
+after post processing ......
+org/apache/commons/validator/routines/CalendarValidator.compareQuarters
+perfect match

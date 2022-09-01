@@ -1,0 +1,17 @@
+slicing criterion: com.fasterxml.jackson.dataformat.xml.stream.XmlParserTest.testForceElementAsArray:185
+Methods call in assertion: [com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getParsingContext, com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.inRoot]
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createRootContext
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getParsingContext
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.toString
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+top 10 recommendations: 
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createRootContext
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getParsingContext
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.toString
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+after post processing ......
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createRootContext
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getParsingContext
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.toString
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+not matched

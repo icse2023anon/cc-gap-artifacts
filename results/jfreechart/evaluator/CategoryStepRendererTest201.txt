@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.category.CategoryStepRendererTest.testEquals:75
+Methods call in assertion: [org/jfree/chart/renderer/category/CategoryStepRenderer.equals]
+org/jfree/chart/renderer/category/CategoryStepRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/category/CategoryStepRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/category/CategoryStepRenderer.equals
+perfect match

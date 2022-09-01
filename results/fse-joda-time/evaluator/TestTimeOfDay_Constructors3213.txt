@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Constructors.testFactory_FromDateFields_before1970:177
+Methods call in assertion: [org/joda/time/TimeOfDay.fromDateFields]
+org/joda/time/TimeOfDay.fromDateFields
+top 10 recommendations: 
+org/joda/time/TimeOfDay.fromDateFields
+after post processing ......
+org/joda/time/TimeOfDay.fromDateFields
+perfect match

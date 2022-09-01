@@ -1,0 +1,65 @@
+slicing criterion: org.joda.time.TestLocalTime_Properties.testPropertyCompareToHour:289
+Methods call in assertion: [org/joda/time/LocalTime.hourOfDay, org/joda/time/LocalTime$Property.compareTo]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/LocalTime.get
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/field/AbstractReadableInstantFieldProperty.getFieldType
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/field/AbstractReadableInstantFieldProperty.compareTo
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/LocalTime.<init>
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/LocalTime.get
+org/joda/time/field/AbstractReadableInstantFieldProperty.compareTo
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/chrono/ISOChronology.withUTC
+after post processing ......
+org/joda/time/LocalTime.<init>
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/LocalTime.get
+org/joda/time/field/AbstractReadableInstantFieldProperty.compareTo
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/field/AbstractReadableInstantFieldProperty.getFieldType
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/tz/CachedDateTimeZone.hashCode
+not matched

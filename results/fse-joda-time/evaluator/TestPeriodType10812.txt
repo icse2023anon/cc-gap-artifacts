@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestPeriodType.testYears:373
+Methods call in assertion: [org/joda/time/PeriodType.hashCode]
+org/joda/time/PeriodType.years
+org/joda/time/DurationFieldType.years
+org/joda/time/PeriodType.hashCode
+top 10 recommendations: 
+org/joda/time/PeriodType.years
+org/joda/time/DurationFieldType.years
+org/joda/time/PeriodType.hashCode
+after post processing ......
+org/joda/time/PeriodType.years
+org/joda/time/DurationFieldType.years
+org/joda/time/PeriodType.hashCode
+found in top 10

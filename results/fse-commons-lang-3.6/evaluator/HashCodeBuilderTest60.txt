@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.builder.HashCodeBuilderTest.testToHashCodeEqualsHashCode:604
+Methods call in assertion: [org/apache/commons/lang3/builder/HashCodeBuilder.hashCode, org/apache/commons/lang3/builder/HashCodeBuilder.toHashCode]
+org/apache/commons/lang3/builder/HashCodeBuilder.hashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.toHashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.append
+top 10 recommendations: 
+org/apache/commons/lang3/builder/HashCodeBuilder.hashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.toHashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.append
+after post processing ......
+org/apache/commons/lang3/builder/HashCodeBuilder.hashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.toHashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.append
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.labels.SymbolicXYItemLabelGeneratorTest.testCloning:91
+Methods call in assertion: [org/jfree/chart/labels/SymbolicXYItemLabelGenerator.equals]
+org/jfree/chart/labels/SymbolicXYItemLabelGenerator.clone
+org/jfree/chart/labels/SymbolicXYItemLabelGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/labels/SymbolicXYItemLabelGenerator.clone
+org/jfree/chart/labels/SymbolicXYItemLabelGenerator.equals
+after post processing ......
+org/jfree/chart/labels/SymbolicXYItemLabelGenerator.clone
+org/jfree/chart/labels/SymbolicXYItemLabelGenerator.equals
+found in top 10

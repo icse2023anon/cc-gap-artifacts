@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.entity.LegendItemEntityTest.testEquals:94
+Methods call in assertion: [org/jfree/chart/entity/LegendItemEntity.equals]
+org/jfree/data/category/DefaultCategoryDataset.getColumnKeys
+org/jfree/chart/entity/LegendItemEntity.equals
+org/jfree/data/category/DefaultCategoryDataset.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/category/DefaultCategoryDataset.getRowKeys
+top 10 recommendations: 
+org/jfree/data/category/DefaultCategoryDataset.equals
+org/jfree/chart/entity/LegendItemEntity.equals
+org/jfree/data/category/DefaultCategoryDataset.getColumnKeys
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/category/DefaultCategoryDataset.getRowKeys
+after post processing ......
+org/jfree/data/category/DefaultCategoryDataset.equals
+org/jfree/chart/entity/LegendItemEntity.equals
+org/jfree/data/category/DefaultCategoryDataset.getColumnKeys
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/data/category/DefaultCategoryDataset.getRowKeys
+found in top 10

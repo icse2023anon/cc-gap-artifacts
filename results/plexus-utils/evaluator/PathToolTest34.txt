@@ -1,0 +1,11 @@
+slicing criterion: org.codehaus.plexus.util.PathToolTest.testGetRelativePath:35
+Methods call in assertion: [org/codehaus/plexus/util/PathTool.getRelativePath]
+org/codehaus/plexus/util/PathTool.uppercaseDrive
+org/codehaus/plexus/util/PathTool.getRelativePath
+top 10 recommendations: 
+org/codehaus/plexus/util/PathTool.getRelativePath
+org/codehaus/plexus/util/PathTool.uppercaseDrive
+after post processing ......
+org/codehaus/plexus/util/PathTool.getRelativePath
+org/codehaus/plexus/util/PathTool.uppercaseDrive
+perfect match

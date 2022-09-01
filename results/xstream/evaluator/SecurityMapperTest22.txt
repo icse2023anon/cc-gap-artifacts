@@ -1,0 +1,14 @@
+slicing criterion: com.thoughtworks.xstream.mapper.SecurityMapperTest.testNullType:87
+Methods call in assertion: [com/thoughtworks/xstream/mapper/SecurityMapper.realClass]
+com/thoughtworks/xstream/mapper/SecurityMapper.addPermission
+com/thoughtworks/xstream/mapper/SecurityMapper.realClass
+com/thoughtworks/xstream/security/NullPermission.allows
+top 10 recommendations: 
+com/thoughtworks/xstream/mapper/SecurityMapper.addPermission
+com/thoughtworks/xstream/mapper/SecurityMapper.realClass
+com/thoughtworks/xstream/security/NullPermission.allows
+after post processing ......
+com/thoughtworks/xstream/mapper/SecurityMapper.addPermission
+com/thoughtworks/xstream/mapper/SecurityMapper.realClass
+com/thoughtworks/xstream/security/NullPermission.allows
+found in top 10

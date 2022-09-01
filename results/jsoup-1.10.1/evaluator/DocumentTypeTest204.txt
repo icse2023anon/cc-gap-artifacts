@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.nodes.DocumentTypeTest.outerHtmlGeneration:36
+Methods call in assertion: [org/jsoup/nodes/DocumentType.outerHtml]
+org/jsoup/nodes/Node.outerHtml
+top 10 recommendations: 
+org/jsoup/nodes/Node.outerHtml
+after post processing ......
+org/jsoup/nodes/Node.outerHtml
+perfect match

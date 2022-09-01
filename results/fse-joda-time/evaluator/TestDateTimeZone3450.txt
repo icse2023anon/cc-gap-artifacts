@@ -1,0 +1,37 @@
+slicing criterion: org.joda.time.TestDateTimeZone.testToronto:1374
+Methods call in assertion: [org/joda/time/DateTime.getMillis, org/joda/time/DateTimeZone.getOffset]
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/DateTimeZone.forID
+org/joda/time/DateTimeZone.setProvider
+org/joda/time/tz/CachedDateTimeZone.forZone
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/tz/CachedDateTimeZone.nextTransition
+top 10 recommendations: 
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/DateTimeZone.setProvider
+org/joda/time/tz/CachedDateTimeZone.forZone
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/base/BaseDateTime.getMillis
+after post processing ......
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/DateTimeZone.setProvider
+org/joda/time/tz/CachedDateTimeZone.forZone
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/tz/CachedDateTimeZone.nextTransition
+not matched

@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDateTime_Properties.testPropertyAddYear:326
+Methods call in assertion: [org/joda/time/DateTime.toString]
+org/joda/time/base/AbstractDateTime.toString
+top 10 recommendations: 
+org/joda/time/base/AbstractDateTime.toString
+after post processing ......
+org/joda/time/base/AbstractDateTime.toString
+not matched

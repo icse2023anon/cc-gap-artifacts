@@ -1,0 +1,41 @@
+slicing criterion: org.joda.time.TestLocalTime_Constructors.testFactoryMillisOfDay_long_nullChronology:245
+Methods call in assertion: [org/joda/time/LocalTime.getMillisOfSecond]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/LocalTime.getMillisOfSecond
+org/joda/time/LocalTime.fromMillisOfDay
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/LocalTime.fromMillisOfDay
+org/joda/time/LocalTime.getMillisOfSecond
+org/joda/time/LocalTime.<init>
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/field/PreciseDateTimeField.get
+after post processing ......
+org/joda/time/LocalTime.fromMillisOfDay
+org/joda/time/LocalTime.getMillisOfSecond
+org/joda/time/LocalTime.<init>
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/LocalTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

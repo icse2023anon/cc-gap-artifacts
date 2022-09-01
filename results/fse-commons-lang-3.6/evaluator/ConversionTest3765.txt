@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testShortArrayToInt:656
+Methods call in assertion: [org/apache/commons/lang3/Conversion.shortArrayToInt]
+org/apache/commons/lang3/Conversion.shortArrayToInt
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.shortArrayToInt
+after post processing ......
+org/apache/commons/lang3/Conversion.shortArrayToInt
+perfect match

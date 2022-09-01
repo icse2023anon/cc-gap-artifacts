@@ -1,0 +1,32 @@
+slicing criterion: com.fasterxml.jackson.dataformat.xml.stream.XmlParserNextXxxTest.testXmlAttributesWithNextTextValue:41
+Methods call in assertion: [com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextTextValue]
+com/fasterxml/jackson/dataformat/xml/XmlFactory.<init>
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextTextValue
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._next
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getText
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.next
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initFactories
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initializeXmlReader
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextToken
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+top 10 recommendations: 
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextTextValue
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextToken
+com/fasterxml/jackson/dataformat/xml/XmlFactory.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.next
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._next
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getText
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initFactories
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initializeXmlReader
+after post processing ......
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextTextValue
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextToken
+com/fasterxml/jackson/dataformat/xml/XmlFactory.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.next
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._next
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getText
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initFactories
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initializeXmlReader
+perfect match

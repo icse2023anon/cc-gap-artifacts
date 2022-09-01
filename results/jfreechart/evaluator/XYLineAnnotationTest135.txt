@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.annotations.XYLineAnnotationTest.testCloning:140
+Methods call in assertion: [org/jfree/chart/annotations/XYLineAnnotation.equals]
+org/jfree/chart/annotations/XYLineAnnotation.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/annotations/AbstractAnnotation.hasListener
+top 10 recommendations: 
+org/jfree/chart/annotations/XYLineAnnotation.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/annotations/AbstractAnnotation.hasListener
+after post processing ......
+org/jfree/chart/annotations/XYLineAnnotation.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/annotations/AbstractAnnotation.hasListener
+perfect match

@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.renderer.category.BarRendererTest.testEquals:173
+Methods call in assertion: [org/jfree/chart/renderer/category/BarRenderer.equals]
+org/jfree/chart/renderer/category/BarRenderer.isDrawBarOutline
+org/jfree/chart/renderer/category/BarRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/ItemLabelPosition.equals
+org/jfree/chart/ui/StandardGradientPaintTransformer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/category/BarRenderer.equals
+org/jfree/chart/renderer/category/BarRenderer.isDrawBarOutline
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/ItemLabelPosition.equals
+org/jfree/chart/ui/StandardGradientPaintTransformer.equals
+after post processing ......
+org/jfree/chart/renderer/category/BarRenderer.equals
+org/jfree/chart/renderer/category/BarRenderer.isDrawBarOutline
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/ItemLabelPosition.equals
+org/jfree/chart/ui/StandardGradientPaintTransformer.equals
+perfect match

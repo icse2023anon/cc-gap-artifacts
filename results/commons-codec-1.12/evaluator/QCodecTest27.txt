@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.net.QCodecTest.testEncodeDecodeNull:113
+Methods call in assertion: [org/apache/commons/codec/net/QCodec.decode]
+org/apache/commons/codec/net/QCodec.decode
+top 10 recommendations: 
+org/apache/commons/codec/net/QCodec.decode
+after post processing ......
+org/apache/commons/codec/net/QCodec.decode
+perfect match

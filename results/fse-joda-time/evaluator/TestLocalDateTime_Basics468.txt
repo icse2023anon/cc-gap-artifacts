@@ -1,0 +1,45 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testGet_DateTimeFieldType:196
+Methods call in assertion: [org/joda/time/DateTimeFieldType.dayOfYear, org/joda/time/LocalDateTime.get]
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/chrono/BasicChronology.getDayOfYear
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/LocalDateTime.get
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/BasicChronology.getYearMillis
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/chrono/BasicDayOfYearDateTimeField.get
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/LocalDateTime.<init>
+org/joda/time/chrono/AssembledChronology.dayOfYear
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/chrono/BasicDayOfYearDateTimeField.get
+org/joda/time/chrono/BasicChronology.getDayOfYear
+org/joda/time/LocalDateTime.get
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/LocalDateTime.<init>
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/BasicChronology.getYearMillis
+org/joda/time/DateTimeFieldType.dayOfYear
+after post processing ......
+org/joda/time/chrono/BasicDayOfYearDateTimeField.get
+org/joda/time/chrono/BasicChronology.getDayOfYear
+org/joda/time/LocalDateTime.get
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/LocalDateTime.<init>
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/BasicChronology.getYearMillis
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/AssembledChronology.dayOfYear
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

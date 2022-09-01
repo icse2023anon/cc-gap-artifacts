@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testWithHeaderComments:711
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getTrim]
+org/apache/commons/csv/CSVFormat.getTrim
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.getTrim
+after post processing ......
+org/apache/commons/csv/CSVFormat.getTrim
+perfect match

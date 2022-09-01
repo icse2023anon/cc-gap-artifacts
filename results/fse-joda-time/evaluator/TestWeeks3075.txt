@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestWeeks.testPlus_Weeks:330
+Methods call in assertion: [org/joda/time/Weeks.plus, org/joda/time/Weeks.getWeeks]
+org/joda/time/Weeks.plus
+org/joda/time/Weeks.getWeeks
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+top 10 recommendations: 
+org/joda/time/Weeks.plus
+org/joda/time/Weeks.getWeeks
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+after post processing ......
+org/joda/time/Weeks.plus
+org/joda/time/Weeks.getWeeks
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+found in top 10

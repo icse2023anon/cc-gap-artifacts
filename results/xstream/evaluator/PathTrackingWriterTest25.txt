@@ -1,0 +1,37 @@
+slicing criterion: com.thoughtworks.xstream.io.path.PathTrackingWriterTest.testEncodesPathInTracker:70
+Methods call in assertion: [com/thoughtworks/xstream/io/path/PathTracker.peekElement]
+com/thoughtworks/xstream/io/AbstractWriter.encodeNode
+com/thoughtworks/xstream/io/WriterWrapper.underlyingWriter
+com/thoughtworks/xstream/core/util/Cloneables.clone
+com/thoughtworks/xstream/io/path/PathTracker.<init>
+com/thoughtworks/xstream/io/AbstractWriter.underlyingWriter
+com/thoughtworks/xstream/io/path/PathTrackingWriter.<init>
+com/thoughtworks/xstream/io/path/PathTracker.pushElement
+com/thoughtworks/xstream/io/path/PathTracker.peekElement
+com/thoughtworks/xstream/core/util/Cloneables.cloneIfPossible
+com/thoughtworks/xstream/io/xml/PrettyPrintWriter.<init>
+com/thoughtworks/xstream/io/xml/CompactWriter.<init>
+top 10 recommendations: 
+com/thoughtworks/xstream/core/util/Cloneables.cloneIfPossible
+com/thoughtworks/xstream/io/xml/CompactWriter.<init>
+com/thoughtworks/xstream/io/AbstractWriter.encodeNode
+com/thoughtworks/xstream/io/WriterWrapper.underlyingWriter
+com/thoughtworks/xstream/core/util/Cloneables.clone
+com/thoughtworks/xstream/io/path/PathTracker.<init>
+com/thoughtworks/xstream/io/AbstractWriter.underlyingWriter
+com/thoughtworks/xstream/io/path/PathTrackingWriter.<init>
+com/thoughtworks/xstream/io/path/PathTracker.pushElement
+com/thoughtworks/xstream/io/path/PathTracker.peekElement
+after post processing ......
+com/thoughtworks/xstream/core/util/Cloneables.cloneIfPossible
+com/thoughtworks/xstream/io/xml/CompactWriter.<init>
+com/thoughtworks/xstream/io/AbstractWriter.encodeNode
+com/thoughtworks/xstream/io/WriterWrapper.underlyingWriter
+com/thoughtworks/xstream/core/util/Cloneables.clone
+com/thoughtworks/xstream/io/path/PathTracker.<init>
+com/thoughtworks/xstream/io/AbstractWriter.underlyingWriter
+com/thoughtworks/xstream/io/path/PathTrackingWriter.<init>
+com/thoughtworks/xstream/io/path/PathTracker.pushElement
+com/thoughtworks/xstream/io/path/PathTracker.peekElement
+com/thoughtworks/xstream/io/xml/PrettyPrintWriter.<init>
+found in top 10

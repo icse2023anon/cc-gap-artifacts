@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.text.WordUtilsTest.testInitials_String_charArray:357
+Methods call in assertion: [org/apache/commons/lang3/text/WordUtils.initials]
+org/apache/commons/lang3/text/WordUtils.initials
+org/apache/commons/lang3/StringUtils.isEmpty
+top 10 recommendations: 
+org/apache/commons/lang3/text/WordUtils.initials
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/text/WordUtils.initials
+org/apache/commons/lang3/StringUtils.isEmpty
+perfect match

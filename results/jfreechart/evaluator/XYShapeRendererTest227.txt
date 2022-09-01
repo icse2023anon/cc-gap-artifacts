@@ -1,0 +1,32 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYShapeRendererTest.testFindZBounds:149
+Methods call in assertion: [org/jfree/data/Range.getUpperBound]
+org/jfree/data/xy/DefaultXYZDataset.getSeriesCount
+org/jfree/data/xy/DefaultXYZDataset.getZValue
+org/jfree/data/xy/DefaultXYZDataset.indexOf
+org/jfree/data/Range.getUpperBound
+org/jfree/data/xy/DefaultXYZDataset.addSeries
+org/jfree/data/general/DatasetUtils.iterateZBounds
+org/jfree/data/xy/DefaultXYZDataset.getItemCount
+org/jfree/data/general/DatasetUtils.findZBounds
+org/jfree/chart/renderer/xy/XYShapeRenderer.findZBounds
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/XYShapeRenderer.findZBounds
+org/jfree/data/xy/DefaultXYZDataset.addSeries
+org/jfree/data/xy/DefaultXYZDataset.getItemCount
+org/jfree/data/general/DatasetUtils.findZBounds
+org/jfree/data/xy/DefaultXYZDataset.getSeriesCount
+org/jfree/data/xy/DefaultXYZDataset.getZValue
+org/jfree/data/xy/DefaultXYZDataset.indexOf
+org/jfree/data/Range.getUpperBound
+org/jfree/data/general/DatasetUtils.iterateZBounds
+after post processing ......
+org/jfree/chart/renderer/xy/XYShapeRenderer.findZBounds
+org/jfree/data/xy/DefaultXYZDataset.addSeries
+org/jfree/data/xy/DefaultXYZDataset.getItemCount
+org/jfree/data/general/DatasetUtils.findZBounds
+org/jfree/data/xy/DefaultXYZDataset.getSeriesCount
+org/jfree/data/xy/DefaultXYZDataset.getZValue
+org/jfree/data/xy/DefaultXYZDataset.indexOf
+org/jfree/data/Range.getUpperBound
+org/jfree/data/general/DatasetUtils.iterateZBounds
+found in top 10

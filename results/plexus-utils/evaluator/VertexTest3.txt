@@ -1,0 +1,8 @@
+slicing criterion: org.codehaus.plexus.util.dag.VertexTest.testVertex:33
+Methods call in assertion: [org/codehaus/plexus/util/dag/Vertex.getLabel]
+org/codehaus/plexus/util/dag/Vertex.getLabel
+top 10 recommendations: 
+org/codehaus/plexus/util/dag/Vertex.getLabel
+after post processing ......
+org/codehaus/plexus/util/dag/Vertex.getLabel
+perfect match

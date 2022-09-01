@@ -1,0 +1,65 @@
+slicing criterion: org.jsoup.parser.HtmlParserTest.createsDocumentStructure:134
+Methods call in assertion: [org/jsoup/nodes/Element.text]
+org/jsoup/nodes/Node.childNodesAsArray
+org/jsoup/nodes/Document.body
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/parser/HtmlTreeBuilder.insertStartTag
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/HtmlTreeBuilder.insert
+org/jsoup/nodes/Document.<init>
+org/jsoup/parser/Token.isEndTag
+org/jsoup/parser/TreeBuilder.initialiseParse
+org/jsoup/parser/CharacterReader.current
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/CharacterReader.consume
+org/jsoup/nodes/Element.appendChild
+org/jsoup/parser/Token.isDoctype
+org/jsoup/nodes/Attributes.equals
+org/jsoup/parser/Tokeniser.read
+org/jsoup/Jsoup.parse
+org/jsoup/parser/Token.isComment
+org/jsoup/parser/CharacterReader.consumeToAnySorted
+org/jsoup/parser/Token.isCharacter
+org/jsoup/parser/Token.isStartTag
+org/jsoup/parser/CharacterReader.consumeTagName
+org/jsoup/nodes/Document.nodeName
+org/jsoup/parser/Token.asStartTag
+top 10 recommendations: 
+org/jsoup/parser/HtmlTreeBuilder.insertStartTag
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/HtmlTreeBuilder.insert
+org/jsoup/parser/TreeBuilder.initialiseParse
+org/jsoup/nodes/Node.childNodesAsArray
+org/jsoup/nodes/Document.body
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/nodes/Document.<init>
+org/jsoup/parser/Token.isEndTag
+after post processing ......
+org/jsoup/parser/HtmlTreeBuilder.insertStartTag
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/HtmlTreeBuilder.insert
+org/jsoup/parser/TreeBuilder.initialiseParse
+org/jsoup/nodes/Node.childNodesAsArray
+org/jsoup/nodes/Document.body
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/nodes/Document.<init>
+org/jsoup/parser/Token.isEndTag
+org/jsoup/parser/CharacterReader.current
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/CharacterReader.consume
+org/jsoup/nodes/Element.appendChild
+org/jsoup/parser/Token.isDoctype
+org/jsoup/nodes/Attributes.equals
+org/jsoup/parser/Tokeniser.read
+org/jsoup/Jsoup.parse
+org/jsoup/parser/Token.isComment
+org/jsoup/parser/CharacterReader.consumeToAnySorted
+org/jsoup/parser/Token.isCharacter
+org/jsoup/parser/Token.isStartTag
+org/jsoup/parser/CharacterReader.consumeTagName
+org/jsoup/nodes/Document.nodeName
+org/jsoup/parser/Token.asStartTag
+not matched

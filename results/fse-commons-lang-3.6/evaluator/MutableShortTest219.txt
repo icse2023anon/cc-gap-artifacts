@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableShortTest.testHashCode:124
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableShort.hashCode]
+org/apache/commons/lang3/mutable/MutableShort.hashCode
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableShort.hashCode
+after post processing ......
+org/apache/commons/lang3/mutable/MutableShort.hashCode
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestInterval_Basics.testContains_RInterval:610
+Methods call in assertion: [org/joda/time/Interval.contains]
+org/joda/time/base/AbstractInterval.contains
+org/joda/time/base/BaseInterval.getStartMillis
+top 10 recommendations: 
+org/joda/time/base/AbstractInterval.contains
+org/joda/time/base/BaseInterval.getStartMillis
+after post processing ......
+org/joda/time/base/AbstractInterval.contains
+org/joda/time/base/BaseInterval.getStartMillis
+found in top 10

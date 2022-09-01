@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatterBuilder.test_toPrinter:146
+Methods call in assertion: [org/joda/time/format/DateTimeFormatterBuilder.toPrinter]
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/InternalPrinterDateTimePrinter.of
+org/joda/time/format/DateTimeFormatterBuilder.toPrinter
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatterBuilder.toPrinter
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/InternalPrinterDateTimePrinter.of
+after post processing ......
+org/joda/time/format/DateTimeFormatterBuilder.toPrinter
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/InternalPrinterDateTimePrinter.of
+perfect match

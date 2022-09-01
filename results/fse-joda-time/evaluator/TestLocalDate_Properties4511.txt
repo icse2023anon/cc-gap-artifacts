@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestLocalDate_Properties.testPropertyGetYear:126
+Methods call in assertion: [org/joda/time/LocalDate.year, org/joda/time/Chronology.years, org/joda/time/LocalDate$Property.getDurationField, org/joda/time/LocalDate.getChronology]
+org/joda/time/field/AbstractReadableInstantFieldProperty.getDurationField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.getChronology
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/chrono/AssembledChronology.years
+top 10 recommendations: 
+org/joda/time/field/AbstractReadableInstantFieldProperty.getDurationField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.getChronology
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/chrono/AssembledChronology.years
+after post processing ......
+org/joda/time/field/AbstractReadableInstantFieldProperty.getDurationField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.getChronology
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/chrono/AssembledChronology.years
+not matched

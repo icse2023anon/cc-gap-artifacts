@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.ChartRenderingInfoTest.testCloning:104
+Methods call in assertion: [org/jfree/chart/ChartRenderingInfo.equals]
+org/jfree/chart/ChartRenderingInfo.equals
+org/jfree/chart/ChartRenderingInfo.clone
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/ChartRenderingInfo.getChartArea
+top 10 recommendations: 
+org/jfree/chart/ChartRenderingInfo.equals
+org/jfree/chart/ChartRenderingInfo.clone
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/ChartRenderingInfo.getChartArea
+after post processing ......
+org/jfree/chart/ChartRenderingInfo.equals
+org/jfree/chart/ChartRenderingInfo.clone
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/ChartRenderingInfo.getChartArea
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testStartsWith:1269
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.startsWith]
+org/apache/commons/lang3/text/StrBuilder.startsWith
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.startsWith
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.startsWith
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.plot.SpiderWebPlotTest.testEquals:108
+Methods call in assertion: [org/jfree/chart/plot/SpiderWebPlot.equals]
+org/jfree/chart/plot/SpiderWebPlot.equals
+org/jfree/chart/plot/SpiderWebPlot.setInteriorGap
+top 10 recommendations: 
+org/jfree/chart/plot/SpiderWebPlot.equals
+org/jfree/chart/plot/SpiderWebPlot.setInteriorGap
+after post processing ......
+org/jfree/chart/plot/SpiderWebPlot.equals
+org/jfree/chart/plot/SpiderWebPlot.setInteriorGap
+perfect match

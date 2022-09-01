@@ -1,0 +1,26 @@
+slicing criterion: org.apache.commons.codec.net.QCodecTest.testUnsafeEncodeDecode:104
+Methods call in assertion: [org/apache/commons/codec/net/QCodec.decode]
+org/apache/commons/codec/net/RFC1522Codec.decodeText
+org/apache/commons/codec/net/QCodec.decode
+org/apache/commons/codec/net/RFC1522Codec.encodeText
+org/apache/commons/codec/binary/StringUtils.getBytesUsAscii
+org/apache/commons/codec/net/QCodec.encode
+org/apache/commons/codec/net/QCodec.doDecoding
+org/apache/commons/codec/net/QuotedPrintableCodec.decodeQuotedPrintable
+top 10 recommendations: 
+org/apache/commons/codec/net/RFC1522Codec.decodeText
+org/apache/commons/codec/net/QCodec.doDecoding
+org/apache/commons/codec/net/QCodec.decode
+org/apache/commons/codec/net/RFC1522Codec.encodeText
+org/apache/commons/codec/binary/StringUtils.getBytesUsAscii
+org/apache/commons/codec/net/QCodec.encode
+org/apache/commons/codec/net/QuotedPrintableCodec.decodeQuotedPrintable
+after post processing ......
+org/apache/commons/codec/net/RFC1522Codec.decodeText
+org/apache/commons/codec/net/QCodec.doDecoding
+org/apache/commons/codec/net/QCodec.decode
+org/apache/commons/codec/net/RFC1522Codec.encodeText
+org/apache/commons/codec/binary/StringUtils.getBytesUsAscii
+org/apache/commons/codec/net/QCodec.encode
+org/apache/commons/codec/net/QuotedPrintableCodec.decodeQuotedPrintable
+found in top 10

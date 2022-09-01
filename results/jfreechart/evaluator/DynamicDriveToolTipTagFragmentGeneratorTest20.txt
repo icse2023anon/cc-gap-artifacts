@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.imagemap.DynamicDriveToolTipTagFragmentGeneratorTest.testGenerateURLFragment:61
+Methods call in assertion: [org/jfree/chart/imagemap/OverLIBToolTipTagFragmentGenerator.generateToolTipFragment]
+org/jfree/chart/imagemap/OverLIBToolTipTagFragmentGenerator.generateToolTipFragment
+top 10 recommendations: 
+org/jfree/chart/imagemap/OverLIBToolTipTagFragmentGenerator.generateToolTipFragment
+after post processing ......
+org/jfree/chart/imagemap/OverLIBToolTipTagFragmentGenerator.generateToolTipFragment
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.field.TestMillisDurationField.test_isSupported:88
+Methods call in assertion: [org/joda/time/DurationField.isSupported]
+org/joda/time/field/MillisDurationField.isSupported
+top 10 recommendations: 
+org/joda/time/field/MillisDurationField.isSupported
+after post processing ......
+org/joda/time/field/MillisDurationField.isSupported
+perfect match

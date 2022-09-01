@@ -1,0 +1,26 @@
+slicing criterion: org.jfree.chart.renderer.category.LevelRendererTest.testGetLegendItemSeriesIndex:198
+Methods call in assertion: [org/jfree/chart/LegendItem.getLabel]
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisibleInLegend
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getPlot
+org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.generateLabel
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+org/jfree/chart/LegendItem.getLabel
+top 10 recommendations: 
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisibleInLegend
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getPlot
+org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.generateLabel
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+org/jfree/chart/LegendItem.getLabel
+after post processing ......
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisibleInLegend
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getPlot
+org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.generateLabel
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+org/jfree/chart/LegendItem.getLabel
+found in top 10

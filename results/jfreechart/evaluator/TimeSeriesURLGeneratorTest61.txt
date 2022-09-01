@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.urls.TimeSeriesURLGeneratorTest.testEquals:99
+Methods call in assertion: [org/jfree/chart/urls/TimeSeriesURLGenerator.equals]
+org/jfree/chart/urls/TimeSeriesURLGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/urls/TimeSeriesURLGenerator.equals
+after post processing ......
+org/jfree/chart/urls/TimeSeriesURLGenerator.equals
+perfect match

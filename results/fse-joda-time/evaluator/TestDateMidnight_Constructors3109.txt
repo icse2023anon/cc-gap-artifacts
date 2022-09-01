@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestDateMidnight_Constructors.test_now_DateTimeZone:185
+Methods call in assertion: [org/joda/time/DateMidnight.getChronology, org/joda/time/chrono/ISOChronology.getInstance]
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+after post processing ......
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+found in top 10

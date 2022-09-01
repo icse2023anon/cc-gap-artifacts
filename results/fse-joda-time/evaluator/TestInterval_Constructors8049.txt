@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestInterval_Constructors.testParseWithOffset_offsetInString:196
+Methods call in assertion: [org/joda/time/Interval.parseWithOffset]
+org/joda/time/Interval.parseWithOffset
+top 10 recommendations: 
+org/joda/time/Interval.parseWithOffset
+after post processing ......
+org/joda/time/Interval.parseWithOffset
+perfect match

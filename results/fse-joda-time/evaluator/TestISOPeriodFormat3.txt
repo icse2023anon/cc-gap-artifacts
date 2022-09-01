@@ -1,0 +1,43 @@
+slicing criterion: org.joda.time.format.TestISOPeriodFormat.testFormatAlternateWithWeeks:190
+Methods call in assertion: [org/joda/time/format/ISOPeriodFormat.alternateWithWeeks, org/joda/time/format/PeriodFormatter.print]
+org/joda/time/format/PeriodFormatterBuilder.appendYears
+org/joda/time/format/PeriodFormatterBuilder.getFieldValue
+org/joda/time/format/PeriodFormatterBuilder.appendMinutes
+org/joda/time/format/ISOPeriodFormat.alternateWithWeeks
+org/joda/time/format/PeriodFormatterBuilder.minimumPrintedDigits
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/format/PeriodFormatterBuilder.appendDays
+org/joda/time/format/PeriodFormatterBuilder.appendSeparatorIfFieldsAfter
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+org/joda/time/format/PeriodFormatterBuilder.printZeroAlways
+org/joda/time/format/PeriodFormatterBuilder.appendLiteral
+org/joda/time/format/PeriodFormatterBuilder.appendSecondsWithOptionalMillis
+org/joda/time/format/PeriodFormatterBuilder.appendWeeks
+org/joda/time/format/PeriodFormatterBuilder.appendHours
+top 10 recommendations: 
+org/joda/time/format/ISOPeriodFormat.alternateWithWeeks
+org/joda/time/format/PeriodFormatterBuilder.appendYears
+org/joda/time/format/PeriodFormatterBuilder.getFieldValue
+org/joda/time/format/PeriodFormatterBuilder.appendMinutes
+org/joda/time/format/PeriodFormatterBuilder.minimumPrintedDigits
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/format/PeriodFormatterBuilder.appendDays
+org/joda/time/format/PeriodFormatterBuilder.appendSeparatorIfFieldsAfter
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+org/joda/time/format/PeriodFormatterBuilder.printZeroAlways
+after post processing ......
+org/joda/time/format/ISOPeriodFormat.alternateWithWeeks
+org/joda/time/format/PeriodFormatterBuilder.appendYears
+org/joda/time/format/PeriodFormatterBuilder.getFieldValue
+org/joda/time/format/PeriodFormatterBuilder.appendMinutes
+org/joda/time/format/PeriodFormatterBuilder.minimumPrintedDigits
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/format/PeriodFormatterBuilder.appendDays
+org/joda/time/format/PeriodFormatterBuilder.appendSeparatorIfFieldsAfter
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+org/joda/time/format/PeriodFormatterBuilder.printZeroAlways
+org/joda/time/format/PeriodFormatterBuilder.appendLiteral
+org/joda/time/format/PeriodFormatterBuilder.appendSecondsWithOptionalMillis
+org/joda/time/format/PeriodFormatterBuilder.appendWeeks
+org/joda/time/format/PeriodFormatterBuilder.appendHours
+found in top 10

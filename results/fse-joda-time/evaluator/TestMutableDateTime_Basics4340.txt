@@ -1,0 +1,37 @@
+slicing criterion: org.joda.time.TestMutableDateTime_Basics.testToMutableDateTime_DateTimeZone:579
+Methods call in assertion: [org/joda/time/MutableDateTime.getChronology, org/joda/time/chrono/ISOChronology.getInstance]
+org/joda/time/base/AbstractInstant.toMutableDateTime
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/AbstractInstant.toMutableDateTime
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+after post processing ......
+org/joda/time/base/AbstractInstant.toMutableDateTime
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+not matched

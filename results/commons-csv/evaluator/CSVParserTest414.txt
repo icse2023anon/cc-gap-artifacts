@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.csv.CSVParserTest.testNoHeaderMap:809
+Methods call in assertion: [org/apache/commons/csv/CSVParser.getHeaderMap]
+org/apache/commons/csv/CSVParser.<init>
+org/apache/commons/csv/CSVParser.getHeaderMap
+org/apache/commons/csv/CSVFormat.getHeader
+top 10 recommendations: 
+org/apache/commons/csv/CSVParser.<init>
+org/apache/commons/csv/CSVParser.getHeaderMap
+org/apache/commons/csv/CSVFormat.getHeader
+after post processing ......
+org/apache/commons/csv/CSVParser.<init>
+org/apache/commons/csv/CSVParser.getHeaderMap
+org/apache/commons/csv/CSVFormat.getHeader
+found in top 10

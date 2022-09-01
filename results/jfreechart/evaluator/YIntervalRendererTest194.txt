@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.renderer.xy.YIntervalRendererTest.testCloning:178
+Methods call in assertion: [org/jfree/chart/renderer/xy/YIntervalRenderer.equals]
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getSeriesToolTipGenerator
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/renderer/xy/YIntervalRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/YIntervalRenderer.equals
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getSeriesToolTipGenerator
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/renderer/xy/YIntervalRenderer.equals
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getSeriesToolTipGenerator
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.codec.binary.StringUtilsTest.testEqualsCS2:238
+Methods call in assertion: [org/apache/commons/codec/binary/StringUtils.equals]
+org/apache/commons/codec/binary/CharSequenceUtils.regionMatches
+org/apache/commons/codec/binary/StringUtils.equals
+top 10 recommendations: 
+org/apache/commons/codec/binary/StringUtils.equals
+org/apache/commons/codec/binary/CharSequenceUtils.regionMatches
+after post processing ......
+org/apache/commons/codec/binary/StringUtils.equals
+org/apache/commons/codec/binary/CharSequenceUtils.regionMatches
+perfect match

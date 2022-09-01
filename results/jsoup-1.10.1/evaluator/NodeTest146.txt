@@ -1,0 +1,11 @@
+slicing criterion: org.jsoup.nodes.NodeTest.ownerDocument:156
+Methods call in assertion: [org/jsoup/nodes/Document.ownerDocument]
+org/jsoup/nodes/Node.ownerDocument
+org/jsoup/Jsoup.parse
+top 10 recommendations: 
+org/jsoup/nodes/Node.ownerDocument
+org/jsoup/Jsoup.parse
+after post processing ......
+org/jsoup/nodes/Node.ownerDocument
+org/jsoup/Jsoup.parse
+found in top 10

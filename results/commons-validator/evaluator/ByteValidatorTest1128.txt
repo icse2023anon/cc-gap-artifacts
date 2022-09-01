@@ -1,0 +1,32 @@
+slicing criterion: org.apache.commons.validator.routines.ByteValidatorTest.testByteValidatorMethods:106
+Methods call in assertion: [org/apache/commons/validator/routines/ByteValidator.getInstance, org/apache/commons/validator/routines/ByteValidator.isValid]
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/AbstractNumberValidator.isValid
+org/apache/commons/validator/routines/ByteValidator.validate
+org/apache/commons/validator/routines/AbstractNumberValidator.isAllowFractions
+org/apache/commons/validator/routines/AbstractNumberValidator.determineScale
+org/apache/commons/validator/routines/ByteValidator.getInstance
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+top 10 recommendations: 
+org/apache/commons/validator/routines/AbstractNumberValidator.isValid
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/AbstractNumberValidator.determineScale
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/ByteValidator.validate
+org/apache/commons/validator/routines/AbstractNumberValidator.isAllowFractions
+org/apache/commons/validator/routines/ByteValidator.getInstance
+after post processing ......
+org/apache/commons/validator/routines/AbstractNumberValidator.isValid
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/AbstractNumberValidator.determineScale
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/ByteValidator.validate
+org/apache/commons/validator/routines/AbstractNumberValidator.isAllowFractions
+org/apache/commons/validator/routines/ByteValidator.getInstance
+found in top 10

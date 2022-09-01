@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestPreciseDateTimeField.test_getDifferenceAsLong_long_long:354
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.getDifferenceAsLong]
+org/joda/time/field/BaseDateTimeField.getDifferenceAsLong
+org/joda/time/field/PreciseDurationDateTimeField.getDurationField
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.getDifferenceAsLong
+org/joda/time/field/PreciseDurationDateTimeField.getDurationField
+after post processing ......
+org/joda/time/field/BaseDateTimeField.getDifferenceAsLong
+org/joda/time/field/PreciseDurationDateTimeField.getDurationField
+perfect match

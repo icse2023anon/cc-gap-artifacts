@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.needle.ArrowNeedleTest.testCloning:79
+Methods call in assertion: [org/jfree/chart/needle/ArrowNeedle.equals]
+org/jfree/chart/needle/ArrowNeedle.equals
+org/jfree/chart/needle/ArrowNeedle.clone
+top 10 recommendations: 
+org/jfree/chart/needle/ArrowNeedle.equals
+org/jfree/chart/needle/ArrowNeedle.clone
+after post processing ......
+org/jfree/chart/needle/ArrowNeedle.equals
+org/jfree/chart/needle/ArrowNeedle.clone
+perfect match

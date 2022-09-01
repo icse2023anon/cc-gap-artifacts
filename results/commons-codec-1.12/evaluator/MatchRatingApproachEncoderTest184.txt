@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testRemoveDoubleDoubleVowel_BEETLE_NotRemoved:97
+Methods call in assertion: [org/apache/commons/codec/language/MatchRatingApproachEncoder.removeDoubleConsonants]
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeDoubleConsonants
+top 10 recommendations: 
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeDoubleConsonants
+after post processing ......
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeDoubleConsonants
+perfect match

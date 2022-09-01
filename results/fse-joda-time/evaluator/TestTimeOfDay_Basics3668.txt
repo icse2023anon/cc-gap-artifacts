@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Basics.testProperty:899
+Methods call in assertion: [org/joda/time/TimeOfDay.millisOfSecond, org/joda/time/DateTimeFieldType.millisOfSecond, org/joda/time/TimeOfDay.property]
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/DateTimeFieldType.millisOfSecond
+top 10 recommendations: 
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/DateTimeFieldType.millisOfSecond
+after post processing ......
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/DateTimeFieldType.millisOfSecond
+not matched

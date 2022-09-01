@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.CharUtilsTest.testToIntValue_char_int:165
+Methods call in assertion: [org/apache/commons/lang3/CharUtils.toIntValue]
+org/apache/commons/lang3/CharUtils.toIntValue
+org/apache/commons/lang3/CharUtils.isAsciiNumeric
+top 10 recommendations: 
+org/apache/commons/lang3/CharUtils.toIntValue
+org/apache/commons/lang3/CharUtils.isAsciiNumeric
+after post processing ......
+org/apache/commons/lang3/CharUtils.toIntValue
+org/apache/commons/lang3/CharUtils.isAsciiNumeric
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_dayOfYear:173
+Methods call in assertion: [org/joda/time/DateTimeFieldType.dayOfYear]
+org/joda/time/DateTimeFieldType.dayOfYear
+top 10 recommendations: 
+org/joda/time/DateTimeFieldType.dayOfYear
+after post processing ......
+org/joda/time/DateTimeFieldType.dayOfYear
+perfect match

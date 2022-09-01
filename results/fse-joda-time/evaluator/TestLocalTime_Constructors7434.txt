@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestLocalTime_Constructors.testConstantMidnight:167
+Methods call in assertion: [org/joda/time/LocalTime.getChronology]
+org/joda/time/LocalTime.getChronology
+top 10 recommendations: 
+org/joda/time/LocalTime.getChronology
+after post processing ......
+org/joda/time/LocalTime.getChronology
+perfect match

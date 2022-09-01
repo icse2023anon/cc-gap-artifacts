@@ -1,0 +1,32 @@
+slicing criterion: org.joda.time.TestLocalTime_Properties.testPropertyGetMinute:315
+Methods call in assertion: [org/joda/time/LocalTime$Property.get, org/joda/time/LocalTime.minuteOfHour]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+after post processing ......
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+not matched

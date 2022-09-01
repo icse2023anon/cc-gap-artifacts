@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsIsTest.testIsAlphanumericSpace:115
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.isAlphanumericSpace]
+org/apache/commons/lang3/StringUtils.isAlphanumericSpace
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.isAlphanumericSpace
+after post processing ......
+org/apache/commons/lang3/StringUtils.isAlphanumericSpace
+perfect match

@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.plot.PlotRenderingInfoTest.testEquals:82
+Methods call in assertion: [org/jfree/chart/plot/PlotRenderingInfo.equals]
+org/jfree/chart/plot/PlotRenderingInfo.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/PlotRenderingInfo.addSubplotInfo
+top 10 recommendations: 
+org/jfree/chart/plot/PlotRenderingInfo.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/PlotRenderingInfo.addSubplotInfo
+after post processing ......
+org/jfree/chart/plot/PlotRenderingInfo.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/PlotRenderingInfo.addSubplotInfo
+perfect match

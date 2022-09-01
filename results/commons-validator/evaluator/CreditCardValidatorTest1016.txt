@@ -1,0 +1,26 @@
+slicing criterion: org.apache.commons.validator.routines.CreditCardValidatorTest.testVisaValidator:482
+Methods call in assertion: [org/apache/commons/validator/routines/CodeValidator.isValid]
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/CodeValidator.isValid
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.toInt
+org/apache/commons/validator/routines/RegexValidator.validate
+org/apache/commons/validator/routines/checkdigit/LuhnCheckDigit.weightedValue
+top 10 recommendations: 
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/CodeValidator.isValid
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.toInt
+org/apache/commons/validator/routines/RegexValidator.validate
+org/apache/commons/validator/routines/checkdigit/LuhnCheckDigit.weightedValue
+after post processing ......
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/CodeValidator.isValid
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.toInt
+org/apache/commons/validator/routines/RegexValidator.validate
+org/apache/commons/validator/routines/checkdigit/LuhnCheckDigit.weightedValue
+found in top 10

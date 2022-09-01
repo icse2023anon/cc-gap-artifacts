@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.codec.net.QuotedPrintableCodecTest.testUTF8RoundTrip:64
+Methods call in assertion: [org/apache/commons/codec/net/QuotedPrintableCodec.encode]
+org/apache/commons/codec/net/QuotedPrintableCodec.encode
+org/apache/commons/codec/binary/StringUtils.newStringUsAscii
+org/apache/commons/codec/net/QuotedPrintableCodec.encodeQuotedPrintable
+top 10 recommendations: 
+org/apache/commons/codec/net/QuotedPrintableCodec.encode
+org/apache/commons/codec/binary/StringUtils.newStringUsAscii
+org/apache/commons/codec/net/QuotedPrintableCodec.encodeQuotedPrintable
+after post processing ......
+org/apache/commons/codec/net/QuotedPrintableCodec.encode
+org/apache/commons/codec/binary/StringUtils.newStringUsAscii
+org/apache/commons/codec/net/QuotedPrintableCodec.encodeQuotedPrintable
+perfect match

@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestPartial_Constructors.testConstructor_TypeArray_intArray_year_weekyear:227
+Methods call in assertion: [org/joda/time/Partial.size]
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/Partial.getChronology
+top 10 recommendations: 
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/Partial.getChronology
+after post processing ......
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/Partial.getChronology
+found in top 10

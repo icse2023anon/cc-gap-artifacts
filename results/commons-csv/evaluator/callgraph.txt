@@ -1,0 +1,316 @@
+org/apache/commons/csv/CSVFormat.withIgnoreSurroundingSpaces may call:
+	org/apache/commons/csv/CSVFormat.withIgnoreSurroundingSpaces
+	org/apache/commons/csv/CSVFormat.<init>
+org/apache/commons/csv/CSVParser.getHeaderMap may call:
+org/apache/commons/csv/Lexer.isClosed may call:
+	org/apache/commons/csv/ExtendedBufferedReader.isClosed
+org/apache/commons/csv/Token$Type.<clinit> may call:
+	org/apache/commons/csv/Token$Type.<init>
+org/apache/commons/csv/CSVFormat.getHeaderComments may call:
+	[Ljava/lang/String;.clone
+org/apache/commons/csv/Token.reset may call:
+org/apache/commons/csv/Token.<init> may call:
+org/apache/commons/csv/CSVParser.iterator may call:
+	org/apache/commons/csv/CSVParser$1.<init>
+org/apache/commons/csv/CSVPrinter.println may call:
+	org/apache/commons/csv/CSVFormat.println
+org/apache/commons/csv/Token$Type.<init> may call:
+org/apache/commons/csv/Token$Type.valueOf may call:
+org/apache/commons/csv/CSVFormat.withDelimiter may call:
+	org/apache/commons/csv/CSVFormat.<init>
+	org/apache/commons/csv/CSVFormat.isLineBreak
+org/apache/commons/csv/CSVParser.parse may call:
+	org/apache/commons/csv/CSVParser.<init>
+	org/apache/commons/csv/CSVParser.parse
+	org/apache/commons/csv/Assertions.notNull
+org/apache/commons/csv/CSVFormat$Predefined.values may call:
+	[Lorg/apache/commons/csv/CSVFormat$Predefined;.clone
+org/apache/commons/csv/Assertions.notNull may call:
+org/apache/commons/csv/CSVParser.nextRecord may call:
+	org/apache/commons/csv/Lexer.getCharacterPosition
+	org/apache/commons/csv/CSVRecord.<init>
+	org/apache/commons/csv/CSVParser.getCurrentLineNumber
+	org/apache/commons/csv/Lexer.nextToken
+	org/apache/commons/csv/CSVParser.addRecordValue
+	org/apache/commons/csv/Token.reset
+	org/apache/commons/csv/Token$Type.ordinal
+org/apache/commons/csv/CSVParser.close may call:
+	org/apache/commons/csv/Lexer.close
+org/apache/commons/csv/CSVRecord.putIn may call:
+org/apache/commons/csv/ExtendedBufferedReader.lookAhead may call:
+org/apache/commons/csv/CSVRecord.iterator may call:
+	org/apache/commons/csv/CSVRecord.toList
+org/apache/commons/csv/CSVRecord.toMap may call:
+	org/apache/commons/csv/CSVRecord.putIn
+org/apache/commons/csv/Lexer.nextToken may call:
+	org/apache/commons/csv/Lexer.readEndOfLine
+	org/apache/commons/csv/Lexer.isDelimiter
+	org/apache/commons/csv/Lexer.isQuoteChar
+	org/apache/commons/csv/Lexer.isStartOfLine
+	org/apache/commons/csv/Lexer.parseEncapsulatedToken
+	org/apache/commons/csv/Lexer.isCommentStart
+	org/apache/commons/csv/ExtendedBufferedReader.getLastChar
+	org/apache/commons/csv/Lexer.isEndOfFile
+	org/apache/commons/csv/ExtendedBufferedReader.read
+	org/apache/commons/csv/ExtendedBufferedReader.readLine
+	org/apache/commons/csv/Lexer.isWhitespace
+	org/apache/commons/csv/Lexer.parseSimpleToken
+org/apache/commons/csv/CSVFormat.withQuote may call:
+	org/apache/commons/csv/CSVFormat.<init>
+	org/apache/commons/csv/CSVFormat.withQuote
+	org/apache/commons/csv/CSVFormat.isLineBreak
+org/apache/commons/csv/Assertions.<init> may call:
+org/apache/commons/csv/CSVParser$1.next may call:
+	org/apache/commons/csv/CSVParser.isClosed
+	org/apache/commons/csv/CSVParser$1.next
+	org/apache/commons/csv/CSVParser$1.getNextRecord
+org/apache/commons/csv/CSVFormat.withTrailingDelimiter may call:
+	org/apache/commons/csv/CSVFormat.withTrailingDelimiter
+	org/apache/commons/csv/CSVFormat.<init>
+org/apache/commons/csv/CSVFormat$Predefined.valueOf may call:
+org/apache/commons/csv/CSVFormat.toString may call:
+	org/apache/commons/csv/CSVFormat.isCommentMarkerSet
+	org/apache/commons/csv/CSVFormat.isQuoteCharacterSet
+	org/apache/commons/csv/CSVFormat.getIgnoreHeaderCase
+	org/apache/commons/csv/CSVFormat.isNullStringSet
+	org/apache/commons/csv/CSVFormat.isEscapeCharacterSet
+	org/apache/commons/csv/CSVFormat.getIgnoreEmptyLines
+	org/apache/commons/csv/CSVFormat.getIgnoreSurroundingSpaces
+org/apache/commons/csv/CSVFormat.withHeaderComments may call:
+	org/apache/commons/csv/CSVFormat.<init>
+org/apache/commons/csv/CSVParser$1.<init> may call:
+org/apache/commons/csv/CSVParser.getRecords may call:
+	org/apache/commons/csv/CSVParser.nextRecord
+org/apache/commons/csv/CSVFormat.<init> may call:
+	org/apache/commons/csv/CSVFormat.validate
+	org/apache/commons/csv/CSVFormat.toStringArray
+	[Ljava/lang/String;.clone
+org/apache/commons/csv/Lexer.mapNullToDisabled may call:
+org/apache/commons/csv/CSVFormat.validate may call:
+	org/apache/commons/csv/CSVFormat.isLineBreak
+org/apache/commons/csv/CSVPrinter.printRecord may call:
+	org/apache/commons/csv/CSVFormat.printRecord
+	org/apache/commons/csv/CSVPrinter.print
+	org/apache/commons/csv/CSVPrinter.println
+org/apache/commons/csv/CSVFormat.withCommentMarker may call:
+	org/apache/commons/csv/CSVFormat.withCommentMarker
+	org/apache/commons/csv/CSVFormat.<init>
+	org/apache/commons/csv/CSVFormat.isLineBreak
+org/apache/commons/csv/CSVParser$1.getNextRecord may call:
+	org/apache/commons/csv/CSVParser.nextRecord
+org/apache/commons/csv/Lexer.isWhitespace may call:
+	org/apache/commons/csv/Lexer.isDelimiter
+org/apache/commons/csv/CSVRecord.toString may call:
+org/apache/commons/csv/CSVRecord.isMapped may call:
+org/apache/commons/csv/CSVParser$1.remove may call:
+org/apache/commons/csv/CSVFormat.withIgnoreEmptyLines may call:
+	org/apache/commons/csv/CSVFormat.withIgnoreEmptyLines
+	org/apache/commons/csv/CSVFormat.<init>
+org/apache/commons/csv/ExtendedBufferedReader.close may call:
+org/apache/commons/csv/Lexer.parseSimpleToken may call:
+	org/apache/commons/csv/Lexer.readEndOfLine
+	org/apache/commons/csv/Lexer.isDelimiter
+	org/apache/commons/csv/Lexer.readEscape
+	org/apache/commons/csv/Lexer.trimTrailingSpaces
+	org/apache/commons/csv/Lexer.isEndOfFile
+	org/apache/commons/csv/Lexer.isEscape
+	org/apache/commons/csv/ExtendedBufferedReader.getLastChar
+	org/apache/commons/csv/ExtendedBufferedReader.read
+org/apache/commons/csv/CSVFormat.withQuoteMode may call:
+	org/apache/commons/csv/CSVFormat.<init>
+org/apache/commons/csv/CSVPrinter.<init> may call:
+	org/apache/commons/csv/CSVPrinter.printRecord
+	org/apache/commons/csv/CSVPrinter.printComment
+	org/apache/commons/csv/CSVFormat.getHeader
+	org/apache/commons/csv/CSVFormat.getHeaderComments
+	org/apache/commons/csv/CSVFormat.getSkipHeaderRecord
+	org/apache/commons/csv/Assertions.notNull
+org/apache/commons/csv/CSVFormat$1.<clinit> may call:
+	org/apache/commons/csv/QuoteMode.values
+	org/apache/commons/csv/QuoteMode.ordinal
+org/apache/commons/csv/ExtendedBufferedReader.<init> may call:
+org/apache/commons/csv/CSVFormat.toStringArray may call:
+org/apache/commons/csv/Lexer.<clinit> may call:
+org/apache/commons/csv/CSVRecord.isConsistent may call:
+org/apache/commons/csv/CSVParser.initializeHeader may call:
+	org/apache/commons/csv/CSVFormat.getHeader
+	org/apache/commons/csv/CSVFormat.getIgnoreHeaderCase
+	org/apache/commons/csv/CSVRecord.values
+	org/apache/commons/csv/CSVFormat.getSkipHeaderRecord
+	org/apache/commons/csv/CSVParser.nextRecord
+	org/apache/commons/csv/CSVFormat.getAllowMissingColumnNames
+org/apache/commons/csv/CSVFormat.<clinit> may call:
+	org/apache/commons/csv/CSVFormat.withIgnoreSurroundingSpaces
+	org/apache/commons/csv/CSVFormat.withQuoteMode
+	org/apache/commons/csv/CSVFormat.withAllowMissingColumnNames
+	org/apache/commons/csv/CSVFormat.withDelimiter
+	org/apache/commons/csv/CSVFormat.withIgnoreEmptyLines
+	org/apache/commons/csv/CSVFormat.withEscape
+	org/apache/commons/csv/CSVFormat.<init>
+	org/apache/commons/csv/CSVFormat.withRecordSeparator
+	org/apache/commons/csv/CSVFormat.withQuote
+	org/apache/commons/csv/CSVFormat.withNullString
+org/apache/commons/csv/Lexer.trimTrailingSpaces may call:
+org/apache/commons/csv/CSVParser$1.hasNext may call:
+	org/apache/commons/csv/CSVParser.isClosed
+	org/apache/commons/csv/CSVParser$1.getNextRecord
+org/apache/commons/csv/CSVPrinter.printComment may call:
+	org/apache/commons/csv/CSVFormat.isCommentMarkerSet
+	org/apache/commons/csv/CSVPrinter.println
+	org/apache/commons/csv/CSVFormat.getCommentMarker
+org/apache/commons/csv/CSVParser.getFirstEndOfLine may call:
+	org/apache/commons/csv/Lexer.getFirstEol
+org/apache/commons/csv/QuoteMode.values may call:
+	[Lorg/apache/commons/csv/QuoteMode;.clone
+org/apache/commons/csv/CSVPrinter.printRecords may call:
+	org/apache/commons/csv/CSVPrinter.printRecord
+	org/apache/commons/csv/CSVPrinter.print
+	org/apache/commons/csv/CSVPrinter.println
+org/apache/commons/csv/CSVRecord.isSet may call:
+	org/apache/commons/csv/CSVRecord.isMapped
+org/apache/commons/csv/CSVFormat.withEscape may call:
+	org/apache/commons/csv/CSVFormat.withEscape
+	org/apache/commons/csv/CSVFormat.<init>
+	org/apache/commons/csv/CSVFormat.isLineBreak
+org/apache/commons/csv/QuoteMode.<init> may call:
+org/apache/commons/csv/CSVPrinter.close may call:
+org/apache/commons/csv/CSVFormat.print may call:
+	org/apache/commons/csv/CSVFormat.trim
+	org/apache/commons/csv/CSVFormat.getDelimiter
+	org/apache/commons/csv/CSVPrinter.<init>
+	org/apache/commons/csv/CSVFormat.isQuoteCharacterSet
+	org/apache/commons/csv/CSVFormat.print
+	org/apache/commons/csv/CSVFormat.getTrim
+	org/apache/commons/csv/CSVFormat.isEscapeCharacterSet
+	org/apache/commons/csv/CSVFormat.printAndEscape
+	org/apache/commons/csv/CSVFormat.printAndQuote
+org/apache/commons/csv/QuoteMode.valueOf may call:
+org/apache/commons/csv/CSVParser$2.<clinit> may call:
+	org/apache/commons/csv/Token$Type.values
+	org/apache/commons/csv/Token$Type.ordinal
+org/apache/commons/csv/CSVFormat.withNullString may call:
+	org/apache/commons/csv/CSVFormat.<init>
+org/apache/commons/csv/CSVFormat.trim may call:
+org/apache/commons/csv/CSVRecord.<init> may call:
+org/apache/commons/csv/CSVFormat.parse may call:
+	org/apache/commons/csv/CSVParser.<init>
+org/apache/commons/csv/QuoteMode.<clinit> may call:
+	org/apache/commons/csv/QuoteMode.<init>
+org/apache/commons/csv/CSVFormat.equals may call:
+org/apache/commons/csv/Lexer.parseEncapsulatedToken may call:
+	org/apache/commons/csv/ExtendedBufferedReader.lookAhead
+	org/apache/commons/csv/Lexer.readEndOfLine
+	org/apache/commons/csv/Lexer.isQuoteChar
+	org/apache/commons/csv/Lexer.isDelimiter
+	org/apache/commons/csv/Lexer.readEscape
+	org/apache/commons/csv/Lexer.getCurrentLineNumber
+	org/apache/commons/csv/Lexer.isEscape
+	org/apache/commons/csv/ExtendedBufferedReader.getLastChar
+	org/apache/commons/csv/Lexer.isEndOfFile
+	org/apache/commons/csv/ExtendedBufferedReader.read
+	org/apache/commons/csv/Lexer.isWhitespace
+org/apache/commons/csv/Lexer.getCurrentLineNumber may call:
+	org/apache/commons/csv/ExtendedBufferedReader.getCurrentLineNumber
+org/apache/commons/csv/ExtendedBufferedReader.read may call:
+org/apache/commons/csv/CSVFormat.withSkipHeaderRecord may call:
+	org/apache/commons/csv/CSVFormat.withSkipHeaderRecord
+	org/apache/commons/csv/CSVFormat.<init>
+org/apache/commons/csv/ExtendedBufferedReader.readLine may call:
+org/apache/commons/csv/CSVFormat.printer may call:
+	org/apache/commons/csv/CSVPrinter.<init>
+org/apache/commons/csv/CSVPrinter.flush may call:
+org/apache/commons/csv/CSVFormat.withIgnoreHeaderCase may call:
+	org/apache/commons/csv/CSVFormat.withIgnoreHeaderCase
+	org/apache/commons/csv/CSVFormat.<init>
+org/apache/commons/csv/Lexer.<init> may call:
+	org/apache/commons/csv/CSVFormat.getQuoteCharacter
+	org/apache/commons/csv/CSVFormat.getDelimiter
+	org/apache/commons/csv/CSVFormat.getEscapeCharacter
+	org/apache/commons/csv/CSVFormat.getIgnoreEmptyLines
+	org/apache/commons/csv/CSVFormat.getIgnoreSurroundingSpaces
+	org/apache/commons/csv/Lexer.mapNullToDisabled
+	org/apache/commons/csv/CSVFormat.getCommentMarker
+org/apache/commons/csv/Lexer.readEndOfLine may call:
+	org/apache/commons/csv/ExtendedBufferedReader.lookAhead
+	org/apache/commons/csv/ExtendedBufferedReader.read
+org/apache/commons/csv/CSVFormat.withFirstRecordAsHeader may call:
+	org/apache/commons/csv/CSVFormat.withHeader
+	org/apache/commons/csv/CSVFormat.withSkipHeaderRecord
+org/apache/commons/csv/CSVFormat.getHeader may call:
+	[Ljava/lang/String;.clone
+org/apache/commons/csv/Lexer.readEscape may call:
+	org/apache/commons/csv/Lexer.isMetaChar
+	org/apache/commons/csv/ExtendedBufferedReader.read
+org/apache/commons/csv/CSVRecord.toList may call:
+org/apache/commons/csv/CSVFormat.newFormat may call:
+	org/apache/commons/csv/CSVFormat.<init>
+org/apache/commons/csv/CSVFormat.format may call:
+	org/apache/commons/csv/CSVPrinter.<init>
+	org/apache/commons/csv/CSVPrinter.printRecord
+	org/apache/commons/csv/CSVPrinter.close
+org/apache/commons/csv/Lexer.close may call:
+	org/apache/commons/csv/ExtendedBufferedReader.close
+org/apache/commons/csv/Token.toString may call:
+	org/apache/commons/csv/Token$Type.name
+org/apache/commons/csv/Constants.<init> may call:
+org/apache/commons/csv/Constants.<clinit> may call:
+org/apache/commons/csv/CSVParser.<init> may call:
+	org/apache/commons/csv/CSVParser.<init>
+	org/apache/commons/csv/Lexer.<init>
+	org/apache/commons/csv/Token.<init>
+	org/apache/commons/csv/ExtendedBufferedReader.<init>
+	org/apache/commons/csv/CSVParser.initializeHeader
+	org/apache/commons/csv/Assertions.notNull
+org/apache/commons/csv/Token$Type.values may call:
+	[Lorg/apache/commons/csv/Token$Type;.clone
+org/apache/commons/csv/CSVPrinter.print may call:
+	org/apache/commons/csv/CSVFormat.print
+org/apache/commons/csv/CSVRecord.get may call:
+	org/apache/commons/csv/CSVRecord.get
+org/apache/commons/csv/CSVFormat.printAndEscape may call:
+	org/apache/commons/csv/CSVFormat.getDelimiter
+	org/apache/commons/csv/CSVFormat.getEscapeCharacter
+org/apache/commons/csv/CSVFormat$Predefined.<init> may call:
+org/apache/commons/csv/CSVFormat.valueOf may call:
+	org/apache/commons/csv/CSVFormat$Predefined.valueOf
+	org/apache/commons/csv/CSVFormat$Predefined.getFormat
+org/apache/commons/csv/CSVParser.addRecordValue may call:
+	org/apache/commons/csv/CSVFormat.getTrailingDelimiter
+	org/apache/commons/csv/CSVFormat.getTrim
+	org/apache/commons/csv/CSVFormat.getNullString
+org/apache/commons/csv/CSVFormat.println may call:
+	org/apache/commons/csv/CSVFormat.getDelimiter
+	org/apache/commons/csv/CSVFormat.getTrailingDelimiter
+org/apache/commons/csv/CSVFormat.printRecord may call:
+	org/apache/commons/csv/CSVFormat.print
+	org/apache/commons/csv/CSVFormat.println
+org/apache/commons/csv/CSVParser.getCurrentLineNumber may call:
+	org/apache/commons/csv/Lexer.getCurrentLineNumber
+org/apache/commons/csv/CSVFormat.withAllowMissingColumnNames may call:
+	org/apache/commons/csv/CSVFormat.withAllowMissingColumnNames
+	org/apache/commons/csv/CSVFormat.<init>
+org/apache/commons/csv/CSVFormat.isLineBreak may call:
+	org/apache/commons/csv/CSVFormat.isLineBreak
+org/apache/commons/csv/Lexer.getCharacterPosition may call:
+	org/apache/commons/csv/ExtendedBufferedReader.getPosition
+org/apache/commons/csv/CSVFormat.hashCode may call:
+	org/apache/commons/csv/QuoteMode.hashCode
+org/apache/commons/csv/CSVParser.isClosed may call:
+	org/apache/commons/csv/Lexer.isClosed
+org/apache/commons/csv/CSVFormat.withHeader may call:
+	org/apache/commons/csv/CSVFormat.withHeader
+	org/apache/commons/csv/CSVFormat.<init>
+org/apache/commons/csv/CSVFormat$Predefined.<clinit> may call:
+	org/apache/commons/csv/CSVFormat$Predefined.<init>
+org/apache/commons/csv/CSVFormat.withRecordSeparator may call:
+	org/apache/commons/csv/CSVFormat.withRecordSeparator
+	org/apache/commons/csv/CSVFormat.<init>
+org/apache/commons/csv/CSVFormat.withTrim may call:
+	org/apache/commons/csv/CSVFormat.<init>
+	org/apache/commons/csv/CSVFormat.withTrim
+org/apache/commons/csv/CSVFormat.printAndQuote may call:
+	org/apache/commons/csv/CSVFormat.getQuoteCharacter
+	org/apache/commons/csv/CSVFormat.getQuoteMode
+	org/apache/commons/csv/CSVFormat.getDelimiter
+	org/apache/commons/csv/QuoteMode.ordinal
+	org/apache/commons/csv/CSVFormat.printAndEscape

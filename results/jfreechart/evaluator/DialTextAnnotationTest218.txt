@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.dial.DialTextAnnotationTest.testEquals:83
+Methods call in assertion: [org/jfree/chart/plot/dial/DialTextAnnotation.equals]
+org/jfree/chart/plot/dial/DialTextAnnotation.equals
+top 10 recommendations: 
+org/jfree/chart/plot/dial/DialTextAnnotation.equals
+after post processing ......
+org/jfree/chart/plot/dial/DialTextAnnotation.equals
+perfect match

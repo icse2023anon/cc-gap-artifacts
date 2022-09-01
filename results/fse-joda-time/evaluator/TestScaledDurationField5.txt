@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.field.TestScaledDurationField.test_getName:121
+Methods call in assertion: [org/joda/time/field/ScaledDurationField.getName]
+org/joda/time/DurationFieldType.minutes
+org/joda/time/field/DecoratedDurationField.getDifferenceAsLong
+org/joda/time/field/BaseDurationField.getName
+top 10 recommendations: 
+org/joda/time/DurationFieldType.minutes
+org/joda/time/field/DecoratedDurationField.getDifferenceAsLong
+org/joda/time/field/BaseDurationField.getName
+after post processing ......
+org/joda/time/DurationFieldType.minutes
+org/joda/time/field/DecoratedDurationField.getDifferenceAsLong
+org/joda/time/field/BaseDurationField.getName
+found in top 10

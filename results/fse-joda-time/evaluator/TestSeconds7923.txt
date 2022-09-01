@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestSeconds.testDividedBy_int:369
+Methods call in assertion: [org/joda/time/Seconds.dividedBy]
+org/joda/time/Seconds.dividedBy
+org/joda/time/Seconds.seconds
+top 10 recommendations: 
+org/joda/time/Seconds.dividedBy
+org/joda/time/Seconds.seconds
+after post processing ......
+org/joda/time/Seconds.dividedBy
+org/joda/time/Seconds.seconds
+perfect match

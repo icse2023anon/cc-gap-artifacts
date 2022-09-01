@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testCenter_StringInt:1915
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.center]
+org/apache/commons/lang3/StringUtils.center
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.center
+after post processing ......
+org/apache/commons/lang3/StringUtils.center
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.entity.CategoryItemEntityTest.testEquals:73
+Methods call in assertion: [org/jfree/chart/entity/CategoryItemEntity.equals]
+org/jfree/chart/entity/CategoryItemEntity.equals
+org/jfree/chart/util/ObjectUtils.equal
+top 10 recommendations: 
+org/jfree/chart/entity/CategoryItemEntity.equals
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/entity/CategoryItemEntity.equals
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.tuple.MutableTripleTest.testTripleOf:87
+Methods call in assertion: [org/apache/commons/lang3/tuple/MutableTriple.getMiddle]
+org/apache/commons/lang3/tuple/MutableTriple.getMiddle
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/MutableTriple.getMiddle
+after post processing ......
+org/apache/commons/lang3/tuple/MutableTriple.getMiddle
+perfect match

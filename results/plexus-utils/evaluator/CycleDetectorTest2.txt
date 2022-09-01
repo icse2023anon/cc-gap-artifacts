@@ -1,0 +1,26 @@
+slicing criterion: org.codehaus.plexus.util.dag.CycleDetectorTest.testCycyleDetection:200
+Methods call in assertion: [org/codehaus/plexus/util/dag/DAG.hasEdge]
+org/codehaus/plexus/util/dag/DAG.addEdge
+org/codehaus/plexus/util/dag/CycleDetector.introducesCycle
+org/codehaus/plexus/util/dag/Vertex.getChildren
+org/codehaus/plexus/util/dag/DAG.addVertex
+org/codehaus/plexus/util/dag/DAG.hasEdge
+org/codehaus/plexus/util/dag/Vertex.addEdgeTo
+org/codehaus/plexus/util/dag/DAG.getVertex
+top 10 recommendations: 
+org/codehaus/plexus/util/dag/DAG.addEdge
+org/codehaus/plexus/util/dag/DAG.hasEdge
+org/codehaus/plexus/util/dag/CycleDetector.introducesCycle
+org/codehaus/plexus/util/dag/Vertex.getChildren
+org/codehaus/plexus/util/dag/DAG.addVertex
+org/codehaus/plexus/util/dag/Vertex.addEdgeTo
+org/codehaus/plexus/util/dag/DAG.getVertex
+after post processing ......
+org/codehaus/plexus/util/dag/DAG.addEdge
+org/codehaus/plexus/util/dag/DAG.hasEdge
+org/codehaus/plexus/util/dag/CycleDetector.introducesCycle
+org/codehaus/plexus/util/dag/Vertex.getChildren
+org/codehaus/plexus/util/dag/DAG.addVertex
+org/codehaus/plexus/util/dag/Vertex.addEdgeTo
+org/codehaus/plexus/util/dag/DAG.getVertex
+found in top 10

@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.renderer.xy.StandardXYItemRendererTest.testEquals:91
+Methods call in assertion: [org/jfree/chart/renderer/xy/StandardXYItemRenderer.equals]
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.setBaseShapesVisible
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.equals
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.<init>
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.setBaseShapesVisible
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.<init>
+after post processing ......
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.setBaseShapesVisible
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.<init>
+perfect match

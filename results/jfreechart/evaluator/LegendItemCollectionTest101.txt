@@ -1,0 +1,20 @@
+slicing criterion: org.jfree.chart.LegendItemCollectionTest.testCloning:119
+Methods call in assertion: [org/jfree/chart/LegendItemCollection.equals]
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/LegendItemCollection.equals
+org/jfree/chart/util/ObjectUtils.deepClone
+org/jfree/chart/LegendItemCollection.clone
+org/jfree/chart/LegendItemCollection.add
+top 10 recommendations: 
+org/jfree/chart/LegendItemCollection.clone
+org/jfree/chart/util/ObjectUtils.deepClone
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/LegendItemCollection.equals
+org/jfree/chart/LegendItemCollection.add
+after post processing ......
+org/jfree/chart/LegendItemCollection.clone
+org/jfree/chart/util/ObjectUtils.deepClone
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/LegendItemCollection.equals
+org/jfree/chart/LegendItemCollection.add
+found in top 10

@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.validator.routines.InetAddressValidatorTest.testBrokenInetAddresses:110
+Methods call in assertion: [org/apache/commons/validator/routines/InetAddressValidator.isValid]
+org/apache/commons/validator/routines/InetAddressValidator.isValidInet6Address
+org/apache/commons/validator/routines/InetAddressValidator.isValid
+org/apache/commons/validator/routines/RegexValidator.match
+org/apache/commons/validator/routines/InetAddressValidator.isValidInet4Address
+top 10 recommendations: 
+org/apache/commons/validator/routines/InetAddressValidator.isValid
+org/apache/commons/validator/routines/InetAddressValidator.isValidInet6Address
+org/apache/commons/validator/routines/InetAddressValidator.isValidInet4Address
+org/apache/commons/validator/routines/RegexValidator.match
+after post processing ......
+org/apache/commons/validator/routines/InetAddressValidator.isValid
+org/apache/commons/validator/routines/InetAddressValidator.isValidInet6Address
+org/apache/commons/validator/routines/InetAddressValidator.isValidInet4Address
+org/apache/commons/validator/routines/RegexValidator.match
+perfect match

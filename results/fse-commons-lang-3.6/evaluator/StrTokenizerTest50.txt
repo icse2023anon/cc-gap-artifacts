@@ -1,0 +1,41 @@
+slicing criterion: org.apache.commons.lang3.text.StrTokenizerTest.testBasicIgnoreTrimmed2:530
+Methods call in assertion: [org/apache/commons/lang3/text/StrTokenizer.next]
+org/apache/commons/lang3/text/StrTokenizer.getIgnoredMatcher
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+org/apache/commons/lang3/text/StrTokenizer.isIgnoreEmptyTokens
+org/apache/commons/lang3/text/StrMatcher.stringMatcher
+org/apache/commons/lang3/text/StrTokenizer.setDelimiterMatcher
+org/apache/commons/lang3/text/StrTokenizer.next
+org/apache/commons/lang3/text/StrTokenizer.setIgnoredMatcher
+org/apache/commons/lang3/text/StrBuilder.substring
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/text/StrMatcher.stringMatcher
+org/apache/commons/lang3/text/StrTokenizer.next
+org/apache/commons/lang3/text/StrTokenizer.getIgnoredMatcher
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+org/apache/commons/lang3/text/StrTokenizer.isIgnoreEmptyTokens
+after post processing ......
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/text/StrMatcher.stringMatcher
+org/apache/commons/lang3/text/StrTokenizer.next
+org/apache/commons/lang3/text/StrTokenizer.getIgnoredMatcher
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+org/apache/commons/lang3/text/StrTokenizer.isIgnoreEmptyTokens
+org/apache/commons/lang3/text/StrTokenizer.setDelimiterMatcher
+org/apache/commons/lang3/text/StrTokenizer.setIgnoredMatcher
+org/apache/commons/lang3/text/StrBuilder.substring
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.chrono.TestGregorianChronology.testFactory_Zone_int:190
+Methods call in assertion: [org/joda/time/chrono/GregorianChronology.getMinimumDaysInFirstWeek]
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/GregorianChronology.getInstance
+top 10 recommendations: 
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/GregorianChronology.getInstance
+after post processing ......
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/GregorianChronology.getInstance
+not matched

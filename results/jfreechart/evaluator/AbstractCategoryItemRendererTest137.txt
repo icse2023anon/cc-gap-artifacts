@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.category.AbstractCategoryItemRendererTest.testFindRangeBounds:313
+Methods call in assertion: [org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds]
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+top 10 recommendations: 
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+after post processing ......
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+perfect match

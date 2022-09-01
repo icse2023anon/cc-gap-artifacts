@@ -1,0 +1,20 @@
+slicing criterion: org.jfree.chart.plot.MarkerTest.testGetSetLabelTextAnchor:337
+Methods call in assertion: [org/jfree/chart/event/MarkerChangeEvent.getMarker]
+org/jfree/chart/plot/Marker.getLabelOffset
+org/jfree/chart/event/MarkerChangeEvent.getMarker
+org/jfree/chart/plot/Marker.addChangeListener
+org/jfree/chart/plot/Marker.getListeners
+org/jfree/chart/plot/Marker.notifyListeners
+top 10 recommendations: 
+org/jfree/chart/plot/Marker.getLabelOffset
+org/jfree/chart/event/MarkerChangeEvent.getMarker
+org/jfree/chart/plot/Marker.addChangeListener
+org/jfree/chart/plot/Marker.getListeners
+org/jfree/chart/plot/Marker.notifyListeners
+after post processing ......
+org/jfree/chart/plot/Marker.getLabelOffset
+org/jfree/chart/event/MarkerChangeEvent.getMarker
+org/jfree/chart/plot/Marker.addChangeListener
+org/jfree/chart/plot/Marker.getListeners
+org/jfree/chart/plot/Marker.notifyListeners
+found in top 10

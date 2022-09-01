@@ -1,0 +1,20 @@
+Aug 27, 2022 1:51:14 PM omc_ob.OMCob main
+INFO: total slices = total criteria = total assertions = 17859
+Aug 27, 2022 1:51:49 PM omc_ob.OMCob printOMC_ob
+INFO: Total condition covered: 2696
+Aug 27, 2022 1:51:49 PM omc_ob.OMCob printOMC_ob
+WARNING: org.joda.time.MockZone class not found in the jacoco report report
+Aug 27, 2022 1:51:49 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per class coverage for object branch!
+Aug 27, 2022 1:51:49 PM omc_ob.OMCob printOMC_ob
+WARNING: org.joda.time.MockZone.nextTransition not found in the jacoco report
+Aug 27, 2022 1:51:49 PM omc_ob.OMCob printOMC_ob
+WARNING: org.joda.time.MockZone.getOffset not found in the jacoco report
+Aug 27, 2022 1:51:49 PM omc_ob.OMCob printOMC_ob
+WARNING: org.joda.time.MockZone.previousTransition not found in the jacoco report
+Aug 27, 2022 1:51:49 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per method coverage for object branch!
+Aug 27, 2022 1:51:49 PM omc_ob.OMCob main
+INFO: OBC :76.81640036177268
+Aug 27, 2022 1:51:49 PM omc_ob.OMCob main
+INFO: OMC_OBC :40.63913174555321

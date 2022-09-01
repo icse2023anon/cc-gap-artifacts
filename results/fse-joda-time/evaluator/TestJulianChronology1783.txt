@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.chrono.TestJulianChronology.testDurationFields:222
+Methods call in assertion: [org/joda/time/chrono/JulianChronology.years, org/joda/time/DurationField.isPrecise]
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.years
+top 10 recommendations: 
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.years
+after post processing ......
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.years
+not matched

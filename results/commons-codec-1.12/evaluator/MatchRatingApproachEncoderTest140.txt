@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testGetMinRating_1_Returns5_Successfully:152
+Methods call in assertion: [org/apache/commons/codec/language/MatchRatingApproachEncoder.getMinRating]
+org/apache/commons/codec/language/MatchRatingApproachEncoder.getMinRating
+top 10 recommendations: 
+org/apache/commons/codec/language/MatchRatingApproachEncoder.getMinRating
+after post processing ......
+org/apache/commons/codec/language/MatchRatingApproachEncoder.getMinRating
+perfect match

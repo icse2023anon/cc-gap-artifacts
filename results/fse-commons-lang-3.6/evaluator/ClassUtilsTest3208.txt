@@ -1,0 +1,23 @@
+slicing criterion: org.apache.commons.lang3.ClassUtilsTest.test_isAssignable_ClassArray_ClassArray:445
+Methods call in assertion: [org/apache/commons/lang3/ClassUtils.isAssignable]
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/JavaVersion.atLeast
+org/apache/commons/lang3/ClassUtils.isAssignable
+org/apache/commons/lang3/SystemUtils.isJavaVersionAtLeast
+org/apache/commons/lang3/ClassUtils.primitiveToWrapper
+org/apache/commons/lang3/ArrayUtils.isSameLength
+top 10 recommendations: 
+org/apache/commons/lang3/ClassUtils.isAssignable
+org/apache/commons/lang3/SystemUtils.isJavaVersionAtLeast
+org/apache/commons/lang3/ArrayUtils.isSameLength
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/JavaVersion.atLeast
+org/apache/commons/lang3/ClassUtils.primitiveToWrapper
+after post processing ......
+org/apache/commons/lang3/ClassUtils.isAssignable
+org/apache/commons/lang3/SystemUtils.isJavaVersionAtLeast
+org/apache/commons/lang3/ArrayUtils.isSameLength
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/JavaVersion.atLeast
+org/apache/commons/lang3/ClassUtils.primitiveToWrapper
+perfect match

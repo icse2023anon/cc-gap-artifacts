@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestDateTimeZone.testForID_String:352
+Methods call in assertion: [org/joda/time/DateTimeZone.getID]
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/DateTimeZone.forID
+org/joda/time/DateTimeZone.getID
+top 10 recommendations: 
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/DateTimeZone.getID
+after post processing ......
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/DateTimeZone.getID
+found in top 10

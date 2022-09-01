@@ -1,0 +1,11 @@
+slicing criterion: org.jaxen.test.BaseXPathTest.testDebug:849
+Methods call in assertion: [org/jaxen/BaseXPath.debug]
+org/jaxen/expr/DefaultXPathExpr.toString
+org/jaxen/BaseXPath.debug
+top 10 recommendations: 
+org/jaxen/expr/DefaultXPathExpr.toString
+org/jaxen/BaseXPath.debug
+after post processing ......
+org/jaxen/expr/DefaultXPathExpr.toString
+org/jaxen/BaseXPath.debug
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.HashCodeBuilderTest.testByteArrayAsObject:431
+Methods call in assertion: [org/apache/commons/lang3/builder/HashCodeBuilder.toHashCode, org/apache/commons/lang3/builder/HashCodeBuilder.append]
+org/apache/commons/lang3/builder/HashCodeBuilder.toHashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.append
+top 10 recommendations: 
+org/apache/commons/lang3/builder/HashCodeBuilder.toHashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.append
+after post processing ......
+org/apache/commons/lang3/builder/HashCodeBuilder.toHashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.append
+perfect match

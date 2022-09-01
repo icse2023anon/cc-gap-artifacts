@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.chrono.TestJulianChronology.testFactory_Zone:122
+Methods call in assertion: [org/joda/time/chrono/JulianChronology.getZone, org/joda/time/chrono/JulianChronology.getInstance]
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/JulianChronology.getInstance
+top 10 recommendations: 
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/JulianChronology.getInstance
+after post processing ......
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/JulianChronology.getInstance
+not matched

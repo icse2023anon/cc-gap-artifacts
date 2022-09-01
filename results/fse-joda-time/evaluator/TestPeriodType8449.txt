@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestPeriodType.testHours:430
+Methods call in assertion: [org/joda/time/PeriodType.size]
+org/joda/time/PeriodType.size
+org/joda/time/PeriodType.hours
+top 10 recommendations: 
+org/joda/time/PeriodType.size
+org/joda/time/PeriodType.hours
+after post processing ......
+org/joda/time/PeriodType.size
+org/joda/time/PeriodType.hours
+perfect match

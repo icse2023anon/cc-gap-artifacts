@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.math.NumberUtilsTest.testCreateDouble:482
+Methods call in assertion: [org/apache/commons/lang3/math/NumberUtils.createDouble]
+org/apache/commons/lang3/math/NumberUtils.createDouble
+top 10 recommendations: 
+org/apache/commons/lang3/math/NumberUtils.createDouble
+after post processing ......
+org/apache/commons/lang3/math/NumberUtils.createDouble
+perfect match

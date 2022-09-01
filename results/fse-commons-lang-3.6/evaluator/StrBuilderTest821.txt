@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testChaining:190
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.setNewLineText]
+org/apache/commons/lang3/text/StrBuilder.setNewLineText
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.setNewLineText
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.setNewLineText
+perfect match

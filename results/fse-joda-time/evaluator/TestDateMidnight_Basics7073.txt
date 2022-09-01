@@ -1,0 +1,53 @@
+slicing criterion: org.joda.time.TestDateMidnight_Basics.testWithZoneRetainFields_DateTimeZone:771
+Methods call in assertion: [org/joda/time/DateMidnight.getMillis]
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/chrono/GregorianChronology.withZone
+org/joda/time/DateMidnight.checkInstant
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/chrono/GregorianChronology.getInstance
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateMidnight.withZoneRetainFields
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/base/AbstractInstant.getZone
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/DateMidnight.withZoneRetainFields
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/GregorianChronology.withZone
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/chrono/GregorianChronology.getInstance
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateMidnight.checkInstant
+org/joda/time/DateTimeZone.setDefault
+after post processing ......
+org/joda/time/DateMidnight.withZoneRetainFields
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/GregorianChronology.withZone
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/chrono/GregorianChronology.getInstance
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateMidnight.checkInstant
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/base/AbstractInstant.getZone
+all method calls are suggested

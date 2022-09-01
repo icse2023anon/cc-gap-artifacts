@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.convert.TestConverterManager.testGetIntervalConverter:924
+Methods call in assertion: [org/joda/time/convert/IntervalConverter.getSupportedType]
+org/joda/time/convert/ConverterSet.remove
+org/joda/time/convert/StringConverter.getSupportedType
+org/joda/time/convert/ConverterSet.select
+org/joda/time/convert/ConverterManager.getInstance
+org/joda/time/convert/NullConverter.getSupportedType
+org/joda/time/convert/ConverterManager.getIntervalConverter
+top 10 recommendations: 
+org/joda/time/convert/ConverterManager.getIntervalConverter
+org/joda/time/convert/ConverterSet.remove
+org/joda/time/convert/StringConverter.getSupportedType
+org/joda/time/convert/ConverterSet.select
+org/joda/time/convert/ConverterManager.getInstance
+org/joda/time/convert/NullConverter.getSupportedType
+after post processing ......
+org/joda/time/convert/ConverterManager.getIntervalConverter
+org/joda/time/convert/ConverterSet.remove
+org/joda/time/convert/StringConverter.getSupportedType
+org/joda/time/convert/ConverterSet.select
+org/joda/time/convert/ConverterManager.getInstance
+org/joda/time/convert/NullConverter.getSupportedType
+found in top 10

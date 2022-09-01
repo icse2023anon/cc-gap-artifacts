@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.urls.CustomXYURLGeneratorTest.testCloning:104
+Methods call in assertion: [org/jfree/chart/urls/CustomXYURLGenerator.equals]
+org/jfree/chart/urls/CustomXYURLGenerator.clone
+org/jfree/chart/urls/CustomXYURLGenerator.getListCount
+org/jfree/chart/urls/CustomXYURLGenerator.addURLSeries
+org/jfree/chart/urls/CustomXYURLGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/urls/CustomXYURLGenerator.equals
+org/jfree/chart/urls/CustomXYURLGenerator.clone
+org/jfree/chart/urls/CustomXYURLGenerator.getListCount
+org/jfree/chart/urls/CustomXYURLGenerator.addURLSeries
+after post processing ......
+org/jfree/chart/urls/CustomXYURLGenerator.equals
+org/jfree/chart/urls/CustomXYURLGenerator.clone
+org/jfree/chart/urls/CustomXYURLGenerator.getListCount
+org/jfree/chart/urls/CustomXYURLGenerator.addURLSeries
+perfect match

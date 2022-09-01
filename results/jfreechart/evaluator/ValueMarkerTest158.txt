@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.plot.ValueMarkerTest.test1808376:240
+Methods call in assertion: [org/jfree/chart/plot/ValueMarker.getAlpha]
+org/jfree/chart/plot/Marker.getOutlineStroke
+org/jfree/chart/plot/Marker.getAlpha
+top 10 recommendations: 
+org/jfree/chart/plot/Marker.getOutlineStroke
+org/jfree/chart/plot/Marker.getAlpha
+after post processing ......
+org/jfree/chart/plot/Marker.getOutlineStroke
+org/jfree/chart/plot/Marker.getAlpha
+found in top 10

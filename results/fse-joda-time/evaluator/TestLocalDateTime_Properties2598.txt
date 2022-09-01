@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Properties.testPropertyGetDay:410
+Methods call in assertion: [org/joda/time/LocalDateTime$Property.getLocalDateTime, org/joda/time/LocalDateTime.dayOfMonth]
+org/joda/time/LocalDateTime.toDateTime
+top 10 recommendations: 
+org/joda/time/LocalDateTime.toDateTime
+after post processing ......
+org/joda/time/LocalDateTime.toDateTime
+not matched

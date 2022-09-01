@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.field.TestPreciseDateTimeField.test_roundHalfCeiling_long:561
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.roundHalfCeiling]
+org/joda/time/field/PreciseDurationDateTimeField.roundFloor
+org/joda/time/field/BaseDateTimeField.roundHalfCeiling
+org/joda/time/field/PreciseDurationDateTimeField.roundCeiling
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationDateTimeField.roundFloor
+org/joda/time/field/BaseDateTimeField.roundHalfCeiling
+org/joda/time/field/PreciseDurationDateTimeField.roundCeiling
+after post processing ......
+org/joda/time/field/PreciseDurationDateTimeField.roundFloor
+org/joda/time/field/BaseDateTimeField.roundHalfCeiling
+org/joda/time/field/PreciseDurationDateTimeField.roundCeiling
+found in top 10

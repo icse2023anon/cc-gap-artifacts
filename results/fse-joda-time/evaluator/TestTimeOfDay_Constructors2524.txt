@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Constructors.testConstructor_long1_Chronology:330
+Methods call in assertion: [org/joda/time/chrono/JulianChronology.getInstanceUTC, org/joda/time/TimeOfDay.getChronology]
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+org/joda/time/chrono/JulianChronology.withUTC
+org/joda/time/base/BasePartial.getChronology
+top 10 recommendations: 
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+org/joda/time/chrono/JulianChronology.withUTC
+org/joda/time/base/BasePartial.getChronology
+after post processing ......
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+org/joda/time/chrono/JulianChronology.withUTC
+org/joda/time/base/BasePartial.getChronology
+found in top 10

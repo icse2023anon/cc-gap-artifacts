@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.convert.TestReadableInstantConverter.testGetChronology_Object_Zone:126
+Methods call in assertion: [org/joda/time/convert/ReadableInstantConverter.getChronology]
+org/joda/time/convert/ReadableInstantConverter.getChronology
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/convert/ReadableInstantConverter.getChronology
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+after post processing ......
+org/joda/time/convert/ReadableInstantConverter.getChronology
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+perfect match

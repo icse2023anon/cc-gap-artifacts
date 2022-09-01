@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.BooleanUtilsTest.test_isTrue_Boolean:106
+Methods call in assertion: [org/apache/commons/lang3/BooleanUtils.isTrue]
+org/apache/commons/lang3/BooleanUtils.isTrue
+top 10 recommendations: 
+org/apache/commons/lang3/BooleanUtils.isTrue
+after post processing ......
+org/apache/commons/lang3/BooleanUtils.isTrue
+perfect match

@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestMinutes.testPlus_int:290
+Methods call in assertion: [org/joda/time/Minutes.getMinutes]
+org/joda/time/Minutes.getMinutes
+org/joda/time/Minutes.plus
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/Minutes.minutes
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+top 10 recommendations: 
+org/joda/time/Minutes.plus
+org/joda/time/Minutes.getMinutes
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/Minutes.minutes
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+after post processing ......
+org/joda/time/Minutes.plus
+org/joda/time/Minutes.getMinutes
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/Minutes.minutes
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+found in top 10

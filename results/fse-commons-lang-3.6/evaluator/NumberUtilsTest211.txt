@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.math.NumberUtilsTest.testToFloatStringF:188
+Methods call in assertion: [org/apache/commons/lang3/math/NumberUtils.toFloat]
+org/apache/commons/lang3/math/NumberUtils.toFloat
+top 10 recommendations: 
+org/apache/commons/lang3/math/NumberUtils.toFloat
+after post processing ......
+org/apache/commons/lang3/math/NumberUtils.toFloat
+perfect match

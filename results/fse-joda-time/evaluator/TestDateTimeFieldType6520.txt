@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_millisOfSecond:307
+Methods call in assertion: [org/joda/time/chrono/CopticChronology.millisOfSecond, org/joda/time/DateTimeFieldType.getField, org/joda/time/chrono/CopticChronology.getInstanceUTC, org/joda/time/DateTimeFieldType.millisOfSecond]
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/DateTimeFieldType.millisOfSecond
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/DateTimeFieldType.millisOfSecond
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/DateTimeFieldType.millisOfSecond
+org/joda/time/DateTimeUtils.getChronology
+not matched

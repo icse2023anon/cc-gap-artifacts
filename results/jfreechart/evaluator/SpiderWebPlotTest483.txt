@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.SpiderWebPlotTest.testEquals:96
+Methods call in assertion: [org/jfree/chart/plot/SpiderWebPlot.equals]
+org/jfree/chart/plot/SpiderWebPlot.equals
+top 10 recommendations: 
+org/jfree/chart/plot/SpiderWebPlot.equals
+after post processing ......
+org/jfree/chart/plot/SpiderWebPlot.equals
+perfect match

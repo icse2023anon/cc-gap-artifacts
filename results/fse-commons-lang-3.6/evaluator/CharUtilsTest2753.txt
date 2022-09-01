@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.CharUtilsTest.testIsAsciiPrintable_char:266
+Methods call in assertion: [org/apache/commons/lang3/CharUtils.isAsciiPrintable]
+org/apache/commons/lang3/CharUtils.isAsciiPrintable
+top 10 recommendations: 
+org/apache/commons/lang3/CharUtils.isAsciiPrintable
+after post processing ......
+org/apache/commons/lang3/CharUtils.isAsciiPrintable
+perfect match

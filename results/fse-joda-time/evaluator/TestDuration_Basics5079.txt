@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDuration_Basics.testCompareTo:230
+Methods call in assertion: [org/joda/time/Duration.compareTo]
+org/joda/time/base/AbstractDuration.compareTo
+org/joda/time/base/BaseDuration.getMillis
+top 10 recommendations: 
+org/joda/time/base/AbstractDuration.compareTo
+org/joda/time/base/BaseDuration.getMillis
+after post processing ......
+org/joda/time/base/AbstractDuration.compareTo
+org/joda/time/base/BaseDuration.getMillis
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.validator.routines.checkdigit.IBANCheckDigitTest.testOther:198
+Methods call in assertion: [org/apache/commons/validator/routines/checkdigit/CheckDigit.isValid]
+org/apache/commons/validator/routines/checkdigit/IBANCheckDigit.isValid
+top 10 recommendations: 
+org/apache/commons/validator/routines/checkdigit/IBANCheckDigit.isValid
+after post processing ......
+org/apache/commons/validator/routines/checkdigit/IBANCheckDigit.isValid
+perfect match

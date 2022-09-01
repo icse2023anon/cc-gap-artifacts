@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.axis.PeriodAxisTest.testCloning:215
+Methods call in assertion: [org/jfree/chart/axis/PeriodAxis.equals]
+org/jfree/chart/axis/PeriodAxis.equals
+org/jfree/chart/axis/PeriodAxis.clone
+top 10 recommendations: 
+org/jfree/chart/axis/PeriodAxis.equals
+org/jfree/chart/axis/PeriodAxis.clone
+after post processing ......
+org/jfree/chart/axis/PeriodAxis.equals
+org/jfree/chart/axis/PeriodAxis.clone
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testByteArrayToInt:672
+Methods call in assertion: [org/apache/commons/lang3/Conversion.byteArrayToInt]
+org/apache/commons/lang3/Conversion.byteArrayToInt
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.byteArrayToInt
+after post processing ......
+org/apache/commons/lang3/Conversion.byteArrayToInt
+perfect match

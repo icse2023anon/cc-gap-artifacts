@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestMutableDateTime_Properties.testPropertyGetEra:158
+Methods call in assertion: [org/joda/time/MutableDateTime.era, org/joda/time/MutableDateTime$Property.getMutableDateTime]
+org/joda/time/MutableDateTime.era
+top 10 recommendations: 
+org/joda/time/MutableDateTime.era
+after post processing ......
+org/joda/time/MutableDateTime.era
+not matched

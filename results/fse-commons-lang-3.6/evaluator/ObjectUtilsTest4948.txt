@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ObjectUtilsTest.testFirstNonNull:116
+Methods call in assertion: [org/apache/commons/lang3/ObjectUtils.firstNonNull]
+org/apache/commons/lang3/ObjectUtils.firstNonNull
+top 10 recommendations: 
+org/apache/commons/lang3/ObjectUtils.firstNonNull
+after post processing ......
+org/apache/commons/lang3/ObjectUtils.firstNonNull
+perfect match

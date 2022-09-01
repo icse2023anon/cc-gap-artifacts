@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.plot.MeterPlotTest.testCloning:208
+Methods call in assertion: [org/jfree/chart/plot/MeterPlot.getDataset]
+org/jfree/chart/plot/MeterPlot.getDataset
+org/jfree/chart/plot/MeterPlot.clone
+top 10 recommendations: 
+org/jfree/chart/plot/MeterPlot.getDataset
+org/jfree/chart/plot/MeterPlot.clone
+after post processing ......
+org/jfree/chart/plot/MeterPlot.getDataset
+org/jfree/chart/plot/MeterPlot.clone
+perfect match

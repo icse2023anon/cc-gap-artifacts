@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.plot.dial.DialPointerTest.testCloning:144
+Methods call in assertion: [org/jfree/chart/plot/dial/DialPointer.equals]
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/plot/dial/AbstractDialLayer.hasListener
+top 10 recommendations: 
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/plot/dial/AbstractDialLayer.hasListener
+after post processing ......
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/plot/dial/AbstractDialLayer.hasListener
+not matched

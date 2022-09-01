@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.entity.TickLabelEntityTest.testEquals:81
+Methods call in assertion: [org/jfree/chart/entity/TickLabelEntity.equals]
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/entity/ChartEntity.equals
+top 10 recommendations: 
+org/jfree/chart/entity/ChartEntity.equals
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/entity/ChartEntity.equals
+org/jfree/chart/util/ObjectUtils.equal
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.plot.dial.DialCapTest.testCloning:146
+Methods call in assertion: [org/jfree/chart/plot/dial/DialCap.hasListener]
+org/jfree/chart/plot/dial/AbstractDialLayer.clone
+org/jfree/chart/plot/dial/AbstractDialLayer.hasListener
+top 10 recommendations: 
+org/jfree/chart/plot/dial/AbstractDialLayer.clone
+org/jfree/chart/plot/dial/AbstractDialLayer.hasListener
+after post processing ......
+org/jfree/chart/plot/dial/AbstractDialLayer.clone
+org/jfree/chart/plot/dial/AbstractDialLayer.hasListener
+found in top 10

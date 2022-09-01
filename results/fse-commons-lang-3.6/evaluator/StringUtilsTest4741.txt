@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testRemoveIgnoreCase_String:2862
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.removeIgnoreCase]
+org/apache/commons/lang3/StringUtils.removeIgnoreCase
+org/apache/commons/lang3/StringUtils.isEmpty
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.removeIgnoreCase
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/StringUtils.removeIgnoreCase
+org/apache/commons/lang3/StringUtils.isEmpty
+perfect match

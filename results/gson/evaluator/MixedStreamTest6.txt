@@ -1,0 +1,11 @@
+slicing criterion: com.google.gson.MixedStreamTest.testReaderDoesNotMutateState:84
+Methods call in assertion: [com/google/gson/stream/JsonReader.isLenient]
+com/google/gson/Gson.fromJson
+com/google/gson/stream/JsonReader.isLenient
+top 10 recommendations: 
+com/google/gson/Gson.fromJson
+com/google/gson/stream/JsonReader.isLenient
+after post processing ......
+com/google/gson/Gson.fromJson
+com/google/gson/stream/JsonReader.isLenient
+found in top 10

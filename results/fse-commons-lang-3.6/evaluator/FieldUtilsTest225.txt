@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.reflect.FieldUtilsTest.testWriteNamedField:1224
+Methods call in assertion: [org/apache/commons/lang3/reflect/FieldUtils.readField]
+org/apache/commons/lang3/reflect/FieldUtils.readField
+org/apache/commons/lang3/reflect/FieldUtils.getField
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/FieldUtils.readField
+org/apache/commons/lang3/reflect/FieldUtils.getField
+after post processing ......
+org/apache/commons/lang3/reflect/FieldUtils.readField
+org/apache/commons/lang3/reflect/FieldUtils.getField
+perfect match

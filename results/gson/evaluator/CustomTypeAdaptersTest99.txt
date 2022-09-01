@@ -1,0 +1,59 @@
+slicing criterion: com.google.gson.functional.CustomTypeAdaptersTest.testCustomDeserializerInvokedForPrimitives:233
+Methods call in assertion: [com/google/gson/Gson.fromJson]
+com/google/gson/Gson.<init>
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/Gson.fromJson
+com/google/gson/JsonPrimitive.getAsInt
+com/google/gson/internal/Streams.parse
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/LazilyParsedNumber.intValue
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/internal/bind/TreeTypeAdapter.read
+com/google/gson/stream/JsonReader.peek
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/GsonBuilder.registerTypeAdapter
+com/google/gson/GsonBuilder.create
+com/google/gson/JsonElement.isJsonNull
+com/google/gson/Gson.newJsonReader
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/Gson.getAdapter
+com/google/gson/internal/Excluder.excludeClass
+com/google/gson/internal/Excluder.create
+com/google/gson/reflect/TypeToken.equals
+com/google/gson/stream/JsonReader.doPeek
+top 10 recommendations: 
+com/google/gson/Gson.fromJson
+com/google/gson/internal/bind/TreeTypeAdapter.read
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/internal/Excluder.create
+com/google/gson/JsonPrimitive.getAsInt
+com/google/gson/stream/JsonReader.peek
+com/google/gson/GsonBuilder.create
+com/google/gson/Gson.newJsonReader
+com/google/gson/Gson.<init>
+after post processing ......
+com/google/gson/Gson.fromJson
+com/google/gson/internal/bind/TreeTypeAdapter.read
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/internal/Excluder.create
+com/google/gson/JsonPrimitive.getAsInt
+com/google/gson/stream/JsonReader.peek
+com/google/gson/GsonBuilder.create
+com/google/gson/Gson.newJsonReader
+com/google/gson/Gson.<init>
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/LazilyParsedNumber.intValue
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/GsonBuilder.registerTypeAdapter
+com/google/gson/JsonElement.isJsonNull
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/Gson.getAdapter
+com/google/gson/internal/Excluder.excludeClass
+com/google/gson/reflect/TypeToken.equals
+com/google/gson/stream/JsonReader.doPeek
+perfect match

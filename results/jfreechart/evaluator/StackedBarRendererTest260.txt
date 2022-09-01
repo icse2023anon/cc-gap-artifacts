@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.category.StackedBarRendererTest.testFindRangeBounds:128
+Methods call in assertion: [org/jfree/chart/renderer/category/StackedBarRenderer.findRangeBounds]
+org/jfree/chart/renderer/category/StackedBarRenderer.findRangeBounds
+top 10 recommendations: 
+org/jfree/chart/renderer/category/StackedBarRenderer.findRangeBounds
+after post processing ......
+org/jfree/chart/renderer/category/StackedBarRenderer.findRangeBounds
+perfect match

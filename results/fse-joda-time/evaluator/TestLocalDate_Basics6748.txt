@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestLocalDate_Basics.testIsBefore_LocalDate:687
+Methods call in assertion: [org/joda/time/LocalDate.isBefore]
+org/joda/time/LocalDate.compareTo
+org/joda/time/base/AbstractPartial.isBefore
+top 10 recommendations: 
+org/joda/time/LocalDate.compareTo
+org/joda/time/base/AbstractPartial.isBefore
+after post processing ......
+org/joda/time/LocalDate.compareTo
+org/joda/time/base/AbstractPartial.isBefore
+found in top 10

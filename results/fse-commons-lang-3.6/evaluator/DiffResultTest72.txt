@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.DiffResultTest.testToStringOutput:106
+Methods call in assertion: [org/apache/commons/lang3/builder/DiffResult.toString]
+org/apache/commons/lang3/builder/DiffBuilder.append
+org/apache/commons/lang3/builder/DiffResult.toString
+top 10 recommendations: 
+org/apache/commons/lang3/builder/DiffBuilder.append
+org/apache/commons/lang3/builder/DiffResult.toString
+after post processing ......
+org/apache/commons/lang3/builder/DiffBuilder.append
+org/apache/commons/lang3/builder/DiffResult.toString
+found in top 10

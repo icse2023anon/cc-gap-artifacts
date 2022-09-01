@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.CategoryMarkerTest.testGetSetDrawAsLine:198
+Methods call in assertion: [org/jfree/chart/plot/CategoryMarker.getDrawAsLine]
+org/jfree/chart/plot/CategoryMarker.getDrawAsLine
+top 10 recommendations: 
+org/jfree/chart/plot/CategoryMarker.getDrawAsLine
+after post processing ......
+org/jfree/chart/plot/CategoryMarker.getDrawAsLine
+perfect match

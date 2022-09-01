@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.StrTokenizerTest.testChaining:626
+Methods call in assertion: [org/apache/commons/lang3/text/StrTokenizer.reset]
+org/apache/commons/lang3/text/StrTokenizer.reset
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrTokenizer.reset
+after post processing ......
+org/apache/commons/lang3/text/StrTokenizer.reset
+perfect match

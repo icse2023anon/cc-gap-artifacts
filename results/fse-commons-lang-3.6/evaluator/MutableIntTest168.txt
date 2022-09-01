@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableIntTest.testToInteger:168
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableInt.toInteger]
+org/apache/commons/lang3/mutable/MutableInt.intValue
+org/apache/commons/lang3/mutable/MutableInt.toInteger
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableInt.toInteger
+org/apache/commons/lang3/mutable/MutableInt.intValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableInt.toInteger
+org/apache/commons/lang3/mutable/MutableInt.intValue
+perfect match

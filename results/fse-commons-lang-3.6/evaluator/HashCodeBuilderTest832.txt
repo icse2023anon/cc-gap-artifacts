@@ -1,0 +1,26 @@
+slicing criterion: org.apache.commons.lang3.builder.HashCodeBuilderTest.testReflectionHashCodeExcludeFields:533
+Methods call in assertion: [org/apache/commons/lang3/builder/HashCodeBuilder.reflectionHashCode]
+org/apache/commons/lang3/builder/HashCodeBuilder.isRegistered
+org/apache/commons/lang3/builder/HashCodeBuilder.getRegistry
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/builder/HashCodeBuilder.toHashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.append
+org/apache/commons/lang3/builder/HashCodeBuilder.reflectionHashCode
+top 10 recommendations: 
+org/apache/commons/lang3/builder/HashCodeBuilder.isRegistered
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/builder/HashCodeBuilder.reflectionHashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.getRegistry
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/builder/HashCodeBuilder.toHashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.append
+after post processing ......
+org/apache/commons/lang3/builder/HashCodeBuilder.isRegistered
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/builder/HashCodeBuilder.reflectionHashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.getRegistry
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/builder/HashCodeBuilder.toHashCode
+org/apache/commons/lang3/builder/HashCodeBuilder.append
+found in top 10

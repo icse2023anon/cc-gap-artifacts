@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestMinutes.testFactory_minutes_int:98
+Methods call in assertion: [org/joda/time/Minutes.minutes]
+org/joda/time/Minutes.minutes
+top 10 recommendations: 
+org/joda/time/Minutes.minutes
+after post processing ......
+org/joda/time/Minutes.minutes
+perfect match

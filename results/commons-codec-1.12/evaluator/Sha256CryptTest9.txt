@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.codec.digest.Sha256CryptTest.testSha2CryptRounds:58
+Methods call in assertion: [org/apache/commons/codec/digest/Sha2Crypt.sha256Crypt]
+org/apache/commons/codec/digest/DigestUtils.getDigest
+org/apache/commons/codec/digest/Sha2Crypt.sha256Crypt
+top 10 recommendations: 
+org/apache/commons/codec/digest/DigestUtils.getDigest
+org/apache/commons/codec/digest/Sha2Crypt.sha256Crypt
+after post processing ......
+org/apache/commons/codec/digest/DigestUtils.getDigest
+org/apache/commons/codec/digest/Sha2Crypt.sha256Crypt
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestYearMonth_Basics.testProperty:637
+Methods call in assertion: [org/joda/time/DateTimeFieldType.year, org/joda/time/YearMonth.year, org/joda/time/YearMonth.property]
+org/joda/time/YearMonth.setCopy
+org/joda/time/DateTimeFieldType.year
+top 10 recommendations: 
+org/joda/time/YearMonth.setCopy
+org/joda/time/DateTimeFieldType.year
+after post processing ......
+org/joda/time/YearMonth.setCopy
+org/joda/time/DateTimeFieldType.year
+not matched

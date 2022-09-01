@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.plot.CrosshairTest.testHashCode:162
+Methods call in assertion: [org/jfree/chart/plot/Crosshair.hashCode]
+org/jfree/chart/labels/StandardCrosshairLabelGenerator.hashCode
+org/jfree/chart/plot/Crosshair.hashCode
+org/jfree/chart/HashUtils.hashCode
+org/jfree/chart/HashUtils.hashCodeForPaint
+top 10 recommendations: 
+org/jfree/chart/plot/Crosshair.hashCode
+org/jfree/chart/HashUtils.hashCode
+org/jfree/chart/labels/StandardCrosshairLabelGenerator.hashCode
+org/jfree/chart/HashUtils.hashCodeForPaint
+after post processing ......
+org/jfree/chart/plot/Crosshair.hashCode
+org/jfree/chart/HashUtils.hashCode
+org/jfree/chart/labels/StandardCrosshairLabelGenerator.hashCode
+org/jfree/chart/HashUtils.hashCodeForPaint
+perfect match

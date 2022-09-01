@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.tuple.ImmutableTripleTest.testTripleOf:80
+Methods call in assertion: [org/apache/commons/lang3/tuple/ImmutableTriple.getRight]
+org/apache/commons/lang3/tuple/ImmutableTriple.getRight
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/ImmutableTriple.getRight
+after post processing ......
+org/apache/commons/lang3/tuple/ImmutableTriple.getRight
+perfect match

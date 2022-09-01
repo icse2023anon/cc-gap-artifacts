@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.labels.StandardPieSectionLabelGeneratorTest.testCloning:140
+Methods call in assertion: [org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals]
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.clone
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.clone
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+after post processing ......
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.clone
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+found in top 10

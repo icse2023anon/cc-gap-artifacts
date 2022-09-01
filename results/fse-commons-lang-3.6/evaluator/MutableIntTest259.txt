@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableIntTest.testPrimitiveValues:161
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableInt.floatValue]
+org/apache/commons/lang3/mutable/MutableInt.floatValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableInt.floatValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableInt.floatValue
+perfect match

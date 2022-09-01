@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.plot.PlotOrientationTest.testEquals:62
+Methods call in assertion: [org/jfree/chart/plot/PlotOrientation.equals]
+org/jfree/chart/plot/PlotOrientation.equals
+org/jfree/chart/plot/PlotOrientation.toString
+top 10 recommendations: 
+org/jfree/chart/plot/PlotOrientation.equals
+org/jfree/chart/plot/PlotOrientation.toString
+after post processing ......
+org/jfree/chart/plot/PlotOrientation.equals
+org/jfree/chart/plot/PlotOrientation.toString
+perfect match

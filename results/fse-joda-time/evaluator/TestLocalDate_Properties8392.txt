@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestLocalDate_Properties.testPropertyGetDay:380
+Methods call in assertion: [org/joda/time/LocalDate.dayOfMonth, org/joda/time/LocalDate$Property.getDurationField, org/joda/time/LocalDate.getChronology, org/joda/time/Chronology.days]
+org/joda/time/field/AbstractReadableInstantFieldProperty.getDurationField
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/LocalDate.getChronology
+top 10 recommendations: 
+org/joda/time/field/AbstractReadableInstantFieldProperty.getDurationField
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/LocalDate.getChronology
+after post processing ......
+org/joda/time/field/AbstractReadableInstantFieldProperty.getDurationField
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/LocalDate.getChronology
+not matched

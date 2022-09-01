@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_SOPHIE_SOFIA_SuccessfullyMatched:370
+Methods call in assertion: [org/apache/commons/codec/language/MatchRatingApproachEncoder.isEncodeEquals]
+org/apache/commons/codec/language/MatchRatingApproachEncoder.getMinRating
+org/apache/commons/codec/language/MatchRatingApproachEncoder.isEncodeEquals
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeDoubleConsonants
+org/apache/commons/codec/language/MatchRatingApproachEncoder.leftToRightThenRightToLeftProcessing
+org/apache/commons/codec/language/MatchRatingApproachEncoder.getFirst3Last3
+top 10 recommendations: 
+org/apache/commons/codec/language/MatchRatingApproachEncoder.isEncodeEquals
+org/apache/commons/codec/language/MatchRatingApproachEncoder.getMinRating
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeDoubleConsonants
+org/apache/commons/codec/language/MatchRatingApproachEncoder.leftToRightThenRightToLeftProcessing
+org/apache/commons/codec/language/MatchRatingApproachEncoder.getFirst3Last3
+after post processing ......
+org/apache/commons/codec/language/MatchRatingApproachEncoder.isEncodeEquals
+org/apache/commons/codec/language/MatchRatingApproachEncoder.getMinRating
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeDoubleConsonants
+org/apache/commons/codec/language/MatchRatingApproachEncoder.leftToRightThenRightToLeftProcessing
+org/apache/commons/codec/language/MatchRatingApproachEncoder.getFirst3Last3
+perfect match

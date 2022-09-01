@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMonths.testDividedBy_int:388
+Methods call in assertion: [org/joda/time/Months.dividedBy]
+org/joda/time/Months.months
+org/joda/time/Months.dividedBy
+top 10 recommendations: 
+org/joda/time/Months.dividedBy
+org/joda/time/Months.months
+after post processing ......
+org/joda/time/Months.dividedBy
+org/joda/time/Months.months
+perfect match

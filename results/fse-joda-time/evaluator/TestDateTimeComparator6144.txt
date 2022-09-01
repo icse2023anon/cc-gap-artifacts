@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTimeComparator.testStaticGetDateOnlyInstance:244
+Methods call in assertion: [org/joda/time/DateTimeComparator.toString]
+org/joda/time/DateTimeComparator.toString
+org/joda/time/DateTimeComparator.getDateOnlyInstance
+top 10 recommendations: 
+org/joda/time/DateTimeComparator.toString
+org/joda/time/DateTimeComparator.getDateOnlyInstance
+after post processing ......
+org/joda/time/DateTimeComparator.toString
+org/joda/time/DateTimeComparator.getDateOnlyInstance
+perfect match

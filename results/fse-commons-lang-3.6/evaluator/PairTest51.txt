@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.tuple.PairTest.testToStringCustom:117
+Methods call in assertion: [org/apache/commons/lang3/tuple/Pair.toString]
+org/apache/commons/lang3/tuple/ImmutablePair.getLeft
+org/apache/commons/lang3/tuple/Pair.toString
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/ImmutablePair.getLeft
+org/apache/commons/lang3/tuple/Pair.toString
+after post processing ......
+org/apache/commons/lang3/tuple/ImmutablePair.getLeft
+org/apache/commons/lang3/tuple/Pair.toString
+found in top 10

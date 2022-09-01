@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.tuple.ImmutablePairTest.testNullPairValue:126
+Methods call in assertion: [org/apache/commons/lang3/tuple/ImmutablePair.getValue, org/apache/commons/lang3/tuple/ImmutablePair.nullPair]
+org/apache/commons/lang3/tuple/ImmutablePair.getRight
+org/apache/commons/lang3/tuple/Pair.getValue
+org/apache/commons/lang3/tuple/ImmutablePair.nullPair
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/ImmutablePair.getRight
+org/apache/commons/lang3/tuple/Pair.getValue
+org/apache/commons/lang3/tuple/ImmutablePair.nullPair
+after post processing ......
+org/apache/commons/lang3/tuple/ImmutablePair.getRight
+org/apache/commons/lang3/tuple/Pair.getValue
+org/apache/commons/lang3/tuple/ImmutablePair.nullPair
+found in top 10

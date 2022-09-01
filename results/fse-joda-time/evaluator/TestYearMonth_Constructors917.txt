@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestYearMonth_Constructors.testConstructor_DateTimeZone:174
+Methods call in assertion: [org/joda/time/YearMonth.now]
+org/joda/time/YearMonth.setCopy
+top 10 recommendations: 
+org/joda/time/YearMonth.setCopy
+after post processing ......
+org/joda/time/YearMonth.setCopy
+not matched

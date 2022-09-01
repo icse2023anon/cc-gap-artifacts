@@ -1,0 +1,37 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testToString_DTFormatter:969
+Methods call in assertion: [org/joda/time/format/DateTimeFormat.forPattern, org/joda/time/Partial.toString]
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/base/AbstractPartial.toString
+org/joda/time/format/DateTimeFormatterBuilder.appendSignedDecimal
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/Partial.toString
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+top 10 recommendations: 
+org/joda/time/Partial.toString
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/base/AbstractPartial.toString
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/format/DateTimeFormatterBuilder.appendSignedDecimal
+after post processing ......
+org/joda/time/Partial.toString
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/base/AbstractPartial.toString
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/format/DateTimeFormatterBuilder.appendSignedDecimal
+org/joda/time/format/DateTimeFormatter.print
+found in top 10

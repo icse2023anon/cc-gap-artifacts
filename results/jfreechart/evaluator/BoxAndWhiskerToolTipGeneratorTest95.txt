@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.labels.BoxAndWhiskerToolTipGeneratorTest.testCloning:110
+Methods call in assertion: [org/jfree/chart/labels/BoxAndWhiskerToolTipGenerator.equals]
+org/jfree/chart/labels/BoxAndWhiskerToolTipGenerator.equals
+org/jfree/chart/labels/AbstractCategoryItemLabelGenerator.clone
+top 10 recommendations: 
+org/jfree/chart/labels/BoxAndWhiskerToolTipGenerator.equals
+org/jfree/chart/labels/AbstractCategoryItemLabelGenerator.clone
+after post processing ......
+org/jfree/chart/labels/BoxAndWhiskerToolTipGenerator.equals
+org/jfree/chart/labels/AbstractCategoryItemLabelGenerator.clone
+perfect match

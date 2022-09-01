@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsEqualsIndexOfTest.testIndexOfAnyBut_StringStringWithSupplementaryChars:574
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.indexOfAnyBut]
+org/apache/commons/lang3/CharSequenceUtils.indexOf
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/StringUtils.indexOfAnyBut
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.indexOfAnyBut
+org/apache/commons/lang3/CharSequenceUtils.indexOf
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/StringUtils.indexOfAnyBut
+org/apache/commons/lang3/CharSequenceUtils.indexOf
+org/apache/commons/lang3/StringUtils.isEmpty
+perfect match

@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.format.TestPeriodFormatterBuilder.testFormatMillis3Digit:387
+Methods call in assertion: [org/joda/time/format/PeriodFormatter.print]
+org/joda/time/format/PeriodFormatterBuilder.appendMillis3Digit
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+top 10 recommendations: 
+org/joda/time/format/PeriodFormatterBuilder.appendMillis3Digit
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+after post processing ......
+org/joda/time/format/PeriodFormatterBuilder.appendMillis3Digit
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+found in top 10

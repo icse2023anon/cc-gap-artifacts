@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestDateTimeComparator.testStaticGetInstanceLowerUpper:273
+Methods call in assertion: [org/joda/time/DateTimeFieldType.hourOfDay, org/joda/time/DateTimeComparator.getLowerLimit]
+org/joda/time/DateTimeComparator.getInstance
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeComparator.getLowerLimit
+top 10 recommendations: 
+org/joda/time/DateTimeComparator.getInstance
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeComparator.getLowerLimit
+after post processing ......
+org/joda/time/DateTimeComparator.getInstance
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeComparator.getLowerLimit
+found in top 10

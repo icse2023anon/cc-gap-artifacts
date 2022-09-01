@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestInterval_Basics.testGetDuration1:222
+Methods call in assertion: [org/joda/time/Duration.getMillis, org/joda/time/Interval.toDuration]
+org/joda/time/field/FieldUtils.safeSubtract
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/AbstractInterval.toDurationMillis
+org/joda/time/base/BaseDuration.getMillis
+org/joda/time/base/AbstractInterval.toDuration
+org/joda/time/base/BaseInterval.getStartMillis
+top 10 recommendations: 
+org/joda/time/base/AbstractInterval.toDuration
+org/joda/time/base/AbstractInterval.toDurationMillis
+org/joda/time/field/FieldUtils.safeSubtract
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/BaseDuration.getMillis
+org/joda/time/base/BaseInterval.getStartMillis
+after post processing ......
+org/joda/time/base/AbstractInterval.toDuration
+org/joda/time/base/AbstractInterval.toDurationMillis
+org/joda/time/field/FieldUtils.safeSubtract
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/BaseDuration.getMillis
+org/joda/time/base/BaseInterval.getStartMillis
+found in top 10

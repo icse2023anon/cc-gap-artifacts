@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTime_Constructors.testConstructor_badconverterObject:404
+Methods call in assertion: [org/joda/time/DateTime.getMillis]
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.getMillis
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.getMillis
+after post processing ......
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.getMillis
+not matched

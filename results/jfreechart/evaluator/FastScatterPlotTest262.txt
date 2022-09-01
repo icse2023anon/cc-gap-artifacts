@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.plot.FastScatterPlotTest.testEquals2:150
+Methods call in assertion: [org/jfree/chart/plot/FastScatterPlot.equals]
+org/jfree/chart/plot/FastScatterPlot.equals
+org/jfree/chart/util/ArrayUtils.equal
+top 10 recommendations: 
+org/jfree/chart/plot/FastScatterPlot.equals
+org/jfree/chart/util/ArrayUtils.equal
+after post processing ......
+org/jfree/chart/plot/FastScatterPlot.equals
+org/jfree/chart/util/ArrayUtils.equal
+perfect match

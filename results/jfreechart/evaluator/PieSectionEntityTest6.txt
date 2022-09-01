@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.entity.PieSectionEntityTest.testEquals:80
+Methods call in assertion: [org/jfree/chart/entity/PieSectionEntity.equals]
+org/jfree/data/general/DefaultPieDataset.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/data/general/DefaultPieDataset.getItemCount
+org/jfree/chart/entity/PieSectionEntity.equals
+top 10 recommendations: 
+org/jfree/data/general/DefaultPieDataset.equals
+org/jfree/chart/entity/PieSectionEntity.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/data/general/DefaultPieDataset.getItemCount
+after post processing ......
+org/jfree/data/general/DefaultPieDataset.equals
+org/jfree/chart/entity/PieSectionEntity.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/data/general/DefaultPieDataset.getItemCount
+found in top 10

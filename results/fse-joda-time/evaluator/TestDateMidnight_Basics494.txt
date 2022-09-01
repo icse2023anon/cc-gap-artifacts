@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestDateMidnight_Basics.testToDateTime_Chronology:584
+Methods call in assertion: [org/joda/time/DateTime.getZone]
+org/joda/time/DateTime.getMillis
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/base/AbstractInstant.getZone
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.getMillis
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/base/AbstractInstant.getZone
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.getMillis
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/base/AbstractInstant.getZone
+org/joda/time/DateTimeUtils.getChronology
+not matched

@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.renderer.category.StatisticalLineAndShapeRendererTest.testHashcode:96
+Methods call in assertion: [org/jfree/chart/renderer/category/StatisticalLineAndShapeRenderer.equals]
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/renderer/category/StatisticalLineAndShapeRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/category/StatisticalLineAndShapeRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/renderer/category/StatisticalLineAndShapeRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

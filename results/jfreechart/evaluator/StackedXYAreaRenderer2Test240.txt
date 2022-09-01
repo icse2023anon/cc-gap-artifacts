@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.xy.StackedXYAreaRenderer2Test.testHashcode:121
+Methods call in assertion: [org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.equals]
+org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.equals
+after post processing ......
+org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.equals
+perfect match

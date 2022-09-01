@@ -1,0 +1,579 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m----------------------------< [0;36mjaxen:jaxen[0;1m >-----------------------------[m
+[[1;34mINFO[m] [1mBuilding jaxen 1.2.0[m
+[[1;34mINFO[m] [1m-------------------------------[ bundle ]-------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mpitest-maven:1.6.7:mutationCoverage[m [1m(default-cli)[m @ [36mjaxen[0;1m ---[m
+[[1;34mINFO[m] Found plugin : Default csv report plugin
+[[1;34mINFO[m] Found plugin : Default xml report plugin
+[[1;34mINFO[m] Found plugin : Default html report plugin
+[[1;34mINFO[m] Found plugin : Static initializer code detector plugin
+[[1;34mINFO[m] Found plugin : Static initializer filter plugin
+[[1;34mINFO[m] Found plugin : Excluded annotations plugin
+[[1;34mINFO[m] Found plugin : Try with resources filter
+[[1;34mINFO[m] Found plugin : Inlined finally block filter plugin
+[[1;34mINFO[m] Found plugin : Implicit null check filter
+[[1;34mINFO[m] Found plugin : Method reference null check filter
+[[1;34mINFO[m] Found plugin : For each loop filter
+[[1;34mINFO[m] Found plugin : Enum constructor filter
+[[1;34mINFO[m] Found plugin : Logging calls filter
+[[1;34mINFO[m] Found plugin : Infinite for loop filter
+[[1;34mINFO[m] Found plugin : Long running iterator loop filter
+[[1;34mINFO[m] Found plugin : For loop counter filter
+[[1;34mINFO[m] Found plugin : Kotlin junk mutations filter
+[[1;34mINFO[m] Found plugin : Max mutations per class limit
+[[1;34mINFO[m] Found plugin : Equals shortcut equivalent mutant filter
+[[1;34mINFO[m] Found plugin : Trivial return vals equivalence filter
+[[1;34mINFO[m] Found plugin : Mutant export plugin
+[[1;34mINFO[m] Found shared classpath plugin : Default mutation engine
+[[1;34mINFO[m] Found shared classpath plugin : JUnit plugin
+[[1;34mINFO[m] Found shared classpath plugin : TestNG plugin
+[[1;34mINFO[m] Adding org.pitest:pitest to SUT classpath
+[[1;34mINFO[m] Mutating from /home/stg/omc_experiments/subjects/fse-jaxen-1.2.0/rq2_test_suites/test_suite_45/target/classes
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/stderr  : org.jaxen.FunctionCallException: The argument to the local-name function must be a node-set
+stderr  : 	at org.jaxen.function.LocalNameFunction.evaluate(LocalNameFunction.java:162)
+stderr  : 	at org.jaxen.function.LocalNameFunction.call(LocalNameFunction.java:98)
+stderr  : 	at org.jaxen.expr.DefaultFunctionCallExpr.evaluate(DefaultFunctionCallExpr.java:167)
+stderr  : 	at org.jaxen.expr.DefaultXPathExpr.asList(DefaultXPathExpr.java:93)
+stderr  : 	at org.jaxen.BaseXPath.selectNodesForContext(BaseXPath.java:675)
+stderr  : 	at org.jaxen.BaseXPath.selectNodes(BaseXPath.java:215)
+stderr  : 	at org.jaxen.test.LocalNameTest.testLocalNameNoArguments(LocalNameTest.java:181)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : org.jaxen.FunctionCallException: The argument to the local-name function must be a node-set
+stderr  : 	at org.jaxen.function.LocalNameFunction.evaluate(LocalNameFunction.java:162)
+stderr  : 	at org.jaxen.function.LocalNameFunction.call(LocalNameFunction.java:98)
+stderr  : 	at org.jaxen.expr.DefaultFunctionCallExpr.evaluate(DefaultFunctionCallExpr.java:167)
+stderr  : 	at org.jaxen.expr.DefaultXPathExpr.asList(DefaultXPathExpr.java:93)
+stderr  : 	at org.jaxen.BaseXPath.selectNodesForContext(BaseXPath.java:675)
+stderr  : 	at org.jaxen.BaseXPath.selectNodes(BaseXPath.java:215)
+stderr  : 	at org.jaxen.test.LocalNameTest.testLocalNameNoArguments(LocalNameTest.java:181)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : java.lang.NullPointerException
+stderr  : 	at org.jaxen.expr.DefaultBinaryExpr.simplify(DefaultBinaryExpr.java:88)
+stderr  : 	at org.jaxen.expr.DefaultBinaryExpr.simplify(DefaultBinaryExpr.java:87)
+stderr  : 	at org.jaxen.expr.DefaultBinaryExpr.simplify(DefaultBinaryExpr.java:87)
+stderr  : 	at org.jaxen.expr.DefaultPredicate.simplify(DefaultPredicate.java:82)
+stderr  : 	at org.jaxen.expr.PredicateSet.simplify(PredicateSet.java:121)
+stderr  : 	at org.jaxen.expr.DefaultStep.simplify(DefaultStep.java:106)
+stderr  : 	at org.jaxen.expr.DefaultLocationPath.simplify(DefaultLocationPath.java:79)
+stderr  : 	at org.jaxen.expr.DefaultAbsoluteLocationPath.simplify(DefaultAbsoluteLocationPath.java:63)
+stderr  : 	at org.jaxen.expr.DefaultPathExpr.simplify(DefaultPathExpr.java:114)
+stderr  : 	at org.jaxen.expr.DefaultXPathExpr.simplify(DefaultXPathExpr.java:88)
+stderr  : 	at org.jaxen.JaxenHandler.getXPathExpr(JaxenHandler.java:150)
+stderr  : 	at org.jaxen.JaxenHandler.getXPathExpr(JaxenHandler.java:131)
+stderr  : 	at org.jaxen.test.JaxenHandlerTest.testValidPaths(JaxenHandlerTest.java:138)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : org.jaxen.FunctionCallException: The argument to the local-name function must be a node-set
+stderr  : 	at org.jaxen.function.LocalNameFunction.evaluate(LocalNameFunction.java:162)
+stderr  : 	at org.jaxen.function.LocalNameFunction.call(LocalNameFunction.java:98)
+stderr  : 	at org.jaxen.expr.DefaultFunctionCallExpr.evaluate(DefaultFunctionCallExpr.java:167)
+stderr  : 	at org.jaxen.expr.DefaultXPathExpr.asList(DefaultXPathExpr.java:93)
+stderr  : 	at org.jaxen.BaseXPath.selectNodesForContext(BaseXPath.java:675)
+stderr  : 	at org.jaxen.BaseXPath.selectNodes(BaseXPath.java:215)
+stderr  : 	at org.jaxen.test.LocalNameTest.testLocalNameNoArguments(LocalNameTest.java:181)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : org.jaxen.FunctionCallException: The argument to the local-name function must be a node-set
+stderr  : 	at org.jaxen.function.LocalNameFunction.evaluate(LocalNameFunction.java:162)
+stderr  : 	at org.jaxen.function.LocalNameFunction.call(LocalNameFunction.java:98)
+stderr  : 	at org.jaxen.expr.DefaultFunctionCallExpr.evaluate(DefaultFunctionCallExpr.java:167)
+stderr  : 	at org.jaxen.expr.DefaultXPathExpr.asList(DefaultXPathExpr.java:93)
+stderr  : 	at org.jaxen.BaseXPath.selectNodesForContext(BaseXPath.java:675)
+stderr  : 	at org.jaxen.BaseXPath.selectNodes(BaseXPath.java:215)
+stderr  : 	at org.jaxen.test.LocalNameTest.testLocalNameNoArguments(LocalNameTest.java:181)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : java.lang.ClassCastException: [#document: null] is not a processing instruction
+stderr  : 	at org.jaxen.dom.DocumentNavigator.getProcessingInstructionTarget(DocumentNavigator.java:786)
+stderr  : 	at org.jaxen.function.LocalNameFunction.evaluate(LocalNameFunction.java:143)
+stderr  : 	at org.jaxen.function.LocalNameFunction.call(LocalNameFunction.java:98)
+stderr  : 	at org.jaxen.expr.DefaultFunctionCallExpr.evaluate(DefaultFunctionCallExpr.java:167)
+stderr  : 	at org.jaxen.expr.DefaultXPathExpr.asList(DefaultXPathExpr.java:93)
+stderr  : 	at org.jaxen.BaseXPath.selectNodesForContext(BaseXPath.java:675)
+stderr  : 	at org.jaxen.BaseXPath.selectNodes(BaseXPath.java:215)
+stderr  : 	at org.jaxen.test.LocalNameTest.testLocalNameNoArguments(LocalNameTest.java:181)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : org.jaxen.FunctionCallException: The argument to the name function must be a node-set
+stderr  : 	at org.jaxen.function.NameFunction.evaluate(NameFunction.java:167)
+stderr  : 	at org.jaxen.function.NameFunction.call(NameFunction.java:103)
+stderr  : 	at org.jaxen.expr.DefaultFunctionCallExpr.evaluate(DefaultFunctionCallExpr.java:167)
+stderr  : 	at org.jaxen.expr.DefaultXPathExpr.asList(DefaultXPathExpr.java:93)
+stderr  : 	at org.jaxen.BaseXPath.selectNodesForContext(BaseXPath.java:675)
+stderr  : 	at org.jaxen.BaseXPath.selectNodes(BaseXPath.java:215)
+stderr  : 	at org.jaxen.test.NameTest.testNameNoArguments(NameTest.java:174)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : org.jaxen.FunctionCallException: The argument to the name function must be a node-set
+stderr  : 	at org.jaxen.function.NameFunction.evaluate(NameFunction.java:167)
+stderr  : 	at org.jaxen.function.NameFunction.call(NameFunction.java:103)
+stderr  : 	at org.jaxen.expr.DefaultFunctionCallExpr.evaluate(DefaultFunctionCallExpr.java:167)
+stderr  : 	at org.jaxen.expr.DefaultXPathExpr.asList(DefaultXPathExpr.java:93)
+stderr  : 	at org.jaxen.BaseXPath.selectNodesForContext(BaseXPath.java:675)
+stderr  : 	at org.jaxen.BaseXPath.selectNodes(BaseXPath.java:215)
+stderr  : 	at org.jaxen.test.NameTest.testNameNoArguments(NameTest.java:174)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : java.lang.ClassCastException: [#document: null] is not a processing instruction
+stderr  : 	at org.jaxen.dom.DocumentNavigator.getProcessingInstructionTarget(DocumentNavigator.java:786)
+stderr  : 	at org.jaxen.function.NameFunction.evaluate(NameFunction.java:148)
+stderr  : 	at org.jaxen.function.NameFunction.call(NameFunction.java:103)
+stderr  : 	at org.jaxen.expr.DefaultFunctionCallExpr.evaluate(DefaultFunctionCallExpr.java:167)
+stderr  : 	at org.jaxen.expr.DefaultXPathExpr.asList(DefaultXPathExpr.java:93)
+stderr  : 	at org.jaxen.BaseXPath.selectNodesForContext(BaseXPath.java:675)
+stderr  : 	at org.jaxen.BaseXPath.selectNodes(BaseXPath.java:215)
+stderr  : 	at org.jaxen.test.NameTest.testNameNoArguments(NameTest.java:174)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : java.lang.ClassCastException: org.jaxen.expr.DefaultPathExpr cannot be cast to org.jaxen.expr.Predicate
+stderr  : 	at org.jaxen.JaxenHandler.addPredicates(JaxenHandler.java:379)
+stderr  : 	at org.jaxen.JaxenHandler.endFilterExpr(JaxenHandler.java:368)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.filterExpr(XPathReader.java:248)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.pathExpr(XPathReader.java:125)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.unionExpr(XPathReader.java:839)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.unaryExpr(XPathReader.java:828)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.multiplicativeExpr(XPathReader.java:785)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.additiveExpr(XPathReader.java:768)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.relationalExpr(XPathReader.java:713)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.equalityExpr(XPathReader.java:687)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.andExpr(XPathReader.java:670)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.orExpr(XPathReader.java:651)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.expr(XPathReader.java:645)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.parse(XPathReader.java:90)
+stderr  : 	at org.jaxen.test.JaxenHandlerTest.testValidPaths(JaxenHandlerTest.java:136)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : class org.jaxen.saxpath.XPathSyntaxException: /foo/bar/baz[(1 or 2) + 3 * 4 + 8 and 9]: 26: Expected: ]
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.createSyntaxException(XPathReader.java:906)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.match(XPathReader.java:866)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.predicate(XPathReader.java:635)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.predicates(XPathReader.java:621)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.nameTest(XPathReader.java:594)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.nodeTest(XPathReader.java:490)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.step(XPathReader.java:450)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.steps(XPathReader.java:411)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.absoluteLocationPath(XPathReader.java:310)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.locationPath(XPathReader.java:275)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.pathExpr(XPathReader.java:160)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.unionExpr(XPathReader.java:839)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.unaryExpr(XPathReader.java:828)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.multiplicativeExpr(XPathReader.java:785)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.additiveExpr(XPathReader.java:760)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.relationalExpr(XPathReader.java:713)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.equalityExpr(XPathReader.java:687)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.andExpr(XPathReader.java:670)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.orExpr(XPathReader.java:651)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.expr(XPathReader.java:645)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.parse(XPathReader.java:90)
+stderr  : 	at org.jaxen.test.JaxenHandlerTest.testValidPaths(JaxenHandlerTest.java:136)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : class org.jaxen.saxpath.XPathSyntaxException: /child::node()/child::node()[@id='_13563275']: 28: Unexpected '['
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.createSyntaxException(XPathReader.java:906)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.parse(XPathReader.java:95)
+stderr  : 	at org.jaxen.test.JaxenHandlerTest.testValidPaths(JaxenHandlerTest.java:136)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : class org.jaxen.saxpath.XPathSyntaxException: $foo:bar: 4: Unexpected ':'
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.createSyntaxException(XPathReader.java:906)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.parse(XPathReader.java:95)
+stderr  : 	at org.jaxen.test.JaxenHandlerTest.testValidPaths(JaxenHandlerTest.java:136)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : class org.jaxen.saxpath.XPathSyntaxException: .[1]: 1: Unexpected '['
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.createSyntaxException(XPathReader.java:906)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.parse(XPathReader.java:95)
+stderr  : 	at org.jaxen.test.JaxenHandlerTest.testValidPaths(JaxenHandlerTest.java:136)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+stderr  : java.util.NoSuchElementException
+stderr  : 	at java.util.LinkedList.removeLast(LinkedList.java:283)
+stderr  : 	at org.jaxen.JaxenHandler.pop(JaxenHandler.java:594)
+stderr  : 	at org.jaxen.JaxenHandler.endAdditiveExpr(JaxenHandler.java:474)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.additiveExpr(XPathReader.java:769)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.relationalExpr(XPathReader.java:713)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.equalityExpr(XPathReader.java:687)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.andExpr(XPathReader.java:670)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.orExpr(XPathReader.java:651)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.expr(XPathReader.java:645)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.predicateExpr(XPathReader.java:641)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.predicate(XPathReader.java:633)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.predicates(XPathReader.java:621)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.nameTest(XPathReader.java:594)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.nodeTest(XPathReader.java:490)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.step(XPathReader.java:450)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.steps(XPathReader.java:411)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.absoluteLocationPath(XPathReader.java:310)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.locationPath(XPathReader.java:275)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.pathExpr(XPathReader.java:160)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.unionExpr(XPathReader.java:839)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.unaryExpr(XPathReader.java:828)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.multiplicativeExpr(XPathReader.java:785)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.additiveExpr(XPathReader.java:760)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.relationalExpr(XPathReader.java:713)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.equalityExpr(XPathReader.java:687)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.andExpr(XPathReader.java:670)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.orExpr(XPathReader.java:651)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.expr(XPathReader.java:645)
+stderr  : 	at org.jaxen.saxpath.base.XPathReader.parse(XPathReader.java:90)
+stderr  : 	at org.jaxen.test.JaxenHandlerTest.testValidPaths(JaxenHandlerTest.java:136)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+stderr  : 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+stderr  : 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+stderr  : 	at java.lang.reflect.Method.invoke(Method.java:498)
+stderr  : 	at junit.framework.TestCase.runTest(TestCase.java:176)
+stderr  : 	at junit.framework.TestCase.runBare(TestCase.java:141)
+stderr  : 	at junit.framework.TestResult$1.protect(TestResult.java:122)
+stderr  : 	at junit.framework.TestResult.runProtected(TestResult.java:142)
+stderr  : 	at junit.framework.TestResult.run(TestResult.java:125)
+stderr  : 	at junit.framework.TestCase.run(TestCase.java:129)
+stderr  : 	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+stderr  : 	at junit.framework.TestSuite.run(TestSuite.java:247)
+stderr  : 	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+stderr  : 	at org.pitest.junit.adapter.CustomRunnerExecutor.run(CustomRunnerExecutor.java:42)
+stderr  : 	at org.pitest.junit.adapter.AdaptedJUnitTestUnit.execute(AdaptedJUnitTestUnit.java:69)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTimeoutDecorator.lambda$createRunnable$0(MutationTimeoutDecorator.java:81)
+stderr  : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+stderr  : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+stderr  : 	at java.lang.Thread.run(Thread.java:748)
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-================================================================================
+- Mutators
+================================================================================
+> org.pitest.mutationtest.engine.gregor.mutators.BooleanTrueReturnValsMutator
+>> Generated 419 Killed 91 (22%)
+> KILLED 89 SURVIVED 23 TIMED_OUT 2 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 305 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.EmptyObjectReturnValsMutator
+>> Generated 370 Killed 164 (44%)
+> KILLED 164 SURVIVED 31 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 175 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.ConditionalsBoundaryMutator
+>> Generated 557 Killed 44 (8%)
+> KILLED 44 SURVIVED 334 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 179 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.IncrementsMutator
+>> Generated 34 Killed 31 (91%)
+> KILLED 27 SURVIVED 0 TIMED_OUT 4 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 3 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator
+>> Generated 408 Killed 269 (66%)
+> KILLED 263 SURVIVED 72 TIMED_OUT 6 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 67 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.NullReturnValsMutator
+>> Generated 438 Killed 317 (72%)
+> KILLED 317 SURVIVED 23 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 98 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.experimental.SwitchMutator
+>> Generated 47 Killed 44 (94%)
+> KILLED 40 SURVIVED 1 TIMED_OUT 4 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 2 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.RemoveConditionalMutator_EQUAL_ELSE
+>> Generated 986 Killed 516 (52%)
+> KILLED 504 SURVIVED 232 TIMED_OUT 12 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 238 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.MathMutator
+>> Generated 60 Killed 25 (42%)
+> KILLED 25 SURVIVED 30 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 5 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.BooleanFalseReturnValsMutator
+>> Generated 421 Killed 53 (13%)
+> KILLED 53 SURVIVED 13 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 355 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator
+>> Generated 1544 Killed 917 (59%)
+> KILLED 900 SURVIVED 209 TIMED_OUT 17 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 418 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.PrimitiveReturnsMutator
+>> Generated 71 Killed 39 (55%)
+> KILLED 39 SURVIVED 19 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 13 
+--------------------------------------------------------------------------------
+================================================================================
+- Timings
+================================================================================
+> pre-scan for mutations : 9 seconds
+> scan classpath : < 1 second
+> coverage and dependency analysis : 9 seconds
+> build mutation tests : 9 seconds
+> run mutation analysis : 11 minutes and 40 seconds
+--------------------------------------------------------------------------------
+> Total  : 12 minutes and 9 seconds
+--------------------------------------------------------------------------------
+================================================================================
+- Statistics
+================================================================================
+>> Line Coverage: 3854/5193 (74%)
+>> Generated 5355 mutations Killed 2510 (47%)
+>> Mutations with no coverage 1858. Test strength 72%
+>> Ran 295814 tests (55.24 tests per mutation)
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  12:20 min
+[[1;34mINFO[m] Finished at: 2022-08-31T02:30:14Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m

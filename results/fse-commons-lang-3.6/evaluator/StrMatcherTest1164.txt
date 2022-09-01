@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.StrMatcherTest.testNoneMatcher:151
+Methods call in assertion: [org/apache/commons/lang3/text/StrMatcher.noneMatcher]
+org/apache/commons/lang3/text/StrMatcher.noneMatcher
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrMatcher.noneMatcher
+after post processing ......
+org/apache/commons/lang3/text/StrMatcher.noneMatcher
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.category.GanttRendererTest.testEquals:82
+Methods call in assertion: [org/jfree/chart/renderer/category/GanttRenderer.equals]
+org/jfree/chart/renderer/category/GanttRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+top 10 recommendations: 
+org/jfree/chart/renderer/category/GanttRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/renderer/category/GanttRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+perfect match

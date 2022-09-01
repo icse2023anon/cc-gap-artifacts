@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestPeriod_Basics.testMinusFields:1025
+Methods call in assertion: [org/joda/time/PeriodType.standard]
+org/joda/time/Period.minusHours
+org/joda/time/PeriodType.standard
+org/joda/time/Period.plusHours
+top 10 recommendations: 
+org/joda/time/Period.minusHours
+org/joda/time/PeriodType.standard
+org/joda/time/Period.plusHours
+after post processing ......
+org/joda/time/Period.minusHours
+org/joda/time/PeriodType.standard
+org/joda/time/Period.plusHours
+found in top 10

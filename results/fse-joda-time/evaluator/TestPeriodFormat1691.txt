@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.format.TestPeriodFormat.test_wordBased_nl_cached:393
+Methods call in assertion: [org/joda/time/format/PeriodFormat.wordBased]
+org/joda/time/format/PeriodFormat.wordBased
+top 10 recommendations: 
+org/joda/time/format/PeriodFormat.wordBased
+after post processing ......
+org/joda/time/format/PeriodFormat.wordBased
+perfect match

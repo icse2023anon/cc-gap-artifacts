@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.needle.MiddlePinNeedleTest.testEquals:60
+Methods call in assertion: [org/jfree/chart/needle/MiddlePinNeedle.equals]
+org/jfree/chart/needle/MiddlePinNeedle.equals
+top 10 recommendations: 
+org/jfree/chart/needle/MiddlePinNeedle.equals
+after post processing ......
+org/jfree/chart/needle/MiddlePinNeedle.equals
+perfect match

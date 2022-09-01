@@ -1,0 +1,8 @@
+slicing criterion: org.codehaus.plexus.util.FileUtilsTest.testFileUtils:628
+Methods call in assertion: [org/codehaus/plexus/util/FileUtils.fileExists]
+org/codehaus/plexus/util/FileUtils.fileExists
+top 10 recommendations: 
+org/codehaus/plexus/util/FileUtils.fileExists
+after post processing ......
+org/codehaus/plexus/util/FileUtils.fileExists
+perfect match

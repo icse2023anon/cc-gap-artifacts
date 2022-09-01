@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.labels.StandardCategorySeriesLabelGeneratorTest.testCloning:117
+Methods call in assertion: [org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.equals]
+org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.equals
+org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.clone
+top 10 recommendations: 
+org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.equals
+org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.clone
+after post processing ......
+org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.equals
+org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.clone
+perfect match

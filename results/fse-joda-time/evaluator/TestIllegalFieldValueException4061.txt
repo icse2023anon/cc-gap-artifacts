@@ -1,0 +1,39 @@
+slicing criterion: org.joda.time.TestIllegalFieldValueException.testReadablePartialValidate:314
+Methods call in assertion: [org/joda/time/IllegalFieldValueException.getUpperBound]
+org/joda/time/base/BasePartial.<init>
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonthDay.addToCopy
+org/joda/time/chrono/BasicGJChronology.getDaysInYearMonth
+org/joda/time/DateTimeFieldType.year
+org/joda/time/YearMonthDay.size
+org/joda/time/chrono/GregorianChronology.isLeapYear
+org/joda/time/YearMonthDay.getFieldType
+org/joda/time/chrono/BasicDayOfMonthDateTimeField.getMaximumValue
+org/joda/time/chrono/BaseChronology.validate
+org/joda/time/DateTimeFieldType.monthOfYear
+org/joda/time/IllegalFieldValueException.getUpperBound
+top 10 recommendations: 
+org/joda/time/chrono/BasicDayOfMonthDateTimeField.getMaximumValue
+org/joda/time/base/BasePartial.<init>
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonthDay.addToCopy
+org/joda/time/chrono/BasicGJChronology.getDaysInYearMonth
+org/joda/time/DateTimeFieldType.year
+org/joda/time/YearMonthDay.size
+org/joda/time/chrono/GregorianChronology.isLeapYear
+org/joda/time/YearMonthDay.getFieldType
+org/joda/time/chrono/BaseChronology.validate
+after post processing ......
+org/joda/time/chrono/BasicDayOfMonthDateTimeField.getMaximumValue
+org/joda/time/base/BasePartial.<init>
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonthDay.addToCopy
+org/joda/time/chrono/BasicGJChronology.getDaysInYearMonth
+org/joda/time/DateTimeFieldType.year
+org/joda/time/YearMonthDay.size
+org/joda/time/chrono/GregorianChronology.isLeapYear
+org/joda/time/YearMonthDay.getFieldType
+org/joda/time/chrono/BaseChronology.validate
+org/joda/time/DateTimeFieldType.monthOfYear
+org/joda/time/IllegalFieldValueException.getUpperBound
+all method calls are suggested

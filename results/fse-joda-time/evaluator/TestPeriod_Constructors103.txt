@@ -1,0 +1,49 @@
+slicing criterion: org.joda.time.TestPeriod_Constructors.testConstructor_long_PeriodType3:361
+Methods call in assertion: [org/joda/time/Period.getMillis]
+org/joda/time/chrono/AssembledChronology.millis
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/AbstractPeriod.getFieldType
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/base/BasePeriod.getValue
+org/joda/time/PeriodType.dayTime
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/Period.getMillis
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/Period.getMillis
+org/joda/time/chrono/AssembledChronology.millis
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/AbstractPeriod.getFieldType
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+after post processing ......
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/Period.getMillis
+org/joda/time/chrono/AssembledChronology.millis
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/AbstractPeriod.getFieldType
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/base/BasePeriod.getValue
+org/joda/time/PeriodType.dayTime
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/PeriodType.getIndexedField
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.jsoup.parser.TagTest.imgSemantics:52
+Methods call in assertion: [org/jsoup/parser/Tag.isInline]
+org/jsoup/parser/Tag.valueOf
+org/jsoup/parser/Tag.isInline
+top 10 recommendations: 
+org/jsoup/parser/Tag.valueOf
+org/jsoup/parser/Tag.isInline
+after post processing ......
+org/jsoup/parser/Tag.valueOf
+org/jsoup/parser/Tag.isInline
+found in top 10

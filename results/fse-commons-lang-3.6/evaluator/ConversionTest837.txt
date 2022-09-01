@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testIntToHex:1362
+Methods call in assertion: [org/apache/commons/lang3/Conversion.intToHex]
+org/apache/commons/lang3/Conversion.intToHex
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.intToHex
+after post processing ......
+org/apache/commons/lang3/Conversion.intToHex
+perfect match

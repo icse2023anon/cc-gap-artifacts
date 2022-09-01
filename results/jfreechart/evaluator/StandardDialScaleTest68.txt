@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.plot.dial.StandardDialScaleTest.testCloning:194
+Methods call in assertion: [org/jfree/chart/plot/dial/StandardDialScale.equals]
+org/jfree/chart/plot/dial/StandardDialScale.clone
+org/jfree/chart/plot/dial/StandardDialScale.equals
+org/jfree/chart/util/PaintUtils.equal
+top 10 recommendations: 
+org/jfree/chart/plot/dial/StandardDialScale.equals
+org/jfree/chart/plot/dial/StandardDialScale.clone
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/plot/dial/StandardDialScale.equals
+org/jfree/chart/plot/dial/StandardDialScale.clone
+org/jfree/chart/util/PaintUtils.equal
+perfect match

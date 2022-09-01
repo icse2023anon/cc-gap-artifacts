@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDays.testToString:262
+Methods call in assertion: [org/joda/time/Days.toString]
+org/joda/time/Days.toString
+org/joda/time/Days.days
+top 10 recommendations: 
+org/joda/time/Days.toString
+org/joda/time/Days.days
+after post processing ......
+org/joda/time/Days.toString
+org/joda/time/Days.days
+perfect match

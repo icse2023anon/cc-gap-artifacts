@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.field.TestOffsetDateTimeField.test_getAsText_RP_int_Locale:216
+Methods call in assertion: [org/joda/time/field/OffsetDateTimeField.getAsText]
+org/joda/time/field/BaseDateTimeField.getAsText
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.getAsText
+after post processing ......
+org/joda/time/field/BaseDateTimeField.getAsText
+perfect match

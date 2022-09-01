@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testProperty:1118
+Methods call in assertion: [org/joda/time/LocalDateTime$Property.getLocalDateTime, org/joda/time/LocalDateTime.property, org/joda/time/DateTimeFieldType.minuteOfDay]
+org/joda/time/LocalDateTime.toDateTime
+org/joda/time/DateTimeFieldType.minuteOfDay
+top 10 recommendations: 
+org/joda/time/LocalDateTime.toDateTime
+org/joda/time/DateTimeFieldType.minuteOfDay
+after post processing ......
+org/joda/time/LocalDateTime.toDateTime
+org/joda/time/DateTimeFieldType.minuteOfDay
+not matched

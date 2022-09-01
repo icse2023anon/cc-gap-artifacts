@@ -1,0 +1,14 @@
+slicing criterion: com.google.gson.ExposeAnnotationExclusionStrategyTest.testSkipExplicitlySkippedFields:47
+Methods call in assertion: [com/google/gson/internal/Excluder.excludeField]
+com/google/gson/internal/Excluder.clone
+com/google/gson/internal/Excluder.excludeFieldsWithoutExposeAnnotation
+com/google/gson/internal/Excluder.excludeField
+top 10 recommendations: 
+com/google/gson/internal/Excluder.excludeFieldsWithoutExposeAnnotation
+com/google/gson/internal/Excluder.clone
+com/google/gson/internal/Excluder.excludeField
+after post processing ......
+com/google/gson/internal/Excluder.excludeFieldsWithoutExposeAnnotation
+com/google/gson/internal/Excluder.clone
+com/google/gson/internal/Excluder.excludeField
+found in top 10

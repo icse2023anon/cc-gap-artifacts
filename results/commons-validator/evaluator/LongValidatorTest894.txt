@@ -1,0 +1,32 @@
+slicing criterion: org.apache.commons.validator.routines.LongValidatorTest.testLongValidatorMethods:94
+Methods call in assertion: [org/apache/commons/validator/routines/LongValidator.getInstance, org/apache/commons/validator/routines/LongValidator.isValid]
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/LongValidator.getInstance
+org/apache/commons/validator/routines/AbstractNumberValidator.isValid
+org/apache/commons/validator/routines/AbstractFormatValidator.isValid
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/LongValidator.processParsedValue
+org/apache/commons/validator/routines/LongValidator.validate
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+top 10 recommendations: 
+org/apache/commons/validator/routines/AbstractNumberValidator.isValid
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/LongValidator.getInstance
+org/apache/commons/validator/routines/AbstractFormatValidator.isValid
+org/apache/commons/validator/routines/LongValidator.processParsedValue
+org/apache/commons/validator/routines/LongValidator.validate
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+after post processing ......
+org/apache/commons/validator/routines/AbstractNumberValidator.isValid
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/LongValidator.getInstance
+org/apache/commons/validator/routines/AbstractFormatValidator.isValid
+org/apache/commons/validator/routines/LongValidator.processParsedValue
+org/apache/commons/validator/routines/LongValidator.validate
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+found in top 10

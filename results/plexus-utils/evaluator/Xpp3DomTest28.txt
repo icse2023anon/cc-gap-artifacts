@@ -1,0 +1,17 @@
+slicing criterion: org.codehaus.plexus.util.xml.Xpp3DomTest.testShouldOverrideAppendAndDeepMerge:78
+Methods call in assertion: [org/codehaus/plexus/util/xml/Xpp3Dom.getChildren]
+org/codehaus/plexus/util/xml/Xpp3Dom.addChild
+org/codehaus/plexus/util/xml/Xpp3Dom.mergeXpp3Dom
+org/codehaus/plexus/util/xml/Xpp3Dom.getChildren
+org/codehaus/plexus/util/xml/Xpp3Dom.getName
+top 10 recommendations: 
+org/codehaus/plexus/util/xml/Xpp3Dom.addChild
+org/codehaus/plexus/util/xml/Xpp3Dom.getChildren
+org/codehaus/plexus/util/xml/Xpp3Dom.mergeXpp3Dom
+org/codehaus/plexus/util/xml/Xpp3Dom.getName
+after post processing ......
+org/codehaus/plexus/util/xml/Xpp3Dom.addChild
+org/codehaus/plexus/util/xml/Xpp3Dom.getChildren
+org/codehaus/plexus/util/xml/Xpp3Dom.mergeXpp3Dom
+org/codehaus/plexus/util/xml/Xpp3Dom.getName
+found in top 10

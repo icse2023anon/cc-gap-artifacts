@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.validator.routines.CurrencyValidatorTest.testPattern:181
+Methods call in assertion: [org/apache/commons/validator/routines/BigDecimalValidator.validate]
+org/apache/commons/validator/routines/CurrencyValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/CurrencyValidator.getInstance
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/BigDecimalValidator.validate
+top 10 recommendations: 
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/CurrencyValidator.parse
+org/apache/commons/validator/routines/CurrencyValidator.getInstance
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/BigDecimalValidator.validate
+after post processing ......
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/CurrencyValidator.parse
+org/apache/commons/validator/routines/CurrencyValidator.getInstance
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/BigDecimalValidator.validate
+found in top 10

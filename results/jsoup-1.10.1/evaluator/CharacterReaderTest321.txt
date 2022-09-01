@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.parser.CharacterReaderTest.rangeEquals:233
+Methods call in assertion: [org/jsoup/parser/CharacterReader.rangeEquals]
+org/jsoup/parser/CharacterReader.rangeEquals
+top 10 recommendations: 
+org/jsoup/parser/CharacterReader.rangeEquals
+after post processing ......
+org/jsoup/parser/CharacterReader.rangeEquals
+perfect match

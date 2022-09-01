@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.chrono.TestISOChronology.testDurationFields:219
+Methods call in assertion: [org/joda/time/DurationField.isPrecise, org/joda/time/chrono/ISOChronology.years]
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.years
+top 10 recommendations: 
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.years
+after post processing ......
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.years
+not matched

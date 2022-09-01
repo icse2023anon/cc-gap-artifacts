@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.util.LineUtilsTest.testClipLine:114
+Methods call in assertion: [org/jfree/chart/util/LineUtils.clipLine]
+org/jfree/chart/util/LineUtils.clipLine
+top 10 recommendations: 
+org/jfree/chart/util/LineUtils.clipLine
+after post processing ......
+org/jfree/chart/util/LineUtils.clipLine
+perfect match

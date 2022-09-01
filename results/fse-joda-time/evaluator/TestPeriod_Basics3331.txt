@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_weekDay3:1604
+Methods call in assertion: [org/joda/time/PeriodType.dayTime]
+org/joda/time/Period.normalizedStandard
+org/joda/time/PeriodType.dayTime
+top 10 recommendations: 
+org/joda/time/Period.normalizedStandard
+org/joda/time/PeriodType.dayTime
+after post processing ......
+org/joda/time/Period.normalizedStandard
+org/joda/time/PeriodType.dayTime
+found in top 10

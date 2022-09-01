@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMutableInterval_Updates.testSetPeriodAfterStart_RI1:396
+Methods call in assertion: [org/joda/time/MutableInterval.getStartMillis]
+org/joda/time/MutableInterval.setPeriodAfterStart
+org/joda/time/base/BaseInterval.getStartMillis
+top 10 recommendations: 
+org/joda/time/MutableInterval.setPeriodAfterStart
+org/joda/time/base/BaseInterval.getStartMillis
+after post processing ......
+org/joda/time/MutableInterval.setPeriodAfterStart
+org/joda/time/base/BaseInterval.getStartMillis
+found in top 10

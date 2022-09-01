@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.plot.CompassPlotTest.testEquals:79
+Methods call in assertion: [org/jfree/chart/plot/CompassPlot.equals]
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/CompassPlot.setLabelType
+org/jfree/chart/plot/CompassPlot.equals
+top 10 recommendations: 
+org/jfree/chart/plot/CompassPlot.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/CompassPlot.setLabelType
+after post processing ......
+org/jfree/chart/plot/CompassPlot.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/CompassPlot.setLabelType
+perfect match

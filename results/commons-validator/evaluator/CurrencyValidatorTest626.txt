@@ -1,0 +1,29 @@
+slicing criterion: org.apache.commons.validator.routines.CurrencyValidatorTest.testIntegerInvalid:155
+Methods call in assertion: [org/apache/commons/validator/routines/CurrencyValidator.isValid]
+org/apache/commons/validator/routines/AbstractNumberValidator.isValid
+org/apache/commons/validator/routines/AbstractFormatValidator.isValid
+org/apache/commons/validator/routines/CurrencyValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/CurrencyValidator.getInstance
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/CurrencyValidator.<init>
+org/apache/commons/validator/routines/BigDecimalValidator.validate
+top 10 recommendations: 
+org/apache/commons/validator/routines/AbstractNumberValidator.isValid
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isValid
+org/apache/commons/validator/routines/CurrencyValidator.parse
+org/apache/commons/validator/routines/CurrencyValidator.getInstance
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/CurrencyValidator.<init>
+org/apache/commons/validator/routines/BigDecimalValidator.validate
+after post processing ......
+org/apache/commons/validator/routines/AbstractNumberValidator.isValid
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isValid
+org/apache/commons/validator/routines/CurrencyValidator.parse
+org/apache/commons/validator/routines/CurrencyValidator.getInstance
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/CurrencyValidator.<init>
+org/apache/commons/validator/routines/BigDecimalValidator.validate
+found in top 10

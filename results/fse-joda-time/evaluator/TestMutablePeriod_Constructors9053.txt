@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMutablePeriod_Constructors.testParse_noFormatter:162
+Methods call in assertion: [org/joda/time/MutablePeriod.parse]
+org/joda/time/MutablePeriod.parse
+org/joda/time/base/AbstractPeriod.toMutablePeriod
+top 10 recommendations: 
+org/joda/time/MutablePeriod.parse
+org/joda/time/base/AbstractPeriod.toMutablePeriod
+after post processing ......
+org/joda/time/MutablePeriod.parse
+org/joda/time/base/AbstractPeriod.toMutablePeriod
+perfect match

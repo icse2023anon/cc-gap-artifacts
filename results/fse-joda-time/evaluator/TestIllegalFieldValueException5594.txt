@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestIllegalFieldValueException.testSkipDateTimeField:112
+Methods call in assertion: [org/joda/time/IllegalFieldValueException.getIllegalNumberValue]
+org/joda/time/field/SkipDateTimeField.set
+org/joda/time/IllegalFieldValueException.getIllegalNumberValue
+top 10 recommendations: 
+org/joda/time/field/SkipDateTimeField.set
+org/joda/time/IllegalFieldValueException.getIllegalNumberValue
+after post processing ......
+org/joda/time/field/SkipDateTimeField.set
+org/joda/time/IllegalFieldValueException.getIllegalNumberValue
+found in top 10

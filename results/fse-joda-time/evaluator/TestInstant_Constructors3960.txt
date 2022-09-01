@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestInstant_Constructors.testConstructor_badconverterObject:240
+Methods call in assertion: [org/joda/time/chrono/ISOChronology.getInstanceUTC, org/joda/time/Instant.getChronology]
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/Instant.getChronology
+top 10 recommendations: 
+org/joda/time/Instant.getChronology
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+after post processing ......
+org/joda/time/Instant.getChronology
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.exception.ExceptionUtilsTest.testWrapAndUnwrapRuntimeException:641
+Methods call in assertion: [org/apache/commons/lang3/exception/ExceptionUtils.hasCause]
+org/apache/commons/lang3/exception/ExceptionUtils.hasCause
+org/apache/commons/lang3/exception/ExceptionUtils.wrapAndThrow
+top 10 recommendations: 
+org/apache/commons/lang3/exception/ExceptionUtils.hasCause
+org/apache/commons/lang3/exception/ExceptionUtils.wrapAndThrow
+after post processing ......
+org/apache/commons/lang3/exception/ExceptionUtils.hasCause
+org/apache/commons/lang3/exception/ExceptionUtils.wrapAndThrow
+perfect match

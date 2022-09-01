@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testByteArrayToShort:693
+Methods call in assertion: [org/apache/commons/lang3/Conversion.byteArrayToShort]
+org/apache/commons/lang3/Conversion.byteArrayToShort
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.byteArrayToShort
+after post processing ......
+org/apache/commons/lang3/Conversion.byteArrayToShort
+perfect match

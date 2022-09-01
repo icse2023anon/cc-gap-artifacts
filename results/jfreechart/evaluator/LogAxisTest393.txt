@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.axis.LogAxisTest.testAutoRange1:172
+Methods call in assertion: [org/jfree/chart/axis/LogAxis.getLowerBound]
+org/jfree/chart/ChartFactory.createBarChart
+org/jfree/chart/axis/Axis.getPlot
+org/jfree/chart/axis/ValueAxis.isAutoRange
+org/jfree/chart/plot/CategoryPlot.setRangeAxis
+org/jfree/chart/axis/ValueAxis.getLowerBound
+org/jfree/chart/JFreeChart.getPlot
+top 10 recommendations: 
+org/jfree/chart/ChartFactory.createBarChart
+org/jfree/chart/axis/Axis.getPlot
+org/jfree/chart/axis/ValueAxis.isAutoRange
+org/jfree/chart/plot/CategoryPlot.setRangeAxis
+org/jfree/chart/axis/ValueAxis.getLowerBound
+org/jfree/chart/JFreeChart.getPlot
+after post processing ......
+org/jfree/chart/ChartFactory.createBarChart
+org/jfree/chart/axis/Axis.getPlot
+org/jfree/chart/axis/ValueAxis.isAutoRange
+org/jfree/chart/plot/CategoryPlot.setRangeAxis
+org/jfree/chart/axis/ValueAxis.getLowerBound
+org/jfree/chart/JFreeChart.getPlot
+found in top 10

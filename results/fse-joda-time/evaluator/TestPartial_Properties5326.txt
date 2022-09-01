@@ -1,0 +1,43 @@
+slicing criterion: org.joda.time.TestPartial_Properties.testPropertyGetMaxMinValuesMinute:284
+Methods call in assertion: [org/joda/time/Partial$Property.getMaximumValueOverall, org/joda/time/DateTimeFieldType.minuteOfHour, org/joda/time/Partial.property]
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumValueOverall
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.size
+org/joda/time/Partial.getField
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/Partial.getChronology
+org/joda/time/Partial.getFieldType
+org/joda/time/field/PreciseDateTimeField.getMaximumValue
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/Partial.<init>
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/Partial.<init>
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumValueOverall
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.size
+org/joda/time/Partial.getField
+org/joda/time/Partial.getChronology
+after post processing ......
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/Partial.<init>
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumValueOverall
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.size
+org/joda/time/Partial.getField
+org/joda/time/Partial.getChronology
+org/joda/time/Partial.getFieldType
+org/joda/time/field/PreciseDateTimeField.getMaximumValue
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/DateTimeUtils.getChronology
+not matched

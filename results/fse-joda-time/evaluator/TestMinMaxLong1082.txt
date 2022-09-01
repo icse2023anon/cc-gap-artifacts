@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestMinMaxLong.testDateTime_max_fieldsNewYork:208
+Methods call in assertion: [org/joda/time/DateTime.toString]
+org/joda/time/base/AbstractDateTime.toString
+top 10 recommendations: 
+org/joda/time/base/AbstractDateTime.toString
+after post processing ......
+org/joda/time/base/AbstractDateTime.toString
+not matched

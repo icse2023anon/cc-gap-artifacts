@@ -1,0 +1,37 @@
+slicing criterion: org.joda.time.TestLocalTime_Basics.testGet_DateTimeFieldType:164
+Methods call in assertion: [org/joda/time/DateTimeFieldType.halfdayOfDay, org/joda/time/LocalTime.get]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/DateTimeFieldType.halfdayOfDay
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.halfdayOfDay
+org/joda/time/LocalTime.get
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/LocalTime.get
+org/joda/time/LocalTime.<init>
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/DateTimeFieldType.halfdayOfDay
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.halfdayOfDay
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/LocalTime.getChronology
+after post processing ......
+org/joda/time/LocalTime.get
+org/joda/time/LocalTime.<init>
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/DateTimeFieldType.halfdayOfDay
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.halfdayOfDay
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/LocalTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

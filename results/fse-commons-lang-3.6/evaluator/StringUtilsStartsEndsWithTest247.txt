@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsStartsEndsWithTest.testStartsWithAny:103
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.startsWithAny]
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/StringUtils.startsWithAny
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.startsWithAny
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/StringUtils.startsWithAny
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/StringUtils.isEmpty
+perfect match

@@ -1,0 +1,37 @@
+slicing criterion: org.joda.time.TestLocalDate_Basics.testGetters:946
+Methods call in assertion: [org/joda/time/LocalDate.getYearOfEra]
+org/joda/time/chrono/GJChronology.withUTC
+org/joda/time/chrono/GJChronology.getZone
+org/joda/time/LocalDate.getLocalMillis
+org/joda/time/chrono/AssembledChronology.yearOfEra
+org/joda/time/LocalDate.getYearOfEra
+org/joda/time/LocalDate.<init>
+org/joda/time/chrono/GJChronology.getDateTimeMillis
+org/joda/time/LocalDate.getChronology
+org/joda/time/chrono/GJChronology.withZone
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/chrono/GJChronology.withUTC
+org/joda/time/LocalDate.getYearOfEra
+org/joda/time/LocalDate.<init>
+org/joda/time/chrono/GJChronology.withZone
+org/joda/time/chrono/GJChronology.getZone
+org/joda/time/LocalDate.getLocalMillis
+org/joda/time/chrono/AssembledChronology.yearOfEra
+org/joda/time/chrono/GJChronology.getDateTimeMillis
+org/joda/time/LocalDate.getChronology
+org/joda/time/chrono/AssembledChronology.getBase
+after post processing ......
+org/joda/time/chrono/GJChronology.withUTC
+org/joda/time/LocalDate.getYearOfEra
+org/joda/time/LocalDate.<init>
+org/joda/time/chrono/GJChronology.withZone
+org/joda/time/chrono/GJChronology.getZone
+org/joda/time/LocalDate.getLocalMillis
+org/joda/time/chrono/AssembledChronology.yearOfEra
+org/joda/time/chrono/GJChronology.getDateTimeMillis
+org/joda/time/LocalDate.getChronology
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

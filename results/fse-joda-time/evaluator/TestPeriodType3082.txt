@@ -1,0 +1,39 @@
+slicing criterion: org.joda.time.TestPeriodType.testMaskHoursMinutesSeconds:847
+Methods call in assertion: [org/joda/time/PeriodType.withHoursRemoved, org/joda/time/PeriodType.hashCode, org/joda/time/PeriodType.standard, org/joda/time/PeriodType.withSecondsRemoved, org/joda/time/PeriodType.withMinutesRemoved]
+org/joda/time/DurationFieldType.weeks
+org/joda/time/DurationFieldType.millis
+org/joda/time/PeriodType.withHoursRemoved
+org/joda/time/PeriodType.setIndexedField
+org/joda/time/PeriodType.size
+org/joda/time/DurationFieldType.years
+org/joda/time/PeriodType.hashCode
+org/joda/time/PeriodType.standard
+org/joda/time/DurationFieldType.months
+org/joda/time/PeriodType.withSecondsRemoved
+org/joda/time/PeriodType.withMinutesRemoved
+org/joda/time/DurationFieldType.days
+top 10 recommendations: 
+org/joda/time/PeriodType.standard
+org/joda/time/DurationFieldType.weeks
+org/joda/time/DurationFieldType.millis
+org/joda/time/PeriodType.withHoursRemoved
+org/joda/time/PeriodType.setIndexedField
+org/joda/time/PeriodType.size
+org/joda/time/DurationFieldType.years
+org/joda/time/PeriodType.hashCode
+org/joda/time/DurationFieldType.months
+org/joda/time/PeriodType.withSecondsRemoved
+after post processing ......
+org/joda/time/PeriodType.standard
+org/joda/time/DurationFieldType.weeks
+org/joda/time/DurationFieldType.millis
+org/joda/time/PeriodType.withHoursRemoved
+org/joda/time/PeriodType.setIndexedField
+org/joda/time/PeriodType.size
+org/joda/time/DurationFieldType.years
+org/joda/time/PeriodType.hashCode
+org/joda/time/DurationFieldType.months
+org/joda/time/PeriodType.withSecondsRemoved
+org/joda/time/PeriodType.withMinutesRemoved
+org/joda/time/DurationFieldType.days
+all method calls are suggested

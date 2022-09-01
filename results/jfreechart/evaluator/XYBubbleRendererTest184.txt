@@ -1,0 +1,35 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYBubbleRendererTest.testGetLegendItemSeriesIndex:166
+Methods call in assertion: [org/jfree/chart/LegendItem.getSeriesIndex]
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getSeriesToolTipGenerator
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/chart/plot/XYPlot.setDataset
+org/jfree/chart/LegendItem.getSeriesIndex
+org/jfree/chart/renderer/xy/XYBubbleRenderer.<init>
+org/jfree/chart/renderer/AbstractRenderer.getItemVisible
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getPlot
+org/jfree/chart/plot/XYPlot.getDataset
+org/jfree/chart/renderer/xy/XYBubbleRenderer.getLegendItem
+top 10 recommendations: 
+org/jfree/chart/plot/XYPlot.setDataset
+org/jfree/chart/renderer/AbstractRenderer.getItemVisible
+org/jfree/chart/renderer/xy/XYBubbleRenderer.getLegendItem
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getSeriesToolTipGenerator
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/chart/LegendItem.getSeriesIndex
+org/jfree/chart/renderer/xy/XYBubbleRenderer.<init>
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getPlot
+org/jfree/chart/plot/XYPlot.getDataset
+after post processing ......
+org/jfree/chart/plot/XYPlot.setDataset
+org/jfree/chart/renderer/AbstractRenderer.getItemVisible
+org/jfree/chart/renderer/xy/XYBubbleRenderer.getLegendItem
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getSeriesToolTipGenerator
+org/jfree/chart/plot/XYPlot.<init>
+org/jfree/chart/LegendItem.getSeriesIndex
+org/jfree/chart/renderer/xy/XYBubbleRenderer.<init>
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getPlot
+org/jfree/chart/plot/XYPlot.getDataset
+found in top 10

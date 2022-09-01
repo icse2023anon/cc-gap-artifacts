@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Properties.testPropertyGetMaxMinValuesMonth:287
+Methods call in assertion: [org/joda/time/LocalDateTime.monthOfYear, org/joda/time/LocalDateTime$Property.getMaximumValueOverall]
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValueOverall
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/LocalDateTime.<init>
+org/joda/time/chrono/BasicMonthOfYearDateTimeField.getMaximumValue
+top 10 recommendations: 
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValueOverall
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/LocalDateTime.<init>
+org/joda/time/chrono/BasicMonthOfYearDateTimeField.getMaximumValue
+after post processing ......
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValueOverall
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/LocalDateTime.<init>
+org/joda/time/chrono/BasicMonthOfYearDateTimeField.getMaximumValue
+not matched

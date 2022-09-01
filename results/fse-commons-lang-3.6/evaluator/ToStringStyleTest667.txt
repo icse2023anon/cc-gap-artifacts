@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.ToStringStyleTest.testSetArrayStart:54
+Methods call in assertion: [org/apache/commons/lang3/builder/ToStringStyle.getArrayStart]
+org/apache/commons/lang3/builder/ToStringStyle.setArrayStart
+org/apache/commons/lang3/builder/ToStringStyle.getArrayStart
+top 10 recommendations: 
+org/apache/commons/lang3/builder/ToStringStyle.setArrayStart
+org/apache/commons/lang3/builder/ToStringStyle.getArrayStart
+after post processing ......
+org/apache/commons/lang3/builder/ToStringStyle.setArrayStart
+org/apache/commons/lang3/builder/ToStringStyle.getArrayStart
+found in top 10

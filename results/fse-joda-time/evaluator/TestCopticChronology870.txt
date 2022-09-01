@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.chrono.TestCopticChronology.testDurationMonth:640
+Methods call in assertion: [org/joda/time/Chronology.months]
+org/joda/time/field/AbstractReadableInstantFieldProperty.getDurationField
+org/joda/time/DateTime.getMillis
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/AssembledChronology.months
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/field/AbstractReadableInstantFieldProperty.getDurationField
+org/joda/time/DateTime.getMillis
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/AssembledChronology.months
+after post processing ......
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/field/AbstractReadableInstantFieldProperty.getDurationField
+org/joda/time/DateTime.getMillis
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/AssembledChronology.months
+found in top 10

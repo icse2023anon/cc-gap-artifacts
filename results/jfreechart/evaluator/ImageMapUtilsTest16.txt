@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.imagemap.ImageMapUtilsTest.testHTMLEscape:57
+Methods call in assertion: [org/jfree/chart/imagemap/ImageMapUtils.htmlEscape]
+org/jfree/chart/imagemap/ImageMapUtils.htmlEscape
+top 10 recommendations: 
+org/jfree/chart/imagemap/ImageMapUtils.htmlEscape
+after post processing ......
+org/jfree/chart/imagemap/ImageMapUtils.htmlEscape
+perfect match

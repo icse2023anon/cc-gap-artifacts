@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.chrono.TestGregorianChronology.testDurationFields:292
+Methods call in assertion: [org/joda/time/chrono/GregorianChronology.minutes, org/joda/time/DurationField.isPrecise]
+org/joda/time/field/PreciseDurationField.isPrecise
+org/joda/time/chrono/GregorianChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.minutes
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationField.isPrecise
+org/joda/time/chrono/GregorianChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.minutes
+after post processing ......
+org/joda/time/field/PreciseDurationField.isPrecise
+org/joda/time/chrono/GregorianChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.minutes
+not matched

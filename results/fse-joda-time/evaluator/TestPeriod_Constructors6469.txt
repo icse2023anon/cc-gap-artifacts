@@ -1,0 +1,67 @@
+slicing criterion: org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI_PeriodType3:876
+Methods call in assertion: [org/joda/time/Period.getHours]
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/AbstractPeriod.getFieldType
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/PeriodType.standard
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/base/BasePeriod.getValue
+org/joda/time/PeriodType.withMillisRemoved
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/Period.getHours
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/DateTimeUtils.getIntervalChronology
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DateTimeUtils.getIntervalChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/Period.getHours
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/base/BasePeriod.getPeriodType
+after post processing ......
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DateTimeUtils.getIntervalChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/Period.getHours
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/AbstractPeriod.getFieldType
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/PeriodType.standard
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/base/BasePeriod.getValue
+org/joda/time/PeriodType.withMillisRemoved
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/BaseChronology.get
+found in top 10

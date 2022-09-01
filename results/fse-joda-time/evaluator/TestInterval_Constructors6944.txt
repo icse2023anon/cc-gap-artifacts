@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.TestInterval_Constructors.testConstructor_RI_RI_zones:408
+Methods call in assertion: [org/joda/time/chrono/ISOChronology.getInstance, org/joda/time/Interval.getChronology]
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/tz/FixedDateTimeZone.hashCode
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/tz/FixedDateTimeZone.hashCode
+after post processing ......
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/tz/FixedDateTimeZone.hashCode
+found in top 10

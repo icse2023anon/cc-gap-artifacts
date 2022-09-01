@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.axis.MarkerAxisBandTest.testEquals:81
+Methods call in assertion: [org/jfree/chart/axis/MarkerAxisBand.equals]
+org/jfree/chart/axis/MarkerAxisBand.equals
+top 10 recommendations: 
+org/jfree/chart/axis/MarkerAxisBand.equals
+after post processing ......
+org/jfree/chart/axis/MarkerAxisBand.equals
+perfect match

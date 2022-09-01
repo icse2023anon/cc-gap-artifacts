@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.convert.TestStringConverter.testIsReadableInterval_Object_Chronology:517
+Methods call in assertion: [org/joda/time/convert/StringConverter.isReadableInterval]
+org/joda/time/convert/AbstractConverter.isReadableInterval
+top 10 recommendations: 
+org/joda/time/convert/AbstractConverter.isReadableInterval
+after post processing ......
+org/joda/time/convert/AbstractConverter.isReadableInterval
+perfect match

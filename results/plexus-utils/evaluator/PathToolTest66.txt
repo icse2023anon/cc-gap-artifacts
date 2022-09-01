@@ -1,0 +1,17 @@
+slicing criterion: org.codehaus.plexus.util.PathToolTest.testGetRelativeFilePath:112
+Methods call in assertion: [org/codehaus/plexus/util/PathTool.getRelativeFilePath]
+org/codehaus/plexus/util/Os.isOs
+org/codehaus/plexus/util/PathTool.getRelativeFilePath
+org/codehaus/plexus/util/StringUtils.isEmpty
+org/codehaus/plexus/util/Os.isFamily
+top 10 recommendations: 
+org/codehaus/plexus/util/Os.isOs
+org/codehaus/plexus/util/PathTool.getRelativeFilePath
+org/codehaus/plexus/util/Os.isFamily
+org/codehaus/plexus/util/StringUtils.isEmpty
+after post processing ......
+org/codehaus/plexus/util/Os.isOs
+org/codehaus/plexus/util/PathTool.getRelativeFilePath
+org/codehaus/plexus/util/Os.isFamily
+org/codehaus/plexus/util/StringUtils.isEmpty
+found in top 10

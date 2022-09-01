@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestHours.testToString:230
+Methods call in assertion: [org/joda/time/Hours.toString]
+org/joda/time/Hours.hours
+org/joda/time/Hours.toString
+top 10 recommendations: 
+org/joda/time/Hours.hours
+org/joda/time/Hours.toString
+after post processing ......
+org/joda/time/Hours.hours
+org/joda/time/Hours.toString
+found in top 10

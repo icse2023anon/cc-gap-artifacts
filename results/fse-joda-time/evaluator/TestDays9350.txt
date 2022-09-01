@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDays.testIsGreaterThan:244
+Methods call in assertion: [org/joda/time/Days.isGreaterThan]
+org/joda/time/Days.isGreaterThan
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+top 10 recommendations: 
+org/joda/time/Days.isGreaterThan
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+after post processing ......
+org/joda/time/Days.isGreaterThan
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+perfect match

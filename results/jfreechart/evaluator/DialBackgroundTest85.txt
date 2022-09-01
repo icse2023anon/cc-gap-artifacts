@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.plot.dial.DialBackgroundTest.testCloning:128
+Methods call in assertion: [org/jfree/chart/plot/dial/DialBackground.equals]
+org/jfree/chart/plot/dial/DialBackground.equals
+org/jfree/chart/plot/dial/DialBackground.clone
+org/jfree/chart/util/PaintUtils.equal
+top 10 recommendations: 
+org/jfree/chart/plot/dial/DialBackground.equals
+org/jfree/chart/plot/dial/DialBackground.clone
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/plot/dial/DialBackground.equals
+org/jfree/chart/plot/dial/DialBackground.clone
+org/jfree/chart/util/PaintUtils.equal
+perfect match

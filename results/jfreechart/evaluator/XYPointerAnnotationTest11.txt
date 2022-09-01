@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.annotations.XYPointerAnnotationTest.testEquals:126
+Methods call in assertion: [org/jfree/chart/annotations/XYPointerAnnotation.equals]
+org/jfree/chart/annotations/XYPointerAnnotation.equals
+org/jfree/chart/util/ObjectUtils.equal
+top 10 recommendations: 
+org/jfree/chart/annotations/XYPointerAnnotation.equals
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/annotations/XYPointerAnnotation.equals
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

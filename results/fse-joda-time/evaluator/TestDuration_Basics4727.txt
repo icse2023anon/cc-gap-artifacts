@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestDuration_Basics.testIsAfter:300
+Methods call in assertion: [org/joda/time/Duration.isLongerThan]
+org/joda/time/base/AbstractDuration.compareTo
+org/joda/time/base/BaseDuration.getMillis
+org/joda/time/base/AbstractDuration.isLongerThan
+top 10 recommendations: 
+org/joda/time/base/AbstractDuration.isLongerThan
+org/joda/time/base/AbstractDuration.compareTo
+org/joda/time/base/BaseDuration.getMillis
+after post processing ......
+org/joda/time/base/AbstractDuration.isLongerThan
+org/joda/time/base/AbstractDuration.compareTo
+org/joda/time/base/BaseDuration.getMillis
+found in top 10

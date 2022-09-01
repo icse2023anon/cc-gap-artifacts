@@ -1,0 +1,11 @@
+slicing criterion: com.google.gson.functional.TypeAdapterPrecedenceTest.testStreamingHierarchicalFollowedByNonstreaming:81
+Methods call in assertion: [com/google/gson/Gson.toJson]
+com/google/gson/Gson.newJsonReader
+com/google/gson/Gson.toJson
+top 10 recommendations: 
+com/google/gson/Gson.newJsonReader
+com/google/gson/Gson.toJson
+after post processing ......
+com/google/gson/Gson.newJsonReader
+com/google/gson/Gson.toJson
+found in top 10

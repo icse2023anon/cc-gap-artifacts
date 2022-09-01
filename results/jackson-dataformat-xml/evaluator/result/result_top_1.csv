@@ -1,0 +1,11 @@
+package,assertion_tested,exact_match,top_1,all_method_suggested
+com.fasterxml.jackson.dataformat.xml.jaxb,4,0,0,0
+com.fasterxml.jackson.dataformat.xml.lists,0,0,0,0
+com.fasterxml.jackson.dataformat.xml,3,0,0,3
+com.fasterxml.jackson.dataformat.xml.adapters,0,0,0,0
+com.fasterxml.jackson.dataformat.xml.stream,34,3,3,25
+com.fasterxml.jackson.dataformat.xml.deser,38,24,24,38
+com.fasterxml.jackson.dataformat.xml.misc,0,0,0,0
+com.fasterxml.jackson.dataformat.xml.ser,4,0,0,0
+com.fasterxml.jackson.dataformat.xml.incr,0,0,0,0
+total:,83,27,27,66

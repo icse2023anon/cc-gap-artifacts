@@ -1,0 +1,20 @@
+slicing criterion: org.jfree.chart.panel.CrosshairOverlayTest.testCloning:100
+Methods call in assertion: [org/jfree/chart/panel/CrosshairOverlay.equals]
+org/jfree/chart/panel/CrosshairOverlay.clone
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/panel/CrosshairOverlay.addDomainCrosshair
+org/jfree/chart/panel/CrosshairOverlay.equals
+org/jfree/chart/util/ObjectUtils.deepClone
+top 10 recommendations: 
+org/jfree/chart/panel/CrosshairOverlay.clone
+org/jfree/chart/util/ObjectUtils.deepClone
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/panel/CrosshairOverlay.addDomainCrosshair
+org/jfree/chart/panel/CrosshairOverlay.equals
+after post processing ......
+org/jfree/chart/panel/CrosshairOverlay.clone
+org/jfree/chart/util/ObjectUtils.deepClone
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/panel/CrosshairOverlay.addDomainCrosshair
+org/jfree/chart/panel/CrosshairOverlay.equals
+found in top 10

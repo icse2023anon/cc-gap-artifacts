@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.binary.HexTest.testGetCharsetName:489
+Methods call in assertion: [org/apache/commons/codec/binary/Hex.getCharsetName]
+org/apache/commons/codec/binary/Hex.getCharsetName
+top 10 recommendations: 
+org/apache/commons/codec/binary/Hex.getCharsetName
+after post processing ......
+org/apache/commons/codec/binary/Hex.getCharsetName
+perfect match

@@ -1,0 +1,14 @@
+slicing criterion: org.jsoup.parser.XmlTreeBuilderTest.xmlParseDefaultsToHtmlOutputSyntax:127
+Methods call in assertion: [org/jsoup/nodes/Document.outputSettings, org/jsoup/nodes/Document$OutputSettings.syntax]
+org/jsoup/parser/Parser.parseInput
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/parser/TreeBuilder.currentElement
+top 10 recommendations: 
+org/jsoup/parser/Parser.parseInput
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/parser/TreeBuilder.currentElement
+after post processing ......
+org/jsoup/parser/Parser.parseInput
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/parser/TreeBuilder.currentElement
+not matched

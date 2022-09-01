@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.tuple.ImmutableTripleTest.testNullTripleLeft:118
+Methods call in assertion: [org/apache/commons/lang3/tuple/ImmutableTriple.nullTriple, org/apache/commons/lang3/tuple/ImmutableTriple.getLeft]
+org/apache/commons/lang3/tuple/ImmutableTriple.nullTriple
+org/apache/commons/lang3/tuple/ImmutableTriple.getLeft
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/ImmutableTriple.nullTriple
+org/apache/commons/lang3/tuple/ImmutableTriple.getLeft
+after post processing ......
+org/apache/commons/lang3/tuple/ImmutableTriple.nullTriple
+org/apache/commons/lang3/tuple/ImmutableTriple.getLeft
+perfect match

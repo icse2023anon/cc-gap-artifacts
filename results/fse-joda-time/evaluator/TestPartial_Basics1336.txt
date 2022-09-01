@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testIsSupported:254
+Methods call in assertion: [org/joda/time/Partial.isSupported, org/joda/time/DateTimeFieldType.millisOfSecond]
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/DateTimeFieldType.millisOfSecond
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/DateTimeFieldType.millisOfSecond
+after post processing ......
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/DateTimeFieldType.millisOfSecond
+not matched

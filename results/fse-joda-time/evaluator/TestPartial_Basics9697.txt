@@ -1,0 +1,53 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testWith3d:498
+Methods call in assertion: [org/joda/time/Partial.get, org/joda/time/DateTimeFieldType.monthOfYear]
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/DateTimeFieldType.year
+org/joda/time/field/BaseDurationField.compareTo
+org/joda/time/Partial.size
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/DateTimeFieldType.monthOfYear
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/Partial.getFormatter
+org/joda/time/base/AbstractPartial.get
+org/joda/time/chrono/AssembledChronology.months
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/Partial.getValue
+org/joda/time/Partial.getFieldType
+org/joda/time/Partial.with
+org/joda/time/Partial.<init>
+org/joda/time/Partial.toString
+org/joda/time/chrono/AssembledChronology.years
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/Partial.toString
+org/joda/time/Partial.getFormatter
+org/joda/time/Partial.with
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/base/AbstractPartial.get
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/Partial.<init>
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/DateTimeFieldType.year
+after post processing ......
+org/joda/time/Partial.toString
+org/joda/time/Partial.getFormatter
+org/joda/time/Partial.with
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/base/AbstractPartial.get
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/Partial.<init>
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/DateTimeFieldType.year
+org/joda/time/field/BaseDurationField.compareTo
+org/joda/time/Partial.size
+org/joda/time/DateTimeFieldType.monthOfYear
+org/joda/time/chrono/AssembledChronology.months
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/Partial.getValue
+org/joda/time/Partial.getFieldType
+org/joda/time/chrono/AssembledChronology.years
+org/joda/time/DateTimeUtils.getChronology
+not matched

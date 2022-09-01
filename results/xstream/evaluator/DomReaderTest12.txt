@@ -1,0 +1,23 @@
+slicing criterion: com.thoughtworks.xstream.io.xml.DomReaderTest.testExposesAttributesKeysAndValuesByIndex:67
+Methods call in assertion: [com/thoughtworks/xstream/io/HierarchicalStreamReader.getAttributeCount]
+com/thoughtworks/xstream/io/xml/DomReader.reassignCurrentElement
+com/thoughtworks/xstream/io/xml/DomDriver.createDocumentBuilderFactory
+com/thoughtworks/xstream/io/xml/DomReader.getAttributeCount
+com/thoughtworks/xstream/io/xml/AbstractDocumentReader.<init>
+com/thoughtworks/xstream/io/xml/DomDriver.createReader
+com/thoughtworks/xstream/io/xml/DomReader.<init>
+top 10 recommendations: 
+com/thoughtworks/xstream/io/xml/DomDriver.createReader
+com/thoughtworks/xstream/io/xml/DomReader.<init>
+com/thoughtworks/xstream/io/xml/DomReader.reassignCurrentElement
+com/thoughtworks/xstream/io/xml/DomDriver.createDocumentBuilderFactory
+com/thoughtworks/xstream/io/xml/DomReader.getAttributeCount
+com/thoughtworks/xstream/io/xml/AbstractDocumentReader.<init>
+after post processing ......
+com/thoughtworks/xstream/io/xml/DomDriver.createReader
+com/thoughtworks/xstream/io/xml/DomReader.<init>
+com/thoughtworks/xstream/io/xml/DomReader.reassignCurrentElement
+com/thoughtworks/xstream/io/xml/DomDriver.createDocumentBuilderFactory
+com/thoughtworks/xstream/io/xml/DomReader.getAttributeCount
+com/thoughtworks/xstream/io/xml/AbstractDocumentReader.<init>
+not matched

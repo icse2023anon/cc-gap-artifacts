@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDurationFieldType.test_weekyears:105
+Methods call in assertion: [org/joda/time/DurationFieldType.weekyears]
+org/joda/time/DurationFieldType.weekyears
+top 10 recommendations: 
+org/joda/time/DurationFieldType.weekyears
+after post processing ......
+org/joda/time/DurationFieldType.weekyears
+perfect match

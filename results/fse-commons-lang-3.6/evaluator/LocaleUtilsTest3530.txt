@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.LocaleUtilsTest.testIsAvailableLocale:413
+Methods call in assertion: [org/apache/commons/lang3/LocaleUtils.isAvailableLocale]
+org/apache/commons/lang3/LocaleUtils.isAvailableLocale
+org/apache/commons/lang3/LocaleUtils.availableLocaleList
+org/apache/commons/lang3/LocaleUtils.availableLocaleSet
+top 10 recommendations: 
+org/apache/commons/lang3/LocaleUtils.isAvailableLocale
+org/apache/commons/lang3/LocaleUtils.availableLocaleList
+org/apache/commons/lang3/LocaleUtils.availableLocaleSet
+after post processing ......
+org/apache/commons/lang3/LocaleUtils.isAvailableLocale
+org/apache/commons/lang3/LocaleUtils.availableLocaleList
+org/apache/commons/lang3/LocaleUtils.availableLocaleSet
+perfect match

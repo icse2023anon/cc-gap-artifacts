@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.annotations.XYPolygonAnnotationTest.testEquals:78
+Methods call in assertion: [org/jfree/chart/annotations/XYPolygonAnnotation.equals]
+org/jfree/chart/annotations/XYPolygonAnnotation.equals
+top 10 recommendations: 
+org/jfree/chart/annotations/XYPolygonAnnotation.equals
+after post processing ......
+org/jfree/chart/annotations/XYPolygonAnnotation.equals
+perfect match

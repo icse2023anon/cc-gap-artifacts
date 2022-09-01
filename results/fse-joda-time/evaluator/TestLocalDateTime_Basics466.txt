@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testGet_DateTimeFieldType:195
+Methods call in assertion: [org/joda/time/DateTimeFieldType.dayOfWeek, org/joda/time/LocalDateTime.get]
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/DateTimeFieldType.dayOfWeek
+org/joda/time/chrono/BasicChronology.getDayOfWeek
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/GJDayOfWeekDateTimeField.get
+org/joda/time/LocalDateTime.<init>
+org/joda/time/LocalDateTime.get
+top 10 recommendations: 
+org/joda/time/chrono/GJDayOfWeekDateTimeField.get
+org/joda/time/LocalDateTime.get
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/DateTimeFieldType.dayOfWeek
+org/joda/time/chrono/BasicChronology.getDayOfWeek
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/LocalDateTime.<init>
+after post processing ......
+org/joda/time/chrono/GJDayOfWeekDateTimeField.get
+org/joda/time/LocalDateTime.get
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/DateTimeFieldType.dayOfWeek
+org/joda/time/chrono/BasicChronology.getDayOfWeek
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/LocalDateTime.<init>
+found in top 10

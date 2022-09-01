@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.PiePlot3DTest.testEquals:75
+Methods call in assertion: [org/jfree/chart/plot/PiePlot3D.equals]
+org/jfree/chart/plot/PiePlot3D.equals
+top 10 recommendations: 
+org/jfree/chart/plot/PiePlot3D.equals
+after post processing ......
+org/jfree/chart/plot/PiePlot3D.equals
+perfect match

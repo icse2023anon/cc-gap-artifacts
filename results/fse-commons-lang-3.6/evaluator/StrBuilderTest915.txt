@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testToCharArrayIntInt:589
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.toCharArray]
+org/apache/commons/lang3/text/StrBuilder.toCharArray
+org/apache/commons/lang3/text/StrBuilder.validateRange
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.toCharArray
+org/apache/commons/lang3/text/StrBuilder.validateRange
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.toCharArray
+org/apache/commons/lang3/text/StrBuilder.validateRange
+perfect match

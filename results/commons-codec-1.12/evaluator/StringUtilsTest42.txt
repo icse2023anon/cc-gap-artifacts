@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.binary.StringUtilsTest.testGetBytesUncheckedNullInput:124
+Methods call in assertion: [org/apache/commons/codec/binary/StringUtils.getBytesUnchecked]
+org/apache/commons/codec/binary/StringUtils.getBytesUnchecked
+top 10 recommendations: 
+org/apache/commons/codec/binary/StringUtils.getBytesUnchecked
+after post processing ......
+org/apache/commons/codec/binary/StringUtils.getBytesUnchecked
+perfect match

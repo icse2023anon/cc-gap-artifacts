@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatter.testWithGetLocale:380
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.withLocale]
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfWeekShortText
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/DateTimeFormatterBuilder.estimateParsedLength
+org/joda/time/format/DateTimeFormatter.getLocale
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatter.getPrinter0
+org/joda/time/format/DateTimeFormatter.withLocale
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatter.withLocale
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfWeekShortText
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/DateTimeFormatterBuilder.estimateParsedLength
+org/joda/time/format/DateTimeFormatter.getLocale
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatter.getPrinter0
+after post processing ......
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatter.withLocale
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfWeekShortText
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/DateTimeFormatterBuilder.estimateParsedLength
+org/joda/time/format/DateTimeFormatter.getLocale
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatter.getPrinter0
+found in top 10

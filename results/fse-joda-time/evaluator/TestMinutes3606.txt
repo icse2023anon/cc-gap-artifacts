@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMinutes.testGetPeriodType:197
+Methods call in assertion: [org/joda/time/Minutes.getPeriodType, org/joda/time/PeriodType.minutes]
+org/joda/time/Minutes.minutes
+org/joda/time/PeriodType.minutes
+top 10 recommendations: 
+org/joda/time/Minutes.minutes
+org/joda/time/PeriodType.minutes
+after post processing ......
+org/joda/time/Minutes.minutes
+org/joda/time/PeriodType.minutes
+not matched

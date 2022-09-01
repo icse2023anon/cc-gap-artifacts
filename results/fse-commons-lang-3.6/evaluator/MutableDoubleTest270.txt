@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableDoubleTest.testGetSet:85
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableDouble.doubleValue]
+org/apache/commons/lang3/mutable/MutableDouble.doubleValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableDouble.doubleValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableDouble.doubleValue
+perfect match

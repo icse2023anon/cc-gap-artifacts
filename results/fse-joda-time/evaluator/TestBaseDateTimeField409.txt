@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestBaseDateTimeField.test_getMaximumShortTextLength_Locale:507
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.getMaximumShortTextLength]
+org/joda/time/field/BaseDateTimeField.getMaximumTextLength
+org/joda/time/field/BaseDateTimeField.getMaximumShortTextLength
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.getMaximumShortTextLength
+org/joda/time/field/BaseDateTimeField.getMaximumTextLength
+after post processing ......
+org/joda/time/field/BaseDateTimeField.getMaximumShortTextLength
+org/joda/time/field/BaseDateTimeField.getMaximumTextLength
+perfect match

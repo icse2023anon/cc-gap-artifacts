@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.AbstractRendererTest.testPaintLookup:728
+Methods call in assertion: [org/jfree/chart/renderer/category/BarRenderer.getDefaultPaint]
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.getDefaultPaint
+top 10 recommendations: 
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.getDefaultPaint
+after post processing ......
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.getDefaultPaint
+found in top 10

@@ -1,0 +1,37 @@
+slicing criterion: org.joda.time.TestDateTime_Basics.testWithTime_int_int_int_int:979
+Methods call in assertion: [org/joda/time/DateTime.getChronology]
+org/joda/time/chrono/BuddhistChronology.withUTC
+org/joda/time/DateTime.getMillis
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/DateTime.withTime
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/DateTime.withTime
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/BuddhistChronology.withUTC
+org/joda/time/DateTime.getMillis
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/DateTimeZone.convertLocalToUTC
+after post processing ......
+org/joda/time/DateTime.withTime
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/BuddhistChronology.withUTC
+org/joda/time/DateTime.getMillis
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/DateTimeUtils.getChronology
+not matched

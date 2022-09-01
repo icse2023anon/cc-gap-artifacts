@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.math.IEEE754rUtilsTest.testLang381:60
+Methods call in assertion: [org/apache/commons/lang3/math/IEEE754rUtils.max]
+org/apache/commons/lang3/math/IEEE754rUtils.max
+top 10 recommendations: 
+org/apache/commons/lang3/math/IEEE754rUtils.max
+after post processing ......
+org/apache/commons/lang3/math/IEEE754rUtils.max
+perfect match

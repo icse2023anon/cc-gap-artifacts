@@ -1,0 +1,8 @@
+slicing criterion: org.codehaus.plexus.util.FileUtilsTest.testFileReadWithEncoding:1048
+Methods call in assertion: [org/codehaus/plexus/util/FileUtils.fileRead]
+org/codehaus/plexus/util/FileUtils.fileRead
+top 10 recommendations: 
+org/codehaus/plexus/util/FileUtils.fileRead
+after post processing ......
+org/codehaus/plexus/util/FileUtils.fileRead
+perfect match

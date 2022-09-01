@@ -1,0 +1,43 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Constructors.testConstructor2_Object_Chronology:517
+Methods call in assertion: [org/joda/time/TimeOfDay.getSecondOfMinute]
+org/joda/time/convert/StringConverter.getPartialValues
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/base/BasePartial.<init>
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.getFieldType
+org/joda/time/TimeOfDay.getSecondOfMinute
+org/joda/time/TimeOfDay.size
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/convert/AbstractConverter.getChronology
+top 10 recommendations: 
+org/joda/time/base/BasePartial.<init>
+org/joda/time/convert/AbstractConverter.getChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/convert/StringConverter.getPartialValues
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.getFieldType
+org/joda/time/TimeOfDay.getSecondOfMinute
+after post processing ......
+org/joda/time/base/BasePartial.<init>
+org/joda/time/convert/AbstractConverter.getChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/convert/StringConverter.getPartialValues
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.getFieldType
+org/joda/time/TimeOfDay.getSecondOfMinute
+org/joda/time/TimeOfDay.size
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/BaseChronology.get
+found in top 10

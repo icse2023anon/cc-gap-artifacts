@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableByteTest.testGetSet:89
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableByte.getValue]
+org/apache/commons/lang3/mutable/MutableByte.getValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableByte.getValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableByte.getValue
+perfect match

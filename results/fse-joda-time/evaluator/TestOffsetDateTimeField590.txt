@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.field.TestOffsetDateTimeField.test_add_long_long:269
+Methods call in assertion: [org/joda/time/field/OffsetDateTimeField.add]
+org/joda/time/field/OffsetDateTimeField.add
+top 10 recommendations: 
+org/joda/time/field/OffsetDateTimeField.add
+after post processing ......
+org/joda/time/field/OffsetDateTimeField.add
+perfect match

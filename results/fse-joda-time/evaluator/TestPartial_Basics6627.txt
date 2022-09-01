@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testWithout4:580
+Methods call in assertion: [org/joda/time/Partial.size]
+org/joda/time/Partial.without
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+top 10 recommendations: 
+org/joda/time/Partial.without
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+after post processing ......
+org/joda/time/Partial.without
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+found in top 10

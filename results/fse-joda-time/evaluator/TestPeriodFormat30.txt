@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.format.TestPeriodFormat.test_wordBased_en_withLocale_pt:997
+Methods call in assertion: [org/joda/time/format/PeriodFormatter.print]
+org/joda/time/format/PeriodFormat.wordBased
+org/joda/time/format/PeriodFormatter.withLocale
+org/joda/time/format/PeriodFormat.getDefault
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/format/PeriodFormatter.getLocale
+org/joda/time/Period.withHours
+top 10 recommendations: 
+org/joda/time/format/PeriodFormatter.withLocale
+org/joda/time/format/PeriodFormat.getDefault
+org/joda/time/format/PeriodFormat.wordBased
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/format/PeriodFormatter.getLocale
+org/joda/time/Period.withHours
+after post processing ......
+org/joda/time/format/PeriodFormatter.withLocale
+org/joda/time/format/PeriodFormat.getDefault
+org/joda/time/format/PeriodFormat.wordBased
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/format/PeriodFormatter.getLocale
+org/joda/time/Period.withHours
+found in top 10

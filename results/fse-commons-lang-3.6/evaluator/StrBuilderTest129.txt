@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testReverse:1239
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.toString, org/apache/commons/lang3/text/StrBuilder.reverse]
+org/apache/commons/lang3/text/StrBuilder.toString
+org/apache/commons/lang3/text/StrBuilder.clear
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.reverse
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.toString
+org/apache/commons/lang3/text/StrBuilder.clear
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.reverse
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.toString
+org/apache/commons/lang3/text/StrBuilder.clear
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.reverse
+found in top 10

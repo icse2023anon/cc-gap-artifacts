@@ -1,0 +1,49 @@
+slicing criterion: org.jfree.chart.block.BorderArrangementTest.testSizing:194
+Methods call in assertion: [org/jfree/chart/block/Block.getBounds]
+org/jfree/chart/block/RectangleConstraint.calculateConstrainedSize
+org/jfree/chart/block/BorderArrangement.add
+org/jfree/chart/block/BlockContainer.add
+org/jfree/chart/block/AbstractBlock.calculateTotalHeight
+org/jfree/chart/block/BlockContainer.arrange
+org/jfree/chart/block/AbstractBlock.getHeight
+org/jfree/chart/ui/RectangleInsets.calculateBottomOutset
+org/jfree/chart/block/BorderArrangement.arrange
+org/jfree/chart/block/AbstractBlock.arrange
+org/jfree/chart/block/BlockBorder.getInsets
+org/jfree/chart/block/AbstractBlock.toContentConstraint
+org/jfree/chart/block/AbstractBlock.getBounds
+org/jfree/chart/block/RectangleConstraint.getWidthConstraintType
+org/jfree/chart/ui/RectangleInsets.extendHeight
+org/jfree/chart/block/RectangleConstraint.getHeightConstraintType
+org/jfree/chart/ui/RectangleInsets.calculateTopOutset
+org/jfree/chart/block/BorderArrangement.arrangeNN
+top 10 recommendations: 
+org/jfree/chart/block/AbstractBlock.calculateTotalHeight
+org/jfree/chart/block/BorderArrangement.arrange
+org/jfree/chart/block/AbstractBlock.arrange
+org/jfree/chart/block/AbstractBlock.toContentConstraint
+org/jfree/chart/ui/RectangleInsets.extendHeight
+org/jfree/chart/block/RectangleConstraint.calculateConstrainedSize
+org/jfree/chart/block/BorderArrangement.add
+org/jfree/chart/block/BlockContainer.add
+org/jfree/chart/block/BlockContainer.arrange
+org/jfree/chart/block/AbstractBlock.getHeight
+after post processing ......
+org/jfree/chart/block/AbstractBlock.calculateTotalHeight
+org/jfree/chart/block/BorderArrangement.arrange
+org/jfree/chart/block/AbstractBlock.arrange
+org/jfree/chart/block/AbstractBlock.toContentConstraint
+org/jfree/chart/ui/RectangleInsets.extendHeight
+org/jfree/chart/block/RectangleConstraint.calculateConstrainedSize
+org/jfree/chart/block/BorderArrangement.add
+org/jfree/chart/block/BlockContainer.add
+org/jfree/chart/block/BlockContainer.arrange
+org/jfree/chart/block/AbstractBlock.getHeight
+org/jfree/chart/ui/RectangleInsets.calculateBottomOutset
+org/jfree/chart/block/BlockBorder.getInsets
+org/jfree/chart/block/AbstractBlock.getBounds
+org/jfree/chart/block/RectangleConstraint.getWidthConstraintType
+org/jfree/chart/block/RectangleConstraint.getHeightConstraintType
+org/jfree/chart/ui/RectangleInsets.calculateTopOutset
+org/jfree/chart/block/BorderArrangement.arrangeNN
+not matched

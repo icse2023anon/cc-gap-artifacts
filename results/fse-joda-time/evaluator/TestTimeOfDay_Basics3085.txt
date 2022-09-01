@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Basics.testIsSupported:251
+Methods call in assertion: [org/joda/time/DateTimeFieldType.hourOfDay, org/joda/time/TimeOfDay.isSupported]
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/TimeOfDay.getFieldType
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/TimeOfDay.size
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/TimeOfDay.getFieldType
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/TimeOfDay.size
+after post processing ......
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/TimeOfDay.getFieldType
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/TimeOfDay.size
+found in top 10

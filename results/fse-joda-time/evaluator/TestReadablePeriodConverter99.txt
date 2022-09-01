@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.convert.TestReadablePeriodConverter.testSetInto_Object:114
+Methods call in assertion: [org/joda/time/MutablePeriod.getYears]
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.yearMonthDayTime
+org/joda/time/MutablePeriod.getYears
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/base/BasePeriod.getValue
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/MutablePeriod.getYears
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.yearMonthDayTime
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/base/BasePeriod.getValue
+after post processing ......
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/MutablePeriod.getYears
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.yearMonthDayTime
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/base/BasePeriod.getValue
+found in top 10

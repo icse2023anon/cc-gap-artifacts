@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableShortTest.testPrimitiveValues:147
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableShort.floatValue]
+org/apache/commons/lang3/mutable/MutableShort.floatValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableShort.floatValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableShort.floatValue
+perfect match

@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.renderer.xy.StandardXYItemRendererTest.testEquals:104
+Methods call in assertion: [org/jfree/chart/renderer/xy/StandardXYItemRenderer.equals]
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.setBaseShapesVisible
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.equals
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.<init>
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.setPlotDiscontinuous
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.setPlotImages
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.setPlotLines
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.setBaseShapesVisible
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.equals
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.<init>
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.setPlotDiscontinuous
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.setPlotImages
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.setPlotLines
+after post processing ......
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.setBaseShapesVisible
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.equals
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.<init>
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.setPlotDiscontinuous
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.setPlotImages
+org/jfree/chart/renderer/xy/StandardXYItemRenderer.setPlotLines
+found in top 10

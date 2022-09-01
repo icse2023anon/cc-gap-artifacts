@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestLocalTime_Basics.testGetField_int:217
+Methods call in assertion: [org/joda/time/Chronology.minuteOfHour, org/joda/time/LocalTime.getField]
+org/joda/time/LocalTime.getField
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+top 10 recommendations: 
+org/joda/time/LocalTime.getField
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+after post processing ......
+org/joda/time/LocalTime.getField
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+found in top 10

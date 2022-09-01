@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.format.TestISODateTimeFormatParsing.test_localDateParser:145
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.getZone]
+org/joda/time/format/ISODateTimeFormat.localDateParser
+org/joda/time/format/DateTimeFormatter.getZone
+top 10 recommendations: 
+org/joda/time/format/ISODateTimeFormat.localDateParser
+org/joda/time/format/DateTimeFormatter.getZone
+after post processing ......
+org/joda/time/format/ISODateTimeFormat.localDateParser
+org/joda/time/format/DateTimeFormatter.getZone
+found in top 10

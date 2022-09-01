@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.CharUtilsTest.testIsAsciiControl_char:285
+Methods call in assertion: [org/apache/commons/lang3/CharUtils.isAsciiControl]
+org/apache/commons/lang3/CharUtils.isAsciiControl
+top 10 recommendations: 
+org/apache/commons/lang3/CharUtils.isAsciiControl
+after post processing ......
+org/apache/commons/lang3/CharUtils.isAsciiControl
+perfect match

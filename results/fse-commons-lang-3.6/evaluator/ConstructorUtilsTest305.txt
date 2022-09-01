@@ -1,0 +1,41 @@
+slicing criterion: org.apache.commons.lang3.reflect.ConstructorUtilsTest.testInvokeConstructor:167
+Methods call in assertion: [org/apache/commons/lang3/reflect/ConstructorUtils.invokeConstructor]
+org/apache/commons/lang3/reflect/MemberUtils.isMatchingConstructor
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/reflect/ConstructorUtils.invokeConstructor
+org/apache/commons/lang3/reflect/ConstructorUtils.getMatchingAccessibleConstructor
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+org/apache/commons/lang3/reflect/MemberUtils.compareConstructorFit
+org/apache/commons/lang3/ArrayUtils.isSameLength
+org/apache/commons/lang3/reflect/ConstructorUtils.getAccessibleConstructor
+org/apache/commons/lang3/ArrayUtils.nullToEmpty
+org/apache/commons/lang3/ClassUtils.toClass
+org/apache/commons/lang3/ClassUtils.wrapperToPrimitive
+org/apache/commons/lang3/ClassUtils.isAssignable
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/ConstructorUtils.invokeConstructor
+org/apache/commons/lang3/reflect/ConstructorUtils.getMatchingAccessibleConstructor
+org/apache/commons/lang3/ClassUtils.isAssignable
+org/apache/commons/lang3/ArrayUtils.nullToEmpty
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.isSameLength
+org/apache/commons/lang3/reflect/ConstructorUtils.getAccessibleConstructor
+org/apache/commons/lang3/reflect/MemberUtils.isMatchingConstructor
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+after post processing ......
+org/apache/commons/lang3/reflect/ConstructorUtils.invokeConstructor
+org/apache/commons/lang3/reflect/ConstructorUtils.getMatchingAccessibleConstructor
+org/apache/commons/lang3/ClassUtils.isAssignable
+org/apache/commons/lang3/ArrayUtils.nullToEmpty
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.isSameLength
+org/apache/commons/lang3/reflect/ConstructorUtils.getAccessibleConstructor
+org/apache/commons/lang3/reflect/MemberUtils.isMatchingConstructor
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+org/apache/commons/lang3/reflect/MemberUtils.compareConstructorFit
+org/apache/commons/lang3/ClassUtils.toClass
+org/apache/commons/lang3/ClassUtils.wrapperToPrimitive
+perfect match

@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.format.TestDateTimeParserBucket.testReset:277
+Methods call in assertion: [org/joda/time/format/DateTimeParserBucket.getZone]
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/format/DateTimeParserBucket.getZone
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/format/DateTimeParserBucket.<init>
+top 10 recommendations: 
+org/joda/time/format/DateTimeParserBucket.<init>
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/format/DateTimeParserBucket.getZone
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/format/DateTimeParserBucket.<init>
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/format/DateTimeParserBucket.getZone
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

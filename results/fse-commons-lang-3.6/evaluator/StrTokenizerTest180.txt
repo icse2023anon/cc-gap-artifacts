@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.text.StrTokenizerTest.testConstructor_charArray_char_char:770
+Methods call in assertion: [org/apache/commons/lang3/text/StrMatcher.isMatch, org/apache/commons/lang3/text/StrTokenizer.getQuoteMatcher]
+org/apache/commons/lang3/text/StrTokenizer.setQuoteMatcher
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/text/StrTokenizer.getQuoteMatcher
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/text/StrTokenizer.setQuoteMatcher
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrTokenizer.getQuoteMatcher
+after post processing ......
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/text/StrTokenizer.setQuoteMatcher
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrTokenizer.getQuoteMatcher
+not matched

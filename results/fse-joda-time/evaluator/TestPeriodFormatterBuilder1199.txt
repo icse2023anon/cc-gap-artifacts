@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.format.TestPeriodFormatterBuilder.testToFormatterPrinterParser:189
+Methods call in assertion: [org/joda/time/format/PeriodFormatterBuilder.toParser]
+org/joda/time/format/PeriodFormatterBuilder.toPrinter
+org/joda/time/format/PeriodFormatterBuilder.appendYears
+org/joda/time/format/PeriodFormatter.getParser
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+org/joda/time/format/PeriodFormatterBuilder.toParser
+top 10 recommendations: 
+org/joda/time/format/PeriodFormatterBuilder.toPrinter
+org/joda/time/format/PeriodFormatterBuilder.toParser
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+org/joda/time/format/PeriodFormatterBuilder.appendYears
+org/joda/time/format/PeriodFormatter.getParser
+after post processing ......
+org/joda/time/format/PeriodFormatterBuilder.toPrinter
+org/joda/time/format/PeriodFormatterBuilder.toParser
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+org/joda/time/format/PeriodFormatterBuilder.appendYears
+org/joda/time/format/PeriodFormatter.getParser
+found in top 10

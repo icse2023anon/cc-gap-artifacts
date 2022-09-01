@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.labels.StandardPieSectionLabelGeneratorTest.testHashCode:126
+Methods call in assertion: [org/jfree/chart/labels/StandardPieSectionLabelGenerator.hashCode]
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.hashCode
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.<init>
+org/jfree/chart/HashUtils.hashCode
+top 10 recommendations: 
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.hashCode
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.<init>
+org/jfree/chart/HashUtils.hashCode
+after post processing ......
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.hashCode
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.<init>
+org/jfree/chart/HashUtils.hashCode
+found in top 10

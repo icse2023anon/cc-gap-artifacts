@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.block.BlockContainerTest.testCloning:86
+Methods call in assertion: [org/jfree/chart/block/BlockContainer.equals]
+org/jfree/chart/block/BlockContainer.equals
+org/jfree/chart/block/BlockContainer.clone
+top 10 recommendations: 
+org/jfree/chart/block/BlockContainer.equals
+org/jfree/chart/block/BlockContainer.clone
+after post processing ......
+org/jfree/chart/block/BlockContainer.equals
+org/jfree/chart/block/BlockContainer.clone
+perfect match

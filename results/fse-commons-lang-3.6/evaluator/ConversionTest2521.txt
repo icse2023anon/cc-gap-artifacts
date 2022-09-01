@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testByteToHex:1482
+Methods call in assertion: [org/apache/commons/lang3/Conversion.byteToHex]
+org/apache/commons/lang3/Conversion.byteToHex
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.byteToHex
+after post processing ......
+org/apache/commons/lang3/Conversion.byteToHex
+perfect match

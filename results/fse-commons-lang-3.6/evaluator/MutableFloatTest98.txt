@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableFloatTest.testHashCode:140
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableFloat.hashCode]
+org/apache/commons/lang3/mutable/MutableFloat.hashCode
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableFloat.hashCode
+after post processing ......
+org/apache/commons/lang3/mutable/MutableFloat.hashCode
+perfect match

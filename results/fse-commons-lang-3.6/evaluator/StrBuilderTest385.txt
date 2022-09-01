@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testAsBuilder:2047
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.toString, org/apache/commons/lang3/text/StrBuilder.build]
+org/apache/commons/lang3/text/StrBuilder.toString
+org/apache/commons/lang3/text/StrBuilder.build
+org/apache/commons/lang3/text/StrBuilder.appendAll
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.build
+org/apache/commons/lang3/text/StrBuilder.toString
+org/apache/commons/lang3/text/StrBuilder.appendAll
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.build
+org/apache/commons/lang3/text/StrBuilder.toString
+org/apache/commons/lang3/text/StrBuilder.appendAll
+found in top 10

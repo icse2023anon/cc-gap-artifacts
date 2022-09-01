@@ -1,0 +1,43 @@
+slicing criterion: org.joda.time.TestLocalTime_Basics.testEqualsHashCode:330
+Methods call in assertion: [org/joda/time/LocalTime.hashCode]
+org/joda/time/base/AbstractPartial.hashCode
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/LocalTime.getField
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/LocalTime.getValue
+org/joda/time/LocalTime.size
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.hashCode
+org/joda/time/LocalTime.getValue
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/LocalTime.getField
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/LocalTime.size
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/chrono/CopticChronology.withUTC
+after post processing ......
+org/joda/time/base/AbstractPartial.hashCode
+org/joda/time/LocalTime.getValue
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/LocalTime.getField
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/LocalTime.size
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+not matched

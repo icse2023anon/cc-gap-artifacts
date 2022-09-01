@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.axis.ExtendedCategoryAxisTest.testCloning2:148
+Methods call in assertion: [org/jfree/chart/axis/ExtendedCategoryAxis.equals]
+org/jfree/chart/axis/ExtendedCategoryAxis.clone
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/axis/ExtendedCategoryAxis.equals
+top 10 recommendations: 
+org/jfree/chart/axis/ExtendedCategoryAxis.equals
+org/jfree/chart/axis/ExtendedCategoryAxis.clone
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/axis/ExtendedCategoryAxis.equals
+org/jfree/chart/axis/ExtendedCategoryAxis.clone
+org/jfree/chart/util/PaintUtils.equal
+perfect match

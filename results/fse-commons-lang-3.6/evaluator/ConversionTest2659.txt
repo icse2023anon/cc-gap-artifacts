@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testBinaryToByte:843
+Methods call in assertion: [org/apache/commons/lang3/Conversion.binaryToByte]
+org/apache/commons/lang3/Conversion.binaryToByte
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.binaryToByte
+after post processing ......
+org/apache/commons/lang3/Conversion.binaryToByte
+perfect match

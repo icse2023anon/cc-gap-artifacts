@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.CharsetsTest.testToCharset:34
+Methods call in assertion: [org/apache/commons/codec/Charsets.toCharset]
+org/apache/commons/codec/Charsets.toCharset
+top 10 recommendations: 
+org/apache/commons/codec/Charsets.toCharset
+after post processing ......
+org/apache/commons/codec/Charsets.toCharset
+perfect match

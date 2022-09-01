@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testGetValue:231
+Methods call in assertion: [org/joda/time/Partial.getValue]
+org/joda/time/Partial.getValue
+org/joda/time/Partial.<init>
+top 10 recommendations: 
+org/joda/time/Partial.getValue
+org/joda/time/Partial.<init>
+after post processing ......
+org/joda/time/Partial.getValue
+org/joda/time/Partial.<init>
+perfect match

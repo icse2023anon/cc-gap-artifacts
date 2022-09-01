@@ -1,0 +1,8 @@
+slicing criterion: com.google.gson.JsonNullTest.testDeepCopy:38
+Methods call in assertion: [com/google/gson/JsonNull.deepCopy]
+com/google/gson/JsonNull.deepCopy
+top 10 recommendations: 
+com/google/gson/JsonNull.deepCopy
+after post processing ......
+com/google/gson/JsonNull.deepCopy
+perfect match

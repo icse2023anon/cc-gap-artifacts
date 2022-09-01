@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.tuple.MutablePairTest.testDefault:61
+Methods call in assertion: [org/apache/commons/lang3/tuple/MutablePair.getLeft]
+org/apache/commons/lang3/tuple/MutablePair.getLeft
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/MutablePair.getLeft
+after post processing ......
+org/apache/commons/lang3/tuple/MutablePair.getLeft
+perfect match

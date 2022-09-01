@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testWithHeaderComments:783
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getQuoteCharacter]
+org/apache/commons/csv/CSVFormat.getQuoteCharacter
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.getQuoteCharacter
+after post processing ......
+org/apache/commons/csv/CSVFormat.getQuoteCharacter
+perfect match

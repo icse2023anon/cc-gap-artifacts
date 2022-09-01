@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMutablePeriod_Basics.testToString:468
+Methods call in assertion: [org/joda/time/MutablePeriod.toString]
+org/joda/time/format/ISOPeriodFormat.standard
+org/joda/time/format/PeriodFormatter.print
+top 10 recommendations: 
+org/joda/time/format/ISOPeriodFormat.standard
+org/joda/time/format/PeriodFormatter.print
+after post processing ......
+org/joda/time/format/ISOPeriodFormat.standard
+org/joda/time/format/PeriodFormatter.print
+not matched

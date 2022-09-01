@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.StandardChartThemeTest.testEquals:78
+Methods call in assertion: [org/jfree/chart/StandardChartTheme.equals]
+org/jfree/chart/StandardChartTheme.equals
+top 10 recommendations: 
+org/jfree/chart/StandardChartTheme.equals
+after post processing ......
+org/jfree/chart/StandardChartTheme.equals
+perfect match

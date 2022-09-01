@@ -1,0 +1,14 @@
+slicing criterion: org.codehaus.plexus.util.cli.StreamPumperTest.testPumperReadsInputStreamUntilEndEvenIfConsumerFails:129
+Methods call in assertion: [org/codehaus/plexus/util/cli/StreamPumper.getException]
+org/codehaus/plexus/util/cli/StreamPumper.<init>
+org/codehaus/plexus/util/cli/StreamPumper.getException
+org/codehaus/plexus/util/cli/AbstractStreamHandler.isDisabled
+top 10 recommendations: 
+org/codehaus/plexus/util/cli/StreamPumper.<init>
+org/codehaus/plexus/util/cli/StreamPumper.getException
+org/codehaus/plexus/util/cli/AbstractStreamHandler.isDisabled
+after post processing ......
+org/codehaus/plexus/util/cli/StreamPumper.<init>
+org/codehaus/plexus/util/cli/StreamPumper.getException
+org/codehaus/plexus/util/cli/AbstractStreamHandler.isDisabled
+found in top 10

@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestLocalDate_Basics.testGetFieldType_int:406
+Methods call in assertion: [org/joda/time/LocalDate.getFieldType, org/joda/time/DateTimeFieldType.monthOfYear]
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/LocalDate.getField
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/LocalDate.getChronology
+org/joda/time/DateTimeFieldType.monthOfYear
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/LocalDate.getField
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/LocalDate.getChronology
+org/joda/time/DateTimeFieldType.monthOfYear
+after post processing ......
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/LocalDate.getField
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/LocalDate.getChronology
+org/joda/time/DateTimeFieldType.monthOfYear
+found in top 10

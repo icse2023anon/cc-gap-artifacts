@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.validator.routines.checkdigit.ISINCheckDigitTest.testVALIDATOR_345:65
+Methods call in assertion: [org/apache/commons/validator/routines/checkdigit/CheckDigit.isValid]
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/checkdigit/ISINCheckDigit.calculateModulus
+top 10 recommendations: 
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/checkdigit/ISINCheckDigit.calculateModulus
+after post processing ......
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/checkdigit/ISINCheckDigit.calculateModulus
+found in top 10

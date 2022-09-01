@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.renderer.AbstractRendererTest.testEventNotification:647
+Methods call in assertion: [org/jfree/chart/renderer/RendererChangeDetector.getNotified]
+org/jfree/chart/renderer/AbstractRenderer.addChangeListener
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.setSeriesItemLabelFont
+org/jfree/chart/event/RendererChangeEvent.getRenderer
+org/jfree/chart/renderer/AbstractRenderer.hasListener
+org/jfree/chart/renderer/AbstractRenderer.notifyListeners
+top 10 recommendations: 
+org/jfree/chart/renderer/AbstractRenderer.addChangeListener
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.setSeriesItemLabelFont
+org/jfree/chart/event/RendererChangeEvent.getRenderer
+org/jfree/chart/renderer/AbstractRenderer.hasListener
+org/jfree/chart/renderer/AbstractRenderer.notifyListeners
+after post processing ......
+org/jfree/chart/renderer/AbstractRenderer.addChangeListener
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.setSeriesItemLabelFont
+org/jfree/chart/event/RendererChangeEvent.getRenderer
+org/jfree/chart/renderer/AbstractRenderer.hasListener
+org/jfree/chart/renderer/AbstractRenderer.notifyListeners
+not matched

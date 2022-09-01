@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestPeriod_Basics.testToString_nullPeriodFormatter:593
+Methods call in assertion: [org/joda/time/Period.toString]
+org/joda/time/base/AbstractPeriod.toString
+org/joda/time/format/PeriodFormatter.print
+top 10 recommendations: 
+org/joda/time/base/AbstractPeriod.toString
+org/joda/time/format/PeriodFormatter.print
+after post processing ......
+org/joda/time/base/AbstractPeriod.toString
+org/joda/time/format/PeriodFormatter.print
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.BooleanUtilsTest.testCompare:1059
+Methods call in assertion: [org/apache/commons/lang3/BooleanUtils.compare]
+org/apache/commons/lang3/BooleanUtils.compare
+top 10 recommendations: 
+org/apache/commons/lang3/BooleanUtils.compare
+after post processing ......
+org/apache/commons/lang3/BooleanUtils.compare
+perfect match

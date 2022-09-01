@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.TestLocalDate_Basics.testGetFieldTypes:422
+Methods call in assertion: [org/joda/time/DateTimeFieldType.year]
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateTimeFieldType.year
+org/joda/time/LocalDate.size
+org/joda/time/base/AbstractPartial.getFieldTypes
+org/joda/time/LocalDate.getField
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.getChronology
+org/joda/time/chrono/AssembledChronology.year
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.getFieldTypes
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateTimeFieldType.year
+org/joda/time/LocalDate.size
+org/joda/time/LocalDate.getField
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.getChronology
+org/joda/time/chrono/AssembledChronology.year
+after post processing ......
+org/joda/time/base/AbstractPartial.getFieldTypes
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateTimeFieldType.year
+org/joda/time/LocalDate.size
+org/joda/time/LocalDate.getField
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.getChronology
+org/joda/time/chrono/AssembledChronology.year
+found in top 10

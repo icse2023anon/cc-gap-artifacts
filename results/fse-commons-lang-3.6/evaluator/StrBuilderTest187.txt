@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testIndexOf_StrMatcher:1633
+Methods call in assertion: [org/apache/commons/lang3/text/StrMatcher.charMatcher, org/apache/commons/lang3/text/StrBuilder.indexOf]
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrBuilder.indexOf
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrBuilder.indexOf
+after post processing ......
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrBuilder.indexOf
+perfect match

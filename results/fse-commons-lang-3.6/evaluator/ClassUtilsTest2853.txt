@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.ClassUtilsTest.test_getShortCanonicalName_Class:1221
+Methods call in assertion: [org/apache/commons/lang3/ClassUtils.getShortCanonicalName]
+org/apache/commons/lang3/StringUtils.deleteWhitespace
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/ClassUtils.getShortClassName
+org/apache/commons/lang3/ClassUtils.getShortCanonicalName
+top 10 recommendations: 
+org/apache/commons/lang3/ClassUtils.getShortCanonicalName
+org/apache/commons/lang3/StringUtils.deleteWhitespace
+org/apache/commons/lang3/ClassUtils.getShortClassName
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/ClassUtils.getShortCanonicalName
+org/apache/commons/lang3/StringUtils.deleteWhitespace
+org/apache/commons/lang3/ClassUtils.getShortClassName
+org/apache/commons/lang3/StringUtils.isEmpty
+perfect match

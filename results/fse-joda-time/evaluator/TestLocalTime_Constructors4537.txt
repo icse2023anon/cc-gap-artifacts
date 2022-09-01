@@ -1,0 +1,41 @@
+slicing criterion: org.joda.time.TestLocalTime_Constructors.testParse_formatter:182
+Methods call in assertion: [org/joda/time/LocalTime.parse]
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/format/DateTimeFormatter.parseLocalTime
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendMinuteOfHour
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/LocalTime.parse
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatterBuilder.appendMinuteOfHour
+org/joda/time/LocalTime.parse
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/format/DateTimeFormatter.parseLocalTime
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+after post processing ......
+org/joda/time/format/DateTimeFormatterBuilder.appendMinuteOfHour
+org/joda/time/LocalTime.parse
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/format/DateTimeFormatter.parseLocalTime
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/tz/CachedDateTimeZone.hashCode
+found in top 10

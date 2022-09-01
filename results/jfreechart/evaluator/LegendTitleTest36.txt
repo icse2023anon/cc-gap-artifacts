@@ -1,0 +1,32 @@
+slicing criterion: org.jfree.chart.title.LegendTitleTest.testSerialization:156
+Methods call in assertion: [org/jfree/chart/title/LegendTitle.equals]
+org/jfree/chart/block/AbstractBlock.clone
+org/jfree/chart/title/Title.getVerticalAlignment
+org/jfree/chart/util/SerialUtils.readShape
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/SerialUtils.isSerializable
+org/jfree/chart/title/LegendTitle.equals
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/chart/util/SerialUtils.writePaint
+top 10 recommendations: 
+org/jfree/chart/title/LegendTitle.equals
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/chart/block/AbstractBlock.clone
+org/jfree/chart/title/Title.getVerticalAlignment
+org/jfree/chart/util/SerialUtils.readShape
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/SerialUtils.isSerializable
+org/jfree/chart/util/SerialUtils.writePaint
+after post processing ......
+org/jfree/chart/title/LegendTitle.equals
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/chart/block/AbstractBlock.clone
+org/jfree/chart/title/Title.getVerticalAlignment
+org/jfree/chart/util/SerialUtils.readShape
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/SerialUtils.isSerializable
+org/jfree/chart/util/SerialUtils.writePaint
+perfect match

@@ -1,0 +1,35 @@
+slicing criterion: org.jfree.chart.axis.DateAxisTest.testBug25:1221
+Methods call in assertion: [org/jfree/data/time/Month.getFirstMillisecond]
+org/jfree/data/time/Year.getFirstMillisecond
+org/jfree/chart/axis/DateTickUnit.getUnitType
+org/jfree/chart/axis/DateTickUnitType.equals
+org/jfree/chart/axis/DateTickUnit.getMultiple
+org/jfree/data/time/Month.<init>
+org/jfree/chart/axis/DateTickUnit.getCalendarField
+org/jfree/chart/axis/DateTickUnitType.toString
+org/jfree/data/time/Month.previous
+org/jfree/data/time/Month.getFirstMillisecond
+org/jfree/chart/axis/DateAxis.previousStandardDate
+top 10 recommendations: 
+org/jfree/chart/axis/DateAxis.previousStandardDate
+org/jfree/chart/axis/DateTickUnitType.equals
+org/jfree/data/time/Month.previous
+org/jfree/data/time/Year.getFirstMillisecond
+org/jfree/chart/axis/DateTickUnit.getUnitType
+org/jfree/chart/axis/DateTickUnit.getMultiple
+org/jfree/data/time/Month.<init>
+org/jfree/chart/axis/DateTickUnit.getCalendarField
+org/jfree/chart/axis/DateTickUnitType.toString
+org/jfree/data/time/Month.getFirstMillisecond
+after post processing ......
+org/jfree/chart/axis/DateAxis.previousStandardDate
+org/jfree/chart/axis/DateTickUnitType.equals
+org/jfree/data/time/Month.previous
+org/jfree/data/time/Year.getFirstMillisecond
+org/jfree/chart/axis/DateTickUnit.getUnitType
+org/jfree/chart/axis/DateTickUnit.getMultiple
+org/jfree/data/time/Month.<init>
+org/jfree/chart/axis/DateTickUnit.getCalendarField
+org/jfree/chart/axis/DateTickUnitType.toString
+org/jfree/data/time/Month.getFirstMillisecond
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.text.StrTokenizerTest.testChaining:632
+Methods call in assertion: [org/apache/commons/lang3/text/StrTokenizer.setQuoteChar]
+org/apache/commons/lang3/text/StrTokenizer.setQuoteMatcher
+org/apache/commons/lang3/text/StrTokenizer.setQuoteChar
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrTokenizer.setQuoteChar
+org/apache/commons/lang3/text/StrTokenizer.setQuoteMatcher
+after post processing ......
+org/apache/commons/lang3/text/StrTokenizer.setQuoteChar
+org/apache/commons/lang3/text/StrTokenizer.setQuoteMatcher
+perfect match

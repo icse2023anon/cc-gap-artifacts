@@ -1,0 +1,57 @@
+slicing criterion: org.jfree.chart.plot.PolarPlotTest.testGetLegendItems:94
+Methods call in assertion: [org/jfree/chart/LegendItem.getLabel]
+org/jfree/chart/LegendItemCollection.get
+org/jfree/chart/util/AbstractObjectList.size
+org/jfree/data/xy/XYSeries.addOrUpdate
+org/jfree/chart/renderer/DefaultPolarItemRenderer.getLegendItem
+org/jfree/chart/util/ObjectList.get
+org/jfree/chart/plot/PolarPlot.getDataset
+org/jfree/data/xy/XYSeriesCollection.addSeries
+org/jfree/chart/plot/PolarPlot.setDataset
+org/jfree/data/general/Series.getKey
+org/jfree/data/xy/XYSeriesCollection.getSeriesCount
+org/jfree/chart/plot/PolarPlot.getRenderer
+org/jfree/chart/util/ObjectList.indexOf
+org/jfree/chart/plot/PolarPlot.getLegendItems
+org/jfree/chart/renderer/DefaultPolarItemRenderer.getPlot
+org/jfree/data/xy/XYSeriesCollection.getSeriesKey
+org/jfree/data/xy/XYSeriesCollection.getSeries
+org/jfree/chart/plot/PolarPlot.<init>
+org/jfree/chart/plot/PolarPlot.getIndexOf
+org/jfree/chart/plot/PolarPlot.setRenderer
+org/jfree/chart/LegendItem.getLabel
+org/jfree/chart/LegendItemCollection.add
+top 10 recommendations: 
+org/jfree/chart/renderer/DefaultPolarItemRenderer.getLegendItem
+org/jfree/chart/plot/PolarPlot.getLegendItems
+org/jfree/chart/plot/PolarPlot.setDataset
+org/jfree/data/xy/XYSeriesCollection.getSeriesKey
+org/jfree/chart/plot/PolarPlot.setRenderer
+org/jfree/chart/plot/PolarPlot.getDataset
+org/jfree/chart/plot/PolarPlot.getRenderer
+org/jfree/data/xy/XYSeriesCollection.getSeries
+org/jfree/chart/plot/PolarPlot.getIndexOf
+org/jfree/chart/LegendItemCollection.get
+after post processing ......
+org/jfree/chart/renderer/DefaultPolarItemRenderer.getLegendItem
+org/jfree/chart/plot/PolarPlot.getLegendItems
+org/jfree/chart/plot/PolarPlot.setDataset
+org/jfree/data/xy/XYSeriesCollection.getSeriesKey
+org/jfree/chart/plot/PolarPlot.setRenderer
+org/jfree/chart/plot/PolarPlot.getDataset
+org/jfree/chart/plot/PolarPlot.getRenderer
+org/jfree/data/xy/XYSeriesCollection.getSeries
+org/jfree/chart/plot/PolarPlot.getIndexOf
+org/jfree/chart/LegendItemCollection.get
+org/jfree/chart/util/AbstractObjectList.size
+org/jfree/data/xy/XYSeries.addOrUpdate
+org/jfree/chart/util/ObjectList.get
+org/jfree/data/xy/XYSeriesCollection.addSeries
+org/jfree/data/general/Series.getKey
+org/jfree/data/xy/XYSeriesCollection.getSeriesCount
+org/jfree/chart/util/ObjectList.indexOf
+org/jfree/chart/renderer/DefaultPolarItemRenderer.getPlot
+org/jfree/chart/plot/PolarPlot.<init>
+org/jfree/chart/LegendItem.getLabel
+org/jfree/chart/LegendItemCollection.add
+all method calls are suggested

@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDateTimeZone.testProvider:644
+Methods call in assertion: [org/joda/time/DateTimeZone.getProvider]
+org/joda/time/DateTimeZone.getProvider
+top 10 recommendations: 
+org/joda/time/DateTimeZone.getProvider
+after post processing ......
+org/joda/time/DateTimeZone.getProvider
+perfect match

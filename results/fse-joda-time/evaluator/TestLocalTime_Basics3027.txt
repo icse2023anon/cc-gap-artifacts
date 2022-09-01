@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestLocalTime_Basics.testProperty:798
+Methods call in assertion: [org/joda/time/LocalTime.property, org/joda/time/LocalTime$Property.getLocalTime, org/joda/time/DateTimeFieldType.secondOfDay]
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/DateTimeFieldType.secondOfDay
+top 10 recommendations: 
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/DateTimeFieldType.secondOfDay
+after post processing ......
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/DateTimeFieldType.secondOfDay
+not matched

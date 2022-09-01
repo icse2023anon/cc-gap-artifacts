@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.TestMonthDay_Basics.testEqualsHashCode:256
+Methods call in assertion: [org/joda/time/MonthDay.equals]
+org/joda/time/MonthDay.getFieldType
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/field/FieldUtils.equals
+org/joda/time/base/AbstractPartial.equals
+org/joda/time/MonthDay.size
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.equals
+org/joda/time/MonthDay.getFieldType
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/field/FieldUtils.equals
+org/joda/time/MonthDay.size
+after post processing ......
+org/joda/time/base/AbstractPartial.equals
+org/joda/time/MonthDay.getFieldType
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/field/FieldUtils.equals
+org/joda/time/MonthDay.size
+found in top 10

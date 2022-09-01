@@ -1,0 +1,23 @@
+slicing criterion: com.thoughtworks.xstream.io.xml.XppDomReaderTest.testCanReadFromElementOfLargerDocument:45
+Methods call in assertion: [com/thoughtworks/xstream/io/HierarchicalStreamReader.getNodeName]
+com/thoughtworks/xstream/core/util/Cloneables.clone
+com/thoughtworks/xstream/io/xml/AbstractDocumentReader.getCurrent
+com/thoughtworks/xstream/io/xml/XppDomReader.getNodeName
+com/thoughtworks/xstream/core/util/Cloneables.cloneIfPossible
+com/thoughtworks/xstream/io/xml/AbstractDocumentReader.<init>
+com/thoughtworks/xstream/io/AbstractReader.decodeNode
+top 10 recommendations: 
+com/thoughtworks/xstream/core/util/Cloneables.cloneIfPossible
+com/thoughtworks/xstream/core/util/Cloneables.clone
+com/thoughtworks/xstream/io/xml/AbstractDocumentReader.getCurrent
+com/thoughtworks/xstream/io/xml/XppDomReader.getNodeName
+com/thoughtworks/xstream/io/xml/AbstractDocumentReader.<init>
+com/thoughtworks/xstream/io/AbstractReader.decodeNode
+after post processing ......
+com/thoughtworks/xstream/core/util/Cloneables.cloneIfPossible
+com/thoughtworks/xstream/core/util/Cloneables.clone
+com/thoughtworks/xstream/io/xml/AbstractDocumentReader.getCurrent
+com/thoughtworks/xstream/io/xml/XppDomReader.getNodeName
+com/thoughtworks/xstream/io/xml/AbstractDocumentReader.<init>
+com/thoughtworks/xstream/io/AbstractReader.decodeNode
+not matched

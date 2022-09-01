@@ -1,0 +1,8 @@
+slicing criterion: com.google.gson.internal.LazilyParsedNumberTest.testEquals:30
+Methods call in assertion: [com/google/gson/internal/LazilyParsedNumber.equals]
+com/google/gson/internal/LazilyParsedNumber.equals
+top 10 recommendations: 
+com/google/gson/internal/LazilyParsedNumber.equals
+after post processing ......
+com/google/gson/internal/LazilyParsedNumber.equals
+perfect match

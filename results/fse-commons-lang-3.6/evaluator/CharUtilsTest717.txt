@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.CharUtilsTest.testIsAsciiAlphaUpper_char:325
+Methods call in assertion: [org/apache/commons/lang3/CharUtils.isAsciiAlphaUpper]
+org/apache/commons/lang3/CharUtils.isAsciiAlphaUpper
+top 10 recommendations: 
+org/apache/commons/lang3/CharUtils.isAsciiAlphaUpper
+after post processing ......
+org/apache/commons/lang3/CharUtils.isAsciiAlphaUpper
+perfect match

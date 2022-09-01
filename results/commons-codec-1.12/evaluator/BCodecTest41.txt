@@ -1,0 +1,37 @@
+slicing criterion: org.apache.commons.codec.net.BCodecTest.testUTF8RoundTrip:72
+Methods call in assertion: [org/apache/commons/codec/net/BCodec.encode, org/apache/commons/codec/net/BCodec.decode]
+org/apache/commons/codec/binary/BaseNCodec.isInAlphabet
+org/apache/commons/codec/binary/Base64.decode
+org/apache/commons/codec/net/RFC1522Codec.decodeText
+org/apache/commons/codec/net/BCodec.doDecoding
+org/apache/commons/codec/binary/Base64.isUrlSafe
+org/apache/commons/codec/net/RFC1522Codec.encodeText
+org/apache/commons/codec/binary/StringUtils.getBytesUsAscii
+org/apache/commons/codec/net/BCodec.encode
+org/apache/commons/codec/binary/BaseNCodec.decode
+org/apache/commons/codec/binary/BaseNCodec.ensureBufferSize
+org/apache/commons/codec/net/BCodec.decode
+top 10 recommendations: 
+org/apache/commons/codec/net/RFC1522Codec.decodeText
+org/apache/commons/codec/binary/BaseNCodec.isInAlphabet
+org/apache/commons/codec/binary/Base64.decode
+org/apache/commons/codec/net/BCodec.doDecoding
+org/apache/commons/codec/binary/Base64.isUrlSafe
+org/apache/commons/codec/net/RFC1522Codec.encodeText
+org/apache/commons/codec/binary/StringUtils.getBytesUsAscii
+org/apache/commons/codec/net/BCodec.encode
+org/apache/commons/codec/binary/BaseNCodec.decode
+org/apache/commons/codec/binary/BaseNCodec.ensureBufferSize
+after post processing ......
+org/apache/commons/codec/net/RFC1522Codec.decodeText
+org/apache/commons/codec/binary/BaseNCodec.isInAlphabet
+org/apache/commons/codec/binary/Base64.decode
+org/apache/commons/codec/net/BCodec.doDecoding
+org/apache/commons/codec/binary/Base64.isUrlSafe
+org/apache/commons/codec/net/RFC1522Codec.encodeText
+org/apache/commons/codec/binary/StringUtils.getBytesUsAscii
+org/apache/commons/codec/net/BCodec.encode
+org/apache/commons/codec/binary/BaseNCodec.decode
+org/apache/commons/codec/binary/BaseNCodec.ensureBufferSize
+org/apache/commons/codec/net/BCodec.decode
+all method calls are suggested

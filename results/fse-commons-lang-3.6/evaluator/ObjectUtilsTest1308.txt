@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ObjectUtilsTest.testIsNull:103
+Methods call in assertion: [org/apache/commons/lang3/ObjectUtils.defaultIfNull]
+org/apache/commons/lang3/ObjectUtils.defaultIfNull
+top 10 recommendations: 
+org/apache/commons/lang3/ObjectUtils.defaultIfNull
+after post processing ......
+org/apache/commons/lang3/ObjectUtils.defaultIfNull
+perfect match

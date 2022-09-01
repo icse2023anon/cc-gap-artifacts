@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatterBuilder.test_append_Parser:232
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.isParser]
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.isParser
+org/joda/time/format/DateTimeFormatterBuilder.toParser
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/InternalParserDateTimeParser.of
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeParserInternalParser.of
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatterBuilder.toParser
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.isParser
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/InternalParserDateTimeParser.of
+org/joda/time/format/DateTimeParserInternalParser.of
+after post processing ......
+org/joda/time/format/DateTimeFormatterBuilder.toParser
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.isParser
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/InternalParserDateTimeParser.of
+org/joda/time/format/DateTimeParserInternalParser.of
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.convert.TestReadableInstantConverter.testSupportedType:106
+Methods call in assertion: [org/joda/time/convert/ReadableInstantConverter.getSupportedType]
+org/joda/time/convert/ReadableInstantConverter.getSupportedType
+top 10 recommendations: 
+org/joda/time/convert/ReadableInstantConverter.getSupportedType
+after post processing ......
+org/joda/time/convert/ReadableInstantConverter.getSupportedType
+perfect match

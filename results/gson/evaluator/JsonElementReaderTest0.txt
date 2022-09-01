@@ -1,0 +1,59 @@
+slicing criterion: com.google.gson.internal.bind.JsonElementReaderTest.testNumbers:34
+Methods call in assertion: [com/google/gson/internal/bind/JsonTreeReader.nextDouble]
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/internal/LazilyParsedNumber.doubleValue
+com/google/gson/JsonPrimitive.getAsInt
+com/google/gson/JsonPrimitive.getAsLong
+com/google/gson/internal/Streams.parse
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/LazilyParsedNumber.intValue
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/internal/bind/JsonTreeReader.nextDouble
+com/google/gson/stream/JsonReader.peek
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/JsonPrimitive.getAsDouble
+com/google/gson/internal/bind/JsonTreeReader.nextLong
+com/google/gson/JsonArray.iterator
+com/google/gson/JsonParser.parse
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/JsonArray.add
+com/google/gson/internal/LazilyParsedNumber.longValue
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/internal/bind/JsonTreeReader.peek
+top 10 recommendations: 
+com/google/gson/JsonParser.parse
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/internal/bind/JsonTreeReader.nextDouble
+com/google/gson/internal/bind/JsonTreeReader.nextLong
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/JsonPrimitive.getAsInt
+com/google/gson/JsonPrimitive.getAsLong
+com/google/gson/stream/JsonReader.peek
+com/google/gson/internal/bind/JsonTreeReader.<init>
+after post processing ......
+com/google/gson/JsonParser.parse
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/internal/bind/JsonTreeReader.nextDouble
+com/google/gson/internal/bind/JsonTreeReader.nextLong
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/JsonPrimitive.getAsInt
+com/google/gson/JsonPrimitive.getAsLong
+com/google/gson/stream/JsonReader.peek
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/JsonPrimitive.getAsDouble
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/internal/bind/JsonTreeReader.peek
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/internal/LazilyParsedNumber.doubleValue
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/LazilyParsedNumber.intValue
+com/google/gson/JsonArray.iterator
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonArray.add
+com/google/gson/internal/LazilyParsedNumber.longValue
+com/google/gson/stream/JsonReader.doPeek
+found in top 10

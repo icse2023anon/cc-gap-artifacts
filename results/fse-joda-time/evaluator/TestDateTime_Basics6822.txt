@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTime_Basics.testGet_DateTimeField:237
+Methods call in assertion: [org/joda/time/chrono/ISOChronology.yearOfEra, org/joda/time/DateTime.get]
+org/joda/time/chrono/AssembledChronology.yearOfEra
+org/joda/time/base/AbstractInstant.get
+top 10 recommendations: 
+org/joda/time/chrono/AssembledChronology.yearOfEra
+org/joda/time/base/AbstractInstant.get
+after post processing ......
+org/joda/time/chrono/AssembledChronology.yearOfEra
+org/joda/time/base/AbstractInstant.get
+not matched

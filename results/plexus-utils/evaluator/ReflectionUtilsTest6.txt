@@ -1,0 +1,11 @@
+slicing criterion: org.codehaus.plexus.util.ReflectionUtilsTest.testSimpleVariableAccess:45
+Methods call in assertion: [org/codehaus/plexus/util/ReflectionUtils.getValueIncludingSuperclasses]
+org/codehaus/plexus/util/ReflectionUtils.getValueIncludingSuperclasses
+org/codehaus/plexus/util/ReflectionUtils.getFieldByNameIncludingSuperclasses
+top 10 recommendations: 
+org/codehaus/plexus/util/ReflectionUtils.getValueIncludingSuperclasses
+org/codehaus/plexus/util/ReflectionUtils.getFieldByNameIncludingSuperclasses
+after post processing ......
+org/codehaus/plexus/util/ReflectionUtils.getValueIncludingSuperclasses
+org/codehaus/plexus/util/ReflectionUtils.getFieldByNameIncludingSuperclasses
+perfect match

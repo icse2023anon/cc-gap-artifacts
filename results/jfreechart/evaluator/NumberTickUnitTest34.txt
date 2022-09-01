@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.axis.NumberTickUnitTest.testEquals:69
+Methods call in assertion: [org/jfree/chart/axis/NumberTickUnit.equals]
+org/jfree/chart/axis/NumberTickUnit.equals
+top 10 recommendations: 
+org/jfree/chart/axis/NumberTickUnit.equals
+after post processing ......
+org/jfree/chart/axis/NumberTickUnit.equals
+perfect match

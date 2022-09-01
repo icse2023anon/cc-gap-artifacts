@@ -1,0 +1,8 @@
+slicing criterion: org.jaxen.test.ContextTest.testDuplicate:166
+Methods call in assertion: [org/jaxen/Context.getPosition]
+org/jaxen/Context.getPosition
+top 10 recommendations: 
+org/jaxen/Context.getPosition
+after post processing ......
+org/jaxen/Context.getPosition
+perfect match

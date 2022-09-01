@@ -1,0 +1,11 @@
+slicing criterion: com.thoughtworks.xstream.mapper.DefaultClassMapperTest.testSupportsAllPrimitiveArrayTypes:45
+Methods call in assertion: [com/thoughtworks/xstream/mapper/Mapper.realClass]
+com/thoughtworks/xstream/core/util/Primitives.primitiveType
+com/thoughtworks/xstream/mapper/ArrayMapper.realClass
+top 10 recommendations: 
+com/thoughtworks/xstream/mapper/ArrayMapper.realClass
+com/thoughtworks/xstream/core/util/Primitives.primitiveType
+after post processing ......
+com/thoughtworks/xstream/mapper/ArrayMapper.realClass
+com/thoughtworks/xstream/core/util/Primitives.primitiveType
+not matched

@@ -1,0 +1,51 @@
+slicing criterion: com.thoughtworks.xstream.mapper.ImplicitCollectionMapperTest.testDoesNotMarkFieldsAsImplicitCollectionByDefault:39
+Methods call in assertion: [com/thoughtworks/xstream/mapper/ImplicitCollectionMapper.getImplicitCollectionDefForFieldName]
+com/thoughtworks/xstream/converters/reflection/ImmutableFieldKeySorter.sort
+com/thoughtworks/xstream/core/JVM.newReflectionProvider
+com/thoughtworks/xstream/converters/reflection/FieldUtil15.isSynthetic
+com/thoughtworks/xstream/core/util/DependencyInjectionFactory.newInstance
+com/thoughtworks/xstream/converters/reflection/SunUnsafeReflectionProvider.<init>
+com/thoughtworks/xstream/core/util/OrderRetainingMap.put
+com/thoughtworks/xstream/mapper/ImplicitCollectionMapper.<init>
+com/thoughtworks/xstream/core/JVM.reverseFieldDefinition
+com/thoughtworks/xstream/core/util/OrderRetainingMap.entrySet
+com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.getFieldOrNull
+com/thoughtworks/xstream/core/util/OrderRetainingMap.putAll
+com/thoughtworks/xstream/converters/reflection/FieldKey.hashCode
+com/thoughtworks/xstream/converters/reflection/FieldDictionary.<init>
+com/thoughtworks/xstream/mapper/ImplicitCollectionMapper.add
+com/thoughtworks/xstream/core/util/OrderRetainingMap.<init>
+com/thoughtworks/xstream/mapper/ImplicitCollectionMapper.getImplicitCollectionDefForFieldName
+com/thoughtworks/xstream/converters/reflection/FieldDictionary.fieldOrNull
+com/thoughtworks/xstream/converters/reflection/FieldDictionary.getDictionaryEntry
+top 10 recommendations: 
+com/thoughtworks/xstream/core/util/OrderRetainingMap.<init>
+com/thoughtworks/xstream/core/JVM.newReflectionProvider
+com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.getFieldOrNull
+com/thoughtworks/xstream/core/util/OrderRetainingMap.putAll
+com/thoughtworks/xstream/converters/reflection/ImmutableFieldKeySorter.sort
+com/thoughtworks/xstream/converters/reflection/FieldUtil15.isSynthetic
+com/thoughtworks/xstream/core/util/DependencyInjectionFactory.newInstance
+com/thoughtworks/xstream/converters/reflection/SunUnsafeReflectionProvider.<init>
+com/thoughtworks/xstream/core/util/OrderRetainingMap.put
+com/thoughtworks/xstream/mapper/ImplicitCollectionMapper.<init>
+after post processing ......
+com/thoughtworks/xstream/core/util/OrderRetainingMap.<init>
+com/thoughtworks/xstream/core/JVM.newReflectionProvider
+com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.getFieldOrNull
+com/thoughtworks/xstream/core/util/OrderRetainingMap.putAll
+com/thoughtworks/xstream/converters/reflection/ImmutableFieldKeySorter.sort
+com/thoughtworks/xstream/converters/reflection/FieldUtil15.isSynthetic
+com/thoughtworks/xstream/core/util/DependencyInjectionFactory.newInstance
+com/thoughtworks/xstream/converters/reflection/SunUnsafeReflectionProvider.<init>
+com/thoughtworks/xstream/core/util/OrderRetainingMap.put
+com/thoughtworks/xstream/mapper/ImplicitCollectionMapper.<init>
+com/thoughtworks/xstream/core/JVM.reverseFieldDefinition
+com/thoughtworks/xstream/core/util/OrderRetainingMap.entrySet
+com/thoughtworks/xstream/converters/reflection/FieldKey.hashCode
+com/thoughtworks/xstream/converters/reflection/FieldDictionary.<init>
+com/thoughtworks/xstream/mapper/ImplicitCollectionMapper.add
+com/thoughtworks/xstream/mapper/ImplicitCollectionMapper.getImplicitCollectionDefForFieldName
+com/thoughtworks/xstream/converters/reflection/FieldDictionary.fieldOrNull
+com/thoughtworks/xstream/converters/reflection/FieldDictionary.getDictionaryEntry
+all method calls are suggested

@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.category.CategoryStepRendererTest.testCloning:89
+Methods call in assertion: [org/jfree/chart/renderer/category/CategoryStepRenderer.equals]
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.clone
+org/jfree/chart/renderer/category/CategoryStepRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.clone
+org/jfree/chart/renderer/category/CategoryStepRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.clone
+org/jfree/chart/renderer/category/CategoryStepRenderer.equals
+found in top 10

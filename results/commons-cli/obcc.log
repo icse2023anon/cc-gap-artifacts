@@ -1,0 +1,16 @@
+Aug 29, 2022 2:41:43 PM omc_ob.OMCob main
+INFO: total slices = total criteria = total assertions = 405
+Aug 29, 2022 2:41:44 PM omc_ob.OMCob printOMC_ob
+INFO: Total condition covered: 310
+Aug 29, 2022 2:41:44 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.cli.OptionTest$DefaultOption class not found in the jacoco report report
+Aug 29, 2022 2:41:44 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per class coverage for object branch!
+Aug 29, 2022 2:41:44 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.cli.OptionTest$DefaultOption.getValue not found in the jacoco report
+Aug 29, 2022 2:41:44 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per method coverage for object branch!
+Aug 29, 2022 2:41:44 PM omc_ob.OMCob main
+INFO: OBC :74.35530085959886
+Aug 29, 2022 2:41:44 PM omc_ob.OMCob main
+INFO: OMC_OBC :44.412607449856736

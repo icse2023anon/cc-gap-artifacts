@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.binary.BinaryCodecTest.testToByteArrayFromString:379
+Methods call in assertion: [org/apache/commons/codec/binary/BinaryCodec.toByteArray]
+org/apache/commons/codec/binary/BinaryCodec.toByteArray
+top 10 recommendations: 
+org/apache/commons/codec/binary/BinaryCodec.toByteArray
+after post processing ......
+org/apache/commons/codec/binary/BinaryCodec.toByteArray
+perfect match

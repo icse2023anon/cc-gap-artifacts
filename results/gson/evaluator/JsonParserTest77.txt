@@ -1,0 +1,35 @@
+slicing criterion: com.google.gson.JsonParserTest.testParseEmptyString:69
+Methods call in assertion: [com/google/gson/JsonElement.getAsString]
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/JsonParser.parse
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/stream/JsonReader.peek
+com/google/gson/JsonPrimitive.getAsString
+com/google/gson/stream/JsonReader.doPeek
+top 10 recommendations: 
+com/google/gson/JsonParser.parse
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/JsonPrimitive.getAsString
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/stream/JsonReader.doPeek
+after post processing ......
+com/google/gson/JsonParser.parse
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/JsonPrimitive.getAsString
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/stream/JsonReader.doPeek
+not matched

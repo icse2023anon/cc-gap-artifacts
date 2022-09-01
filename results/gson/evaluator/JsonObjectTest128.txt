@@ -1,0 +1,49 @@
+slicing criterion: com.google.gson.JsonObjectTest.testReadPropertyWithEmptyStringName:132
+Methods call in assertion: [com/google/gson/JsonElement.getAsBoolean, com/google/gson/JsonObject.get]
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/stream/JsonReader.nextBoolean
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/stream/JsonReader.peek
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/JsonElement.isJsonObject
+com/google/gson/JsonParser.parse
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/JsonObject.get
+com/google/gson/JsonPrimitive.getAsBoolean
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/JsonElement.getAsJsonObject
+com/google/gson/JsonPrimitive.getAsBooleanWrapper
+top 10 recommendations: 
+com/google/gson/JsonParser.parse
+com/google/gson/stream/JsonReader.nextBoolean
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/JsonPrimitive.getAsBoolean
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/JsonObject.get
+com/google/gson/JsonElement.getAsJsonObject
+com/google/gson/stream/JsonReader.<init>
+after post processing ......
+com/google/gson/JsonParser.parse
+com/google/gson/stream/JsonReader.nextBoolean
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/JsonPrimitive.getAsBoolean
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/JsonObject.get
+com/google/gson/JsonElement.getAsJsonObject
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/JsonElement.isJsonObject
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/JsonPrimitive.getAsBooleanWrapper
+not matched

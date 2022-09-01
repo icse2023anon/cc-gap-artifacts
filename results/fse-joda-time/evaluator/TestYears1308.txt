@@ -1,0 +1,49 @@
+slicing criterion: org.joda.time.TestYears.testFactory_yearsBetween_RPartial:121
+Methods call in assertion: [org/joda/time/Years.getYears, org/joda/time/Years.yearsBetween]
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/Years.getYears
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.getChronology
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Years.years
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/base/BasePartial.<init>
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonthDay.addToCopy
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/Years.yearsBetween
+org/joda/time/chrono/AssembledChronology.years
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/Years.yearsBetween
+org/joda/time/LocalDate.<init>
+org/joda/time/base/BasePartial.<init>
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/Years.getYears
+after post processing ......
+org/joda/time/Years.yearsBetween
+org/joda/time/LocalDate.<init>
+org/joda/time/base/BasePartial.<init>
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/Years.getYears
+org/joda/time/LocalDate.getChronology
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Years.years
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonthDay.addToCopy
+org/joda/time/chrono/AssembledChronology.years
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestYearMonth_Basics.testGetFields:196
+Methods call in assertion: [org/joda/time/YearMonth.getFields]
+org/joda/time/YearMonth.size
+org/joda/time/base/AbstractPartial.getFields
+top 10 recommendations: 
+org/joda/time/YearMonth.size
+org/joda/time/base/AbstractPartial.getFields
+after post processing ......
+org/joda/time/YearMonth.size
+org/joda/time/base/AbstractPartial.getFields
+not matched

@@ -1,0 +1,26 @@
+slicing criterion: org.apache.commons.validator.routines.BigDecimalValidatorTest.testBigDecimalValidatorMethods:92
+Methods call in assertion: [org/apache/commons/validator/routines/BigDecimalValidator.getInstance, org/apache/commons/validator/routines/BigDecimalValidator.validate]
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/BigDecimalValidator.getInstance
+org/apache/commons/validator/routines/BigDecimalValidator.processParsedValue
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/BigDecimalValidator.validate
+top 10 recommendations: 
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/BigDecimalValidator.getInstance
+org/apache/commons/validator/routines/BigDecimalValidator.processParsedValue
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/BigDecimalValidator.validate
+after post processing ......
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/BigDecimalValidator.getInstance
+org/apache/commons/validator/routines/BigDecimalValidator.processParsedValue
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/BigDecimalValidator.validate
+found in top 10

@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Basics.testWithChronologyRetainFields_Chrono:415
+Methods call in assertion: [org/joda/time/TimeOfDay.getChronology]
+org/joda/time/chrono/BuddhistChronology.withUTC
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/TimeOfDay.withChronologyRetainFields
+top 10 recommendations: 
+org/joda/time/chrono/BuddhistChronology.withUTC
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/TimeOfDay.withChronologyRetainFields
+after post processing ......
+org/joda/time/chrono/BuddhistChronology.withUTC
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/TimeOfDay.withChronologyRetainFields
+found in top 10

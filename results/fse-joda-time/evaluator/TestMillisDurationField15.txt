@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestMillisDurationField.test_getValue_long_long:123
+Methods call in assertion: [org/joda/time/DurationField.getValue]
+org/joda/time/field/MillisDurationField.getValue
+org/joda/time/field/FieldUtils.safeToInt
+top 10 recommendations: 
+org/joda/time/field/MillisDurationField.getValue
+org/joda/time/field/FieldUtils.safeToInt
+after post processing ......
+org/joda/time/field/MillisDurationField.getValue
+org/joda/time/field/FieldUtils.safeToInt
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.field.TestPreciseDateTimeField.test_isSupported:182
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.isSupported]
+org/joda/time/field/BaseDateTimeField.isSupported
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.isSupported
+after post processing ......
+org/joda/time/field/BaseDateTimeField.isSupported
+perfect match

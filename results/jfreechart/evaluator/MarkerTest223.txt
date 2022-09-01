@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.MarkerTest.testGetSetLabelOffset:282
+Methods call in assertion: [org/jfree/chart/plot/ValueMarker.getLabelOffset]
+org/jfree/chart/plot/Marker.getLabelOffset
+top 10 recommendations: 
+org/jfree/chart/plot/Marker.getLabelOffset
+after post processing ......
+org/jfree/chart/plot/Marker.getLabelOffset
+perfect match

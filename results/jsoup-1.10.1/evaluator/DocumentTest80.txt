@@ -1,0 +1,11 @@
+slicing criterion: org.jsoup.nodes.DocumentTest.testMetaCharsetUpdateIso8859:227
+Methods call in assertion: [org/jsoup/nodes/Document.charset]
+org/jsoup/nodes/Document.charset
+org/jsoup/nodes/Document.createShell
+top 10 recommendations: 
+org/jsoup/nodes/Document.charset
+org/jsoup/nodes/Document.createShell
+after post processing ......
+org/jsoup/nodes/Document.charset
+org/jsoup/nodes/Document.createShell
+perfect match

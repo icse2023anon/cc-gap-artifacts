@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.binary.BinaryCodecTest.testToAsciiBytes:820
+Methods call in assertion: [org/apache/commons/codec/binary/BinaryCodec.toAsciiBytes]
+org/apache/commons/codec/binary/BinaryCodec.toAsciiBytes
+top 10 recommendations: 
+org/apache/commons/codec/binary/BinaryCodec.toAsciiBytes
+after post processing ......
+org/apache/commons/codec/binary/BinaryCodec.toAsciiBytes
+perfect match

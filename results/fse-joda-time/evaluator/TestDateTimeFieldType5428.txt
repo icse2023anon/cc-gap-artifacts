@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_clockhourOfHalfday:227
+Methods call in assertion: [org/joda/time/DateTimeFieldType.clockhourOfHalfday, org/joda/time/chrono/CopticChronology.clockhourOfHalfday, org/joda/time/DateTimeFieldType.getField, org/joda/time/chrono/CopticChronology.getInstanceUTC]
+org/joda/time/DateTimeFieldType.clockhourOfHalfday
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.clockhourOfHalfday
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/DateTimeFieldType.clockhourOfHalfday
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.clockhourOfHalfday
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/DateTimeFieldType.clockhourOfHalfday
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.clockhourOfHalfday
+org/joda/time/DateTimeUtils.getChronology
+not matched

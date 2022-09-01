@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.urls.CustomCategoryURLGeneratorTest.testAddURLSeries:155
+Methods call in assertion: [org/jfree/chart/urls/CustomCategoryURLGenerator.getURLCount]
+org/jfree/chart/urls/CustomCategoryURLGenerator.getURLCount
+top 10 recommendations: 
+org/jfree/chart/urls/CustomCategoryURLGenerator.getURLCount
+after post processing ......
+org/jfree/chart/urls/CustomCategoryURLGenerator.getURLCount
+perfect match

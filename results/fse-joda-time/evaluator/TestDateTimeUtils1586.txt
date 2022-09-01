@@ -1,0 +1,44 @@
+slicing criterion: org.joda.time.TestDateTimeUtils.testIsContiguous_RP:460
+Methods call in assertion: [org/joda/time/DateTimeUtils.isContiguous]
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/TimeOfDay.getField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/field/PreciseDateTimeField.getRangeDurationField
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/field/PreciseDurationDateTimeField.getDurationField
+org/joda/time/TimeOfDay.size
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+org/joda/time/field/BaseDurationField.getType
+org/joda/time/DateTimeUtils.isContiguous
+top 10 recommendations: 
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/TimeOfDay.getField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/field/PreciseDateTimeField.getRangeDurationField
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/field/PreciseDurationDateTimeField.getDurationField
+org/joda/time/TimeOfDay.size
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+org/joda/time/field/BaseDurationField.getType
+org/joda/time/DateTimeUtils.isContiguous
+after post processing ......
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/TimeOfDay.getField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/field/PreciseDateTimeField.getRangeDurationField
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/field/PreciseDurationDateTimeField.getDurationField
+org/joda/time/TimeOfDay.size
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+org/joda/time/field/BaseDurationField.getType
+org/joda/time/DateTimeUtils.isContiguous
+all method calls are suggested

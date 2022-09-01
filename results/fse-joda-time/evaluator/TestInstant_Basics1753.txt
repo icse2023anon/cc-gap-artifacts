@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestInstant_Basics.testToMutableDateTime_DateTimeZone:500
+Methods call in assertion: [org/joda/time/MutableDateTime.getMillis, org/joda/time/Instant.getMillis]
+org/joda/time/base/AbstractInstant.toMutableDateTime
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/Instant.getMillis
+top 10 recommendations: 
+org/joda/time/base/AbstractInstant.toMutableDateTime
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/Instant.getMillis
+after post processing ......
+org/joda/time/base/AbstractInstant.toMutableDateTime
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/Instant.getMillis
+not matched

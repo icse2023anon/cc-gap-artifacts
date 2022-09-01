@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestLocalDate_Constructors.testConstructor_nullObject_Chronology:553
+Methods call in assertion: [org/joda/time/LocalDate.getYear]
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/LocalDate.getLocalMillis
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/LocalDate.getYear
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/LocalDate.getChronology
+top 10 recommendations: 
+org/joda/time/LocalDate.getYear
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/LocalDate.getLocalMillis
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/LocalDate.getChronology
+after post processing ......
+org/joda/time/LocalDate.getYear
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/LocalDate.getLocalMillis
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/LocalDate.getChronology
+perfect match

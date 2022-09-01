@@ -1,0 +1,55 @@
+slicing criterion: org.joda.time.chrono.TestCopticChronology.testDurationFields:264
+Methods call in assertion: [org/joda/time/DurationField.isSupported, org/joda/time/chrono/CopticChronology.hours]
+org/joda/time/chrono/AssembledChronology.weekyears
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/chrono/BasicChronology.getMinimumDaysInFirstWeek
+org/joda/time/chrono/AssembledChronology.getParam
+org/joda/time/chrono/AssembledChronology.halfdays
+org/joda/time/chrono/ZonedChronology.getInstance
+org/joda/time/chrono/CopticChronology.<init>
+org/joda/time/chrono/CopticChronology.getInstance
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/chrono/AssembledChronology.months
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/chrono/AssembledChronology.weeks
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/ZonedChronology.assemble
+org/joda/time/chrono/AssembledChronology.centuries
+org/joda/time/chrono/AssembledChronology.years
+top 10 recommendations: 
+org/joda/time/chrono/CopticChronology.getInstance
+org/joda/time/chrono/AssembledChronology.weekyears
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/chrono/BasicChronology.getMinimumDaysInFirstWeek
+org/joda/time/chrono/AssembledChronology.getParam
+org/joda/time/chrono/AssembledChronology.halfdays
+org/joda/time/chrono/ZonedChronology.getInstance
+org/joda/time/chrono/CopticChronology.<init>
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+after post processing ......
+org/joda/time/chrono/CopticChronology.getInstance
+org/joda/time/chrono/AssembledChronology.weekyears
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/chrono/BasicChronology.getMinimumDaysInFirstWeek
+org/joda/time/chrono/AssembledChronology.getParam
+org/joda/time/chrono/AssembledChronology.halfdays
+org/joda/time/chrono/ZonedChronology.getInstance
+org/joda/time/chrono/CopticChronology.<init>
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/chrono/AssembledChronology.months
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/chrono/AssembledChronology.weeks
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/ZonedChronology.assemble
+org/joda/time/chrono/AssembledChronology.centuries
+org/joda/time/chrono/AssembledChronology.years
+not matched

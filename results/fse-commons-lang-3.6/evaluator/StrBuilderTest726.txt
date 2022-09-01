@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testEnsureCapacity:449
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.capacity]
+org/apache/commons/lang3/text/StrBuilder.capacity
+org/apache/commons/lang3/text/StrBuilder.ensureCapacity
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.capacity
+org/apache/commons/lang3/text/StrBuilder.ensureCapacity
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.capacity
+org/apache/commons/lang3/text/StrBuilder.ensureCapacity
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.block.LineBorderTest.testEquals:75
+Methods call in assertion: [org/jfree/chart/block/LineBorder.equals]
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/block/LineBorder.equals
+top 10 recommendations: 
+org/jfree/chart/block/LineBorder.equals
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/block/LineBorder.equals
+org/jfree/chart/util/PaintUtils.equal
+perfect match

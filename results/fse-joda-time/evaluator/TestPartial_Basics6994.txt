@@ -1,0 +1,37 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testWith3f:515
+Methods call in assertion: [org/joda/time/Partial.get, org/joda/time/DateTimeFieldType.era]
+org/joda/time/DateTimeFieldType.halfdayOfDay
+org/joda/time/Partial.getValue
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.with
+org/joda/time/Partial.getFieldType
+org/joda/time/field/UnsupportedDurationField.isSupported
+org/joda/time/DateTimeFieldType.era
+org/joda/time/Partial.size
+org/joda/time/Partial.<init>
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/base/AbstractPartial.get
+top 10 recommendations: 
+org/joda/time/Partial.with
+org/joda/time/base/AbstractPartial.get
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/DateTimeFieldType.halfdayOfDay
+org/joda/time/Partial.getValue
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/field/UnsupportedDurationField.isSupported
+org/joda/time/DateTimeFieldType.era
+org/joda/time/Partial.size
+after post processing ......
+org/joda/time/Partial.with
+org/joda/time/base/AbstractPartial.get
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/DateTimeFieldType.halfdayOfDay
+org/joda/time/Partial.getValue
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/field/UnsupportedDurationField.isSupported
+org/joda/time/DateTimeFieldType.era
+org/joda/time/Partial.size
+org/joda/time/Partial.<init>
+not matched

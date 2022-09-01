@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.category.AreaRendererTest.testEquals:79
+Methods call in assertion: [org/jfree/chart/renderer/category/AreaRenderer.equals]
+org/jfree/chart/renderer/category/AreaRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/category/AreaRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/category/AreaRenderer.equals
+perfect match

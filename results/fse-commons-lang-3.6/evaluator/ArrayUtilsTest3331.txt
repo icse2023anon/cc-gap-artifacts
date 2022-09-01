@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ArrayUtilsTest.testIndexOf:3719
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.indexOf]
+org/apache/commons/lang3/ArrayUtils.indexOf
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.indexOf
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.indexOf
+perfect match

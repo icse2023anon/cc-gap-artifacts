@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestMutableInterval_Basics.testIsAfter_RInterval:423
+Methods call in assertion: [org/joda/time/MutableInterval.isAfter]
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/AbstractInterval.isAfter
+org/joda/time/base/BaseInterval.getStartMillis
+top 10 recommendations: 
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/AbstractInterval.isAfter
+org/joda/time/base/BaseInterval.getStartMillis
+after post processing ......
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/AbstractInterval.isAfter
+org/joda/time/base/BaseInterval.getStartMillis
+found in top 10

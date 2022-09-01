@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestLocalTime_Constructors.testConstructor_ObjectString1NewYork:449
+Methods call in assertion: [org/joda/time/LocalTime.getMinuteOfHour]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalTime.getMinuteOfHour
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/LocalTime.getChronology
+top 10 recommendations: 
+org/joda/time/LocalTime.getMinuteOfHour
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/LocalTime.getChronology
+after post processing ......
+org/joda/time/LocalTime.getMinuteOfHour
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/LocalTime.getChronology
+perfect match

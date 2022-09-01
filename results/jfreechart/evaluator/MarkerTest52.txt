@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.MarkerTest.testGetSetOutlinePaint:136
+Methods call in assertion: [org/jfree/chart/plot/ValueMarker.getOutlinePaint]
+org/jfree/chart/plot/Marker.getOutlinePaint
+top 10 recommendations: 
+org/jfree/chart/plot/Marker.getOutlinePaint
+after post processing ......
+org/jfree/chart/plot/Marker.getOutlinePaint
+perfect match

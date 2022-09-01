@@ -1,0 +1,8 @@
+slicing criterion: org.codehaus.plexus.util.StringUtilsTest.testIsBlank:56
+Methods call in assertion: [org/codehaus/plexus/util/StringUtils.isBlank]
+org/codehaus/plexus/util/StringUtils.isBlank
+top 10 recommendations: 
+org/codehaus/plexus/util/StringUtils.isBlank
+after post processing ......
+org/codehaus/plexus/util/StringUtils.isBlank
+perfect match

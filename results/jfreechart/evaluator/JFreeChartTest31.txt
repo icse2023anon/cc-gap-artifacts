@@ -1,0 +1,29 @@
+slicing criterion: org.jfree.chart.JFreeChartTest.testEquals:158
+Methods call in assertion: [org/jfree/chart/JFreeChart.equals]
+org/jfree/chart/JFreeChart.<init>
+org/jfree/chart/JFreeChart.addSubtitle
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/title/TextTitle.setText
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/JFreeChart.equals
+org/jfree/chart/JFreeChart.setTitle
+top 10 recommendations: 
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/JFreeChart.equals
+org/jfree/chart/JFreeChart.setTitle
+org/jfree/chart/JFreeChart.<init>
+org/jfree/chart/JFreeChart.addSubtitle
+org/jfree/chart/title/TextTitle.setText
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/JFreeChart.equals
+org/jfree/chart/JFreeChart.setTitle
+org/jfree/chart/JFreeChart.<init>
+org/jfree/chart/JFreeChart.addSubtitle
+org/jfree/chart/title/TextTitle.setText
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+found in top 10

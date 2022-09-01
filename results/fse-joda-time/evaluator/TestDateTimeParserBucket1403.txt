@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.format.TestDateTimeParserBucket.testSaveRestoreState_zone:203
+Methods call in assertion: [org/joda/time/format/DateTimeParserBucket.restoreState]
+org/joda/time/format/DateTimeParserBucket.compareTo
+org/joda/time/format/DateTimeParserBucket.saveState
+org/joda/time/format/DateTimeParserBucket.restoreState
+top 10 recommendations: 
+org/joda/time/format/DateTimeParserBucket.compareTo
+org/joda/time/format/DateTimeParserBucket.saveState
+org/joda/time/format/DateTimeParserBucket.restoreState
+after post processing ......
+org/joda/time/format/DateTimeParserBucket.compareTo
+org/joda/time/format/DateTimeParserBucket.saveState
+org/joda/time/format/DateTimeParserBucket.restoreState
+found in top 10

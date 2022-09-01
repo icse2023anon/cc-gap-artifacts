@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testProperty:1107
+Methods call in assertion: [org/joda/time/DateTimeFieldType.era, org/joda/time/LocalDateTime.era, org/joda/time/LocalDateTime.property]
+org/joda/time/LocalDateTime.toDateTime
+org/joda/time/DateTimeFieldType.era
+top 10 recommendations: 
+org/joda/time/LocalDateTime.toDateTime
+org/joda/time/DateTimeFieldType.era
+after post processing ......
+org/joda/time/LocalDateTime.toDateTime
+org/joda/time/DateTimeFieldType.era
+not matched

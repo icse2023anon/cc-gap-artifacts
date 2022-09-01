@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestInstant_Basics.testGet_DateTimeFieldType:164
+Methods call in assertion: [org/joda/time/DateTimeFieldType.dayOfWeek, org/joda/time/Instant.get]
+org/joda/time/DateTimeFieldType.dayOfWeek
+org/joda/time/chrono/BasicChronology.getDayOfWeek
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/chrono/GJDayOfWeekDateTimeField.get
+org/joda/time/base/AbstractInstant.get
+org/joda/time/Instant.getMillis
+top 10 recommendations: 
+org/joda/time/chrono/GJDayOfWeekDateTimeField.get
+org/joda/time/DateTimeFieldType.dayOfWeek
+org/joda/time/chrono/BasicChronology.getDayOfWeek
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/AbstractInstant.get
+org/joda/time/Instant.getMillis
+after post processing ......
+org/joda/time/chrono/GJDayOfWeekDateTimeField.get
+org/joda/time/DateTimeFieldType.dayOfWeek
+org/joda/time/chrono/BasicChronology.getDayOfWeek
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/AbstractInstant.get
+org/joda/time/Instant.getMillis
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.labels.StandardCategoryItemLabelGeneratorTest.testEquals1481087:183
+Methods call in assertion: [org/jfree/chart/labels/StandardCategoryItemLabelGenerator.equals]
+org/jfree/chart/labels/StandardCategoryItemLabelGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/labels/StandardCategoryItemLabelGenerator.equals
+after post processing ......
+org/jfree/chart/labels/StandardCategoryItemLabelGenerator.equals
+perfect match

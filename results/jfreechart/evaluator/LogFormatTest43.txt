@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.util.LogFormatTest.testEquals:84
+Methods call in assertion: [org/jfree/chart/util/LogFormat.equals]
+org/jfree/chart/util/LogFormat.equals
+top 10 recommendations: 
+org/jfree/chart/util/LogFormat.equals
+after post processing ......
+org/jfree/chart/util/LogFormat.equals
+perfect match

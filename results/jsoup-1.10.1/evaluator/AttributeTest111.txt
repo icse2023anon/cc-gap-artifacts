@@ -1,0 +1,11 @@
+slicing criterion: org.jsoup.nodes.AttributeTest.testWithSupplementaryCharacterInAttributeKeyAndValue:18
+Methods call in assertion: [org/jsoup/nodes/Attribute.html, org/jsoup/nodes/Attribute.toString]
+org/jsoup/nodes/Attribute.html
+org/jsoup/nodes/Attribute.toString
+top 10 recommendations: 
+org/jsoup/nodes/Attribute.toString
+org/jsoup/nodes/Attribute.html
+after post processing ......
+org/jsoup/nodes/Attribute.toString
+org/jsoup/nodes/Attribute.html
+perfect match

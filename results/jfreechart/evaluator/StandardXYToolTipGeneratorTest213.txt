@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.labels.StandardXYToolTipGeneratorTest.testEquals:86
+Methods call in assertion: [org/jfree/chart/labels/StandardXYToolTipGenerator.equals]
+org/jfree/chart/labels/StandardXYToolTipGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/labels/StandardXYToolTipGenerator.equals
+after post processing ......
+org/jfree/chart/labels/StandardXYToolTipGenerator.equals
+perfect match

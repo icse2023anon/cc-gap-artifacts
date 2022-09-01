@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestMutableInterval_Constructors.testParse_noFormatter:169
+Methods call in assertion: [org/joda/time/MutableInterval.parse]
+org/joda/time/MutableInterval.parse
+top 10 recommendations: 
+org/joda/time/MutableInterval.parse
+after post processing ......
+org/joda/time/MutableInterval.parse
+perfect match

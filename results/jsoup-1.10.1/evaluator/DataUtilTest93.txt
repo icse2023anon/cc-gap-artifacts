@@ -1,0 +1,61 @@
+slicing criterion: org.jsoup.helper.DataUtilTest.discardsSpuriousByteOrderMarkWhenNoCharsetSet:48
+Methods call in assertion: [org/jsoup/nodes/Element.text, org/jsoup/nodes/Document.head]
+org/jsoup/nodes/Node.childNodesAsArray
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/nodes/Attributes.equals
+org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/parser/Parser.parseInput
+org/jsoup/helper/DataUtil.parseByteData
+org/jsoup/parser/Tokeniser.read
+org/jsoup/parser/Token.isComment
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/HtmlTreeBuilder.insert
+org/jsoup/nodes/Document.<init>
+org/jsoup/parser/TreeBuilder.initialiseParse
+org/jsoup/parser/CharacterReader.current
+org/jsoup/parser/Token.isCharacter
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/Token.isStartTag
+org/jsoup/parser/CharacterReader.consumeTagName
+org/jsoup/nodes/Document.nodeName
+org/jsoup/parser/CharacterReader.consume
+org/jsoup/nodes/Document.head
+org/jsoup/parser/Token.asStartTag
+org/jsoup/nodes/Element.appendChild
+org/jsoup/parser/Token.isDoctype
+top 10 recommendations: 
+org/jsoup/helper/DataUtil.parseByteData
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/HtmlTreeBuilder.insert
+org/jsoup/parser/TreeBuilder.initialiseParse
+org/jsoup/nodes/Node.childNodesAsArray
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/nodes/Attributes.equals
+org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/parser/Parser.parseInput
+org/jsoup/parser/Tokeniser.read
+after post processing ......
+org/jsoup/helper/DataUtil.parseByteData
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/HtmlTreeBuilder.insert
+org/jsoup/parser/TreeBuilder.initialiseParse
+org/jsoup/nodes/Node.childNodesAsArray
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/nodes/Attributes.equals
+org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/parser/Parser.parseInput
+org/jsoup/parser/Tokeniser.read
+org/jsoup/parser/Token.isComment
+org/jsoup/nodes/Document.<init>
+org/jsoup/parser/CharacterReader.current
+org/jsoup/parser/Token.isCharacter
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/Token.isStartTag
+org/jsoup/parser/CharacterReader.consumeTagName
+org/jsoup/nodes/Document.nodeName
+org/jsoup/parser/CharacterReader.consume
+org/jsoup/nodes/Document.head
+org/jsoup/parser/Token.asStartTag
+org/jsoup/nodes/Element.appendChild
+org/jsoup/parser/Token.isDoctype
+not matched

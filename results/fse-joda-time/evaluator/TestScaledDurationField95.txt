@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.field.TestScaledDurationField.test_equals:270
+Methods call in assertion: [org/joda/time/field/ScaledDurationField.equals]
+org/joda/time/field/ScaledDurationField.equals
+top 10 recommendations: 
+org/joda/time/field/ScaledDurationField.equals
+after post processing ......
+org/joda/time/field/ScaledDurationField.equals
+perfect match

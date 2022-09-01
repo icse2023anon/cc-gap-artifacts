@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.ToStringStyleTest.testSetSizeStartText:110
+Methods call in assertion: [org/apache/commons/lang3/builder/ToStringStyle.getSizeStartText]
+org/apache/commons/lang3/builder/ToStringStyle.getSizeStartText
+org/apache/commons/lang3/builder/ToStringStyle.setSizeStartText
+top 10 recommendations: 
+org/apache/commons/lang3/builder/ToStringStyle.getSizeStartText
+org/apache/commons/lang3/builder/ToStringStyle.setSizeStartText
+after post processing ......
+org/apache/commons/lang3/builder/ToStringStyle.getSizeStartText
+org/apache/commons/lang3/builder/ToStringStyle.setSizeStartText
+perfect match

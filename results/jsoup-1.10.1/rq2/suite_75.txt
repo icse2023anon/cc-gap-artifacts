@@ -1,0 +1,193 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--------------------------< [0;36morg.jsoup:jsoup[0;1m >---------------------------[m
+[[1;34mINFO[m] [1mBuilding jsoup 1.10.1[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mpitest-maven:1.6.7:mutationCoverage[m [1m(default-cli)[m @ [36mjsoup[0;1m ---[m
+[[1;34mINFO[m] Found plugin : Default csv report plugin
+[[1;34mINFO[m] Found plugin : Default xml report plugin
+[[1;34mINFO[m] Found plugin : Default html report plugin
+[[1;34mINFO[m] Found plugin : Static initializer code detector plugin
+[[1;34mINFO[m] Found plugin : Static initializer filter plugin
+[[1;34mINFO[m] Found plugin : Excluded annotations plugin
+[[1;34mINFO[m] Found plugin : Try with resources filter
+[[1;34mINFO[m] Found plugin : Inlined finally block filter plugin
+[[1;34mINFO[m] Found plugin : Implicit null check filter
+[[1;34mINFO[m] Found plugin : Method reference null check filter
+[[1;34mINFO[m] Found plugin : For each loop filter
+[[1;34mINFO[m] Found plugin : Enum constructor filter
+[[1;34mINFO[m] Found plugin : Logging calls filter
+[[1;34mINFO[m] Found plugin : Infinite for loop filter
+[[1;34mINFO[m] Found plugin : Long running iterator loop filter
+[[1;34mINFO[m] Found plugin : For loop counter filter
+[[1;34mINFO[m] Found plugin : Kotlin junk mutations filter
+[[1;34mINFO[m] Found plugin : Max mutations per class limit
+[[1;34mINFO[m] Found plugin : Equals shortcut equivalent mutant filter
+[[1;34mINFO[m] Found plugin : Trivial return vals equivalence filter
+[[1;34mINFO[m] Found plugin : Mutant export plugin
+[[1;34mINFO[m] Found shared classpath plugin : Default mutation engine
+[[1;34mINFO[m] Found shared classpath plugin : JUnit plugin
+[[1;34mINFO[m] Found shared classpath plugin : TestNG plugin
+[[1;34mINFO[m] Adding org.pitest:pitest to SUT classpath
+[[1;34mINFO[m] Mutating from /home/stg/omc_experiments/subjects/jsoup-1.10.1/rq2_test_suites/test_suite_75/target/classes
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-stderr  : 7:39:55 PM PIT >> WARNING : Error during mutation test
+stderr  : org.pitest.util.PitError: Broken pipe (Write failed)
+stderr  : 
+stderr  : Please copy and paste the information and the complete stacktrace below when reporting an issue
+stderr  : VM : Java HotSpot(TM) 64-Bit Server VM
+stderr  : Vendor : Oracle Corporation
+stderr  : Version : 25.311-b11
+stderr  : Uptime : 18839
+stderr  : Input -> 
+stderr  :  1 : -Djava.awt.headless=true
+stderr  :  2 : -javaagent:/tmp/16618883391290155267872320265071134854375855958759.jar
+stderr  :  3 : -Dclassworlds.conf=/usr/share/maven/bin/m2.conf
+stderr  :  4 : -Dmaven.home=/usr/share/maven
+stderr  :  5 : -Dlibrary.jansi.path=/usr/share/maven/lib/jansi-native
+stderr  :  6 : -Dmaven.multiModuleProjectDirectory=/home/stg/omc_experiments/subjects/jsoup-1.10.1
+stderr  : BootClassPathSupported : true
+stderr  : 
+stderr  : 	at org.pitest.util.Unchecked.translateCheckedException(Unchecked.java:20)
+stderr  : 	at org.pitest.util.SafeDataOutputStream.writeBytes(SafeDataOutputStream.java:53)
+stderr  : 	at org.pitest.util.SafeDataOutputStream.write(SafeDataOutputStream.java:59)
+stderr  : 	at org.pitest.mutationtest.execute.DefaultReporter.describe(DefaultReporter.java:36)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTestWorker.processMutation(MutationTestWorker.java:106)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTestWorker.run(MutationTestWorker.java:79)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTestMinion.run(MutationTestMinion.java:97)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTestMinion.main(MutationTestMinion.java:137)
+stderr  : Caused by: java.net.SocketException: Broken pipe (Write failed)
+stderr  : 	at java.net.SocketOutputStream.socketWrite0(Native Method)
+stderr  : 	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+stderr  : 	at java.net.SocketOutputStream.write(SocketOutputStream.java:134)
+stderr  : 	at java.io.DataOutputStream.writeInt(DataOutputStream.java:197)
+stderr  : 	at org.pitest.util.SafeDataOutputStream.writeBytes(SafeDataOutputStream.java:50)
+stderr  : 	... 6 more
+stderr  : 7:39:55 PM PIT >> WARNING : Error during mutation test
+stderr  : org.pitest.util.PitError: Broken pipe (Write failed)
+stderr  : 
+stderr  : Please copy and paste the information and the complete stacktrace below when reporting an issue
+stderr  : VM : Java HotSpot(TM) 64-Bit Server VM
+stderr  : Vendor : Oracle Corporation
+stderr  : Version : 25.311-b11
+stderr  : Uptime : 18844
+stderr  : Input -> 
+stderr  :  1 : -Djava.awt.headless=true
+stderr  :  2 : -javaagent:/tmp/16618883391290155267872320265071134854375855958759.jar
+stderr  :  3 : -Dclassworlds.conf=/usr/share/maven/bin/m2.conf
+stderr  :  4 : -Dmaven.home=/usr/share/maven
+stderr  :  5 : -Dlibrary.jansi.path=/usr/share/maven/lib/jansi-native
+stderr  :  6 : -Dmaven.multiModuleProjectDirectory=/home/stg/omc_experiments/subjects/jsoup-1.10.1
+stderr  : BootClassPathSupported : true
+stderr  : 
+stderr  : 	at org.pitest.util.Unchecked.translateCheckedException(Unchecked.java:20)
+stderr  : 	at org.pitest.util.SafeDataOutputStream.writeByte(SafeDataOutputStream.java:85)
+stderr  : 	at org.pitest.mutationtest.execute.DefaultReporter.done(DefaultReporter.java:51)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTestMinion.run(MutationTestMinion.java:105)
+stderr  : 	at org.pitest.mutationtest.execute.MutationTestMinion.main(MutationTestMinion.java:137)
+stderr  : Caused by: java.net.SocketException: Broken pipe (Write failed)
+stderr  : 	at java.net.SocketOutputStream.socketWrite0(Native Method)
+stderr  : 	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+stderr  : 	at java.net.SocketOutputStream.write(SocketOutputStream.java:134)
+stderr  : 	at java.io.DataOutputStream.writeByte(DataOutputStream.java:153)
+stderr  : 	at org.pitest.util.SafeDataOutputStream.writeByte(SafeDataOutputStream.java:83)
+stderr  : 	... 3 more
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-================================================================================
+- Mutators
+================================================================================
+> org.pitest.mutationtest.engine.gregor.mutators.BooleanTrueReturnValsMutator
+>> Generated 354 Killed 140 (40%)
+> KILLED 139 SURVIVED 89 TIMED_OUT 1 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 125 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.EmptyObjectReturnValsMutator
+>> Generated 232 Killed 140 (60%)
+> KILLED 140 SURVIVED 13 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 79 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.ConditionalsBoundaryMutator
+>> Generated 191 Killed 87 (46%)
+> KILLED 86 SURVIVED 85 TIMED_OUT 1 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 19 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.IncrementsMutator
+>> Generated 59 Killed 47 (80%)
+> KILLED 46 SURVIVED 3 TIMED_OUT 1 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 9 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator
+>> Generated 1292 Killed 450 (35%)
+> KILLED 370 SURVIVED 346 TIMED_OUT 80 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 496 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.NullReturnValsMutator
+>> Generated 350 Killed 190 (54%)
+> KILLED 190 SURVIVED 80 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 80 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.experimental.SwitchMutator
+>> Generated 55 Killed 43 (78%)
+> KILLED 32 SURVIVED 2 TIMED_OUT 11 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 10 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.RemoveConditionalMutator_EQUAL_ELSE
+>> Generated 1263 Killed 717 (57%)
+> KILLED 710 SURVIVED 377 TIMED_OUT 7 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 169 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.MathMutator
+>> Generated 164 Killed 110 (67%)
+> KILLED 107 SURVIVED 14 TIMED_OUT 3 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 40 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.BooleanFalseReturnValsMutator
+>> Generated 240 Killed 86 (36%)
+> KILLED 86 SURVIVED 97 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 57 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator
+>> Generated 1459 Killed 1122 (77%)
+> KILLED 1103 SURVIVED 149 TIMED_OUT 19 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 188 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.PrimitiveReturnsMutator
+>> Generated 34 Killed 24 (71%)
+> KILLED 24 SURVIVED 1 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 9 
+--------------------------------------------------------------------------------
+================================================================================
+- Timings
+================================================================================
+> pre-scan for mutations : 5 seconds
+> scan classpath : < 1 second
+> coverage and dependency analysis : 6 seconds
+> build mutation tests : 4 seconds
+> run mutation analysis : 6 minutes and 37 seconds
+--------------------------------------------------------------------------------
+> Total  : 6 minutes and 53 seconds
+--------------------------------------------------------------------------------
+================================================================================
+- Statistics
+================================================================================
+>> Line Coverage: 5182/6748 (77%)
+>> Generated 5693 mutations Killed 3156 (55%)
+>> Mutations with no coverage 1281. Test strength 72%
+>> Ran 70344 tests (12.36 tests per mutation)
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  07:00 min
+[[1;34mINFO[m] Finished at: 2022-08-30T19:45:57Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m

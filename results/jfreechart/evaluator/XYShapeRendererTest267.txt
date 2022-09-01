@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYShapeRendererTest.testFindZBounds:139
+Methods call in assertion: [org/jfree/chart/renderer/xy/XYShapeRenderer.findZBounds]
+org/jfree/chart/renderer/xy/XYShapeRenderer.findZBounds
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/XYShapeRenderer.findZBounds
+after post processing ......
+org/jfree/chart/renderer/xy/XYShapeRenderer.findZBounds
+perfect match

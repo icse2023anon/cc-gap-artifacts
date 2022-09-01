@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.annotations.XYTitleAnnotationTest.testCloning:115
+Methods call in assertion: [org/jfree/chart/annotations/XYTitleAnnotation.equals]
+org/jfree/chart/annotations/XYTitleAnnotation.equals
+org/jfree/chart/annotations/XYTitleAnnotation.clone
+org/jfree/chart/util/ObjectUtils.equal
+top 10 recommendations: 
+org/jfree/chart/annotations/XYTitleAnnotation.equals
+org/jfree/chart/annotations/XYTitleAnnotation.clone
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/annotations/XYTitleAnnotation.equals
+org/jfree/chart/annotations/XYTitleAnnotation.clone
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

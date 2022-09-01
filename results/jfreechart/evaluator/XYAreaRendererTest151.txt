@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYAreaRendererTest.testHashcode:143
+Methods call in assertion: [org/jfree/chart/renderer/xy/XYAreaRenderer.hashCode]
+org/jfree/chart/renderer/xy/XYAreaRenderer.<init>
+org/jfree/chart/renderer/xy/XYAreaRenderer.hashCode
+org/jfree/chart/HashUtils.hashCode
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/XYAreaRenderer.hashCode
+org/jfree/chart/renderer/xy/XYAreaRenderer.<init>
+org/jfree/chart/HashUtils.hashCode
+after post processing ......
+org/jfree/chart/renderer/xy/XYAreaRenderer.hashCode
+org/jfree/chart/renderer/xy/XYAreaRenderer.<init>
+org/jfree/chart/HashUtils.hashCode
+perfect match

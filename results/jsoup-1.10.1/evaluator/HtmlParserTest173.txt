@@ -1,0 +1,63 @@
+slicing criterion: org.jsoup.parser.HtmlParserTest.handleNullContextInParseFragment:740
+Methods call in assertion: [org/jsoup/nodes/Node.outerHtml, org/jsoup/helper/StringUtil.normaliseWhitespace]
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/nodes/Attributes.equals
+org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/parser/Tokeniser.read
+org/jsoup/parser/HtmlTreeBuilder.insertStartTag
+org/jsoup/parser/Token.isComment
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/HtmlTreeBuilder.insert
+org/jsoup/nodes/Document.<init>
+org/jsoup/parser/Token.isEndTag
+org/jsoup/parser/TreeBuilder.initialiseParse
+org/jsoup/parser/CharacterReader.current
+org/jsoup/nodes/Node.childNodes
+org/jsoup/parser/Token.isCharacter
+org/jsoup/nodes/Node.outerHtml
+org/jsoup/helper/StringUtil.normaliseWhitespace
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/Token.isStartTag
+org/jsoup/parser/CharacterReader.consumeTagName
+org/jsoup/parser/HtmlTreeBuilder.parseFragment
+org/jsoup/parser/CharacterReader.consume
+org/jsoup/parser/Token.asStartTag
+org/jsoup/nodes/Element.appendChild
+org/jsoup/parser/Token.isDoctype
+top 10 recommendations: 
+org/jsoup/parser/HtmlTreeBuilder.insertStartTag
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/HtmlTreeBuilder.insert
+org/jsoup/parser/TreeBuilder.initialiseParse
+org/jsoup/parser/HtmlTreeBuilder.parseFragment
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/nodes/Attributes.equals
+org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/parser/Tokeniser.read
+org/jsoup/parser/Token.isComment
+after post processing ......
+org/jsoup/parser/HtmlTreeBuilder.insertStartTag
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/HtmlTreeBuilder.insert
+org/jsoup/parser/TreeBuilder.initialiseParse
+org/jsoup/parser/HtmlTreeBuilder.parseFragment
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/nodes/Attributes.equals
+org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/parser/Tokeniser.read
+org/jsoup/parser/Token.isComment
+org/jsoup/nodes/Document.<init>
+org/jsoup/parser/Token.isEndTag
+org/jsoup/parser/CharacterReader.current
+org/jsoup/nodes/Node.childNodes
+org/jsoup/parser/Token.isCharacter
+org/jsoup/nodes/Node.outerHtml
+org/jsoup/helper/StringUtil.normaliseWhitespace
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/Token.isStartTag
+org/jsoup/parser/CharacterReader.consumeTagName
+org/jsoup/parser/CharacterReader.consume
+org/jsoup/parser/Token.asStartTag
+org/jsoup/nodes/Element.appendChild
+org/jsoup/parser/Token.isDoctype
+all method calls are suggested

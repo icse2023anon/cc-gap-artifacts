@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestYearMonth_Basics.testSize:154
+Methods call in assertion: [org/joda/time/YearMonth.size]
+org/joda/time/YearMonth.size
+top 10 recommendations: 
+org/joda/time/YearMonth.size
+after post processing ......
+org/joda/time/YearMonth.size
+perfect match

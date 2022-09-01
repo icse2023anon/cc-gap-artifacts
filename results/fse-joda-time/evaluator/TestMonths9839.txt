@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMonths.testConstants:96
+Methods call in assertion: [org/joda/time/Months.getMonths]
+org/joda/time/Months.getMonths
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+top 10 recommendations: 
+org/joda/time/Months.getMonths
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+after post processing ......
+org/joda/time/Months.getMonths
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+perfect match

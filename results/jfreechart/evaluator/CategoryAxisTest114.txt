@@ -1,0 +1,20 @@
+slicing criterion: org.jfree.chart.axis.CategoryAxisTest.testEquals:122
+Methods call in assertion: [org/jfree/chart/axis/CategoryAxis.equals]
+org/jfree/chart/axis/CategoryAxis.setTickLabelFont
+org/jfree/chart/axis/CategoryAxis.addCategoryLabelURL
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/CategoryAxis.addCategoryLabelToolTip
+org/jfree/chart/axis/CategoryAxis.equals
+top 10 recommendations: 
+org/jfree/chart/axis/CategoryAxis.equals
+org/jfree/chart/axis/CategoryAxis.setTickLabelFont
+org/jfree/chart/axis/CategoryAxis.addCategoryLabelURL
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/CategoryAxis.addCategoryLabelToolTip
+after post processing ......
+org/jfree/chart/axis/CategoryAxis.equals
+org/jfree/chart/axis/CategoryAxis.setTickLabelFont
+org/jfree/chart/axis/CategoryAxis.addCategoryLabelURL
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/CategoryAxis.addCategoryLabelToolTip
+perfect match

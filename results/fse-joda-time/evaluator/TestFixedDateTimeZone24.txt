@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.tz.TestFixedDateTimeZone.testHashCode:87
+Methods call in assertion: [org/joda/time/tz/FixedDateTimeZone.hashCode]
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/FixedDateTimeZone.hashCode
+top 10 recommendations: 
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/FixedDateTimeZone.hashCode
+after post processing ......
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/FixedDateTimeZone.hashCode
+found in top 10

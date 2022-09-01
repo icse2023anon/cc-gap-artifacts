@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.RangeTest.testElementCompareTo:310
+Methods call in assertion: [org/apache/commons/lang3/Range.elementCompareTo]
+org/apache/commons/lang3/Range.elementCompareTo
+org/apache/commons/lang3/Range.isBefore
+org/apache/commons/lang3/Range.isAfter
+org/apache/commons/lang3/Range.between
+top 10 recommendations: 
+org/apache/commons/lang3/Range.elementCompareTo
+org/apache/commons/lang3/Range.isBefore
+org/apache/commons/lang3/Range.isAfter
+org/apache/commons/lang3/Range.between
+after post processing ......
+org/apache/commons/lang3/Range.elementCompareTo
+org/apache/commons/lang3/Range.isBefore
+org/apache/commons/lang3/Range.isAfter
+org/apache/commons/lang3/Range.between
+perfect match

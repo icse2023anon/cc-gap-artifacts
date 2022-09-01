@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableLongTest.testToLong:161
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableLong.toLong]
+org/apache/commons/lang3/mutable/MutableLong.longValue
+org/apache/commons/lang3/mutable/MutableLong.toLong
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableLong.toLong
+org/apache/commons/lang3/mutable/MutableLong.longValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableLong.toLong
+org/apache/commons/lang3/mutable/MutableLong.longValue
+perfect match

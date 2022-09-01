@@ -1,0 +1,12 @@
+Aug 25, 2022 6:46:36 PM omc_ob.OMCob main
+INFO: total slices = total criteria = total assertions = 1030
+Aug 25, 2022 6:46:39 PM omc_ob.OMCob printOMC_ob
+INFO: Total condition covered: 704
+Aug 25, 2022 6:46:39 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per class coverage for object branch!
+Aug 25, 2022 6:46:39 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per method coverage for object branch!
+Aug 25, 2022 6:46:39 PM omc_ob.OMCob main
+INFO: OBC :76.53200181570585
+Aug 25, 2022 6:46:39 PM omc_ob.OMCob main
+INFO: OMC_OBC :31.956423059464367

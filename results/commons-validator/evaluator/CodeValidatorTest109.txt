@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.validator.routines.CodeValidatorTest.testConstructors:252
+Methods call in assertion: [org/apache/commons/validator/routines/CodeValidator.getCheckDigit]
+org/apache/commons/validator/routines/CodeValidator.getCheckDigit
+top 10 recommendations: 
+org/apache/commons/validator/routines/CodeValidator.getCheckDigit
+after post processing ......
+org/apache/commons/validator/routines/CodeValidator.getCheckDigit
+perfect match

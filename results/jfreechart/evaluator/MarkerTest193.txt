@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.MarkerTest.testGetSetLabelFont:209
+Methods call in assertion: [org/jfree/chart/plot/ValueMarker.getLabelFont]
+org/jfree/chart/plot/Marker.getLabelFont
+top 10 recommendations: 
+org/jfree/chart/plot/Marker.getLabelFont
+after post processing ......
+org/jfree/chart/plot/Marker.getLabelFont
+perfect match

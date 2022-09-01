@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestHours.testNegated:409
+Methods call in assertion: [org/joda/time/Hours.getHours, org/joda/time/Hours.negated]
+org/joda/time/Hours.hours
+org/joda/time/Hours.getHours
+org/joda/time/field/FieldUtils.safeNegate
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Hours.negated
+top 10 recommendations: 
+org/joda/time/Hours.negated
+org/joda/time/Hours.hours
+org/joda/time/Hours.getHours
+org/joda/time/field/FieldUtils.safeNegate
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+after post processing ......
+org/joda/time/Hours.negated
+org/joda/time/Hours.hours
+org/joda/time/Hours.getHours
+org/joda/time/field/FieldUtils.safeNegate
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+found in top 10

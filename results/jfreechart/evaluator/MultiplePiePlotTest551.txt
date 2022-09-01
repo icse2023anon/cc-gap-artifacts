@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.MultiplePiePlotTest.testEquals:123
+Methods call in assertion: [org/jfree/chart/plot/MultiplePiePlot.equals]
+org/jfree/chart/plot/MultiplePiePlot.equals
+top 10 recommendations: 
+org/jfree/chart/plot/MultiplePiePlot.equals
+after post processing ......
+org/jfree/chart/plot/MultiplePiePlot.equals
+perfect match

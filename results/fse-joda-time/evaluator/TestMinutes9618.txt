@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestMinutes.testToStandardHours:260
+Methods call in assertion: [org/joda/time/Minutes.toStandardHours]
+org/joda/time/Hours.hours
+org/joda/time/Minutes.toStandardHours
+org/joda/time/Minutes.minutes
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+top 10 recommendations: 
+org/joda/time/Minutes.toStandardHours
+org/joda/time/Hours.hours
+org/joda/time/Minutes.minutes
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+after post processing ......
+org/joda/time/Minutes.toStandardHours
+org/joda/time/Hours.hours
+org/joda/time/Minutes.minutes
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+perfect match

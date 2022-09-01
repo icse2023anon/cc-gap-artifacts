@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.codec.language.DoubleMetaphoneTest.testSetMaxCodeLength:1231
+Methods call in assertion: [org/apache/commons/codec/language/DoubleMetaphone.doubleMetaphone]
+org/apache/commons/codec/language/DoubleMetaphone.charAt
+org/apache/commons/codec/language/DoubleMetaphone.doubleMetaphone
+org/apache/commons/codec/language/DoubleMetaphone.getMaxCodeLen
+org/apache/commons/codec/language/DoubleMetaphone.contains
+top 10 recommendations: 
+org/apache/commons/codec/language/DoubleMetaphone.doubleMetaphone
+org/apache/commons/codec/language/DoubleMetaphone.charAt
+org/apache/commons/codec/language/DoubleMetaphone.getMaxCodeLen
+org/apache/commons/codec/language/DoubleMetaphone.contains
+after post processing ......
+org/apache/commons/codec/language/DoubleMetaphone.doubleMetaphone
+org/apache/commons/codec/language/DoubleMetaphone.charAt
+org/apache/commons/codec/language/DoubleMetaphone.getMaxCodeLen
+org/apache/commons/codec/language/DoubleMetaphone.contains
+perfect match

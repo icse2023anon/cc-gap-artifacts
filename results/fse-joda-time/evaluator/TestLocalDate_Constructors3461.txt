@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestLocalDate_Constructors.testConstructor_long3_DateTimeZone:319
+Methods call in assertion: [org/joda/time/LocalDate.getChronology]
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.getChronology
+top 10 recommendations: 
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.getChronology
+after post processing ......
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.getChronology
+found in top 10

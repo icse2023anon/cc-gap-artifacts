@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestMonths.testFactory_months_int:105
+Methods call in assertion: [org/joda/time/Months.months]
+org/joda/time/Months.months
+top 10 recommendations: 
+org/joda/time/Months.months
+after post processing ......
+org/joda/time/Months.months
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatterBuilder.test_canBuildPrinter:169
+Methods call in assertion: [org/joda/time/format/DateTimeFormatterBuilder.canBuildPrinter]
+org/joda/time/format/DateTimeFormatterBuilder.canBuildPrinter
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatterBuilder.canBuildPrinter
+after post processing ......
+org/joda/time/format/DateTimeFormatterBuilder.canBuildPrinter
+perfect match

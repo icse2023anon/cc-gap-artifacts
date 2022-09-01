@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testcleanName_SuccessfullyClean:202
+Methods call in assertion: [org/apache/commons/codec/language/MatchRatingApproachEncoder.cleanName]
+org/apache/commons/codec/language/MatchRatingApproachEncoder.cleanName
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeAccents
+top 10 recommendations: 
+org/apache/commons/codec/language/MatchRatingApproachEncoder.cleanName
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeAccents
+after post processing ......
+org/apache/commons/codec/language/MatchRatingApproachEncoder.cleanName
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeAccents
+perfect match

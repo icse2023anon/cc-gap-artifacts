@@ -1,0 +1,49 @@
+slicing criterion: org.joda.time.TestDateTime_Properties.testPropertyEqualsHashCodeLenient:1464
+Methods call in assertion: [org/joda/time/DateTime$Property.hashCode, org/joda/time/DateTime.dayOfMonth]
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/DateTime.getMillis
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/field/DelegatedDateTimeField.get
+org/joda/time/field/AbstractReadableInstantFieldProperty.hashCode
+org/joda/time/field/AbstractReadableInstantFieldProperty.getFieldType
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/field/LenientDateTimeField.getInstance
+org/joda/time/chrono/LenientChronology.assemble
+org/joda/time/field/DelegatedDateTimeField.getType
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/LenientChronology.getInstance
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/chrono/LenientChronology.convertField
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/field/AbstractReadableInstantFieldProperty.hashCode
+org/joda/time/chrono/LenientChronology.assemble
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/LenientChronology.convertField
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/DateTime.getMillis
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/field/DelegatedDateTimeField.get
+org/joda/time/field/AbstractReadableInstantFieldProperty.getFieldType
+after post processing ......
+org/joda/time/field/AbstractReadableInstantFieldProperty.hashCode
+org/joda/time/chrono/LenientChronology.assemble
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/LenientChronology.convertField
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/DateTime.getMillis
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/field/DelegatedDateTimeField.get
+org/joda/time/field/AbstractReadableInstantFieldProperty.getFieldType
+org/joda/time/field/LenientDateTimeField.getInstance
+org/joda/time/field/DelegatedDateTimeField.getType
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/LenientChronology.getInstance
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/DateTimeUtils.getChronology
+not matched

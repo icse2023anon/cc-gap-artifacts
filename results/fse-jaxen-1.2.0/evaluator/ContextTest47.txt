@@ -1,0 +1,11 @@
+slicing criterion: org.jaxen.test.ContextTest.testDuplicate:160
+Methods call in assertion: [org/jaxen/Context.getPosition]
+org/jaxen/Context.getPosition
+org/jaxen/Context.duplicate
+top 10 recommendations: 
+org/jaxen/Context.getPosition
+org/jaxen/Context.duplicate
+after post processing ......
+org/jaxen/Context.getPosition
+org/jaxen/Context.duplicate
+perfect match

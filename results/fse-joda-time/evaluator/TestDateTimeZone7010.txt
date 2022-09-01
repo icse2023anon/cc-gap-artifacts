@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTimeZone.testNameProvider:841
+Methods call in assertion: [org/joda/time/DateTimeZone.getNameProvider]
+org/joda/time/DateTimeZone.setNameProvider
+org/joda/time/DateTimeZone.getNameProvider
+top 10 recommendations: 
+org/joda/time/DateTimeZone.setNameProvider
+org/joda/time/DateTimeZone.getNameProvider
+after post processing ......
+org/joda/time/DateTimeZone.setNameProvider
+org/joda/time/DateTimeZone.getNameProvider
+found in top 10

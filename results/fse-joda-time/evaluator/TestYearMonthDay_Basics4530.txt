@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestYearMonthDay_Basics.testGetField:194
+Methods call in assertion: [org/joda/time/YearMonthDay.getField, org/joda/time/Chronology.year]
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/YearMonthDay.getField
+org/joda/time/chrono/AssembledChronology.year
+top 10 recommendations: 
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/YearMonthDay.getField
+org/joda/time/chrono/AssembledChronology.year
+after post processing ......
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/YearMonthDay.getField
+org/joda/time/chrono/AssembledChronology.year
+found in top 10

@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testIsSupported_DurationFieldType:351
+Methods call in assertion: [org/joda/time/DurationFieldType.halfdays, org/joda/time/LocalDateTime.isSupported]
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/LocalDateTime.isSupported
+org/joda/time/DurationFieldType.halfdays
+top 10 recommendations: 
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/LocalDateTime.isSupported
+org/joda/time/DurationFieldType.halfdays
+after post processing ......
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/LocalDateTime.isSupported
+org/joda/time/DurationFieldType.halfdays
+found in top 10

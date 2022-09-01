@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testNewFormat:670
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getEscapeCharacter]
+org/apache/commons/csv/CSVFormat.newFormat
+org/apache/commons/csv/CSVFormat.getEscapeCharacter
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.newFormat
+org/apache/commons/csv/CSVFormat.getEscapeCharacter
+after post processing ......
+org/apache/commons/csv/CSVFormat.newFormat
+org/apache/commons/csv/CSVFormat.getEscapeCharacter
+found in top 10

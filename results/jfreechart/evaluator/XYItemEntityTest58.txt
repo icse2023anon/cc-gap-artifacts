@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.entity.XYItemEntityTest.testCloning:107
+Methods call in assertion: [org/jfree/chart/entity/XYItemEntity.equals]
+org/jfree/chart/entity/ChartEntity.clone
+org/jfree/chart/entity/XYItemEntity.equals
+top 10 recommendations: 
+org/jfree/chart/entity/ChartEntity.clone
+org/jfree/chart/entity/XYItemEntity.equals
+after post processing ......
+org/jfree/chart/entity/ChartEntity.clone
+org/jfree/chart/entity/XYItemEntity.equals
+found in top 10

@@ -1,0 +1,51 @@
+slicing criterion: org.joda.time.TestMutableDateTime_Constructors.testParse_formatter:209
+Methods call in assertion: [org/joda/time/MutableDateTime.parse, org/joda/time/chrono/ISOChronology.getInstance]
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/base/AbstractInstant.toMutableDateTime
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/MutableDateTime.getChronology
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/MutableDateTime.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendSignedDecimal
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/MutableDateTime.parse
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+top 10 recommendations: 
+org/joda/time/base/AbstractInstant.toMutableDateTime
+org/joda/time/MutableDateTime.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/MutableDateTime.getChronology
+after post processing ......
+org/joda/time/base/AbstractInstant.toMutableDateTime
+org/joda/time/MutableDateTime.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/MutableDateTime.getChronology
+org/joda/time/format/DateTimeFormatterBuilder.appendSignedDecimal
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/MutableDateTime.parse
+all method calls are suggested

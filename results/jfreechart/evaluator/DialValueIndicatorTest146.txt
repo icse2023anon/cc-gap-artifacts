@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.plot.dial.DialValueIndicatorTest.testEquals:90
+Methods call in assertion: [org/jfree/chart/plot/dial/DialValueIndicator.equals]
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/plot/dial/DialValueIndicator.equals
+top 10 recommendations: 
+org/jfree/chart/plot/dial/DialValueIndicator.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/plot/dial/DialValueIndicator.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+perfect match

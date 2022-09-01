@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.category.IntervalBarRendererTest.testFindRangeBounds:161
+Methods call in assertion: [org/jfree/chart/renderer/category/IntervalBarRenderer.findRangeBounds]
+org/jfree/chart/renderer/category/IntervalBarRenderer.findRangeBounds
+org/jfree/chart/renderer/category/BarRenderer.findRangeBounds
+top 10 recommendations: 
+org/jfree/chart/renderer/category/IntervalBarRenderer.findRangeBounds
+org/jfree/chart/renderer/category/BarRenderer.findRangeBounds
+after post processing ......
+org/jfree/chart/renderer/category/IntervalBarRenderer.findRangeBounds
+org/jfree/chart/renderer/category/BarRenderer.findRangeBounds
+perfect match

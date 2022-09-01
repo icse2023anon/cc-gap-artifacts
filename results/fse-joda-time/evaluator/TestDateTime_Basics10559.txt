@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTime_Basics.testProperty:1394
+Methods call in assertion: [org/joda/time/DateTimeFieldType.dayOfWeek, org/joda/time/DateTime.property, org/joda/time/DateTime.dayOfWeek]
+org/joda/time/DateTime.getMillis
+org/joda/time/DateTimeFieldType.dayOfWeek
+top 10 recommendations: 
+org/joda/time/DateTime.getMillis
+org/joda/time/DateTimeFieldType.dayOfWeek
+after post processing ......
+org/joda/time/DateTime.getMillis
+org/joda/time/DateTimeFieldType.dayOfWeek
+not matched

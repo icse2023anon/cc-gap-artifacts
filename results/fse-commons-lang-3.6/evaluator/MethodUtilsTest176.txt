@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.reflect.MethodUtilsTest.testGetMethodsListWithAnnotation:925
+Methods call in assertion: [org/apache/commons/lang3/reflect/MethodUtils.getMethodsListWithAnnotation]
+org/apache/commons/lang3/reflect/MethodUtils.getMethodsListWithAnnotation
+org/apache/commons/lang3/reflect/MethodUtils.invokeStaticMethod
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingAccessibleMethod
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/MethodUtils.invokeStaticMethod
+org/apache/commons/lang3/reflect/MethodUtils.getMethodsListWithAnnotation
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingAccessibleMethod
+after post processing ......
+org/apache/commons/lang3/reflect/MethodUtils.invokeStaticMethod
+org/apache/commons/lang3/reflect/MethodUtils.getMethodsListWithAnnotation
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingAccessibleMethod
+found in top 10

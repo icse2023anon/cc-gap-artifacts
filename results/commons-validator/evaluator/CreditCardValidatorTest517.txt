@@ -1,0 +1,29 @@
+slicing criterion: org.apache.commons.validator.routines.CreditCardValidatorTest.testMastercardUsingSeparators:548
+Methods call in assertion: [org/apache/commons/validator/routines/CodeValidator.validate]
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/CodeValidator.<init>
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.toInt
+org/apache/commons/validator/routines/RegexValidator.validate
+org/apache/commons/validator/routines/checkdigit/LuhnCheckDigit.weightedValue
+org/apache/commons/validator/routines/RegexValidator.<init>
+top 10 recommendations: 
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/CodeValidator.<init>
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.toInt
+org/apache/commons/validator/routines/RegexValidator.validate
+org/apache/commons/validator/routines/checkdigit/LuhnCheckDigit.weightedValue
+org/apache/commons/validator/routines/RegexValidator.<init>
+after post processing ......
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/CodeValidator.<init>
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.toInt
+org/apache/commons/validator/routines/RegexValidator.validate
+org/apache/commons/validator/routines/checkdigit/LuhnCheckDigit.weightedValue
+org/apache/commons/validator/routines/RegexValidator.<init>
+found in top 10

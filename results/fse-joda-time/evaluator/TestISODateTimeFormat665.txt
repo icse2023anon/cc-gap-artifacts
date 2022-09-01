@@ -1,0 +1,41 @@
+slicing criterion: org.joda.time.format.TestISODateTimeFormat.testFormat_hour:541
+Methods call in assertion: [org/joda/time/format/ISODateTimeFormat.hour, org/joda/time/format/DateTimeFormatter.print]
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/UTCDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTime.withZone
+org/joda/time/DateTime.withChronology
+org/joda/time/format/ISODateTimeFormat.hour
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/DateTime.withZone
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.withChronology
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/UTCDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/ISODateTimeFormat.hour
+after post processing ......
+org/joda/time/DateTime.withZone
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.withChronology
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/UTCDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/ISODateTimeFormat.hour
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/format/DateTimeFormatter.print
+all method calls are suggested

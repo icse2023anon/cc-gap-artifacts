@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestSeconds.testToStandardDuration:271
+Methods call in assertion: [org/joda/time/Seconds.toStandardDuration]
+org/joda/time/Seconds.toStandardDuration
+top 10 recommendations: 
+org/joda/time/Seconds.toStandardDuration
+after post processing ......
+org/joda/time/Seconds.toStandardDuration
+perfect match

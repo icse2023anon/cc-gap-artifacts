@@ -1,0 +1,61 @@
+slicing criterion: org.jsoup.parser.HtmlParserTest.handlesWhitespaceInoDocType:677
+Methods call in assertion: [org/jsoup/nodes/Document.childNode, org/jsoup/nodes/Node.outerHtml]
+org/jsoup/parser/CharacterReader.matchConsumeIgnoreCase
+org/jsoup/parser/HtmlTreeBuilder.getDocument
+org/jsoup/parser/CharacterReader.matchConsume
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/nodes/Attributes.equals
+org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/nodes/Node.childNode
+org/jsoup/parser/Tokeniser.read
+org/jsoup/parser/CharacterReader.matchesIgnoreCase
+org/jsoup/Jsoup.parse
+org/jsoup/parser/CharacterReader.matchesAny
+org/jsoup/parser/Token.isComment
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/nodes/Document.<init>
+org/jsoup/parser/CharacterReader.current
+org/jsoup/parser/Token.isCharacter
+org/jsoup/nodes/Node.outerHtml
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/CharacterReader.consumeLetterSequence
+org/jsoup/parser/CharacterReader.consume
+org/jsoup/nodes/Element.appendChild
+org/jsoup/parser/Token.isDoctype
+org/jsoup/parser/CharacterReader.matches
+top 10 recommendations: 
+org/jsoup/parser/CharacterReader.matchConsume
+org/jsoup/parser/CharacterReader.matchConsumeIgnoreCase
+org/jsoup/parser/CharacterReader.matchesAny
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/CharacterReader.matches
+org/jsoup/parser/HtmlTreeBuilder.getDocument
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/nodes/Attributes.equals
+org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/nodes/Node.childNode
+after post processing ......
+org/jsoup/parser/CharacterReader.matchConsume
+org/jsoup/parser/CharacterReader.matchConsumeIgnoreCase
+org/jsoup/parser/CharacterReader.matchesAny
+org/jsoup/parser/CharacterReader.matchesLetter
+org/jsoup/parser/CharacterReader.matches
+org/jsoup/parser/HtmlTreeBuilder.getDocument
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/nodes/Attributes.equals
+org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/nodes/Node.childNode
+org/jsoup/parser/Tokeniser.read
+org/jsoup/parser/CharacterReader.matchesIgnoreCase
+org/jsoup/Jsoup.parse
+org/jsoup/parser/Token.isComment
+org/jsoup/nodes/Document.<init>
+org/jsoup/parser/CharacterReader.current
+org/jsoup/parser/Token.isCharacter
+org/jsoup/nodes/Node.outerHtml
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/CharacterReader.consumeLetterSequence
+org/jsoup/parser/CharacterReader.consume
+org/jsoup/nodes/Element.appendChild
+org/jsoup/parser/Token.isDoctype
+all method calls are suggested

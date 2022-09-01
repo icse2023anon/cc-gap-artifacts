@@ -1,0 +1,51 @@
+slicing criterion: org.jsoup.nodes.EntitiesTest.unescape:95
+Methods call in assertion: [org/jsoup/nodes/Entities.unescape]
+org/jsoup/parser/CharacterReader.matchConsumeIgnoreCase
+org/jsoup/nodes/Entities.isBaseNamedEntity
+org/jsoup/parser/CharacterReader.matchConsume
+org/jsoup/parser/CharacterReader.consumeHexSequence
+org/jsoup/parser/Tokeniser.consumeCharacterReference
+org/jsoup/parser/CharacterReader.matchesAnySorted
+org/jsoup/parser/CharacterReader.matchesIgnoreCase
+org/jsoup/parser/Parser.unescapeEntities
+org/jsoup/parser/CharacterReader.rangeEquals
+org/jsoup/parser/Tokeniser.unescapeEntities
+org/jsoup/parser/CharacterReader.consumeTo
+org/jsoup/nodes/Entities.isNamedEntity
+org/jsoup/parser/CharacterReader.nextIndexOf
+org/jsoup/nodes/Entities.unescape
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/CharacterReader.consumeDigitSequence
+org/jsoup/parser/CharacterReader.consumeLetterThenDigitSequence
+org/jsoup/parser/CharacterReader.matches
+top 10 recommendations: 
+org/jsoup/nodes/Entities.unescape
+org/jsoup/parser/Parser.unescapeEntities
+org/jsoup/parser/Tokeniser.unescapeEntities
+org/jsoup/parser/Tokeniser.consumeCharacterReference
+org/jsoup/parser/CharacterReader.matchConsume
+org/jsoup/parser/CharacterReader.matchConsumeIgnoreCase
+org/jsoup/parser/CharacterReader.matchesAnySorted
+org/jsoup/parser/CharacterReader.consumeTo
+org/jsoup/parser/CharacterReader.consumeLetterThenDigitSequence
+org/jsoup/parser/CharacterReader.matches
+after post processing ......
+org/jsoup/nodes/Entities.unescape
+org/jsoup/parser/Parser.unescapeEntities
+org/jsoup/parser/Tokeniser.unescapeEntities
+org/jsoup/parser/Tokeniser.consumeCharacterReference
+org/jsoup/parser/CharacterReader.matchConsume
+org/jsoup/parser/CharacterReader.matchConsumeIgnoreCase
+org/jsoup/parser/CharacterReader.matchesAnySorted
+org/jsoup/parser/CharacterReader.consumeTo
+org/jsoup/parser/CharacterReader.consumeLetterThenDigitSequence
+org/jsoup/parser/CharacterReader.matches
+org/jsoup/nodes/Entities.isBaseNamedEntity
+org/jsoup/parser/CharacterReader.consumeHexSequence
+org/jsoup/parser/CharacterReader.matchesIgnoreCase
+org/jsoup/parser/CharacterReader.rangeEquals
+org/jsoup/nodes/Entities.isNamedEntity
+org/jsoup/parser/CharacterReader.nextIndexOf
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/CharacterReader.consumeDigitSequence
+perfect match

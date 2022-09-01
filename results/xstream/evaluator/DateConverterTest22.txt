@@ -1,0 +1,17 @@
+slicing criterion: com.thoughtworks.xstream.converters.basic.DateConverterTest.testDatesWithEpoche:223
+Methods call in assertion: [com/thoughtworks/xstream/converters/basic/DateConverter.toString]
+com/thoughtworks/xstream/core/util/Pool.fetchFromPool
+com/thoughtworks/xstream/converters/basic/DateConverter.toString
+com/thoughtworks/xstream/converters/basic/DateConverter.<init>
+com/thoughtworks/xstream/core/util/ThreadSafeSimpleDateFormat.format
+top 10 recommendations: 
+com/thoughtworks/xstream/converters/basic/DateConverter.toString
+com/thoughtworks/xstream/core/util/Pool.fetchFromPool
+com/thoughtworks/xstream/converters/basic/DateConverter.<init>
+com/thoughtworks/xstream/core/util/ThreadSafeSimpleDateFormat.format
+after post processing ......
+com/thoughtworks/xstream/converters/basic/DateConverter.toString
+com/thoughtworks/xstream/core/util/Pool.fetchFromPool
+com/thoughtworks/xstream/converters/basic/DateConverter.<init>
+com/thoughtworks/xstream/core/util/ThreadSafeSimpleDateFormat.format
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestPartial_Properties.testPropertyGetMinute:265
+Methods call in assertion: [org/joda/time/Partial$Property.getReadablePartial, org/joda/time/DateTimeFieldType.minuteOfHour, org/joda/time/Partial.property]
+org/joda/time/Partial.without
+org/joda/time/DateTimeFieldType.minuteOfHour
+top 10 recommendations: 
+org/joda/time/Partial.without
+org/joda/time/DateTimeFieldType.minuteOfHour
+after post processing ......
+org/joda/time/Partial.without
+org/joda/time/DateTimeFieldType.minuteOfHour
+not matched

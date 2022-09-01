@@ -1,0 +1,43 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testWith3c:487
+Methods call in assertion: [org/joda/time/Partial.getFieldType, org/joda/time/DateTimeFieldType.minuteOfHour]
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/field/BaseDurationField.compareTo
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.size
+org/joda/time/DateTimeFieldType.dayOfMonth
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/Partial.with
+org/joda/time/Partial.getFieldType
+org/joda/time/Partial.<init>
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/Partial.with
+org/joda/time/Partial.<init>
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/field/BaseDurationField.compareTo
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.size
+org/joda/time/DateTimeFieldType.dayOfMonth
+after post processing ......
+org/joda/time/Partial.with
+org/joda/time/Partial.<init>
+org/joda/time/chrono/AssembledChronology.days
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/field/BaseDurationField.compareTo
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.size
+org/joda/time/DateTimeFieldType.dayOfMonth
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/Partial.getFieldType
+org/joda/time/DateTimeUtils.getChronology
+all method calls are suggested

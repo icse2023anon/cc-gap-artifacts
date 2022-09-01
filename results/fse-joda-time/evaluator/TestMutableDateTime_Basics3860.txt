@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestMutableDateTime_Basics.testRounding8:756
+Methods call in assertion: [org/joda/time/MutableDateTime.getRoundingField]
+org/joda/time/MutableDateTime.getRoundingField
+top 10 recommendations: 
+org/joda/time/MutableDateTime.getRoundingField
+after post processing ......
+org/joda/time/MutableDateTime.getRoundingField
+perfect match

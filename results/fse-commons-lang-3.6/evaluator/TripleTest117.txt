@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.tuple.TripleTest.testToStringCustom:123
+Methods call in assertion: [org/apache/commons/lang3/tuple/Triple.toString]
+org/apache/commons/lang3/tuple/ImmutableTriple.getMiddle
+org/apache/commons/lang3/tuple/Triple.toString
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/ImmutableTriple.getMiddle
+org/apache/commons/lang3/tuple/Triple.toString
+after post processing ......
+org/apache/commons/lang3/tuple/ImmutableTriple.getMiddle
+org/apache/commons/lang3/tuple/Triple.toString
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.parser.TokenQueueTest.addFirst:59
+Methods call in assertion: [org/jsoup/parser/TokenQueue.remainder]
+org/jsoup/parser/TokenQueue.remainder
+top 10 recommendations: 
+org/jsoup/parser/TokenQueue.remainder
+after post processing ......
+org/jsoup/parser/TokenQueue.remainder
+perfect match

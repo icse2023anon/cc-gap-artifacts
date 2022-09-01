@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.text.StrSubstitutorTest.testStaticReplaceSystemProperties:631
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.toString, org/apache/commons/lang3/text/StrSubstitutor.replaceSystemProperties]
+org/apache/commons/lang3/text/StrBuilder.toString
+org/apache/commons/lang3/text/StrSubstitutor.replaceSystemProperties
+org/apache/commons/lang3/text/StrSubstitutor.replace
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrSubstitutor.replaceSystemProperties
+org/apache/commons/lang3/text/StrSubstitutor.replace
+org/apache/commons/lang3/text/StrBuilder.toString
+after post processing ......
+org/apache/commons/lang3/text/StrSubstitutor.replaceSystemProperties
+org/apache/commons/lang3/text/StrSubstitutor.replace
+org/apache/commons/lang3/text/StrBuilder.toString
+found in top 10

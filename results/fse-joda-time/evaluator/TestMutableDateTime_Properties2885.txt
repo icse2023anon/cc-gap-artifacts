@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMutableDateTime_Properties.testTest:148
+Methods call in assertion: [org/joda/time/Instant.toString]
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/base/AbstractInstant.toString
+top 10 recommendations: 
+org/joda/time/base/AbstractInstant.toString
+org/joda/time/format/DateTimeFormatter.print
+after post processing ......
+org/joda/time/base/AbstractInstant.toString
+org/joda/time/format/DateTimeFormatter.print
+found in top 10

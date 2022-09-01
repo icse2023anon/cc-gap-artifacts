@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.field.TestPreciseDurationField.test_equals:244
+Methods call in assertion: [org/joda/time/field/PreciseDurationField.equals]
+org/joda/time/field/PreciseDurationField.equals
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationField.equals
+after post processing ......
+org/joda/time/field/PreciseDurationField.equals
+perfect match

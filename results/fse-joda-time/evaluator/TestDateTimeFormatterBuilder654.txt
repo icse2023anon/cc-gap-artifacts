@@ -1,0 +1,67 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatterBuilder.test_appendTimeZoneId:460
+Methods call in assertion: [org/joda/time/DateTime.getZone, org/joda/time/format/DateTimeFormatter.parseDateTime]
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/format/DateTimeParserBucket.getZone
+org/joda/time/format/DateTimeFormatterBuilder.csStartsWith
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/format/DateTimeFormatter.parseDateTime
+org/joda/time/tz/FixedDateTimeZone.hashCode
+org/joda/time/format/DateTimeFormatterBuilder.appendTimeZoneId
+org/joda/time/format/DateTimeFormatter.printTo
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/DateTimeZone.getID
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/base/AbstractInstant.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.forID
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.forID
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/format/DateTimeFormatter.parseDateTime
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+after post processing ......
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.forID
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/format/DateTimeFormatter.parseDateTime
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/format/DateTimeParserBucket.getZone
+org/joda/time/format/DateTimeFormatterBuilder.csStartsWith
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/tz/FixedDateTimeZone.hashCode
+org/joda/time/format/DateTimeFormatterBuilder.appendTimeZoneId
+org/joda/time/format/DateTimeFormatter.printTo
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/DateTimeZone.getID
+org/joda/time/base/AbstractInstant.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/tz/CachedDateTimeZone.hashCode
+not matched

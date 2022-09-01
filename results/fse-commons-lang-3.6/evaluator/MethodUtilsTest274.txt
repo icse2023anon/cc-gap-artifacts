@@ -1,0 +1,23 @@
+slicing criterion: org.apache.commons.lang3.reflect.MethodUtilsTest.testInvokeStaticMethod:552
+Methods call in assertion: [org/apache/commons/lang3/reflect/MethodUtils.invokeStaticMethod]
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ArrayUtils.nullToEmpty
+org/apache/commons/lang3/ClassUtils.toClass
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/reflect/MethodUtils.invokeStaticMethod
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingAccessibleMethod
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/MethodUtils.invokeStaticMethod
+org/apache/commons/lang3/ArrayUtils.nullToEmpty
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ClassUtils.toClass
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingAccessibleMethod
+after post processing ......
+org/apache/commons/lang3/reflect/MethodUtils.invokeStaticMethod
+org/apache/commons/lang3/ArrayUtils.nullToEmpty
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ClassUtils.toClass
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingAccessibleMethod
+perfect match

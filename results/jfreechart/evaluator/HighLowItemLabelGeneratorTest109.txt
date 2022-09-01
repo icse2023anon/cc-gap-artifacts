@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.labels.HighLowItemLabelGeneratorTest.testCloning:107
+Methods call in assertion: [org/jfree/chart/labels/HighLowItemLabelGenerator.equals]
+org/jfree/chart/labels/HighLowItemLabelGenerator.equals
+org/jfree/chart/labels/HighLowItemLabelGenerator.clone
+top 10 recommendations: 
+org/jfree/chart/labels/HighLowItemLabelGenerator.equals
+org/jfree/chart/labels/HighLowItemLabelGenerator.clone
+after post processing ......
+org/jfree/chart/labels/HighLowItemLabelGenerator.equals
+org/jfree/chart/labels/HighLowItemLabelGenerator.clone
+perfect match

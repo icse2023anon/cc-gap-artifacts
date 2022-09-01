@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDurationFieldType.test_eras:73
+Methods call in assertion: [org/joda/time/DurationFieldType.eras]
+org/joda/time/DurationFieldType.eras
+top 10 recommendations: 
+org/joda/time/DurationFieldType.eras
+after post processing ......
+org/joda/time/DurationFieldType.eras
+perfect match

@@ -1,0 +1,35 @@
+slicing criterion: org.codehaus.plexus.util.cli.CommandlineTest.testCommandlineWithCommandInConstructor:83
+Methods call in assertion: [org/codehaus/plexus/util/cli/Commandline.toString]
+org/codehaus/plexus/util/cli/CommandLineUtils.translateCommandline
+org/codehaus/plexus/util/cli/Commandline.getArguments
+org/codehaus/plexus/util/cli/shell/Shell.getRawCommandLine
+org/codehaus/plexus/util/cli/Commandline.toString
+org/codehaus/plexus/util/cli/Commandline.<init>
+org/codehaus/plexus/util/cli/shell/Shell.getShellCommandLine
+org/codehaus/plexus/util/cli/Commandline.createArgument
+org/codehaus/plexus/util/cli/Commandline.getShellCommandline
+org/codehaus/plexus/util/cli/shell/Shell.getCommandLine
+org/codehaus/plexus/util/StringUtils.join
+top 10 recommendations: 
+org/codehaus/plexus/util/cli/Commandline.toString
+org/codehaus/plexus/util/cli/Commandline.getShellCommandline
+org/codehaus/plexus/util/cli/Commandline.<init>
+org/codehaus/plexus/util/cli/shell/Shell.getShellCommandLine
+org/codehaus/plexus/util/cli/shell/Shell.getCommandLine
+org/codehaus/plexus/util/cli/CommandLineUtils.translateCommandline
+org/codehaus/plexus/util/cli/Commandline.getArguments
+org/codehaus/plexus/util/cli/shell/Shell.getRawCommandLine
+org/codehaus/plexus/util/cli/Commandline.createArgument
+org/codehaus/plexus/util/StringUtils.join
+after post processing ......
+org/codehaus/plexus/util/cli/Commandline.toString
+org/codehaus/plexus/util/cli/Commandline.getShellCommandline
+org/codehaus/plexus/util/cli/Commandline.<init>
+org/codehaus/plexus/util/cli/shell/Shell.getShellCommandLine
+org/codehaus/plexus/util/cli/shell/Shell.getCommandLine
+org/codehaus/plexus/util/cli/CommandLineUtils.translateCommandline
+org/codehaus/plexus/util/cli/Commandline.getArguments
+org/codehaus/plexus/util/cli/shell/Shell.getRawCommandLine
+org/codehaus/plexus/util/cli/Commandline.createArgument
+org/codehaus/plexus/util/StringUtils.join
+perfect match

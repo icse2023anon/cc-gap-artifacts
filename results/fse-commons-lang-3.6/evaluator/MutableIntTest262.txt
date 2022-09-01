@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableIntTest.testIncrement:178
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableInt.longValue]
+org/apache/commons/lang3/mutable/MutableInt.longValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableInt.longValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableInt.longValue
+perfect match

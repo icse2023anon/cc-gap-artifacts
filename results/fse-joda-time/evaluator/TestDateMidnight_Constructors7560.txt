@@ -1,0 +1,49 @@
+slicing criterion: org.joda.time.TestDateMidnight_Constructors.testParse_formatter:225
+Methods call in assertion: [org/joda/time/format/DateTimeFormat.forPattern, org/joda/time/DateMidnight.parse, org/joda/time/chrono/ISOChronology.getInstance]
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/DateMidnight.parse
+org/joda/time/format/DateTimeFormatterBuilder.appendSignedDecimal
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateMidnight.<init>
+top 10 recommendations: 
+org/joda/time/DateMidnight.<init>
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/DateMidnight.parse
+org/joda/time/format/DateTimeFormatterBuilder.appendSignedDecimal
+after post processing ......
+org/joda/time/DateMidnight.<init>
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/DateMidnight.parse
+org/joda/time/format/DateTimeFormatterBuilder.appendSignedDecimal
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/tz/CachedDateTimeZone.hashCode
+all method calls are suggested

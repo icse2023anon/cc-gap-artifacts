@@ -1,0 +1,11 @@
+slicing criterion: com.google.gson.internal.LinkedHashTreeMapTest.testPutOverrides:87
+Methods call in assertion: [com/google/gson/internal/LinkedHashTreeMap.size]
+com/google/gson/internal/LinkedHashTreeMap.find
+com/google/gson/internal/LinkedHashTreeMap.size
+top 10 recommendations: 
+com/google/gson/internal/LinkedHashTreeMap.find
+com/google/gson/internal/LinkedHashTreeMap.size
+after post processing ......
+com/google/gson/internal/LinkedHashTreeMap.find
+com/google/gson/internal/LinkedHashTreeMap.size
+found in top 10

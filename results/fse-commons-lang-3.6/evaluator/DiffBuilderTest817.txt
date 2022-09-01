@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.DiffBuilderTest.testByteArrayEqualAsObject:441
+Methods call in assertion: [org/apache/commons/lang3/builder/DiffResult.getNumberOfDiffs]
+org/apache/commons/lang3/builder/DiffBuilder.append
+org/apache/commons/lang3/builder/DiffResult.getNumberOfDiffs
+top 10 recommendations: 
+org/apache/commons/lang3/builder/DiffBuilder.append
+org/apache/commons/lang3/builder/DiffResult.getNumberOfDiffs
+after post processing ......
+org/apache/commons/lang3/builder/DiffBuilder.append
+org/apache/commons/lang3/builder/DiffResult.getNumberOfDiffs
+found in top 10

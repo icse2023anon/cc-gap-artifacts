@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Properties.testPropertyGetMilli:1025
+Methods call in assertion: [org/joda/time/LocalDateTime.getChronology, org/joda/time/LocalDateTime.millisOfSecond, org/joda/time/Chronology.millis, org/joda/time/LocalDateTime$Property.getDurationField]
+org/joda/time/chrono/AssembledChronology.millis
+org/joda/time/field/AbstractReadableInstantFieldProperty.getDurationField
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDateTime.<init>
+top 10 recommendations: 
+org/joda/time/chrono/AssembledChronology.millis
+org/joda/time/field/AbstractReadableInstantFieldProperty.getDurationField
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDateTime.<init>
+after post processing ......
+org/joda/time/chrono/AssembledChronology.millis
+org/joda/time/field/AbstractReadableInstantFieldProperty.getDurationField
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/LocalDateTime.<init>
+not matched

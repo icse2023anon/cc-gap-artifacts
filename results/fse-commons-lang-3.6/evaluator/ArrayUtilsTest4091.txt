@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ArrayUtilsTest.testIsSortedFloat:5184
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.isSorted]
+org/apache/commons/lang3/ArrayUtils.isSorted
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.isSorted
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.isSorted
+perfect match

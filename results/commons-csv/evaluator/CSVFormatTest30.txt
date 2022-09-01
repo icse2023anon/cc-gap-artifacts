@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testEqualsOne:915
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getIgnoreEmptyLines]
+org/apache/commons/csv/CSVFormat.getIgnoreEmptyLines
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.getIgnoreEmptyLines
+after post processing ......
+org/apache/commons/csv/CSVFormat.getIgnoreEmptyLines
+perfect match

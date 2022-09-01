@@ -1,0 +1,11 @@
+slicing criterion: org.codehaus.plexus.util.FileUtilsTest.testCopyIfModifiedWhenSourceIsNewer:418
+Methods call in assertion: [org/codehaus/plexus/util/FileUtils.copyFileIfModified]
+org/codehaus/plexus/util/FileUtils.copyFile
+org/codehaus/plexus/util/FileUtils.copyFileIfModified
+top 10 recommendations: 
+org/codehaus/plexus/util/FileUtils.copyFileIfModified
+org/codehaus/plexus/util/FileUtils.copyFile
+after post processing ......
+org/codehaus/plexus/util/FileUtils.copyFileIfModified
+org/codehaus/plexus/util/FileUtils.copyFile
+perfect match

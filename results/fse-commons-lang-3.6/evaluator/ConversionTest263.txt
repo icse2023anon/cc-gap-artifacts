@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testHexDigitMsb0ToInt:142
+Methods call in assertion: [org/apache/commons/lang3/Conversion.hexDigitMsb0ToInt]
+org/apache/commons/lang3/Conversion.hexDigitMsb0ToInt
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.hexDigitMsb0ToInt
+after post processing ......
+org/apache/commons/lang3/Conversion.hexDigitMsb0ToInt
+perfect match

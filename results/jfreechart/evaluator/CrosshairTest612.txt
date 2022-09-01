@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.CrosshairTest.testEquals:72
+Methods call in assertion: [org/jfree/chart/plot/Crosshair.equals]
+org/jfree/chart/plot/Crosshair.equals
+top 10 recommendations: 
+org/jfree/chart/plot/Crosshair.equals
+after post processing ......
+org/jfree/chart/plot/Crosshair.equals
+perfect match

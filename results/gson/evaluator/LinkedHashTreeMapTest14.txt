@@ -1,0 +1,5 @@
+slicing criterion: com.google.gson.internal.LinkedHashTreeMapTest.assertAvlWalker:165
+Methods call in assertion: [com/google/gson/internal/LinkedHashTreeMap$AvlIterator.next]
+top 10 recommendations: 
+after post processing ......
+not matched

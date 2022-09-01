@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableFloatTest.testGetAndIncrement:203
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableFloat.intValue]
+org/apache/commons/lang3/mutable/MutableFloat.getAndIncrement
+org/apache/commons/lang3/mutable/MutableFloat.intValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableFloat.getAndIncrement
+org/apache/commons/lang3/mutable/MutableFloat.intValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableFloat.getAndIncrement
+org/apache/commons/lang3/mutable/MutableFloat.intValue
+found in top 10

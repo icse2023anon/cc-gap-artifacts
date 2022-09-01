@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testLastIndexOf_char_int:1498
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.lastIndexOf]
+org/apache/commons/lang3/text/StrBuilder.lastIndexOf
+org/apache/commons/lang3/text/StrBuilder.<init>
+org/apache/commons/lang3/text/StrBuilder.append
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.<init>
+org/apache/commons/lang3/text/StrBuilder.lastIndexOf
+org/apache/commons/lang3/text/StrBuilder.append
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.<init>
+org/apache/commons/lang3/text/StrBuilder.lastIndexOf
+org/apache/commons/lang3/text/StrBuilder.append
+found in top 10

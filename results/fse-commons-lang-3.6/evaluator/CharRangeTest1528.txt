@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.CharRangeTest.testContains_Charrange:288
+Methods call in assertion: [org/apache/commons/lang3/CharRange.contains]
+org/apache/commons/lang3/CharRange.isNot
+org/apache/commons/lang3/CharRange.contains
+org/apache/commons/lang3/CharRange.isIn
+top 10 recommendations: 
+org/apache/commons/lang3/CharRange.isNot
+org/apache/commons/lang3/CharRange.contains
+org/apache/commons/lang3/CharRange.isIn
+after post processing ......
+org/apache/commons/lang3/CharRange.isNot
+org/apache/commons/lang3/CharRange.contains
+org/apache/commons/lang3/CharRange.isIn
+found in top 10

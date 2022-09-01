@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.CharUtilsTest.testToChar_Character:112
+Methods call in assertion: [org/apache/commons/lang3/CharUtils.toChar]
+org/apache/commons/lang3/CharUtils.toChar
+top 10 recommendations: 
+org/apache/commons/lang3/CharUtils.toChar
+after post processing ......
+org/apache/commons/lang3/CharUtils.toChar
+perfect match

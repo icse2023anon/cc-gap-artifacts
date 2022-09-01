@@ -1,0 +1,20 @@
+slicing criterion: org.codehaus.plexus.util.xml.Xpp3DomTest.testShouldMergeValuesAtTopLevel:137
+Methods call in assertion: [org/codehaus/plexus/util/xml/Xpp3Dom.getAttributeNames]
+org/codehaus/plexus/util/xml/Xpp3Dom.setAttribute
+org/codehaus/plexus/util/xml/Xpp3Dom.getAttributeNames
+org/codehaus/plexus/util/xml/Xpp3Dom.mergeXpp3Dom
+org/codehaus/plexus/util/xml/Xpp3Dom.isEmpty
+org/codehaus/plexus/util/xml/Xpp3Dom.getAttribute
+top 10 recommendations: 
+org/codehaus/plexus/util/xml/Xpp3Dom.setAttribute
+org/codehaus/plexus/util/xml/Xpp3Dom.getAttributeNames
+org/codehaus/plexus/util/xml/Xpp3Dom.mergeXpp3Dom
+org/codehaus/plexus/util/xml/Xpp3Dom.isEmpty
+org/codehaus/plexus/util/xml/Xpp3Dom.getAttribute
+after post processing ......
+org/codehaus/plexus/util/xml/Xpp3Dom.setAttribute
+org/codehaus/plexus/util/xml/Xpp3Dom.getAttributeNames
+org/codehaus/plexus/util/xml/Xpp3Dom.mergeXpp3Dom
+org/codehaus/plexus/util/xml/Xpp3Dom.isEmpty
+org/codehaus/plexus/util/xml/Xpp3Dom.getAttribute
+found in top 10

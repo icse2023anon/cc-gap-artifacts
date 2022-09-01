@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.chrono.TestJulianChronology.testFactoryUTC:112
+Methods call in assertion: [org/joda/time/chrono/JulianChronology.getInstanceUTC, org/joda/time/chrono/JulianChronology.getZone]
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+top 10 recommendations: 
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+after post processing ......
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+not matched

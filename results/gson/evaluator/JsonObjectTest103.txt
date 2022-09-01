@@ -1,0 +1,14 @@
+slicing criterion: com.google.gson.JsonObjectTest.testAddingAndRemovingObjectProperties:38
+Methods call in assertion: [com/google/gson/JsonObject.get]
+com/google/gson/JsonObject.get
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/internal/LinkedTreeMap.find
+top 10 recommendations: 
+com/google/gson/JsonObject.get
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/internal/LinkedTreeMap.find
+after post processing ......
+com/google/gson/JsonObject.get
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/internal/LinkedTreeMap.find
+perfect match

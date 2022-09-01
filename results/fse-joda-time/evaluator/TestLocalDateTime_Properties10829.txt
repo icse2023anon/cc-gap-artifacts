@@ -1,0 +1,55 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Properties.testPropertyCompareToMinute:866
+Methods call in assertion: [org/joda/time/LocalDateTime.minuteOfHour, org/joda/time/LocalDateTime$Property.compareTo]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/field/AbstractReadableInstantFieldProperty.getFieldType
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/UTCDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/LocalDateTime.get
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/field/AbstractReadableInstantFieldProperty.compareTo
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/DateTimeZone.getID
+org/joda/time/LocalDateTime.<init>
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/LocalDateTime.<init>
+org/joda/time/LocalDateTime.get
+org/joda/time/field/AbstractReadableInstantFieldProperty.compareTo
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/ISOChronology.withUTC
+after post processing ......
+org/joda/time/LocalDateTime.<init>
+org/joda/time/LocalDateTime.get
+org/joda/time/field/AbstractReadableInstantFieldProperty.compareTo
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/field/AbstractReadableInstantFieldProperty.getFieldType
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/UTCDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/DateTimeZone.getID
+not matched

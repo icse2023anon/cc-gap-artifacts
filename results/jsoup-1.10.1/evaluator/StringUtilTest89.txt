@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.helper.StringUtilTest.isBlank:30
+Methods call in assertion: [org/jsoup/helper/StringUtil.isBlank]
+org/jsoup/helper/StringUtil.isBlank
+top 10 recommendations: 
+org/jsoup/helper/StringUtil.isBlank
+after post processing ......
+org/jsoup/helper/StringUtil.isBlank
+perfect match

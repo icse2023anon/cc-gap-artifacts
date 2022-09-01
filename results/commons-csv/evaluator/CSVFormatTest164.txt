@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testToStringAndWithCommentMarkerTakingCharacter:618
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.toString]
+org/apache/commons/csv/CSVFormat.withCommentMarker
+org/apache/commons/csv/CSVFormat.toString
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.withCommentMarker
+org/apache/commons/csv/CSVFormat.toString
+after post processing ......
+org/apache/commons/csv/CSVFormat.withCommentMarker
+org/apache/commons/csv/CSVFormat.toString
+found in top 10

@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestInstant_Basics.testGet_DateTimeFieldType:157
+Methods call in assertion: [org/joda/time/DateTimeFieldType.yearOfCentury, org/joda/time/Instant.get]
+org/joda/time/field/RemainderDateTimeField.get
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/Instant.getChronology
+org/joda/time/DateTimeFieldType.yearOfCentury
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/AssembledChronology.yearOfCentury
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+top 10 recommendations: 
+org/joda/time/Instant.getChronology
+org/joda/time/field/RemainderDateTimeField.get
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/DateTimeFieldType.yearOfCentury
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/AssembledChronology.yearOfCentury
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+after post processing ......
+org/joda/time/Instant.getChronology
+org/joda/time/field/RemainderDateTimeField.get
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/DateTimeFieldType.yearOfCentury
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/AssembledChronology.yearOfCentury
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+found in top 10

@@ -1,0 +1,61 @@
+slicing criterion: org.jfree.chart.renderer.category.AbstractCategoryItemRendererTest.test2947660:346
+Methods call in assertion: [org/jfree/chart/LegendItemCollection.getItemCount]
+org/jfree/data/general/DatasetChangeEvent.getDataset
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisibleInLegend
+org/jfree/chart/plot/CategoryPlot.mapDatasetToDomainAxis
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/plot/CategoryPlot.getRowRenderingOrder
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getPlot
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/chart/plot/CategoryPlot.datasetChanged
+org/jfree/chart/plot/CategoryPlot.setDataset
+org/jfree/data/general/AbstractDataset.getNotify
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItems
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getLegendItem
+org/jfree/data/general/AbstractDataset.hasListener
+org/jfree/chart/LegendItemCollection.getItemCount
+org/jfree/chart/plot/CategoryPlot.getDataset
+org/jfree/chart/plot/CategoryPlot.getIndexOf
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+org/jfree/data/general/AbstractDataset.notifyListeners
+org/jfree/chart/plot/CategoryPlot.setRenderer
+org/jfree/data/general/AbstractDataset.addChangeListener
+org/jfree/chart/LegendItemCollection.add
+top 10 recommendations: 
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItems
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/plot/CategoryPlot.setDataset
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getLegendItem
+org/jfree/data/general/DatasetChangeEvent.getDataset
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisibleInLegend
+org/jfree/chart/plot/CategoryPlot.mapDatasetToDomainAxis
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/chart/plot/CategoryPlot.getRowRenderingOrder
+after post processing ......
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItems
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/plot/CategoryPlot.<init>
+org/jfree/chart/plot/CategoryPlot.setDataset
+org/jfree/chart/renderer/category/LineAndShapeRenderer.getLegendItem
+org/jfree/data/general/DatasetChangeEvent.getDataset
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisibleInLegend
+org/jfree/chart/plot/CategoryPlot.mapDatasetToDomainAxis
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/chart/plot/CategoryPlot.getRowRenderingOrder
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getPlot
+org/jfree/data/category/DefaultCategoryDataset.getRowCount
+org/jfree/chart/plot/CategoryPlot.datasetChanged
+org/jfree/data/general/AbstractDataset.getNotify
+org/jfree/data/general/AbstractDataset.hasListener
+org/jfree/chart/LegendItemCollection.getItemCount
+org/jfree/chart/plot/CategoryPlot.getDataset
+org/jfree/chart/plot/CategoryPlot.getIndexOf
+org/jfree/chart/renderer/AbstractRenderer.isSeriesVisible
+org/jfree/data/general/AbstractDataset.notifyListeners
+org/jfree/chart/plot/CategoryPlot.setRenderer
+org/jfree/data/general/AbstractDataset.addChangeListener
+org/jfree/chart/LegendItemCollection.add
+all method calls are suggested

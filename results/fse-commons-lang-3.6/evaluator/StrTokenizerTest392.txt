@@ -1,0 +1,32 @@
+slicing criterion: org.apache.commons.lang3.text.StrTokenizerTest.testBasicEmpty1:370
+Methods call in assertion: [org/apache/commons/lang3/text/StrTokenizer.next]
+org/apache/commons/lang3/text/StrTokenizer.next
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrMatcher.splitMatcher
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrBuilder.substring
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+org/apache/commons/lang3/text/StrTokenizer.isIgnoreEmptyTokens
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrTokenizer.next
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrMatcher.splitMatcher
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrBuilder.substring
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+org/apache/commons/lang3/text/StrTokenizer.isIgnoreEmptyTokens
+after post processing ......
+org/apache/commons/lang3/text/StrTokenizer.next
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrMatcher.splitMatcher
+org/apache/commons/lang3/text/StrTokenizer.hasNext
+org/apache/commons/lang3/text/StrBuilder.substring
+org/apache/commons/lang3/text/StrTokenizer.tokenize
+org/apache/commons/lang3/text/StrTokenizer.isIgnoreEmptyTokens
+perfect match

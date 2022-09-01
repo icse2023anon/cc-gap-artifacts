@@ -1,0 +1,57 @@
+slicing criterion: org.joda.time.TestYearMonthDay_Properties.testPropertyEqualsHashCodeLenient:567
+Methods call in assertion: [org/joda/time/YearMonthDay.dayOfMonth, org/joda/time/YearMonthDay$Property.hashCode]
+org/joda/time/field/AbstractPartialFieldProperty.getFieldType
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/field/LenientDateTimeField.getInstance
+org/joda/time/chrono/LenientChronology.assemble
+org/joda/time/YearMonthDay.getField
+org/joda/time/field/DelegatedDateTimeField.getType
+org/joda/time/chrono/LenientChronology.getInstance
+org/joda/time/field/AbstractPartialFieldProperty.hashCode
+org/joda/time/field/DecoratedDateTimeField.isLenient
+org/joda/time/base/BasePartial.<init>
+org/joda/time/base/BasePartial.getValue
+org/joda/time/chrono/LenientChronology.withUTC
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/chrono/LenientChronology.convertField
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/chrono/LenientChronology.assemble
+org/joda/time/field/AbstractPartialFieldProperty.hashCode
+org/joda/time/base/BasePartial.<init>
+org/joda/time/chrono/LenientChronology.withUTC
+org/joda/time/chrono/LenientChronology.convertField
+org/joda/time/field/AbstractPartialFieldProperty.getFieldType
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/AssembledChronology.getZone
+after post processing ......
+org/joda/time/chrono/LenientChronology.assemble
+org/joda/time/field/AbstractPartialFieldProperty.hashCode
+org/joda/time/base/BasePartial.<init>
+org/joda/time/chrono/LenientChronology.withUTC
+org/joda/time/chrono/LenientChronology.convertField
+org/joda/time/field/AbstractPartialFieldProperty.getFieldType
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/field/LenientDateTimeField.getInstance
+org/joda/time/YearMonthDay.getField
+org/joda/time/field/DelegatedDateTimeField.getType
+org/joda/time/chrono/LenientChronology.getInstance
+org/joda/time/field/DecoratedDateTimeField.isLenient
+org/joda/time/base/BasePartial.getValue
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/DateTimeUtils.getChronology
+not matched

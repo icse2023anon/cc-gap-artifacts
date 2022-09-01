@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestPeriod_Basics.testEqualsHashCode:301
+Methods call in assertion: [org/joda/time/Period.equals]
+org/joda/time/base/AbstractPeriod.equals
+top 10 recommendations: 
+org/joda/time/base/AbstractPeriod.equals
+after post processing ......
+org/joda/time/base/AbstractPeriod.equals
+perfect match

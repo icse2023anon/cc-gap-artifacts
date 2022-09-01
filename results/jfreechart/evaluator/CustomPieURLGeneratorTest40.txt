@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.urls.CustomPieURLGeneratorTest.testEquals:73
+Methods call in assertion: [org/jfree/chart/urls/CustomPieURLGenerator.equals]
+org/jfree/chart/urls/CustomPieURLGenerator.getListCount
+org/jfree/chart/urls/CustomPieURLGenerator.equals
+org/jfree/chart/urls/CustomPieURLGenerator.addURLs
+top 10 recommendations: 
+org/jfree/chart/urls/CustomPieURLGenerator.equals
+org/jfree/chart/urls/CustomPieURLGenerator.getListCount
+org/jfree/chart/urls/CustomPieURLGenerator.addURLs
+after post processing ......
+org/jfree/chart/urls/CustomPieURLGenerator.equals
+org/jfree/chart/urls/CustomPieURLGenerator.getListCount
+org/jfree/chart/urls/CustomPieURLGenerator.addURLs
+perfect match

@@ -1,0 +1,23 @@
+slicing criterion: org.apache.commons.codec.binary.Base32Test.testBase32HexSamplesReverseLowercase:152
+Methods call in assertion: [org/apache/commons/codec/binary/Base32.decode]
+org/apache/commons/codec/binary/Base32.decode
+org/apache/commons/codec/binary/BaseNCodec.isInAlphabet
+org/apache/commons/codec/binary/Base32.<init>
+org/apache/commons/codec/binary/BaseNCodec.decode
+org/apache/commons/codec/binary/BaseNCodec.ensureBufferSize
+org/apache/commons/codec/binary/StringUtils.getBytesUtf8
+top 10 recommendations: 
+org/apache/commons/codec/binary/BaseNCodec.isInAlphabet
+org/apache/commons/codec/binary/BaseNCodec.decode
+org/apache/commons/codec/binary/Base32.decode
+org/apache/commons/codec/binary/Base32.<init>
+org/apache/commons/codec/binary/BaseNCodec.ensureBufferSize
+org/apache/commons/codec/binary/StringUtils.getBytesUtf8
+after post processing ......
+org/apache/commons/codec/binary/BaseNCodec.isInAlphabet
+org/apache/commons/codec/binary/BaseNCodec.decode
+org/apache/commons/codec/binary/Base32.decode
+org/apache/commons/codec/binary/Base32.<init>
+org/apache/commons/codec/binary/BaseNCodec.ensureBufferSize
+org/apache/commons/codec/binary/StringUtils.getBytesUtf8
+found in top 10

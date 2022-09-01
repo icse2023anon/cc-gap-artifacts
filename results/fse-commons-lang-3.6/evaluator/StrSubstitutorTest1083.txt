@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.text.StrSubstitutorTest.testGetSetEscape:508
+Methods call in assertion: [org/apache/commons/lang3/text/StrSubstitutor.getEscapeChar]
+org/apache/commons/lang3/text/StrSubstitutor.isPreserveEscapes
+org/apache/commons/lang3/text/StrSubstitutor.getEscapeChar
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrSubstitutor.isPreserveEscapes
+org/apache/commons/lang3/text/StrSubstitutor.getEscapeChar
+after post processing ......
+org/apache/commons/lang3/text/StrSubstitutor.isPreserveEscapes
+org/apache/commons/lang3/text/StrSubstitutor.getEscapeChar
+found in top 10

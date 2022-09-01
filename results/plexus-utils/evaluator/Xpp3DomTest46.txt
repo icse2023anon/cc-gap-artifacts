@@ -1,0 +1,8 @@
+slicing criterion: org.codehaus.plexus.util.xml.Xpp3DomTest.testEquals:170
+Methods call in assertion: [org/codehaus/plexus/util/xml/Xpp3Dom.equals]
+org/codehaus/plexus/util/xml/Xpp3Dom.equals
+top 10 recommendations: 
+org/codehaus/plexus/util/xml/Xpp3Dom.equals
+after post processing ......
+org/codehaus/plexus/util/xml/Xpp3Dom.equals
+perfect match

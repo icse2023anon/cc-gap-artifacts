@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.BooleanUtilsTest.test_toBoolean_String:387
+Methods call in assertion: [org/apache/commons/lang3/BooleanUtils.toBoolean]
+org/apache/commons/lang3/BooleanUtils.toBoolean
+org/apache/commons/lang3/BooleanUtils.toBooleanObject
+top 10 recommendations: 
+org/apache/commons/lang3/BooleanUtils.toBoolean
+org/apache/commons/lang3/BooleanUtils.toBooleanObject
+after post processing ......
+org/apache/commons/lang3/BooleanUtils.toBoolean
+org/apache/commons/lang3/BooleanUtils.toBooleanObject
+perfect match

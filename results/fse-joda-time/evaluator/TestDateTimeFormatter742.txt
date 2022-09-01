@@ -1,0 +1,37 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatter.testParseDateTime_zone3:699
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.withZone, org/joda/time/format/DateTimeFormatter.parseDateTime]
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.withZone
+org/joda/time/format/ISODateTimeFormat.yearMonthDay
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatter.getPrinter0
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/DateTimeFormatter.getParser0
+org/joda/time/format/ISODateTimeFormat.date
+org/joda/time/format/ISODateTimeFormat.timeElementParser
+org/joda/time/format/DateTimeFormatter.parseDateTime
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/ISODateTimeFormat.date
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.withZone
+org/joda/time/format/ISODateTimeFormat.yearMonthDay
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatter.getPrinter0
+org/joda/time/format/DateTimeFormatter.getParser0
+org/joda/time/format/ISODateTimeFormat.timeElementParser
+after post processing ......
+org/joda/time/format/DateTimeFormatterBuilder.append
+org/joda/time/format/ISODateTimeFormat.date
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.withZone
+org/joda/time/format/ISODateTimeFormat.yearMonthDay
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatter.getPrinter0
+org/joda/time/format/DateTimeFormatter.getParser0
+org/joda/time/format/ISODateTimeFormat.timeElementParser
+org/joda/time/format/DateTimeFormatter.parseDateTime
+all method calls are suggested

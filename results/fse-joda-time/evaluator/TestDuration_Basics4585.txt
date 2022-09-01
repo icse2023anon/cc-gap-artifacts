@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestDuration_Basics.testToPeriodFrom_PeriodType:628
+Methods call in assertion: [org/joda/time/PeriodType.withMillisRemoved, org/joda/time/PeriodType.standard]
+org/joda/time/PeriodType.withMillisRemoved
+org/joda/time/PeriodType.standard
+org/joda/time/base/BaseDuration.toPeriodFrom
+top 10 recommendations: 
+org/joda/time/PeriodType.withMillisRemoved
+org/joda/time/PeriodType.standard
+org/joda/time/base/BaseDuration.toPeriodFrom
+after post processing ......
+org/joda/time/PeriodType.withMillisRemoved
+org/joda/time/PeriodType.standard
+org/joda/time/base/BaseDuration.toPeriodFrom
+found in top 10

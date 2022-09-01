@@ -1,0 +1,29 @@
+slicing criterion: com.thoughtworks.xstream.converters.basic.DateConverterTest.testUnmarshalsDatesWithDifferentTimeZones:95
+Methods call in assertion: [com/thoughtworks/xstream/converters/basic/DateConverter.fromString]
+com/thoughtworks/xstream/converters/basic/DateConverter.fromString
+com/thoughtworks/xstream/core/util/Pool.fetchFromPool
+com/thoughtworks/xstream/converters/basic/DateConverter.toString
+com/thoughtworks/xstream/core/util/ThreadSafeSimpleDateFormat.parse
+com/thoughtworks/xstream/core/util/ThreadSafeSimpleDateFormat.<init>
+com/thoughtworks/xstream/converters/basic/DateConverter.<init>
+com/thoughtworks/xstream/core/util/ThreadSafeSimpleDateFormat.format
+com/thoughtworks/xstream/core/JVM.canParseISO8601TimeZoneInDateFormat
+top 10 recommendations: 
+com/thoughtworks/xstream/converters/basic/DateConverter.fromString
+com/thoughtworks/xstream/converters/basic/DateConverter.toString
+com/thoughtworks/xstream/converters/basic/DateConverter.<init>
+com/thoughtworks/xstream/core/util/Pool.fetchFromPool
+com/thoughtworks/xstream/core/util/ThreadSafeSimpleDateFormat.parse
+com/thoughtworks/xstream/core/util/ThreadSafeSimpleDateFormat.<init>
+com/thoughtworks/xstream/core/util/ThreadSafeSimpleDateFormat.format
+com/thoughtworks/xstream/core/JVM.canParseISO8601TimeZoneInDateFormat
+after post processing ......
+com/thoughtworks/xstream/converters/basic/DateConverter.fromString
+com/thoughtworks/xstream/converters/basic/DateConverter.toString
+com/thoughtworks/xstream/converters/basic/DateConverter.<init>
+com/thoughtworks/xstream/core/util/Pool.fetchFromPool
+com/thoughtworks/xstream/core/util/ThreadSafeSimpleDateFormat.parse
+com/thoughtworks/xstream/core/util/ThreadSafeSimpleDateFormat.<init>
+com/thoughtworks/xstream/core/util/ThreadSafeSimpleDateFormat.format
+com/thoughtworks/xstream/core/JVM.canParseISO8601TimeZoneInDateFormat
+perfect match

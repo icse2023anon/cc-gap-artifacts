@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.builder.EqualsBuilderTest.testObjectRecursive:495
+Methods call in assertion: [org/apache/commons/lang3/builder/EqualsBuilder.append, org/apache/commons/lang3/builder/EqualsBuilder.isEquals]
+org/apache/commons/lang3/builder/EqualsBuilder.append
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/builder/EqualsBuilder.setTestRecursive
+top 10 recommendations: 
+org/apache/commons/lang3/builder/EqualsBuilder.append
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/builder/EqualsBuilder.setTestRecursive
+after post processing ......
+org/apache/commons/lang3/builder/EqualsBuilder.append
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/builder/EqualsBuilder.setTestRecursive
+found in top 10

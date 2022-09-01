@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.imagemap.StandardURLTagFragmentGeneratorTest.testGenerateURLFragment:61
+Methods call in assertion: [org/jfree/chart/imagemap/StandardURLTagFragmentGenerator.generateURLFragment]
+org/jfree/chart/imagemap/StandardURLTagFragmentGenerator.generateURLFragment
+top 10 recommendations: 
+org/jfree/chart/imagemap/StandardURLTagFragmentGenerator.generateURLFragment
+after post processing ......
+org/jfree/chart/imagemap/StandardURLTagFragmentGenerator.generateURLFragment
+perfect match

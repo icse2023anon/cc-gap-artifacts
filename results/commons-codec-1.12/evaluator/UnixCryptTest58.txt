@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.digest.UnixCryptTest.testUnixCryptExplicitCall:64
+Methods call in assertion: [org/apache/commons/codec/digest/UnixCrypt.crypt]
+org/apache/commons/codec/digest/UnixCrypt.crypt
+top 10 recommendations: 
+org/apache/commons/codec/digest/UnixCrypt.crypt
+after post processing ......
+org/apache/commons/codec/digest/UnixCrypt.crypt
+perfect match

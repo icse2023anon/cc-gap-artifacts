@@ -1,0 +1,29 @@
+slicing criterion: org.jfree.chart.title.LegendGraphicTest.testCloning2:210
+Methods call in assertion: [org/jfree/chart/title/LegendGraphic.equals]
+org/jfree/chart/block/AbstractBlock.clone
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/title/LegendGraphic.clone
+org/jfree/chart/title/LegendGraphic.equals
+top 10 recommendations: 
+org/jfree/chart/title/LegendGraphic.clone
+org/jfree/chart/title/LegendGraphic.equals
+org/jfree/chart/block/AbstractBlock.clone
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/title/LegendGraphic.clone
+org/jfree/chart/title/LegendGraphic.equals
+org/jfree/chart/block/AbstractBlock.clone
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+found in top 10

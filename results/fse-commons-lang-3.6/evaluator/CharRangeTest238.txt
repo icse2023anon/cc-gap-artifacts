@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.CharRangeTest.testConstructorAccessors_isIn_Normal:98
+Methods call in assertion: [org/apache/commons/lang3/CharRange.getEnd]
+org/apache/commons/lang3/CharRange.getEnd
+org/apache/commons/lang3/CharRange.isIn
+top 10 recommendations: 
+org/apache/commons/lang3/CharRange.getEnd
+org/apache/commons/lang3/CharRange.isIn
+after post processing ......
+org/apache/commons/lang3/CharRange.getEnd
+org/apache/commons/lang3/CharRange.isIn
+perfect match

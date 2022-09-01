@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.validator.routines.CodeValidatorTest.testCheckDigit:68
+Methods call in assertion: [org/apache/commons/validator/routines/CodeValidator.isValid]
+org/apache/commons/validator/routines/CodeValidator.isValid
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/CodeValidator.<init>
+top 10 recommendations: 
+org/apache/commons/validator/routines/CodeValidator.isValid
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/CodeValidator.<init>
+after post processing ......
+org/apache/commons/validator/routines/CodeValidator.isValid
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/CodeValidator.<init>
+perfect match

@@ -1,0 +1,17 @@
+slicing criterion: com.google.gson.stream.JsonReaderTest.testDoubles:322
+Methods call in assertion: [com/google/gson/stream/JsonReader.peek]
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/stream/JsonReader.nextDouble
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.doPeek
+top 10 recommendations: 
+com/google/gson/stream/JsonReader.nextDouble
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/stream/JsonReader.doPeek
+after post processing ......
+com/google/gson/stream/JsonReader.nextDouble
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/stream/JsonReader.doPeek
+found in top 10

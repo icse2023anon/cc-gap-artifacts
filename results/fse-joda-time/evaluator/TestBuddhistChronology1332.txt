@@ -1,0 +1,57 @@
+slicing criterion: org.joda.time.chrono.TestBuddhistChronology.testKeyYears:443
+Methods call in assertion: [org/joda/time/Period.weeks, org/joda/time/DateTime.getWeekyear, org/joda/time/DateTime.plus]
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/DateTime.withPeriodAdded
+org/joda/time/DateTime.getMillis
+org/joda/time/base/AbstractPeriod.getFieldType
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/AssembledChronology.weekyear
+org/joda/time/PeriodType.standard
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/BaseChronology.add
+org/joda/time/base/BasePeriod.getValue
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/chrono/AssembledChronology.weeks
+org/joda/time/base/AbstractDateTime.getWeekyear
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/DateTime.plus
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/DateTime.plus
+org/joda/time/DateTime.withPeriodAdded
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/DateTime.getMillis
+org/joda/time/base/AbstractPeriod.getFieldType
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/AssembledChronology.weekyear
+org/joda/time/PeriodType.standard
+after post processing ......
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/DateTime.plus
+org/joda/time/DateTime.withPeriodAdded
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/DateTime.getMillis
+org/joda/time/base/AbstractPeriod.getFieldType
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/AssembledChronology.weekyear
+org/joda/time/PeriodType.standard
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/BaseChronology.add
+org/joda/time/base/BasePeriod.getValue
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/chrono/AssembledChronology.weeks
+org/joda/time/base/AbstractDateTime.getWeekyear
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+not matched

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestLocalTime_Basics.testSerialization:832
+Methods call in assertion: [org/joda/time/LocalTime.getFields]
+org/joda/time/base/AbstractPartial.getFields
+org/joda/time/LocalTime.size
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.getFields
+org/joda/time/LocalTime.size
+after post processing ......
+org/joda/time/base/AbstractPartial.getFields
+org/joda/time/LocalTime.size
+not matched

@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Basics.testGetField:204
+Methods call in assertion: [org/joda/time/TimeOfDay.getField, org/joda/time/chrono/CopticChronology.minuteOfHour, org/joda/time/chrono/CopticChronology.getInstanceUTC]
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/TimeOfDay.getField
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+top 10 recommendations: 
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/TimeOfDay.getField
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+after post processing ......
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/TimeOfDay.getField
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+not matched

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestScaledDurationField.test_getValue_long_long:162
+Methods call in assertion: [org/joda/time/field/ScaledDurationField.getValue]
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/field/ScaledDurationField.getValue
+top 10 recommendations: 
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/field/ScaledDurationField.getValue
+after post processing ......
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/field/ScaledDurationField.getValue
+found in top 10

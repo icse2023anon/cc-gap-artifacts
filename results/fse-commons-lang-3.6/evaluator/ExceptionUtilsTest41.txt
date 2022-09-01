@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.exception.ExceptionUtilsTest.testGetRootCauseStackTrace_Throwable:467
+Methods call in assertion: [org/apache/commons/lang3/exception/ExceptionUtils.getRootCauseStackTrace]
+org/apache/commons/lang3/exception/ExceptionUtils.getRootCauseStackTrace
+top 10 recommendations: 
+org/apache/commons/lang3/exception/ExceptionUtils.getRootCauseStackTrace
+after post processing ......
+org/apache/commons/lang3/exception/ExceptionUtils.getRootCauseStackTrace
+perfect match

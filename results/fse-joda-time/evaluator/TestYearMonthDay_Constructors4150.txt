@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestYearMonthDay_Constructors.testConstructor_int_int_int_Chronology:452
+Methods call in assertion: [org/joda/time/YearMonthDay.getChronology]
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/base/BasePartial.getChronology
+top 10 recommendations: 
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/base/BasePartial.getChronology
+after post processing ......
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/base/BasePartial.getChronology
+found in top 10

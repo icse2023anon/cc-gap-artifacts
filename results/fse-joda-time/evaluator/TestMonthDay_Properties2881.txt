@@ -1,0 +1,41 @@
+slicing criterion: org.joda.time.TestMonthDay_Properties.testPropertyGetMaxMinValuesDayOfMonth:224
+Methods call in assertion: [org/joda/time/MonthDay$Property.getMaximumValue, org/joda/time/MonthDay.dayOfMonth]
+org/joda/time/chrono/BasicGJChronology.getDaysInMonthMax
+org/joda/time/MonthDay.getReadablePartial
+org/joda/time/DateTimeFieldType.year
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/DateTimeFieldType.monthOfYear
+org/joda/time/MonthDay.size
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumValue
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/base/AbstractPartial.get
+org/joda/time/MonthDay.getFieldType
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/chrono/BasicDayOfMonthDateTimeField.getMaximumValue
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.get
+org/joda/time/chrono/BasicDayOfMonthDateTimeField.getMaximumValue
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/chrono/BasicGJChronology.getDaysInMonthMax
+org/joda/time/MonthDay.getReadablePartial
+org/joda/time/DateTimeFieldType.year
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/DateTimeFieldType.monthOfYear
+org/joda/time/MonthDay.size
+after post processing ......
+org/joda/time/base/AbstractPartial.get
+org/joda/time/chrono/BasicDayOfMonthDateTimeField.getMaximumValue
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/chrono/BasicGJChronology.getDaysInMonthMax
+org/joda/time/MonthDay.getReadablePartial
+org/joda/time/DateTimeFieldType.year
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/DateTimeFieldType.monthOfYear
+org/joda/time/MonthDay.size
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumValue
+org/joda/time/MonthDay.getFieldType
+org/joda/time/base/BasePartial.getValue
+not matched

@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestWeeks.testMultipliedBy_int:380
+Methods call in assertion: [org/joda/time/Weeks.getWeeks, org/joda/time/Weeks.multipliedBy]
+org/joda/time/Weeks.getWeeks
+org/joda/time/Weeks.weeks
+org/joda/time/Weeks.multipliedBy
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/field/FieldUtils.safeMultiply
+top 10 recommendations: 
+org/joda/time/Weeks.multipliedBy
+org/joda/time/Weeks.getWeeks
+org/joda/time/Weeks.weeks
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/field/FieldUtils.safeMultiply
+after post processing ......
+org/joda/time/Weeks.multipliedBy
+org/joda/time/Weeks.getWeeks
+org/joda/time/Weeks.weeks
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/field/FieldUtils.safeMultiply
+found in top 10

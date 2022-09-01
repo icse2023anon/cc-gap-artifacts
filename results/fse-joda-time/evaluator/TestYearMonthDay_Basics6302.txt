@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestYearMonthDay_Basics.testGetFieldTypes:186
+Methods call in assertion: [org/joda/time/DateTimeFieldType.year]
+org/joda/time/YearMonthDay.getFieldTypes
+org/joda/time/DateTimeFieldType.year
+top 10 recommendations: 
+org/joda/time/YearMonthDay.getFieldTypes
+org/joda/time/DateTimeFieldType.year
+after post processing ......
+org/joda/time/YearMonthDay.getFieldTypes
+org/joda/time/DateTimeFieldType.year
+found in top 10

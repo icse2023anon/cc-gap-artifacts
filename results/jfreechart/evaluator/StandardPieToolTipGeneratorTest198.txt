@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.labels.StandardPieToolTipGeneratorTest.testHashCode:119
+Methods call in assertion: [org/jfree/chart/labels/StandardPieToolTipGenerator.equals]
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.equals
+org/jfree/chart/labels/StandardPieToolTipGenerator.<init>
+top 10 recommendations: 
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.equals
+org/jfree/chart/labels/StandardPieToolTipGenerator.<init>
+after post processing ......
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.equals
+org/jfree/chart/labels/StandardPieToolTipGenerator.<init>
+found in top 10

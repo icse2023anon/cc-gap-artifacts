@@ -1,0 +1,57 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormat.testFormat_zoneAmountID:897
+Methods call in assertion: [org/joda/time/DateTime.toString, org/joda/time/format/DateTimeFormatter.print]
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/UTCDateTimeZone.hashCode
+org/joda/time/format/DateTimeFormatter.withLocale
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeFormatterBuilder.appendTimeZoneId
+org/joda/time/DateTime.withZone
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/DateTime.withChronology
+org/joda/time/format/DateTimeFormatter.getLocale
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/base/AbstractDateTime.toString
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/DateTime.withZone
+org/joda/time/base/AbstractDateTime.toString
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.withChronology
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/format/DateTimeFormatter.withLocale
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/UTCDateTimeZone.hashCode
+after post processing ......
+org/joda/time/DateTime.withZone
+org/joda/time/base/AbstractDateTime.toString
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.withChronology
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/format/DateTimeFormatter.withLocale
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/UTCDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/format/DateTimeFormatterBuilder.appendTimeZoneId
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatter.getLocale
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/format/DateTimeFormatter.print
+not matched

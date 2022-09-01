@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDuration_Constructors.testParse_noFormatter:133
+Methods call in assertion: [org/joda/time/Duration.parse]
+org/joda/time/Duration.parse
+top 10 recommendations: 
+org/joda/time/Duration.parse
+after post processing ......
+org/joda/time/Duration.parse
+perfect match

@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testAppendIfMissingIgnoreCase:3155
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.appendIfMissingIgnoreCase]
+org/apache/commons/lang3/StringUtils.appendIfMissing
+org/apache/commons/lang3/StringUtils.appendIfMissingIgnoreCase
+org/apache/commons/lang3/StringUtils.isEmpty
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.appendIfMissingIgnoreCase
+org/apache/commons/lang3/StringUtils.appendIfMissing
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/StringUtils.appendIfMissingIgnoreCase
+org/apache/commons/lang3/StringUtils.appendIfMissing
+org/apache/commons/lang3/StringUtils.isEmpty
+perfect match

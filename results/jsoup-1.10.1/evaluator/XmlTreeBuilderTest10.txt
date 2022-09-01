@@ -1,0 +1,53 @@
+slicing criterion: org.jsoup.parser.XmlTreeBuilderTest.testParseDeclarationAttributes:155
+Methods call in assertion: [org/jsoup/nodes/XmlDeclaration.getWholeDeclaration]
+org/jsoup/parser/Token.asComment
+org/jsoup/nodes/Node.hasAttr
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/parser/Parser.parseInput
+org/jsoup/nodes/Node.childNode
+org/jsoup/parser/XmlTreeBuilder.insert
+org/jsoup/parser/XmlTreeBuilder.initialiseParse
+org/jsoup/parser/Tokeniser.read
+org/jsoup/nodes/Attributes.get
+org/jsoup/nodes/XmlDeclaration.getWholeDeclaration
+org/jsoup/parser/XmlTreeBuilder.process
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Document.<init>
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Attributes.html
+org/jsoup/nodes/Comment.getData
+org/jsoup/parser/TreeBuilder.currentElement
+org/jsoup/nodes/Attribute.getValue
+org/jsoup/nodes/Element.appendChild
+top 10 recommendations: 
+org/jsoup/parser/XmlTreeBuilder.process
+org/jsoup/parser/XmlTreeBuilder.insert
+org/jsoup/nodes/XmlDeclaration.getWholeDeclaration
+org/jsoup/nodes/Comment.getData
+org/jsoup/nodes/Attributes.get
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attributes.html
+org/jsoup/parser/Token.asComment
+org/jsoup/nodes/Node.hasAttr
+org/jsoup/nodes/Document.quirksMode
+after post processing ......
+org/jsoup/parser/XmlTreeBuilder.process
+org/jsoup/parser/XmlTreeBuilder.insert
+org/jsoup/nodes/XmlDeclaration.getWholeDeclaration
+org/jsoup/nodes/Comment.getData
+org/jsoup/nodes/Attributes.get
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attributes.html
+org/jsoup/parser/Token.asComment
+org/jsoup/nodes/Node.hasAttr
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/parser/Parser.parseInput
+org/jsoup/nodes/Node.childNode
+org/jsoup/parser/XmlTreeBuilder.initialiseParse
+org/jsoup/parser/Tokeniser.read
+org/jsoup/nodes/Document.<init>
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/parser/TreeBuilder.currentElement
+org/jsoup/nodes/Attribute.getValue
+org/jsoup/nodes/Element.appendChild
+found in top 10

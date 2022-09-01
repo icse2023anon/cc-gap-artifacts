@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.field.TestPreciseDurationDateTimeField.test_isLenient:155
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.isLenient]
+org/joda/time/field/PreciseDurationDateTimeField.isLenient
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationDateTimeField.isLenient
+after post processing ......
+org/joda/time/field/PreciseDurationDateTimeField.isLenient
+perfect match

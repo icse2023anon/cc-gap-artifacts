@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.LookupPaintScaleTest.testEquals:72
+Methods call in assertion: [org/jfree/chart/renderer/LookupPaintScale.equals]
+org/jfree/chart/renderer/LookupPaintScale.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/LookupPaintScale.equals
+after post processing ......
+org/jfree/chart/renderer/LookupPaintScale.equals
+perfect match

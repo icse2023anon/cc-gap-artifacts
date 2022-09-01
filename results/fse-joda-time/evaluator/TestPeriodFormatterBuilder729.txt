@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.format.TestPeriodFormatterBuilder.testFormatAppend_PrinterParser_Printer_null_null_Parser:1209
+Methods call in assertion: [org/joda/time/format/PeriodFormatterBuilder.toPrinter]
+org/joda/time/format/PeriodFormatterBuilder.toPrinter
+org/joda/time/format/PeriodFormatterBuilder.appendYears
+org/joda/time/format/PeriodFormatterBuilder.append
+org/joda/time/format/PeriodFormatter.getPrinter
+org/joda/time/format/PeriodFormatterBuilder.appendLiteral
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+top 10 recommendations: 
+org/joda/time/format/PeriodFormatterBuilder.toPrinter
+org/joda/time/format/PeriodFormatterBuilder.append
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+org/joda/time/format/PeriodFormatterBuilder.appendYears
+org/joda/time/format/PeriodFormatter.getPrinter
+org/joda/time/format/PeriodFormatterBuilder.appendLiteral
+after post processing ......
+org/joda/time/format/PeriodFormatterBuilder.toPrinter
+org/joda/time/format/PeriodFormatterBuilder.append
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+org/joda/time/format/PeriodFormatterBuilder.appendYears
+org/joda/time/format/PeriodFormatter.getPrinter
+org/joda/time/format/PeriodFormatterBuilder.appendLiteral
+perfect match

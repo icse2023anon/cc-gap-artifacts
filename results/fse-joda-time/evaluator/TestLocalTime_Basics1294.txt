@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestLocalTime_Basics.testIsSupported_DateTimeFieldType:267
+Methods call in assertion: [org/joda/time/LocalTime.isSupported, org/joda/time/DateTimeFieldType.millisOfSecond]
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/field/MillisDurationField.isSupported
+org/joda/time/LocalTime.isSupported
+org/joda/time/DateTimeFieldType.millisOfSecond
+top 10 recommendations: 
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/field/MillisDurationField.isSupported
+org/joda/time/LocalTime.isSupported
+org/joda/time/DateTimeFieldType.millisOfSecond
+after post processing ......
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/field/MillisDurationField.isSupported
+org/joda/time/LocalTime.isSupported
+org/joda/time/DateTimeFieldType.millisOfSecond
+found in top 10

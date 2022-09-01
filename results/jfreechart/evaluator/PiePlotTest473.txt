@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.plot.PiePlotTest.testEquals:106
+Methods call in assertion: [org/jfree/chart/plot/PiePlot.equals]
+org/jfree/chart/plot/PiePlot.setInteriorGap
+org/jfree/chart/plot/PiePlot.equals
+top 10 recommendations: 
+org/jfree/chart/plot/PiePlot.setInteriorGap
+org/jfree/chart/plot/PiePlot.equals
+after post processing ......
+org/jfree/chart/plot/PiePlot.setInteriorGap
+org/jfree/chart/plot/PiePlot.equals
+found in top 10

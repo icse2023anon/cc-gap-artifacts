@@ -1,0 +1,11 @@
+slicing criterion: com.google.gson.MixedStreamTest.testWriteDoesNotMutateState:105
+Methods call in assertion: [com/google/gson/stream/JsonWriter.isHtmlSafe]
+com/google/gson/Gson.toJson
+com/google/gson/stream/JsonWriter.isHtmlSafe
+top 10 recommendations: 
+com/google/gson/Gson.toJson
+com/google/gson/stream/JsonWriter.isHtmlSafe
+after post processing ......
+com/google/gson/Gson.toJson
+com/google/gson/stream/JsonWriter.isHtmlSafe
+found in top 10

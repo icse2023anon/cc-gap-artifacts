@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testGetEncoding_NoSpace_to_Nothing:276
+Methods call in assertion: [org/apache/commons/codec/language/MatchRatingApproachEncoder.encode]
+org/apache/commons/codec/language/MatchRatingApproachEncoder.encode
+top 10 recommendations: 
+org/apache/commons/codec/language/MatchRatingApproachEncoder.encode
+after post processing ......
+org/apache/commons/codec/language/MatchRatingApproachEncoder.encode
+perfect match

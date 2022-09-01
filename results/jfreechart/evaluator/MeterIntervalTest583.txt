@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.MeterIntervalTest.testEquals:81
+Methods call in assertion: [org/jfree/chart/plot/MeterInterval.equals]
+org/jfree/chart/plot/MeterInterval.equals
+top 10 recommendations: 
+org/jfree/chart/plot/MeterInterval.equals
+after post processing ......
+org/jfree/chart/plot/MeterInterval.equals
+perfect match

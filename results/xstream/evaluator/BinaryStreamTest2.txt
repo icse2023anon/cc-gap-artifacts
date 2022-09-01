@@ -1,0 +1,8 @@
+slicing criterion: com.thoughtworks.xstream.io.binary.BinaryStreamTest.testHandlesMoreThan256Ids:72
+Methods call in assertion: [com/thoughtworks/xstream/io/HierarchicalStreamReader.hasMoreChildren]
+com/thoughtworks/xstream/io/binary/BinaryStreamReader.hasMoreChildren
+top 10 recommendations: 
+com/thoughtworks/xstream/io/binary/BinaryStreamReader.hasMoreChildren
+after post processing ......
+com/thoughtworks/xstream/io/binary/BinaryStreamReader.hasMoreChildren
+not matched

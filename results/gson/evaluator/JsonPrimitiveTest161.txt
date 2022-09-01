@@ -1,0 +1,11 @@
+slicing criterion: com.google.gson.JsonPrimitiveTest.testEquals:216
+Methods call in assertion: [com/google/gson/JsonPrimitive.equals]
+com/google/gson/JsonPrimitive.equals
+com/google/gson/JsonPrimitive.setValue
+top 10 recommendations: 
+com/google/gson/JsonPrimitive.equals
+com/google/gson/JsonPrimitive.setValue
+after post processing ......
+com/google/gson/JsonPrimitive.equals
+com/google/gson/JsonPrimitive.setValue
+perfect match

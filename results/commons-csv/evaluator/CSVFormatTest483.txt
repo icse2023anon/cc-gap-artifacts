@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testEquals:84
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.hashCode]
+org/apache/commons/csv/CSVFormat.getDelimiter
+org/apache/commons/csv/CSVFormat.hashCode
+org/apache/commons/csv/CSVFormat.withDelimiter
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.getDelimiter
+org/apache/commons/csv/CSVFormat.hashCode
+org/apache/commons/csv/CSVFormat.withDelimiter
+after post processing ......
+org/apache/commons/csv/CSVFormat.getDelimiter
+org/apache/commons/csv/CSVFormat.hashCode
+org/apache/commons/csv/CSVFormat.withDelimiter
+found in top 10

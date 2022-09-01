@@ -1,0 +1,29 @@
+slicing criterion: com.google.gson.JsonObjectTest.testAddingCharacterProperties:106
+Methods call in assertion: [com/google/gson/JsonElement.getAsString]
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonObject.get
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/JsonPrimitive.getAsString
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/JsonObject.addProperty
+top 10 recommendations: 
+com/google/gson/JsonPrimitive.getAsString
+com/google/gson/JsonObject.get
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/JsonObject.addProperty
+after post processing ......
+com/google/gson/JsonPrimitive.getAsString
+com/google/gson/JsonObject.get
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/JsonObject.addProperty
+not matched

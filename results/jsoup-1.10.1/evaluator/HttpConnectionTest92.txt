@@ -1,0 +1,14 @@
+slicing criterion: org.jsoup.helper.HttpConnectionTest.ignoresEmptyCookieNameAndVals:101
+Methods call in assertion: [org/jsoup/helper/HttpConnection$Response.cookies]
+org/jsoup/parser/TokenQueue.remainder
+org/jsoup/parser/TokenQueue.chompTo
+org/jsoup/parser/TokenQueue.consumeTo
+top 10 recommendations: 
+org/jsoup/parser/TokenQueue.chompTo
+org/jsoup/parser/TokenQueue.consumeTo
+org/jsoup/parser/TokenQueue.remainder
+after post processing ......
+org/jsoup/parser/TokenQueue.chompTo
+org/jsoup/parser/TokenQueue.consumeTo
+org/jsoup/parser/TokenQueue.remainder
+not matched

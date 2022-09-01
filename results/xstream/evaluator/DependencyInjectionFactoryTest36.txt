@@ -1,0 +1,23 @@
+slicing criterion: com.thoughtworks.xstream.core.util.DependencyInjectionFactoryTest.testWillMatchMostSpecificDependency:88
+Methods call in assertion: [com/thoughtworks/xstream/converters/ErrorWriter.get]
+com/thoughtworks/xstream/core/util/DependencyInjectionFactory.newInstance
+com/thoughtworks/xstream/core/util/OrderRetainingMap.put
+com/thoughtworks/xstream/converters/ErrorWritingException.add
+com/thoughtworks/xstream/core/util/OrderRetainingMap.<init>
+com/thoughtworks/xstream/converters/ErrorWritingException.<init>
+com/thoughtworks/xstream/converters/ErrorWritingException.get
+top 10 recommendations: 
+com/thoughtworks/xstream/converters/ErrorWritingException.<init>
+com/thoughtworks/xstream/core/util/DependencyInjectionFactory.newInstance
+com/thoughtworks/xstream/core/util/OrderRetainingMap.put
+com/thoughtworks/xstream/converters/ErrorWritingException.add
+com/thoughtworks/xstream/core/util/OrderRetainingMap.<init>
+com/thoughtworks/xstream/converters/ErrorWritingException.get
+after post processing ......
+com/thoughtworks/xstream/converters/ErrorWritingException.<init>
+com/thoughtworks/xstream/core/util/DependencyInjectionFactory.newInstance
+com/thoughtworks/xstream/core/util/OrderRetainingMap.put
+com/thoughtworks/xstream/converters/ErrorWritingException.add
+com/thoughtworks/xstream/core/util/OrderRetainingMap.<init>
+com/thoughtworks/xstream/converters/ErrorWritingException.get
+not matched

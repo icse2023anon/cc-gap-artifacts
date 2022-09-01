@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.digest.Md5CryptTest.testMd5CryptExplicitCallWithThreadLocalRandom:68
+Methods call in assertion: [org/apache/commons/codec/digest/Md5Crypt.md5Crypt]
+org/apache/commons/codec/digest/Md5Crypt.md5Crypt
+top 10 recommendations: 
+org/apache/commons/codec/digest/Md5Crypt.md5Crypt
+after post processing ......
+org/apache/commons/codec/digest/Md5Crypt.md5Crypt
+perfect match

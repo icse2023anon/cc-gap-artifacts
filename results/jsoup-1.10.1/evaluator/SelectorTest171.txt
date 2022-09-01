@@ -1,0 +1,11 @@
+slicing criterion: org.jsoup.select.SelectorTest.descendant:237
+Methods call in assertion: [org/jsoup/select/Elements.size]
+org/jsoup/nodes/Element.select
+org/jsoup/select/Collector.collect
+top 10 recommendations: 
+org/jsoup/nodes/Element.select
+org/jsoup/select/Collector.collect
+after post processing ......
+org/jsoup/nodes/Element.select
+org/jsoup/select/Collector.collect
+not matched

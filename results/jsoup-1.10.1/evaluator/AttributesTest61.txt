@@ -1,0 +1,20 @@
+slicing criterion: org.jsoup.nodes.AttributesTest.html:28
+Methods call in assertion: [org/jsoup/nodes/Attributes.getIgnoreCase]
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attributes.hasKeyIgnoreCase
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Attribute.getValue
+org/jsoup/nodes/Attributes.getIgnoreCase
+top 10 recommendations: 
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attributes.getIgnoreCase
+org/jsoup/nodes/Attributes.hasKeyIgnoreCase
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Attribute.getValue
+after post processing ......
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attributes.getIgnoreCase
+org/jsoup/nodes/Attributes.hasKeyIgnoreCase
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Attribute.getValue
+found in top 10

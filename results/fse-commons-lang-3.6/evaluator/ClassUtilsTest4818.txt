@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ClassUtilsTest.testPrimitiveToWrapper:910
+Methods call in assertion: [org/apache/commons/lang3/ClassUtils.primitiveToWrapper]
+org/apache/commons/lang3/ClassUtils.primitiveToWrapper
+top 10 recommendations: 
+org/apache/commons/lang3/ClassUtils.primitiveToWrapper
+after post processing ......
+org/apache/commons/lang3/ClassUtils.primitiveToWrapper
+perfect match

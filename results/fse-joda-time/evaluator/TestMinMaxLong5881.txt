@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.TestMinMaxLong.testDateTime_min_math:271
+Methods call in assertion: [org/joda/time/DateTime.plusMinutes]
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/DateTime.getMillis
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/PreciseDurationField.add
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/chrono/AssembledChronology.minutes
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTime.plusMinutes
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/field/PreciseDurationField.add
+org/joda/time/DateTime.plusMinutes
+org/joda/time/DateTime.getMillis
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/chrono/AssembledChronology.minutes
+org/joda/time/base/BaseDateTime.getChronology
+after post processing ......
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/field/PreciseDurationField.add
+org/joda/time/DateTime.plusMinutes
+org/joda/time/DateTime.getMillis
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/chrono/AssembledChronology.minutes
+org/joda/time/base/BaseDateTime.getChronology
+found in top 10

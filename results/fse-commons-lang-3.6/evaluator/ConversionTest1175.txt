@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testBinaryToInt:798
+Methods call in assertion: [org/apache/commons/lang3/Conversion.binaryToInt]
+org/apache/commons/lang3/Conversion.binaryToInt
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.binaryToInt
+after post processing ......
+org/apache/commons/lang3/Conversion.binaryToInt
+perfect match

@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.renderer.RendererUtilsTest.testFindLiveItemsLowerBound_Unordered:72
+Methods call in assertion: [org/jfree/chart/renderer/RendererUtils.findLiveItemsLowerBound]
+org/jfree/data/xy/DefaultXYDataset.getItemCount
+org/jfree/data/xy/DefaultXYDataset.indexOf
+org/jfree/data/xy/DefaultXYDataset.addSeries
+org/jfree/chart/renderer/RendererUtils.findLiveItemsLowerBound
+top 10 recommendations: 
+org/jfree/data/xy/DefaultXYDataset.addSeries
+org/jfree/data/xy/DefaultXYDataset.getItemCount
+org/jfree/data/xy/DefaultXYDataset.indexOf
+org/jfree/chart/renderer/RendererUtils.findLiveItemsLowerBound
+after post processing ......
+org/jfree/data/xy/DefaultXYDataset.addSeries
+org/jfree/data/xy/DefaultXYDataset.getItemCount
+org/jfree/data/xy/DefaultXYDataset.indexOf
+org/jfree/chart/renderer/RendererUtils.findLiveItemsLowerBound
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.LegendItemTest.testEquals:98
+Methods call in assertion: [org/jfree/chart/LegendItem.equals]
+org/jfree/chart/LegendItem.equals
+top 10 recommendations: 
+org/jfree/chart/LegendItem.equals
+after post processing ......
+org/jfree/chart/LegendItem.equals
+perfect match

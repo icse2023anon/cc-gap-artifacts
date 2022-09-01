@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestPeriodType.testYearMonthDayTime:214
+Methods call in assertion: [org/joda/time/DurationFieldType.minutes, org/joda/time/PeriodType.getFieldType]
+org/joda/time/DurationFieldType.minutes
+org/joda/time/PeriodType.getFieldType
+org/joda/time/PeriodType.yearMonthDayTime
+top 10 recommendations: 
+org/joda/time/PeriodType.yearMonthDayTime
+org/joda/time/DurationFieldType.minutes
+org/joda/time/PeriodType.getFieldType
+after post processing ......
+org/joda/time/PeriodType.yearMonthDayTime
+org/joda/time/DurationFieldType.minutes
+org/joda/time/PeriodType.getFieldType
+found in top 10

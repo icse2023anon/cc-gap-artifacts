@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestBaseSingleFieldPeriod.testFactory_standardPeriodIn_RPeriod:159
+Methods call in assertion: [org/joda/time/Period.hours]
+org/joda/time/Period.hours
+top 10 recommendations: 
+org/joda/time/Period.hours
+after post processing ......
+org/joda/time/Period.hours
+perfect match

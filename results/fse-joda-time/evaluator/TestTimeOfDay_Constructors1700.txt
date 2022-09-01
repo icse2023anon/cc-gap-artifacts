@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Constructors.testConstructor_nullObject:394
+Methods call in assertion: [org/joda/time/TimeOfDay.getChronology]
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/ISOChronology.withUTC
+top 10 recommendations: 
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/ISOChronology.withUTC
+after post processing ......
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/ISOChronology.withUTC
+found in top 10

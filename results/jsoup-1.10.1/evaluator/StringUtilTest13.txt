@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.helper.StringUtilTest.resolvesRelativeUrls:82
+Methods call in assertion: [org/jsoup/helper/StringUtil.resolve]
+org/jsoup/helper/StringUtil.resolve
+top 10 recommendations: 
+org/jsoup/helper/StringUtil.resolve
+after post processing ......
+org/jsoup/helper/StringUtil.resolve
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testReplaceChars_StringCharChar:1601
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.replaceChars]
+org/apache/commons/lang3/StringUtils.replaceChars
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.replaceChars
+after post processing ......
+org/apache/commons/lang3/StringUtils.replaceChars
+perfect match

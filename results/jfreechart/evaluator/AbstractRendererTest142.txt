@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.renderer.AbstractRendererTest.testCloning2:575
+Methods call in assertion: [org/jfree/chart/event/RendererChangeEvent.getRenderer]
+org/jfree/chart/renderer/AbstractRenderer.addChangeListener
+org/jfree/chart/event/RendererChangeEvent.getRenderer
+org/jfree/chart/renderer/AbstractRenderer.clone
+org/jfree/chart/renderer/category/LineAndShapeRenderer.clone
+org/jfree/chart/renderer/AbstractRenderer.setDefaultPaint
+org/jfree/chart/renderer/AbstractRenderer.notifyListeners
+top 10 recommendations: 
+org/jfree/chart/renderer/AbstractRenderer.addChangeListener
+org/jfree/chart/event/RendererChangeEvent.getRenderer
+org/jfree/chart/renderer/AbstractRenderer.clone
+org/jfree/chart/renderer/category/LineAndShapeRenderer.clone
+org/jfree/chart/renderer/AbstractRenderer.setDefaultPaint
+org/jfree/chart/renderer/AbstractRenderer.notifyListeners
+after post processing ......
+org/jfree/chart/renderer/AbstractRenderer.addChangeListener
+org/jfree/chart/event/RendererChangeEvent.getRenderer
+org/jfree/chart/renderer/AbstractRenderer.clone
+org/jfree/chart/renderer/category/LineAndShapeRenderer.clone
+org/jfree/chart/renderer/AbstractRenderer.setDefaultPaint
+org/jfree/chart/renderer/AbstractRenderer.notifyListeners
+found in top 10

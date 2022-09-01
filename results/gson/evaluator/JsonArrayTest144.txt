@@ -1,0 +1,26 @@
+slicing criterion: com.google.gson.JsonArrayTest.testSet:84
+Methods call in assertion: [com/google/gson/JsonArray.get, com/google/gson/JsonElement.getAsString]
+com/google/gson/JsonArray.get
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonArray.set
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonArray.add
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/JsonPrimitive.getAsString
+top 10 recommendations: 
+com/google/gson/JsonPrimitive.getAsString
+com/google/gson/JsonArray.get
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonArray.set
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonArray.add
+com/google/gson/JsonPrimitive.isBoolean
+after post processing ......
+com/google/gson/JsonPrimitive.getAsString
+com/google/gson/JsonArray.get
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonArray.set
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonArray.add
+com/google/gson/JsonPrimitive.isBoolean
+not matched

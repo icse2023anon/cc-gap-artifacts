@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsEqualsIndexOfTest.testEquals:158
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.equals]
+org/apache/commons/lang3/StringUtils.equals
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.equals
+after post processing ......
+org/apache/commons/lang3/StringUtils.equals
+perfect match

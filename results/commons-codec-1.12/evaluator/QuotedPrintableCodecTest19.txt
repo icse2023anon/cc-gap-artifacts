@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.codec.net.QuotedPrintableCodecTest.testEncodeUrlWithNullBitSet:158
+Methods call in assertion: [org/apache/commons/codec/net/QuotedPrintableCodec.decode]
+org/apache/commons/codec/net/QuotedPrintableCodec.getCharset
+org/apache/commons/codec/binary/StringUtils.getBytesUsAscii
+org/apache/commons/codec/net/QuotedPrintableCodec.decode
+org/apache/commons/codec/net/QuotedPrintableCodec.decodeQuotedPrintable
+org/apache/commons/codec/net/QuotedPrintableCodec.encodeQuotedPrintable
+top 10 recommendations: 
+org/apache/commons/codec/net/QuotedPrintableCodec.decode
+org/apache/commons/codec/net/QuotedPrintableCodec.getCharset
+org/apache/commons/codec/binary/StringUtils.getBytesUsAscii
+org/apache/commons/codec/net/QuotedPrintableCodec.decodeQuotedPrintable
+org/apache/commons/codec/net/QuotedPrintableCodec.encodeQuotedPrintable
+after post processing ......
+org/apache/commons/codec/net/QuotedPrintableCodec.decode
+org/apache/commons/codec/net/QuotedPrintableCodec.getCharset
+org/apache/commons/codec/binary/StringUtils.getBytesUsAscii
+org/apache/commons/codec/net/QuotedPrintableCodec.decodeQuotedPrintable
+org/apache/commons/codec/net/QuotedPrintableCodec.encodeQuotedPrintable
+perfect match

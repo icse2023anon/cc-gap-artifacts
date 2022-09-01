@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.plot.PiePlotTest.testBug1126_b:645
+Methods call in assertion: [org/jfree/chart/plot/PiePlot.getSectionOutlinePaint]
+org/jfree/chart/PaintMap.getPaint
+org/jfree/chart/PaintMap.clone
+org/jfree/chart/PaintMap.put
+org/jfree/chart/plot/PiePlot.getSectionOutlinePaint
+org/jfree/chart/plot/PiePlot.clone
+org/jfree/chart/plot/PiePlot.setSectionOutlinePaint
+top 10 recommendations: 
+org/jfree/chart/plot/PiePlot.getSectionOutlinePaint
+org/jfree/chart/plot/PiePlot.clone
+org/jfree/chart/plot/PiePlot.setSectionOutlinePaint
+org/jfree/chart/PaintMap.getPaint
+org/jfree/chart/PaintMap.clone
+org/jfree/chart/PaintMap.put
+after post processing ......
+org/jfree/chart/plot/PiePlot.getSectionOutlinePaint
+org/jfree/chart/plot/PiePlot.clone
+org/jfree/chart/plot/PiePlot.setSectionOutlinePaint
+org/jfree/chart/PaintMap.getPaint
+org/jfree/chart/PaintMap.clone
+org/jfree/chart/PaintMap.put
+perfect match

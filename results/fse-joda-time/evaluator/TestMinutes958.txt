@@ -1,0 +1,53 @@
+slicing criterion: org.joda.time.TestMinutes.testAddToLocalDate:408
+Methods call in assertion: [org/joda/time/LocalDateTime.plus]
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/base/BaseSingleFieldPeriod.getFieldType
+org/joda/time/chrono/AssembledChronology.minutes
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/field/FieldUtils.safeMultiply
+org/joda/time/chrono/BaseChronology.add
+org/joda/time/base/BaseSingleFieldPeriod.size
+org/joda/time/DurationFieldType.minutes
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/field/PreciseDurationField.add
+org/joda/time/LocalDateTime.withPeriodAdded
+org/joda/time/LocalDateTime.plus
+org/joda/time/Minutes.minutes
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/LocalDateTime.<init>
+org/joda/time/Minutes.getFieldType
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/LocalDateTime.plus
+org/joda/time/chrono/BaseChronology.add
+org/joda/time/field/PreciseDurationField.add
+org/joda/time/LocalDateTime.withPeriodAdded
+org/joda/time/LocalDateTime.<init>
+org/joda/time/Minutes.getFieldType
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/base/BaseSingleFieldPeriod.getFieldType
+org/joda/time/chrono/AssembledChronology.minutes
+after post processing ......
+org/joda/time/LocalDateTime.plus
+org/joda/time/chrono/BaseChronology.add
+org/joda/time/field/PreciseDurationField.add
+org/joda/time/LocalDateTime.withPeriodAdded
+org/joda/time/LocalDateTime.<init>
+org/joda/time/Minutes.getFieldType
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/base/BaseSingleFieldPeriod.getFieldType
+org/joda/time/chrono/AssembledChronology.minutes
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/field/FieldUtils.safeMultiply
+org/joda/time/base/BaseSingleFieldPeriod.size
+org/joda/time/DurationFieldType.minutes
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/Minutes.minutes
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/DateTimeUtils.getChronology
+perfect match

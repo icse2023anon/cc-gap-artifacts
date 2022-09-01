@@ -1,0 +1,32 @@
+slicing criterion: org.apache.commons.lang3.reflect.MethodUtilsTest.testDistance:1061
+Methods call in assertion: [org/apache/commons/lang3/ClassUtils.wrapperToPrimitive]
+org/apache/commons/lang3/ArrayUtils.addAll
+org/apache/commons/lang3/ClassUtils.getAllSuperclasses
+org/apache/commons/lang3/ClassUtils.wrapperToPrimitive
+org/apache/commons/lang3/reflect/MethodUtils.getMethodsWithAnnotation
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingMethod
+org/apache/commons/lang3/reflect/MethodUtils.invokeStaticMethod
+org/apache/commons/lang3/reflect/MethodUtils.getMethodsListWithAnnotation
+org/apache/commons/lang3/ClassUtils.getAllInterfaces
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingAccessibleMethod
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingMethod
+org/apache/commons/lang3/reflect/MethodUtils.getMethodsWithAnnotation
+org/apache/commons/lang3/reflect/MethodUtils.invokeStaticMethod
+org/apache/commons/lang3/ArrayUtils.addAll
+org/apache/commons/lang3/ClassUtils.getAllSuperclasses
+org/apache/commons/lang3/ClassUtils.wrapperToPrimitive
+org/apache/commons/lang3/reflect/MethodUtils.getMethodsListWithAnnotation
+org/apache/commons/lang3/ClassUtils.getAllInterfaces
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingAccessibleMethod
+after post processing ......
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingMethod
+org/apache/commons/lang3/reflect/MethodUtils.getMethodsWithAnnotation
+org/apache/commons/lang3/reflect/MethodUtils.invokeStaticMethod
+org/apache/commons/lang3/ArrayUtils.addAll
+org/apache/commons/lang3/ClassUtils.getAllSuperclasses
+org/apache/commons/lang3/ClassUtils.wrapperToPrimitive
+org/apache/commons/lang3/reflect/MethodUtils.getMethodsListWithAnnotation
+org/apache/commons/lang3/ClassUtils.getAllInterfaces
+org/apache/commons/lang3/reflect/MethodUtils.getMatchingAccessibleMethod
+found in top 10

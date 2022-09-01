@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testIsSupported_DateTimeFieldType:334
+Methods call in assertion: [org/joda/time/LocalDateTime.isSupported]
+org/joda/time/LocalDateTime.isSupported
+top 10 recommendations: 
+org/joda/time/LocalDateTime.isSupported
+after post processing ......
+org/joda/time/LocalDateTime.isSupported
+perfect match

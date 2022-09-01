@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateMidnight_Basics.testProperty:1053
+Methods call in assertion: [org/joda/time/DateTimeFieldType.weekOfWeekyear, org/joda/time/DateMidnight.weekOfWeekyear, org/joda/time/DateMidnight.property]
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/DateTimeFieldType.weekOfWeekyear
+top 10 recommendations: 
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/DateTimeFieldType.weekOfWeekyear
+after post processing ......
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/DateTimeFieldType.weekOfWeekyear
+not matched

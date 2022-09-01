@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.plot.dial.StandardDialFrameTest.testCloning:126
+Methods call in assertion: [org/jfree/chart/plot/dial/StandardDialFrame.equals]
+org/jfree/chart/plot/dial/StandardDialFrame.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/plot/dial/AbstractDialLayer.hasListener
+top 10 recommendations: 
+org/jfree/chart/plot/dial/StandardDialFrame.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/plot/dial/AbstractDialLayer.hasListener
+after post processing ......
+org/jfree/chart/plot/dial/StandardDialFrame.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/plot/dial/AbstractDialLayer.hasListener
+perfect match

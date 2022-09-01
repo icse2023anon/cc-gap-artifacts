@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.field.TestPreciseDurationDateTimeField.test_getMaximumValue_long:465
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.getMaximumValue]
+org/joda/time/field/BaseDateTimeField.getMaximumValue
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.getMaximumValue
+after post processing ......
+org/joda/time/field/BaseDateTimeField.getMaximumValue
+perfect match

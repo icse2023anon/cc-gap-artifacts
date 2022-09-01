@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatterBuilder.test_appendTimeZoneId:459
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.print]
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/DateTimeFormatterBuilder.appendTimeZoneId
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/DateTimeFormatterBuilder.appendTimeZoneId
+after post processing ......
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/DateTimeFormatterBuilder.appendTimeZoneId
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.axis.DateTickMarkPositionTest.testEquals:64
+Methods call in assertion: [org/jfree/chart/axis/DateTickMarkPosition.equals]
+org/jfree/chart/axis/DateTickMarkPosition.toString
+org/jfree/chart/axis/DateTickMarkPosition.equals
+top 10 recommendations: 
+org/jfree/chart/axis/DateTickMarkPosition.equals
+org/jfree/chart/axis/DateTickMarkPosition.toString
+after post processing ......
+org/jfree/chart/axis/DateTickMarkPosition.equals
+org/jfree/chart/axis/DateTickMarkPosition.toString
+perfect match

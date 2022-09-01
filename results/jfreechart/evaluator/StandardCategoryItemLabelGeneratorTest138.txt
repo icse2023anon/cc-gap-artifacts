@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.labels.StandardCategoryItemLabelGeneratorTest.testHashCode:132
+Methods call in assertion: [org/jfree/chart/labels/StandardCategoryItemLabelGenerator.hashCode]
+org/jfree/chart/labels/AbstractCategoryItemLabelGenerator.hashCode
+org/jfree/chart/HashUtils.hashCode
+top 10 recommendations: 
+org/jfree/chart/labels/AbstractCategoryItemLabelGenerator.hashCode
+org/jfree/chart/HashUtils.hashCode
+after post processing ......
+org/jfree/chart/labels/AbstractCategoryItemLabelGenerator.hashCode
+org/jfree/chart/HashUtils.hashCode
+found in top 10

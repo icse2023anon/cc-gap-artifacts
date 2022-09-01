@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableFloatTest.testNanInfinite:112
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableFloat.isInfinite]
+org/apache/commons/lang3/mutable/MutableFloat.isInfinite
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableFloat.isInfinite
+after post processing ......
+org/apache/commons/lang3/mutable/MutableFloat.isInfinite
+perfect match

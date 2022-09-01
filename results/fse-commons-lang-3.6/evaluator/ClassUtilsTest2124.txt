@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ClassUtilsTest.testToClass_object:1188
+Methods call in assertion: [org/apache/commons/lang3/ClassUtils.toClass]
+org/apache/commons/lang3/ClassUtils.toClass
+top 10 recommendations: 
+org/apache/commons/lang3/ClassUtils.toClass
+after post processing ......
+org/apache/commons/lang3/ClassUtils.toClass
+perfect match

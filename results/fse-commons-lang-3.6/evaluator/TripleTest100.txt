@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.tuple.TripleTest.testComparable1:77
+Methods call in assertion: [org/apache/commons/lang3/tuple/Triple.compareTo]
+org/apache/commons/lang3/builder/CompareToBuilder.append
+org/apache/commons/lang3/builder/CompareToBuilder.toComparison
+org/apache/commons/lang3/tuple/ImmutableTriple.getLeft
+top 10 recommendations: 
+org/apache/commons/lang3/builder/CompareToBuilder.append
+org/apache/commons/lang3/builder/CompareToBuilder.toComparison
+org/apache/commons/lang3/tuple/ImmutableTriple.getLeft
+after post processing ......
+org/apache/commons/lang3/builder/CompareToBuilder.append
+org/apache/commons/lang3/builder/CompareToBuilder.toComparison
+org/apache/commons/lang3/tuple/ImmutableTriple.getLeft
+not matched

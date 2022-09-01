@@ -1,0 +1,39 @@
+slicing criterion: org.jfree.chart.title.LegendGraphicTest.testSerialization:228
+Methods call in assertion: [org/jfree/chart/title/LegendGraphic.equals]
+org/jfree/chart/block/AbstractBlock.clone
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/SerialUtils.readShape
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/SerialUtils.isSerializable
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/chart/ui/StandardGradientPaintTransformer.equals
+org/jfree/chart/util/SerialUtils.readStroke
+org/jfree/chart/util/SerialUtils.writePaint
+org/jfree/chart/title/LegendGraphic.equals
+top 10 recommendations: 
+org/jfree/chart/title/LegendGraphic.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/chart/block/AbstractBlock.clone
+org/jfree/chart/util/SerialUtils.readShape
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/SerialUtils.isSerializable
+org/jfree/chart/ui/StandardGradientPaintTransformer.equals
+after post processing ......
+org/jfree/chart/title/LegendGraphic.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/chart/block/AbstractBlock.clone
+org/jfree/chart/util/SerialUtils.readShape
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/SerialUtils.isSerializable
+org/jfree/chart/ui/StandardGradientPaintTransformer.equals
+org/jfree/chart/util/SerialUtils.readStroke
+org/jfree/chart/util/SerialUtils.writePaint
+perfect match

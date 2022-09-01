@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTrimStripTest.testStripAll:225
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.stripAll]
+org/apache/commons/lang3/StringUtils.stripAll
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.stripAll
+after post processing ......
+org/apache/commons/lang3/StringUtils.stripAll
+perfect match

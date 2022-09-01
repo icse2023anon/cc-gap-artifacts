@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDurationFieldType.test_years:90
+Methods call in assertion: [org/joda/time/DurationFieldType.years, org/joda/time/DurationFieldType.getName]
+org/joda/time/DurationFieldType.years
+org/joda/time/DurationFieldType.getName
+top 10 recommendations: 
+org/joda/time/DurationFieldType.years
+org/joda/time/DurationFieldType.getName
+after post processing ......
+org/joda/time/DurationFieldType.years
+org/joda/time/DurationFieldType.getName
+perfect match

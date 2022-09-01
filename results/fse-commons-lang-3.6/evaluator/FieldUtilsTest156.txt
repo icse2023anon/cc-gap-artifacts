@@ -1,0 +1,23 @@
+slicing criterion: org.apache.commons.lang3.reflect.FieldUtilsTest.testReadField:560
+Methods call in assertion: [org/apache/commons/lang3/reflect/FieldUtils.readField]
+org/apache/commons/lang3/reflect/MemberUtils.setAccessibleWorkaround
+org/apache/commons/lang3/reflect/FieldUtils.getDeclaredField
+org/apache/commons/lang3/reflect/FieldUtils.readField
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+org/apache/commons/lang3/reflect/FieldUtils.getField
+org/apache/commons/lang3/reflect/MemberUtils.isPackageAccess
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/FieldUtils.readField
+org/apache/commons/lang3/reflect/FieldUtils.getField
+org/apache/commons/lang3/reflect/MemberUtils.setAccessibleWorkaround
+org/apache/commons/lang3/reflect/FieldUtils.getDeclaredField
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+org/apache/commons/lang3/reflect/MemberUtils.isPackageAccess
+after post processing ......
+org/apache/commons/lang3/reflect/FieldUtils.readField
+org/apache/commons/lang3/reflect/FieldUtils.getField
+org/apache/commons/lang3/reflect/MemberUtils.setAccessibleWorkaround
+org/apache/commons/lang3/reflect/FieldUtils.getDeclaredField
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+org/apache/commons/lang3/reflect/MemberUtils.isPackageAccess
+perfect match

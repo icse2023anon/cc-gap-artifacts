@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.csv.ExtendedBufferedReaderTest.testReadLookahead1:95
+Methods call in assertion: [org/apache/commons/csv/ExtendedBufferedReader.getLastChar]
+org/apache/commons/csv/ExtendedBufferedReader.getLastChar
+org/apache/commons/csv/ExtendedBufferedReader.read
+top 10 recommendations: 
+org/apache/commons/csv/ExtendedBufferedReader.getLastChar
+org/apache/commons/csv/ExtendedBufferedReader.read
+after post processing ......
+org/apache/commons/csv/ExtendedBufferedReader.getLastChar
+org/apache/commons/csv/ExtendedBufferedReader.read
+perfect match

@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestInterval_Basics.testGap_RInterval_null:825
+Methods call in assertion: [org/joda/time/Interval.gap]
+org/joda/time/Interval.gap
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/DateTimeUtils.getReadableInterval
+org/joda/time/base/BaseInterval.getStartMillis
+top 10 recommendations: 
+org/joda/time/Interval.gap
+org/joda/time/DateTimeUtils.getReadableInterval
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/BaseInterval.getStartMillis
+after post processing ......
+org/joda/time/Interval.gap
+org/joda/time/DateTimeUtils.getReadableInterval
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/BaseInterval.getStartMillis
+perfect match

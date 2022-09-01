@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.CompositeFormatTest.testUsage:91
+Methods call in assertion: [org/apache/commons/lang3/text/CompositeFormat.parseObject, org/apache/commons/lang3/text/CompositeFormat.format]
+org/apache/commons/lang3/text/CompositeFormat.parseObject
+top 10 recommendations: 
+org/apache/commons/lang3/text/CompositeFormat.parseObject
+after post processing ......
+org/apache/commons/lang3/text/CompositeFormat.parseObject
+not matched

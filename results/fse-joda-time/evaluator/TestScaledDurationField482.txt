@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestScaledDurationField.test_getMillis_int:179
+Methods call in assertion: [org/joda/time/field/ScaledDurationField.getMillis]
+org/joda/time/field/MillisDurationField.getMillis
+org/joda/time/field/ScaledDurationField.getMillis
+top 10 recommendations: 
+org/joda/time/field/MillisDurationField.getMillis
+org/joda/time/field/ScaledDurationField.getMillis
+after post processing ......
+org/joda/time/field/MillisDurationField.getMillis
+org/joda/time/field/ScaledDurationField.getMillis
+found in top 10

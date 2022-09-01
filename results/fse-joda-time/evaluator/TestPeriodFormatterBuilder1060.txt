@@ -1,0 +1,32 @@
+slicing criterion: org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroNever:1141
+Methods call in assertion: [org/joda/time/format/PeriodFormatter.getPrinter, org/joda/time/format/PeriodPrinter.calculatePrintedLength]
+org/joda/time/format/PeriodFormatterBuilder.appendYears
+org/joda/time/format/PeriodFormatterBuilder.appendMonths
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/format/PeriodFormatter.getPrinter
+org/joda/time/format/PeriodFormatterBuilder.appendDays
+org/joda/time/format/PeriodFormatterBuilder.printZeroNever
+org/joda/time/format/PeriodFormatterBuilder.appendLiteral
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+org/joda/time/format/PeriodFormatterBuilder.appendWeeks
+top 10 recommendations: 
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+org/joda/time/format/PeriodFormatterBuilder.appendYears
+org/joda/time/format/PeriodFormatterBuilder.appendMonths
+org/joda/time/format/PeriodFormatter.getPrinter
+org/joda/time/format/PeriodFormatterBuilder.appendDays
+org/joda/time/format/PeriodFormatterBuilder.printZeroNever
+org/joda/time/format/PeriodFormatterBuilder.appendLiteral
+org/joda/time/format/PeriodFormatterBuilder.appendWeeks
+after post processing ......
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+org/joda/time/format/PeriodFormatterBuilder.appendYears
+org/joda/time/format/PeriodFormatterBuilder.appendMonths
+org/joda/time/format/PeriodFormatter.getPrinter
+org/joda/time/format/PeriodFormatterBuilder.appendDays
+org/joda/time/format/PeriodFormatterBuilder.printZeroNever
+org/joda/time/format/PeriodFormatterBuilder.appendLiteral
+org/joda/time/format/PeriodFormatterBuilder.appendWeeks
+not matched

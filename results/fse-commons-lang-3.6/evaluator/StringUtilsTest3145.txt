@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testUnwrap_StringString:3329
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.unwrap]
+org/apache/commons/lang3/StringUtils.unwrap
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/StringUtils.endsWith
+org/apache/commons/lang3/StringUtils.startsWith
+org/apache/commons/lang3/CharSequenceUtils.regionMatches
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.unwrap
+org/apache/commons/lang3/StringUtils.endsWith
+org/apache/commons/lang3/StringUtils.startsWith
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/CharSequenceUtils.regionMatches
+after post processing ......
+org/apache/commons/lang3/StringUtils.unwrap
+org/apache/commons/lang3/StringUtils.endsWith
+org/apache/commons/lang3/StringUtils.startsWith
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/CharSequenceUtils.regionMatches
+perfect match

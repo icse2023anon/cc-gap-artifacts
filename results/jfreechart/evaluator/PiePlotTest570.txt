@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.plot.PiePlotTest.testBug1126_d:674
+Methods call in assertion: [org/jfree/chart/plot/PiePlot.getExplodePercent]
+org/jfree/chart/plot/PiePlot.setExplodePercent
+org/jfree/chart/plot/PiePlot.getExplodePercent
+org/jfree/chart/plot/PiePlot.clone
+top 10 recommendations: 
+org/jfree/chart/plot/PiePlot.setExplodePercent
+org/jfree/chart/plot/PiePlot.getExplodePercent
+org/jfree/chart/plot/PiePlot.clone
+after post processing ......
+org/jfree/chart/plot/PiePlot.setExplodePercent
+org/jfree/chart/plot/PiePlot.getExplodePercent
+org/jfree/chart/plot/PiePlot.clone
+found in top 10

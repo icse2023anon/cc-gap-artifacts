@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.title.CompositeTitleTest.testConstructor:71
+Methods call in assertion: [org/jfree/chart/title/CompositeTitle.getBackgroundPaint]
+org/jfree/chart/title/CompositeTitle.getBackgroundPaint
+top 10 recommendations: 
+org/jfree/chart/title/CompositeTitle.getBackgroundPaint
+after post processing ......
+org/jfree/chart/title/CompositeTitle.getBackgroundPaint
+perfect match

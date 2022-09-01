@@ -1,0 +1,20 @@
+slicing criterion: org.jsoup.nodes.TextNodeTest.testBlank:25
+Methods call in assertion: [org/jsoup/nodes/TextNode.isBlank]
+org/jsoup/nodes/TextNode.getWholeText
+org/jsoup/nodes/Node.hasAttr
+org/jsoup/helper/StringUtil.isWhitespace
+org/jsoup/helper/StringUtil.isBlank
+org/jsoup/nodes/TextNode.isBlank
+top 10 recommendations: 
+org/jsoup/nodes/TextNode.isBlank
+org/jsoup/helper/StringUtil.isBlank
+org/jsoup/nodes/TextNode.getWholeText
+org/jsoup/nodes/Node.hasAttr
+org/jsoup/helper/StringUtil.isWhitespace
+after post processing ......
+org/jsoup/nodes/TextNode.isBlank
+org/jsoup/helper/StringUtil.isBlank
+org/jsoup/nodes/TextNode.getWholeText
+org/jsoup/nodes/Node.hasAttr
+org/jsoup/helper/StringUtil.isWhitespace
+perfect match

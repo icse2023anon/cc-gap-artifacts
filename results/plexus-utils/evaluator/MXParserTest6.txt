@@ -1,0 +1,35 @@
+slicing criterion: org.codehaus.plexus.util.xml.pull.MXParserTest.testDecimalEntities:68
+Methods call in assertion: [org/codehaus/plexus/util/xml/pull/MXParser.next]
+org/codehaus/plexus/util/xml/pull/MXParser.isNameStartChar
+org/codehaus/plexus/util/xml/pull/MXParser.parseProlog
+org/codehaus/plexus/util/xml/pull/MXParser.parseEntityRef
+org/codehaus/plexus/util/xml/pull/MXParser.parseEndTag
+org/codehaus/plexus/util/xml/pull/MXParser.setInput
+org/codehaus/plexus/util/xml/pull/MXParser.nextImpl
+org/codehaus/plexus/util/xml/pull/MXParser.isNameChar
+org/codehaus/plexus/util/xml/pull/MXParser.parseStartTag
+org/codehaus/plexus/util/xml/pull/MXParser.more
+org/codehaus/plexus/util/xml/pull/MXParser.isS
+top 10 recommendations: 
+org/codehaus/plexus/util/xml/pull/MXParser.nextImpl
+org/codehaus/plexus/util/xml/pull/MXParser.parseProlog
+org/codehaus/plexus/util/xml/pull/MXParser.parseEndTag
+org/codehaus/plexus/util/xml/pull/MXParser.parseStartTag
+org/codehaus/plexus/util/xml/pull/MXParser.parseEntityRef
+org/codehaus/plexus/util/xml/pull/MXParser.isNameStartChar
+org/codehaus/plexus/util/xml/pull/MXParser.setInput
+org/codehaus/plexus/util/xml/pull/MXParser.isNameChar
+org/codehaus/plexus/util/xml/pull/MXParser.more
+org/codehaus/plexus/util/xml/pull/MXParser.isS
+after post processing ......
+org/codehaus/plexus/util/xml/pull/MXParser.nextImpl
+org/codehaus/plexus/util/xml/pull/MXParser.parseProlog
+org/codehaus/plexus/util/xml/pull/MXParser.parseEndTag
+org/codehaus/plexus/util/xml/pull/MXParser.parseStartTag
+org/codehaus/plexus/util/xml/pull/MXParser.parseEntityRef
+org/codehaus/plexus/util/xml/pull/MXParser.isNameStartChar
+org/codehaus/plexus/util/xml/pull/MXParser.setInput
+org/codehaus/plexus/util/xml/pull/MXParser.isNameChar
+org/codehaus/plexus/util/xml/pull/MXParser.more
+org/codehaus/plexus/util/xml/pull/MXParser.isS
+not matched

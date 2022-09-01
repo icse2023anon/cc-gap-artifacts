@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestLocalTime_Properties.testPropertyGetMilli:661
+Methods call in assertion: [org/joda/time/LocalTime$Property.toString, org/joda/time/LocalTime.millisOfSecond]
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/field/AbstractReadableInstantFieldProperty.toString
+top 10 recommendations: 
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/field/AbstractReadableInstantFieldProperty.toString
+after post processing ......
+org/joda/time/LocalTime.getLocalMillis
+org/joda/time/field/AbstractReadableInstantFieldProperty.toString
+not matched

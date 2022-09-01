@@ -1,0 +1,32 @@
+slicing criterion: org.jsoup.safety.CleanerTest.handlesFramesets:232
+Methods call in assertion: [org/jsoup/nodes/Document.body, org/jsoup/nodes/Element.childNodeSize]
+org/jsoup/safety/Cleaner.clean
+org/jsoup/nodes/Document.body
+org/jsoup/nodes/Document.<init>
+org/jsoup/nodes/Attributes.equals
+org/jsoup/nodes/Document.createShell
+org/jsoup/nodes/Element.appendElement
+org/jsoup/nodes/Document.nodeName
+org/jsoup/nodes/Element.appendChild
+org/jsoup/nodes/Node.childNodeSize
+top 10 recommendations: 
+org/jsoup/safety/Cleaner.clean
+org/jsoup/nodes/Document.createShell
+org/jsoup/nodes/Element.appendElement
+org/jsoup/nodes/Document.body
+org/jsoup/nodes/Document.<init>
+org/jsoup/nodes/Attributes.equals
+org/jsoup/nodes/Document.nodeName
+org/jsoup/nodes/Element.appendChild
+org/jsoup/nodes/Node.childNodeSize
+after post processing ......
+org/jsoup/safety/Cleaner.clean
+org/jsoup/nodes/Document.createShell
+org/jsoup/nodes/Element.appendElement
+org/jsoup/nodes/Document.body
+org/jsoup/nodes/Document.<init>
+org/jsoup/nodes/Attributes.equals
+org/jsoup/nodes/Document.nodeName
+org/jsoup/nodes/Element.appendChild
+org/jsoup/nodes/Node.childNodeSize
+found in top 10

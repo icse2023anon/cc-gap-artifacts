@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestBaseDateTimeField.test_getAsShortText_RP_int_Locale:190
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.getAsShortText]
+org/joda/time/field/BaseDateTimeField.getAsShortText
+org/joda/time/field/BaseDateTimeField.getAsText
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.getAsShortText
+org/joda/time/field/BaseDateTimeField.getAsText
+after post processing ......
+org/joda/time/field/BaseDateTimeField.getAsShortText
+org/joda/time/field/BaseDateTimeField.getAsText
+perfect match

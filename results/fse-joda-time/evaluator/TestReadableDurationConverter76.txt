@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.convert.TestReadableDurationConverter.testGetDurationMillis_Object:112
+Methods call in assertion: [org/joda/time/convert/ReadableDurationConverter.getDurationMillis]
+org/joda/time/convert/ReadableDurationConverter.getDurationMillis
+org/joda/time/base/BaseDuration.getMillis
+top 10 recommendations: 
+org/joda/time/convert/ReadableDurationConverter.getDurationMillis
+org/joda/time/base/BaseDuration.getMillis
+after post processing ......
+org/joda/time/convert/ReadableDurationConverter.getDurationMillis
+org/joda/time/base/BaseDuration.getMillis
+perfect match

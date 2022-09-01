@@ -1,0 +1,17 @@
+slicing criterion: com.google.gson.JsonArrayTest.testRemove:68
+Methods call in assertion: [com/google/gson/JsonArray.contains]
+com/google/gson/JsonArray.contains
+com/google/gson/JsonPrimitive.equals
+com/google/gson/JsonArray.add
+com/google/gson/JsonArray.remove
+top 10 recommendations: 
+com/google/gson/JsonArray.contains
+com/google/gson/JsonPrimitive.equals
+com/google/gson/JsonArray.add
+com/google/gson/JsonArray.remove
+after post processing ......
+com/google/gson/JsonArray.contains
+com/google/gson/JsonPrimitive.equals
+com/google/gson/JsonArray.add
+com/google/gson/JsonArray.remove
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.builder.EqualsBuilderTest.testReflectionEquals:302
+Methods call in assertion: [org/apache/commons/lang3/builder/EqualsBuilder.reflectionEquals]
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionEquals
+top 10 recommendations: 
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionEquals
+after post processing ......
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionEquals
+perfect match

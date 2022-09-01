@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestYearMonth_Properties.testPropertyGetYear:111
+Methods call in assertion: [org/joda/time/YearMonth.year, org/joda/time/YearMonth$Property.get]
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonth.setCopy
+top 10 recommendations: 
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonth.setCopy
+after post processing ......
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonth.setCopy
+not matched

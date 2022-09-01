@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDateTimeZone.testForOffsetHoursMinutes_int_int:473
+Methods call in assertion: [org/joda/time/DateTimeZone.forOffsetHoursMinutes]
+org/joda/time/DateTimeZone.forOffsetHoursMinutes
+top 10 recommendations: 
+org/joda/time/DateTimeZone.forOffsetHoursMinutes
+after post processing ......
+org/joda/time/DateTimeZone.forOffsetHoursMinutes
+perfect match

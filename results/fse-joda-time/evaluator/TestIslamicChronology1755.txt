@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.chrono.TestIslamicChronology.testSampleDate3:686
+Methods call in assertion: [org/joda/time/DateTime.getDayOfWeek]
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/AssembledChronology.dayOfWeek
+org/joda/time/base/AbstractDateTime.getDayOfWeek
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/AssembledChronology.dayOfWeek
+org/joda/time/base/AbstractDateTime.getDayOfWeek
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/AssembledChronology.dayOfWeek
+org/joda/time/base/AbstractDateTime.getDayOfWeek
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+org/joda/time/DateTimeUtils.getChronology
+not matched

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestPreciseDurationField.test_getValueAsLong_long:136
+Methods call in assertion: [org/joda/time/field/PreciseDurationField.getValueAsLong]
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/field/BaseDurationField.getValueAsLong
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/field/BaseDurationField.getValueAsLong
+after post processing ......
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/field/BaseDurationField.getValueAsLong
+found in top 10

@@ -1,0 +1,14 @@
+slicing criterion: org.codehaus.plexus.util.cli.EnhancedStringTokenizerTest.test2:59
+Methods call in assertion: [org/codehaus/plexus/util/cli/EnhancedStringTokenizer.nextToken]
+org/codehaus/plexus/util/cli/EnhancedStringTokenizer.hasMoreTokens
+org/codehaus/plexus/util/cli/EnhancedStringTokenizer.<init>
+org/codehaus/plexus/util/cli/EnhancedStringTokenizer.nextToken
+top 10 recommendations: 
+org/codehaus/plexus/util/cli/EnhancedStringTokenizer.nextToken
+org/codehaus/plexus/util/cli/EnhancedStringTokenizer.hasMoreTokens
+org/codehaus/plexus/util/cli/EnhancedStringTokenizer.<init>
+after post processing ......
+org/codehaus/plexus/util/cli/EnhancedStringTokenizer.nextToken
+org/codehaus/plexus/util/cli/EnhancedStringTokenizer.hasMoreTokens
+org/codehaus/plexus/util/cli/EnhancedStringTokenizer.<init>
+perfect match

@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.labels.StandardPieToolTipGeneratorTest.testHashCode:120
+Methods call in assertion: [org/jfree/chart/labels/StandardPieToolTipGenerator.hashCode]
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.hashCode
+org/jfree/chart/labels/StandardPieToolTipGenerator.<init>
+org/jfree/chart/HashUtils.hashCode
+top 10 recommendations: 
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.hashCode
+org/jfree/chart/labels/StandardPieToolTipGenerator.<init>
+org/jfree/chart/HashUtils.hashCode
+after post processing ......
+org/jfree/chart/labels/AbstractPieItemLabelGenerator.hashCode
+org/jfree/chart/labels/StandardPieToolTipGenerator.<init>
+org/jfree/chart/HashUtils.hashCode
+found in top 10

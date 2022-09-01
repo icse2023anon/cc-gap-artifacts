@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.annotations.CategoryLineAnnotationTest.testEquals:83
+Methods call in assertion: [org/jfree/chart/annotations/CategoryLineAnnotation.equals]
+org/jfree/chart/annotations/CategoryLineAnnotation.getCategory1
+org/jfree/chart/annotations/CategoryLineAnnotation.getValue1
+org/jfree/chart/annotations/CategoryLineAnnotation.equals
+top 10 recommendations: 
+org/jfree/chart/annotations/CategoryLineAnnotation.equals
+org/jfree/chart/annotations/CategoryLineAnnotation.getCategory1
+org/jfree/chart/annotations/CategoryLineAnnotation.getValue1
+after post processing ......
+org/jfree/chart/annotations/CategoryLineAnnotation.equals
+org/jfree/chart/annotations/CategoryLineAnnotation.getCategory1
+org/jfree/chart/annotations/CategoryLineAnnotation.getValue1
+perfect match

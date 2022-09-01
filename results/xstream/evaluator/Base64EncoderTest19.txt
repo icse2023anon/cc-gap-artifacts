@@ -1,0 +1,11 @@
+slicing criterion: com.thoughtworks.xstream.core.util.Base64EncoderTest.testInitializeStringBufferWithExpectedSizeUsing1BytesInput:161
+Methods call in assertion: [com/thoughtworks/xstream/core/util/Base64Encoder.computeResultingStringSize, com/thoughtworks/xstream/core/util/Base64Encoder.encode]
+com/thoughtworks/xstream/core/util/Base64Encoder.computeResultingStringSize
+com/thoughtworks/xstream/core/util/Base64Encoder.encode
+top 10 recommendations: 
+com/thoughtworks/xstream/core/util/Base64Encoder.encode
+com/thoughtworks/xstream/core/util/Base64Encoder.computeResultingStringSize
+after post processing ......
+com/thoughtworks/xstream/core/util/Base64Encoder.encode
+com/thoughtworks/xstream/core/util/Base64Encoder.computeResultingStringSize
+perfect match

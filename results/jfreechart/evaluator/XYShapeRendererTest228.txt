@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYShapeRendererTest.test3026341:174
+Methods call in assertion: [org/jfree/chart/renderer/xy/XYShapeRenderer.findRangeBounds]
+org/jfree/chart/renderer/xy/XYShapeRenderer.findRangeBounds
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/XYShapeRenderer.findRangeBounds
+after post processing ......
+org/jfree/chart/renderer/xy/XYShapeRenderer.findRangeBounds
+perfect match

@@ -1,0 +1,47 @@
+slicing criterion: org.codehaus.plexus.util.cli.CommandlineTest.testExecute:129
+Methods call in assertion: [org/codehaus/plexus/util/IOUtil.toString]
+org/codehaus/plexus/util/cli/Commandline.getEnvironmentVariables
+org/codehaus/plexus/util/cli/Commandline.getArguments
+org/codehaus/plexus/util/cli/CommandLineUtils.executeCommandLine
+org/codehaus/plexus/util/cli/Commandline.<init>
+org/codehaus/plexus/util/cli/CommandLineUtils.getSystemEnvVars
+org/codehaus/plexus/util/cli/Commandline.execute
+org/codehaus/plexus/util/IOUtil.toString
+org/codehaus/plexus/util/cli/CommandLineUtils.executeCommandLineAsCallable
+org/codehaus/plexus/util/Os.isOs
+org/codehaus/plexus/util/cli/Commandline.getCommandline
+org/codehaus/plexus/util/cli/Commandline.createArgument
+org/codehaus/plexus/util/cli/Commandline.getLiteralExecutable
+org/codehaus/plexus/util/cli/shell/Shell.setWorkingDirectory
+org/codehaus/plexus/util/cli/shell/Shell.getWorkingDirectory
+org/codehaus/plexus/util/Os.isFamily
+org/codehaus/plexus/util/cli/Commandline.addEnvironment
+top 10 recommendations: 
+org/codehaus/plexus/util/cli/CommandLineUtils.executeCommandLine
+org/codehaus/plexus/util/cli/CommandLineUtils.executeCommandLineAsCallable
+org/codehaus/plexus/util/cli/Commandline.execute
+org/codehaus/plexus/util/cli/Commandline.getCommandline
+org/codehaus/plexus/util/cli/CommandLineUtils.getSystemEnvVars
+org/codehaus/plexus/util/cli/Commandline.<init>
+org/codehaus/plexus/util/Os.isOs
+org/codehaus/plexus/util/Os.isFamily
+org/codehaus/plexus/util/cli/Commandline.getEnvironmentVariables
+org/codehaus/plexus/util/cli/Commandline.getArguments
+after post processing ......
+org/codehaus/plexus/util/cli/CommandLineUtils.executeCommandLine
+org/codehaus/plexus/util/cli/CommandLineUtils.executeCommandLineAsCallable
+org/codehaus/plexus/util/cli/Commandline.execute
+org/codehaus/plexus/util/cli/Commandline.getCommandline
+org/codehaus/plexus/util/cli/CommandLineUtils.getSystemEnvVars
+org/codehaus/plexus/util/cli/Commandline.<init>
+org/codehaus/plexus/util/Os.isOs
+org/codehaus/plexus/util/Os.isFamily
+org/codehaus/plexus/util/cli/Commandline.getEnvironmentVariables
+org/codehaus/plexus/util/cli/Commandline.getArguments
+org/codehaus/plexus/util/IOUtil.toString
+org/codehaus/plexus/util/cli/Commandline.createArgument
+org/codehaus/plexus/util/cli/Commandline.getLiteralExecutable
+org/codehaus/plexus/util/cli/shell/Shell.setWorkingDirectory
+org/codehaus/plexus/util/cli/shell/Shell.getWorkingDirectory
+org/codehaus/plexus/util/cli/Commandline.addEnvironment
+all method calls are suggested

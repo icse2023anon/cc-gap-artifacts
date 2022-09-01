@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testWith_baseAndArgHaveNoRange:547
+Methods call in assertion: [org/joda/time/Partial.indexOf, org/joda/time/DateTimeFieldType.era]
+org/joda/time/DateTimeFieldType.year
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.with
+org/joda/time/Partial.getFieldType
+org/joda/time/field/UnsupportedDurationField.isSupported
+org/joda/time/DateTimeFieldType.era
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+top 10 recommendations: 
+org/joda/time/Partial.with
+org/joda/time/DateTimeFieldType.year
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/field/UnsupportedDurationField.isSupported
+org/joda/time/DateTimeFieldType.era
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+after post processing ......
+org/joda/time/Partial.with
+org/joda/time/DateTimeFieldType.year
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/field/UnsupportedDurationField.isSupported
+org/joda/time/DateTimeFieldType.era
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+not matched

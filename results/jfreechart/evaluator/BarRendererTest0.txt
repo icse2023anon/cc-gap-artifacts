@@ -1,0 +1,20 @@
+slicing criterion: org.jfree.chart.renderer.category.BarRendererTest.testCloning:201
+Methods call in assertion: [org/jfree/chart/renderer/category/BarRenderer.equals]
+org/jfree/chart/renderer/category/BarRenderer.equals
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.clone
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/category/BarRenderer.getDefaultShadowsVisible
+top 10 recommendations: 
+org/jfree/chart/renderer/category/BarRenderer.equals
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.clone
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/category/BarRenderer.getDefaultShadowsVisible
+after post processing ......
+org/jfree/chart/renderer/category/BarRenderer.equals
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.clone
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/category/BarRenderer.getDefaultShadowsVisible
+perfect match

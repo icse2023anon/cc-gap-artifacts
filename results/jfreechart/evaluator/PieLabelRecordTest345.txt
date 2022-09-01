@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.PieLabelRecordTest.testEquals:69
+Methods call in assertion: [org/jfree/chart/plot/PieLabelRecord.equals]
+org/jfree/chart/plot/PieLabelRecord.equals
+top 10 recommendations: 
+org/jfree/chart/plot/PieLabelRecord.equals
+after post processing ......
+org/jfree/chart/plot/PieLabelRecord.equals
+perfect match

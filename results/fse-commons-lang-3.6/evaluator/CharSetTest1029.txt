@@ -1,0 +1,26 @@
+slicing criterion: org.apache.commons.lang3.CharSetTest.testConstructor_String_oddCombinations:354
+Methods call in assertion: [org/apache/commons/lang3/CharSet.contains]
+org/apache/commons/lang3/CharSet.getCharRanges
+org/apache/commons/lang3/CharSet.add
+org/apache/commons/lang3/CharSet.contains
+org/apache/commons/lang3/CharSet.getInstance
+org/apache/commons/lang3/CharRange.isIn
+org/apache/commons/lang3/CharSet.<init>
+org/apache/commons/lang3/CharRange.hashCode
+top 10 recommendations: 
+org/apache/commons/lang3/CharSet.getInstance
+org/apache/commons/lang3/CharSet.<init>
+org/apache/commons/lang3/CharSet.add
+org/apache/commons/lang3/CharSet.getCharRanges
+org/apache/commons/lang3/CharSet.contains
+org/apache/commons/lang3/CharRange.isIn
+org/apache/commons/lang3/CharRange.hashCode
+after post processing ......
+org/apache/commons/lang3/CharSet.getInstance
+org/apache/commons/lang3/CharSet.<init>
+org/apache/commons/lang3/CharSet.add
+org/apache/commons/lang3/CharSet.getCharRanges
+org/apache/commons/lang3/CharSet.contains
+org/apache/commons/lang3/CharRange.isIn
+org/apache/commons/lang3/CharRange.hashCode
+found in top 10

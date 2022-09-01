@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.TestIllegalFieldValueException.testJulianYearZero:232
+Methods call in assertion: [org/joda/time/IllegalFieldValueException.getFieldName]
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+org/joda/time/DateTime.getMillis
+org/joda/time/DateTimeFieldType.year
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/IllegalFieldValueException.getFieldName
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/field/SkipDateTimeField.set
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/DateTimeFieldType.getName
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/field/SkipDateTimeField.set
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+org/joda/time/DateTime.getMillis
+org/joda/time/DateTimeFieldType.year
+org/joda/time/IllegalFieldValueException.getFieldName
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/DateTimeFieldType.getName
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/field/SkipDateTimeField.set
+org/joda/time/chrono/JulianChronology.getInstanceUTC
+org/joda/time/DateTime.getMillis
+org/joda/time/DateTimeFieldType.year
+org/joda/time/IllegalFieldValueException.getFieldName
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/DateTimeFieldType.getName
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

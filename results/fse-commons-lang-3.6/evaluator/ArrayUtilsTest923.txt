@@ -1,0 +1,26 @@
+slicing criterion: org.apache.commons.lang3.ArrayUtilsTest.testShuffleDouble:5419
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.contains]
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/ArrayUtils.shuffle
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/ArrayUtils.swap
+org/apache/commons/lang3/ArrayUtils.clone
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/ArrayUtils.shuffle
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ArrayUtils.swap
+org/apache/commons/lang3/ArrayUtils.clone
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.contains
+org/apache/commons/lang3/ArrayUtils.indexOf
+org/apache/commons/lang3/ArrayUtils.shuffle
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ArrayUtils.swap
+org/apache/commons/lang3/ArrayUtils.clone
+perfect match

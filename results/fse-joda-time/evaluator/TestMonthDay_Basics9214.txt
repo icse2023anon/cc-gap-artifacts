@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestMonthDay_Basics.testCompareTo:305
+Methods call in assertion: [org/joda/time/MonthDay.compareTo]
+org/joda/time/base/AbstractPartial.compareTo
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.compareTo
+after post processing ......
+org/joda/time/base/AbstractPartial.compareTo
+perfect match

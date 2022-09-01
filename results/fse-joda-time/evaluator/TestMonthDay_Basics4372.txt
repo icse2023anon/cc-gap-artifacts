@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMonthDay_Basics.testSerialization:858
+Methods call in assertion: [org/joda/time/MonthDay.getFields]
+org/joda/time/base/AbstractPartial.getFields
+org/joda/time/MonthDay.size
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.getFields
+org/joda/time/MonthDay.size
+after post processing ......
+org/joda/time/base/AbstractPartial.getFields
+org/joda/time/MonthDay.size
+found in top 10

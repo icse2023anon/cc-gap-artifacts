@@ -1,0 +1,49 @@
+slicing criterion: com.google.gson.JsonParserTest.testParseString:63
+Methods call in assertion: [com/google/gson/JsonElement.getAsString, com/google/gson/JsonObject.get, com/google/gson/JsonElement.getAsJsonObject]
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/stream/JsonReader.peek
+com/google/gson/JsonPrimitive.getAsString
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/JsonElement.isJsonObject
+com/google/gson/JsonParser.parse
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/JsonObject.get
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/JsonElement.getAsJsonObject
+top 10 recommendations: 
+com/google/gson/JsonParser.parse
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/JsonPrimitive.getAsString
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/JsonObject.get
+com/google/gson/JsonElement.getAsJsonObject
+com/google/gson/stream/JsonReader.<init>
+after post processing ......
+com/google/gson/JsonParser.parse
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/JsonPrimitive.getAsString
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/JsonObject.get
+com/google/gson/JsonElement.getAsJsonObject
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/JsonElement.isJsonObject
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/stream/JsonReader.doPeek
+not matched

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.chrono.TestCopticChronology.testFactory_Zone:200
+Methods call in assertion: [org/joda/time/chrono/CopticChronology.getInstance, org/joda/time/chrono/CopticChronology.getZone]
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/CopticChronology.getInstance
+top 10 recommendations: 
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/CopticChronology.getInstance
+after post processing ......
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/CopticChronology.getInstance
+not matched

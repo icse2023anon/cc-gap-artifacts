@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.GrayPaintScaleTest.testEquals:110
+Methods call in assertion: [org/jfree/chart/renderer/GrayPaintScale.equals]
+org/jfree/chart/renderer/GrayPaintScale.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/GrayPaintScale.equals
+after post processing ......
+org/jfree/chart/renderer/GrayPaintScale.equals
+perfect match

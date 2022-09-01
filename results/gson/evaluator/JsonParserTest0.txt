@@ -1,0 +1,11 @@
+slicing criterion: com.google.gson.JsonParserTest.testParseEmptyWhitespaceInput:74
+Methods call in assertion: [com/google/gson/JsonElement.isJsonNull]
+com/google/gson/JsonElement.isJsonNull
+com/google/gson/JsonParser.parse
+top 10 recommendations: 
+com/google/gson/JsonParser.parse
+com/google/gson/JsonElement.isJsonNull
+after post processing ......
+com/google/gson/JsonParser.parse
+com/google/gson/JsonElement.isJsonNull
+found in top 10

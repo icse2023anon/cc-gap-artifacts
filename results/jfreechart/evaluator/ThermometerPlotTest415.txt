@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.plot.ThermometerPlotTest.testEquals:111
+Methods call in assertion: [org/jfree/chart/plot/ThermometerPlot.equals]
+org/jfree/chart/plot/ThermometerPlot.equals
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/ThermometerPlot.setAxisLocation
+top 10 recommendations: 
+org/jfree/chart/plot/ThermometerPlot.equals
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/ThermometerPlot.setAxisLocation
+after post processing ......
+org/jfree/chart/plot/ThermometerPlot.equals
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/ThermometerPlot.setAxisLocation
+perfect match

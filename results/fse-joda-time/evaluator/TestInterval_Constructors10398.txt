@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestInterval_Constructors.testConstructor_long_long_min:277
+Methods call in assertion: [org/joda/time/Interval.toPeriod]
+org/joda/time/base/AbstractInterval.toPeriod
+top 10 recommendations: 
+org/joda/time/base/AbstractInterval.toPeriod
+after post processing ......
+org/joda/time/base/AbstractInterval.toPeriod
+perfect match

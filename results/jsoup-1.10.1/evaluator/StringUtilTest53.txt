@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.helper.StringUtilTest.isWhitespace:50
+Methods call in assertion: [org/jsoup/helper/StringUtil.isWhitespace]
+org/jsoup/helper/StringUtil.isWhitespace
+top 10 recommendations: 
+org/jsoup/helper/StringUtil.isWhitespace
+after post processing ......
+org/jsoup/helper/StringUtil.isWhitespace
+perfect match

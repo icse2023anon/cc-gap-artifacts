@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.ValueMarkerTest.test1808376:239
+Methods call in assertion: [org/jfree/chart/plot/ValueMarker.getOutlineStroke]
+org/jfree/chart/plot/Marker.getOutlineStroke
+top 10 recommendations: 
+org/jfree/chart/plot/Marker.getOutlineStroke
+after post processing ......
+org/jfree/chart/plot/Marker.getOutlineStroke
+perfect match

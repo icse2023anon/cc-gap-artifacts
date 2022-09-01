@@ -1,0 +1,11 @@
+slicing criterion: com.google.gson.stream.JsonReaderPathTest.arrayPath:152
+Methods call in assertion: [com/google/gson/stream/JsonReader.getPath]
+com/google/gson/stream/JsonReader.getPath
+com/google/gson/internal/bind/JsonTreeReader.getPath
+top 10 recommendations: 
+com/google/gson/stream/JsonReader.getPath
+com/google/gson/internal/bind/JsonTreeReader.getPath
+after post processing ......
+com/google/gson/stream/JsonReader.getPath
+com/google/gson/internal/bind/JsonTreeReader.getPath
+perfect match

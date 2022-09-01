@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.ToStringBuilderTest.testConstructToStringBuilder:948
+Methods call in assertion: [org/apache/commons/lang3/builder/ToStringBuilder.getStringBuffer]
+org/apache/commons/lang3/builder/ToStringBuilder.<init>
+org/apache/commons/lang3/builder/ToStringBuilder.getStringBuffer
+top 10 recommendations: 
+org/apache/commons/lang3/builder/ToStringBuilder.<init>
+org/apache/commons/lang3/builder/ToStringBuilder.getStringBuffer
+after post processing ......
+org/apache/commons/lang3/builder/ToStringBuilder.<init>
+org/apache/commons/lang3/builder/ToStringBuilder.getStringBuffer
+found in top 10

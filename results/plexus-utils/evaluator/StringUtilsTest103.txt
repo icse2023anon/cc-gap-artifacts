@@ -1,0 +1,8 @@
+slicing criterion: org.codehaus.plexus.util.StringUtilsTest.testLowerCaseFirstLetterTurkish:96
+Methods call in assertion: [org/codehaus/plexus/util/StringUtils.lowercaseFirstLetter]
+org/codehaus/plexus/util/StringUtils.lowercaseFirstLetter
+top 10 recommendations: 
+org/codehaus/plexus/util/StringUtils.lowercaseFirstLetter
+after post processing ......
+org/codehaus/plexus/util/StringUtils.lowercaseFirstLetter
+perfect match

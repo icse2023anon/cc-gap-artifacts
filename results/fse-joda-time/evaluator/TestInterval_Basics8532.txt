@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestInterval_Basics.testIsAfter_RInterval_null:1060
+Methods call in assertion: [org/joda/time/Interval.isAfter]
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/AbstractInterval.isAfter
+org/joda/time/base/BaseInterval.getStartMillis
+top 10 recommendations: 
+org/joda/time/base/AbstractInterval.isAfter
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/BaseInterval.getStartMillis
+after post processing ......
+org/joda/time/base/AbstractInterval.isAfter
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/BaseInterval.getStartMillis
+found in top 10

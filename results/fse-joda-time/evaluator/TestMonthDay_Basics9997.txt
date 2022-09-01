@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestMonthDay_Basics.testEqualsHashCode:258
+Methods call in assertion: [org/joda/time/MonthDay.equals]
+org/joda/time/base/AbstractPartial.equals
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.equals
+after post processing ......
+org/joda/time/base/AbstractPartial.equals
+perfect match

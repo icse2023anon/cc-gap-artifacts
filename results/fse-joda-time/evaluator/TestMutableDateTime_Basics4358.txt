@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMutableDateTime_Basics.testProperty:773
+Methods call in assertion: [org/joda/time/MutableDateTime.millisOfSecond, org/joda/time/DateTimeFieldType.millisOfSecond, org/joda/time/MutableDateTime.property]
+org/joda/time/MutableDateTime.getChronology
+org/joda/time/DateTimeFieldType.millisOfSecond
+top 10 recommendations: 
+org/joda/time/MutableDateTime.getChronology
+org/joda/time/DateTimeFieldType.millisOfSecond
+after post processing ......
+org/joda/time/MutableDateTime.getChronology
+org/joda/time/DateTimeFieldType.millisOfSecond
+not matched

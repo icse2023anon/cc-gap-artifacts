@@ -1,0 +1,51 @@
+slicing criterion: org.joda.time.tz.TestZoneInfoCompiler.testTestTwo:84
+Methods call in assertion: [org/joda/time/tz/ZoneInfoCompiler.test]
+org/joda/time/chrono/BasicGJChronology.setYear
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/GregorianChronology.calculateFirstDayOfYearMillis
+org/joda/time/tz/ZoneInfoCompiler.test
+org/joda/time/chrono/GregorianChronology.isLeapYear
+org/joda/time/chrono/BasicChronology.getYearMonthDayMillis
+org/joda/time/chrono/BasicYearDateTimeField.set
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/chrono/BasicChronology.getDayOfYear
+org/joda/time/tz/DateTimeZoneBuilder.toDateTimeZone
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/chrono/BasicChronology.getMillisOfDay
+org/joda/time/chrono/BasicChronology.getYearMillis
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/FixedDateTimeZone.nextTransition
+org/joda/time/chrono/BasicGJChronology.getTotalMillisByYearMonth
+org/joda/time/chrono/AssembledChronology.year
+top 10 recommendations: 
+org/joda/time/tz/ZoneInfoCompiler.test
+org/joda/time/chrono/BasicChronology.getDayOfYear
+org/joda/time/chrono/GregorianChronology.calculateFirstDayOfYearMillis
+org/joda/time/chrono/BasicChronology.getYearMonthDayMillis
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/chrono/BasicGJChronology.setYear
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/GregorianChronology.isLeapYear
+org/joda/time/chrono/BasicYearDateTimeField.set
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+after post processing ......
+org/joda/time/tz/ZoneInfoCompiler.test
+org/joda/time/chrono/BasicChronology.getDayOfYear
+org/joda/time/chrono/GregorianChronology.calculateFirstDayOfYearMillis
+org/joda/time/chrono/BasicChronology.getYearMonthDayMillis
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/chrono/BasicGJChronology.setYear
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/GregorianChronology.isLeapYear
+org/joda/time/chrono/BasicYearDateTimeField.set
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/tz/DateTimeZoneBuilder.toDateTimeZone
+org/joda/time/chrono/BasicChronology.getMillisOfDay
+org/joda/time/chrono/BasicChronology.getYearMillis
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/FixedDateTimeZone.nextTransition
+org/joda/time/chrono/BasicGJChronology.getTotalMillisByYearMonth
+org/joda/time/chrono/AssembledChronology.year
+perfect match

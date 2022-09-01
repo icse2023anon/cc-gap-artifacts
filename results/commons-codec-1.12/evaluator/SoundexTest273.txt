@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.codec.language.SoundexTest.testNewInstance3:328
+Methods call in assertion: [org/apache/commons/codec/language/Soundex.soundex]
+org/apache/commons/codec/language/Soundex.<init>
+org/apache/commons/codec/language/SoundexUtils.clean
+org/apache/commons/codec/language/Soundex.soundex
+top 10 recommendations: 
+org/apache/commons/codec/language/Soundex.soundex
+org/apache/commons/codec/language/Soundex.<init>
+org/apache/commons/codec/language/SoundexUtils.clean
+after post processing ......
+org/apache/commons/codec/language/Soundex.soundex
+org/apache/commons/codec/language/Soundex.<init>
+org/apache/commons/codec/language/SoundexUtils.clean
+perfect match

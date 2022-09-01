@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestSeconds.testToStandardDays:250
+Methods call in assertion: [org/joda/time/Seconds.toStandardDays]
+org/joda/time/Seconds.seconds
+org/joda/time/Seconds.toStandardDays
+org/joda/time/Days.days
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+top 10 recommendations: 
+org/joda/time/Seconds.toStandardDays
+org/joda/time/Seconds.seconds
+org/joda/time/Days.days
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+after post processing ......
+org/joda/time/Seconds.toStandardDays
+org/joda/time/Seconds.seconds
+org/joda/time/Days.days
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+perfect match

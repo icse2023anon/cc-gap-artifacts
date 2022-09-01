@@ -1,0 +1,5 @@
+slicing criterion: org.jsoup.helper.HttpConnectionTest.inputStream:170
+Methods call in assertion: [org/jsoup/Connection$KeyVal.hasInputStream]
+top 10 recommendations: 
+after post processing ......
+not matched

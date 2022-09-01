@@ -1,0 +1,14 @@
+slicing criterion: com.fasterxml.jackson.dataformat.xml.MapperCopyTest.testMapperSerialization:59
+Methods call in assertion: [com/fasterxml/jackson/dataformat/xml/XmlMapper.getFactory, com/fasterxml/jackson/dataformat/xml/XmlFactory.getXMLTextElementName]
+com/fasterxml/jackson/dataformat/xml/XmlMapper.<init>
+com/fasterxml/jackson/dataformat/xml/XmlMapper.getFactory
+com/fasterxml/jackson/dataformat/xml/XmlFactory.getXMLTextElementName
+top 10 recommendations: 
+com/fasterxml/jackson/dataformat/xml/XmlMapper.<init>
+com/fasterxml/jackson/dataformat/xml/XmlMapper.getFactory
+com/fasterxml/jackson/dataformat/xml/XmlFactory.getXMLTextElementName
+after post processing ......
+com/fasterxml/jackson/dataformat/xml/XmlMapper.<init>
+com/fasterxml/jackson/dataformat/xml/XmlMapper.getFactory
+com/fasterxml/jackson/dataformat/xml/XmlFactory.getXMLTextElementName
+found in top 10

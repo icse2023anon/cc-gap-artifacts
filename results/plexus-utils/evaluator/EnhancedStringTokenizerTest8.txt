@@ -1,0 +1,11 @@
+slicing criterion: org.codehaus.plexus.util.cli.EnhancedStringTokenizerTest.testMultipleDelim:88
+Methods call in assertion: [org/codehaus/plexus/util/cli/EnhancedStringTokenizer.nextToken]
+org/codehaus/plexus/util/cli/EnhancedStringTokenizer.<init>
+org/codehaus/plexus/util/cli/EnhancedStringTokenizer.nextToken
+top 10 recommendations: 
+org/codehaus/plexus/util/cli/EnhancedStringTokenizer.<init>
+org/codehaus/plexus/util/cli/EnhancedStringTokenizer.nextToken
+after post processing ......
+org/codehaus/plexus/util/cli/EnhancedStringTokenizer.<init>
+org/codehaus/plexus/util/cli/EnhancedStringTokenizer.nextToken
+found in top 10

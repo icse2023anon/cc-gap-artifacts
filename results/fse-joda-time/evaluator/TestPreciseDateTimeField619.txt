@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.field.TestPreciseDateTimeField.test_remainder_long:583
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.remainder]
+org/joda/time/field/PreciseDurationDateTimeField.remainder
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationDateTimeField.remainder
+after post processing ......
+org/joda/time/field/PreciseDurationDateTimeField.remainder
+perfect match

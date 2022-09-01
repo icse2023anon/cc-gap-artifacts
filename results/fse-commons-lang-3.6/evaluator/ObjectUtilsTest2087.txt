@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.ObjectUtilsTest.testMax:348
+Methods call in assertion: [org/apache/commons/lang3/ObjectUtils.max]
+org/apache/commons/lang3/ObjectUtils.max
+org/apache/commons/lang3/ObjectUtils.compare
+top 10 recommendations: 
+org/apache/commons/lang3/ObjectUtils.max
+org/apache/commons/lang3/ObjectUtils.compare
+after post processing ......
+org/apache/commons/lang3/ObjectUtils.max
+org/apache/commons/lang3/ObjectUtils.compare
+perfect match

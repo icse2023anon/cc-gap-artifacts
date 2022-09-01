@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.validator.CreditCardValidatorTest.testAddAllowedCardType:67
+Methods call in assertion: [org/apache/commons/validator/CreditCardValidator.isValid]
+org/apache/commons/validator/CreditCardValidator.luhnCheck
+org/apache/commons/validator/CreditCardValidator.isValid
+top 10 recommendations: 
+org/apache/commons/validator/CreditCardValidator.isValid
+org/apache/commons/validator/CreditCardValidator.luhnCheck
+after post processing ......
+org/apache/commons/validator/CreditCardValidator.isValid
+org/apache/commons/validator/CreditCardValidator.luhnCheck
+perfect match

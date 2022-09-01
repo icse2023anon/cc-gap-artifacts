@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestMonthDay_Properties.testPropertyGetDayOfMonth:216
+Methods call in assertion: [org/joda/time/MonthDay.dayOfMonth, org/joda/time/MonthDay$Property.getAsText]
+org/joda/time/base/BasePartial.getValue
+org/joda/time/MonthDay.getReadablePartial
+org/joda/time/field/AbstractPartialFieldProperty.getAsText
+org/joda/time/field/BaseDateTimeField.getAsText
+top 10 recommendations: 
+org/joda/time/base/BasePartial.getValue
+org/joda/time/MonthDay.getReadablePartial
+org/joda/time/field/AbstractPartialFieldProperty.getAsText
+org/joda/time/field/BaseDateTimeField.getAsText
+after post processing ......
+org/joda/time/base/BasePartial.getValue
+org/joda/time/MonthDay.getReadablePartial
+org/joda/time/field/AbstractPartialFieldProperty.getAsText
+org/joda/time/field/BaseDateTimeField.getAsText
+not matched

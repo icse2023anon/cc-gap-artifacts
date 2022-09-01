@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testRFC4180:317
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getDelimiter]
+org/apache/commons/csv/CSVFormat.getDelimiter
+org/apache/commons/csv/CSVFormat.getCommentMarker
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.getDelimiter
+org/apache/commons/csv/CSVFormat.getCommentMarker
+after post processing ......
+org/apache/commons/csv/CSVFormat.getDelimiter
+org/apache/commons/csv/CSVFormat.getCommentMarker
+perfect match

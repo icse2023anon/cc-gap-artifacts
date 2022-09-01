@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.renderer.DefaultPolarItemRendererTest.testCloning:95
+Methods call in assertion: [org/jfree/chart/renderer/DefaultPolarItemRenderer.equals]
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/renderer/DefaultPolarItemRenderer.clone
+org/jfree/chart/renderer/DefaultPolarItemRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/DefaultPolarItemRenderer.clone
+org/jfree/chart/renderer/DefaultPolarItemRenderer.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/renderer/DefaultPolarItemRenderer.clone
+org/jfree/chart/renderer/DefaultPolarItemRenderer.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/util/ObjectUtils.equal
+found in top 10

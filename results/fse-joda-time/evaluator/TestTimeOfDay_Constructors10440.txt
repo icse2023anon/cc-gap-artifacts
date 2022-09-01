@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Constructors.testConstantMidnight:149
+Methods call in assertion: [org/joda/time/TimeOfDay.getSecondOfMinute]
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.getSecondOfMinute
+top 10 recommendations: 
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.getSecondOfMinute
+after post processing ......
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.getSecondOfMinute
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.validator.util.FlagsTest.testIsOnOff:59
+Methods call in assertion: [org/apache/commons/validator/util/Flags.isOn]
+org/apache/commons/validator/util/Flags.isOn
+top 10 recommendations: 
+org/apache/commons/validator/util/Flags.isOn
+after post processing ......
+org/apache/commons/validator/util/Flags.isOn
+perfect match

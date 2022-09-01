@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTime_Properties.testPropertyToIntervalHourOfDay:1431
+Methods call in assertion: [org/joda/time/Interval.getStart]
+org/joda/time/field/AbstractReadableInstantFieldProperty.toInterval
+org/joda/time/DateTime.getMillis
+top 10 recommendations: 
+org/joda/time/field/AbstractReadableInstantFieldProperty.toInterval
+org/joda/time/DateTime.getMillis
+after post processing ......
+org/joda/time/field/AbstractReadableInstantFieldProperty.toInterval
+org/joda/time/DateTime.getMillis
+not matched

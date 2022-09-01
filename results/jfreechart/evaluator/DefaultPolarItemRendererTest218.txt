@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.renderer.DefaultPolarItemRendererTest.testHashcode:79
+Methods call in assertion: [org/jfree/chart/renderer/DefaultPolarItemRenderer.equals]
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/renderer/DefaultPolarItemRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/DefaultPolarItemRenderer.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/renderer/DefaultPolarItemRenderer.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

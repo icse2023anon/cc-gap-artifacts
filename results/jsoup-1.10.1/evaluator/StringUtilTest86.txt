@@ -1,0 +1,11 @@
+slicing criterion: org.jsoup.helper.StringUtilTest.isBlank:31
+Methods call in assertion: [org/jsoup/helper/StringUtil.isBlank]
+org/jsoup/helper/StringUtil.isWhitespace
+org/jsoup/helper/StringUtil.isBlank
+top 10 recommendations: 
+org/jsoup/helper/StringUtil.isBlank
+org/jsoup/helper/StringUtil.isWhitespace
+after post processing ......
+org/jsoup/helper/StringUtil.isBlank
+org/jsoup/helper/StringUtil.isWhitespace
+perfect match

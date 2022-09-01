@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.labels.BubbleXYItemLabelGeneratorTest.testCloning:159
+Methods call in assertion: [org/jfree/chart/labels/BubbleXYItemLabelGenerator.equals]
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/BubbleXYItemLabelGenerator.equals
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.clone
+top 10 recommendations: 
+org/jfree/chart/labels/BubbleXYItemLabelGenerator.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.clone
+after post processing ......
+org/jfree/chart/labels/BubbleXYItemLabelGenerator.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.clone
+perfect match

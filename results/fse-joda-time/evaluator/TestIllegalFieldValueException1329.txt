@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestIllegalFieldValueException.testSetText:156
+Methods call in assertion: [org/joda/time/IllegalFieldValueException.getIllegalNumberValue]
+org/joda/time/chrono/GJEraDateTimeField.set
+org/joda/time/chrono/GJLocaleSymbols.eraTextToValue
+org/joda/time/chrono/GJLocaleSymbols.forLocale
+org/joda/time/DateTimeUtils.getDateFormatSymbols
+org/joda/time/IllegalFieldValueException.getIllegalNumberValue
+top 10 recommendations: 
+org/joda/time/chrono/GJEraDateTimeField.set
+org/joda/time/chrono/GJLocaleSymbols.eraTextToValue
+org/joda/time/chrono/GJLocaleSymbols.forLocale
+org/joda/time/DateTimeUtils.getDateFormatSymbols
+org/joda/time/IllegalFieldValueException.getIllegalNumberValue
+after post processing ......
+org/joda/time/chrono/GJEraDateTimeField.set
+org/joda/time/chrono/GJLocaleSymbols.eraTextToValue
+org/joda/time/chrono/GJLocaleSymbols.forLocale
+org/joda/time/DateTimeUtils.getDateFormatSymbols
+org/joda/time/IllegalFieldValueException.getIllegalNumberValue
+found in top 10

@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.RangeTest.testIsAfterRange:357
+Methods call in assertion: [org/apache/commons/lang3/Range.isAfterRange, org/apache/commons/lang3/Range.between]
+org/apache/commons/lang3/Range.isAfterRange
+org/apache/commons/lang3/Range.isAfter
+org/apache/commons/lang3/Range.between
+top 10 recommendations: 
+org/apache/commons/lang3/Range.isAfterRange
+org/apache/commons/lang3/Range.isAfter
+org/apache/commons/lang3/Range.between
+after post processing ......
+org/apache/commons/lang3/Range.isAfterRange
+org/apache/commons/lang3/Range.isAfter
+org/apache/commons/lang3/Range.between
+found in top 10

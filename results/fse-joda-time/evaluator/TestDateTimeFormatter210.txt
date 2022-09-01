@@ -1,0 +1,51 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2016:601
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.parseLocalDate]
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/LocalDate.compareTo
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.equals
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/format/DateTimeFormatterBuilder.appendSignedDecimal
+org/joda/time/format/DateTimeFormatterBuilder.appendWeekOfWeekyear
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/chrono/GJCacheKey.hashCode
+org/joda/time/format/DateTimeFormatter.parseLocalDate
+org/joda/time/chrono/GJChronology.getInstanceUTC
+top 10 recommendations: 
+org/joda/time/chrono/GJChronology.getInstanceUTC
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/format/DateTimeFormatterBuilder.appendWeekOfWeekyear
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/LocalDate.compareTo
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.equals
+after post processing ......
+org/joda/time/chrono/GJChronology.getInstanceUTC
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/format/DateTimeFormatterBuilder.appendWeekOfWeekyear
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/LocalDate.compareTo
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.equals
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/format/DateTimeFormatterBuilder.appendSignedDecimal
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/chrono/GJCacheKey.hashCode
+org/joda/time/format/DateTimeFormatter.parseLocalDate
+all method calls are suggested

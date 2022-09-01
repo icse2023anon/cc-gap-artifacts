@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.LegendItemTest.testCloning:355
+Methods call in assertion: [org/jfree/chart/LegendItem.getDataset]
+org/jfree/chart/LegendItem.clone
+org/jfree/chart/LegendItem.getDataset
+top 10 recommendations: 
+org/jfree/chart/LegendItem.clone
+org/jfree/chart/LegendItem.getDataset
+after post processing ......
+org/jfree/chart/LegendItem.clone
+org/jfree/chart/LegendItem.getDataset
+found in top 10

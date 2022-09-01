@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testToStringAndWithCommentMarkerTakingCharacter:550
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.isEscapeCharacterSet]
+org/apache/commons/csv/CSVFormat.withCommentMarker
+org/apache/commons/csv/CSVFormat.isEscapeCharacterSet
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.withCommentMarker
+org/apache/commons/csv/CSVFormat.isEscapeCharacterSet
+after post processing ......
+org/apache/commons/csv/CSVFormat.withCommentMarker
+org/apache/commons/csv/CSVFormat.isEscapeCharacterSet
+found in top 10

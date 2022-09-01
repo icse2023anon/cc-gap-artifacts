@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.axis.CategoryTickTest.testEquals:102
+Methods call in assertion: [org/jfree/chart/axis/CategoryTick.equals]
+org/jfree/chart/axis/CategoryTick.equals
+top 10 recommendations: 
+org/jfree/chart/axis/CategoryTick.equals
+after post processing ......
+org/jfree/chart/axis/CategoryTick.equals
+perfect match

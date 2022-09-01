@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsStartsEndsWithTest.testStartsWith:65
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.startsWith]
+org/apache/commons/lang3/StringUtils.startsWith
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.startsWith
+after post processing ......
+org/apache/commons/lang3/StringUtils.startsWith
+perfect match

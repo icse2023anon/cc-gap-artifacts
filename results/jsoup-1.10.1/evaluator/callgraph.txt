@@ -1,0 +1,3965 @@
+org/jsoup/select/Evaluator$AttributeWithValueStarting.matches may call:
+	org/jsoup/nodes/Element.attr
+	org/jsoup/nodes/Element.hasAttr
+org/jsoup/nodes/DataNode.setWholeData may call:
+	org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Entities.codepointsForName may call:
+	org/jsoup/nodes/Entities$EscapeMode.codepointForName
+org/jsoup/parser/Tag.<clinit> may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/parser/Tag.register
+	org/jsoup/parser/Tag.<init>
+org/jsoup/select/NodeTraversor.traverse may call:
+	org/jsoup/select/NodeVisitor.head
+	org/jsoup/nodes/Node.parentNode
+	org/jsoup/nodes/Node.childNode
+	org/jsoup/nodes/Node.nextSibling
+	org/jsoup/select/NodeVisitor.tail
+	org/jsoup/nodes/Node.childNodeSize
+org/jsoup/select/Evaluator$IndexLessThan.matches may call:
+	org/jsoup/nodes/Element.elementSiblingIndex
+org/jsoup/helper/HttpConnection.get may call:
+	org/jsoup/Connection$Response.parse
+	org/jsoup/Connection$Request.method
+	org/jsoup/helper/HttpConnection.execute
+org/jsoup/helper/HttpConnection$Response$1.<init> may call:
+org/jsoup/nodes/Element.val may call:
+	org/jsoup/nodes/Element.tagName
+	org/jsoup/nodes/Element.attr
+	org/jsoup/nodes/Element.text
+org/jsoup/parser/TokeniserState$31.read may call:
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/select/Evaluator$AttributeWithValue.matches may call:
+	org/jsoup/nodes/Element.attr
+	org/jsoup/nodes/Element.hasAttr
+org/jsoup/nodes/Attribute.html may call:
+	org/jsoup/nodes/Document.<init>
+	org/jsoup/nodes/Attribute.shouldCollapseAttribute
+	org/jsoup/nodes/Document.outputSettings
+	org/jsoup/SerializationException.<init>
+	org/jsoup/nodes/Attribute.html
+	org/jsoup/nodes/Entities.escape
+org/jsoup/helper/DataUtil.crossStreams may call:
+org/jsoup/parser/TokeniserState$61.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/nodes/Element.getElementsMatchingText may call:
+	org/jsoup/select/Evaluator$Matches.<init>
+	org/jsoup/select/Collector.collect
+	org/jsoup/nodes/Element.getElementsMatchingText
+org/jsoup/nodes/Element.outerHtmlHead may call:
+	org/jsoup/parser/Tag.isSelfClosing
+	org/jsoup/nodes/Element.tagName
+	org/jsoup/parser/Tag.formatAsBlock
+	org/jsoup/nodes/Attributes.html
+	org/jsoup/nodes/Document$OutputSettings.outline
+	org/jsoup/nodes/Element.indent
+	org/jsoup/nodes/Document$OutputSettings.prettyPrint
+	org/jsoup/nodes/Document$OutputSettings.syntax
+	org/jsoup/nodes/Element.tag
+	org/jsoup/nodes/Element.parent
+	org/jsoup/parser/Tag.isEmpty
+org/jsoup/parser/HtmlTreeBuilderState$5.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/parser/HtmlTreeBuilder.maybeSetBaseUri may call:
+	org/jsoup/nodes/Element.absUrl
+	org/jsoup/nodes/Document.setBaseUri
+java/lang/Object.toString may call:
+org/jsoup/helper/W3CDom.asString may call:
+	javax/xml/transform/TransformerFactory.newTransformer
+	javax/xml/transform/Transformer.transform
+	javax/xml/transform/stream/StreamResult.<init>
+	javax/xml/transform/TransformerFactory.newInstance
+	javax/xml/transform/dom/DOMSource.<init>
+org/jsoup/nodes/DataNode.<init> may call:
+	org/jsoup/nodes/Attributes.put
+	org/jsoup/nodes/Node.<init>
+org/jsoup/parser/TokeniserState$47.read may call:
+	org/jsoup/parser/Tokeniser.emitCommentPending
+	org/jsoup/parser/CharacterReader.current
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.consumeToAny
+	org/jsoup/parser/CharacterReader.advance
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/select/Evaluator$AttributeKeyPair.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/select/QueryParser.not may call:
+	org/jsoup/select/QueryParser.parse
+	org/jsoup/select/StructuralEvaluator$Not.<init>
+	org/jsoup/helper/Validate.notEmpty
+	org/jsoup/parser/TokenQueue.consume
+	org/jsoup/parser/TokenQueue.chompBalanced
+org/jsoup/safety/Whitelist$Protocol.<init> may call:
+	org/jsoup/safety/Whitelist$TypedValue.<init>
+org/jsoup/nodes/Element.access$000 may call:
+	org/jsoup/nodes/Element.appendNormalisedText
+org/jsoup/select/Evaluator$IsFirstOfType.<init> may call:
+	org/jsoup/select/Evaluator$IsNthOfType.<init>
+org/jsoup/parser/Token$StartTag.reset may call:
+	org/jsoup/nodes/Attributes.<init>
+	org/jsoup/parser/Token$Tag.reset
+	org/jsoup/parser/Token$StartTag.reset
+org/jsoup/parser/Token$Comment.reset may call:
+	org/jsoup/parser/Token$Comment.reset
+org/jsoup/parser/TokeniserState$14.read may call:
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.createTempBuffer
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/CharacterReader.matches
+org/jsoup/parser/HtmlTreeBuilder.insertForm may call:
+	org/jsoup/parser/HtmlTreeBuilder.setFormElement
+	org/jsoup/parser/Token$StartTag.name
+	org/jsoup/parser/Tag.valueOf
+	org/jsoup/nodes/FormElement.<init>
+	org/jsoup/parser/HtmlTreeBuilder.insertNode
+org/jsoup/helper/HttpConnection$Response.<init> may call:
+	org/jsoup/helper/HttpConnection$Response.url
+	org/jsoup/helper/HttpConnection$Base.<init>
+org/jsoup/select/Evaluator$Attribute.matches may call:
+	org/jsoup/nodes/Element.hasAttr
+org/jsoup/nodes/Attribute.isDataAttribute may call:
+org/jsoup/safety/Whitelist$TypedValue.<init> may call:
+	org/jsoup/helper/Validate.notNull
+org/jsoup/select/CombiningEvaluator.rightMostEvaluator may call:
+org/jsoup/HttpStatusException.toString may call:
+org/jsoup/parser/CharacterReader.matches may call:
+	org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/Tokeniser.isAppropriateEndTagToken may call:
+	org/jsoup/parser/Token$Tag.name
+org/jsoup/parser/Parser.parseInput may call:
+	org/jsoup/parser/Parser.isTrackErrors
+	org/jsoup/parser/ParseErrorList.noTracking
+	org/jsoup/parser/ParseErrorList.tracking
+	org/jsoup/parser/TreeBuilder.parse
+org/jsoup/select/Evaluator$ContainsOwnText.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/parser/TokenQueue.remainingLength may call:
+org/jsoup/select/QueryParser.findElements may call:
+	org/jsoup/select/QueryParser.matches
+	org/jsoup/select/QueryParser.byTag
+	org/jsoup/select/Evaluator$IsRoot.<init>
+	org/jsoup/select/Evaluator$IsOnlyOfType.<init>
+	org/jsoup/parser/TokenQueue.matchChomp
+	org/jsoup/select/QueryParser.byId
+	org/jsoup/select/QueryParser.byAttribute
+	org/jsoup/select/QueryParser.indexLessThan
+	org/jsoup/select/QueryParser.allElements
+	org/jsoup/select/Evaluator$IsOnlyChild.<init>
+	org/jsoup/select/Evaluator$IsLastChild.<init>
+	org/jsoup/select/QueryParser.not
+	org/jsoup/parser/TokenQueue.matchesWord
+	org/jsoup/select/QueryParser.contains
+	org/jsoup/select/Evaluator$IsEmpty.<init>
+	org/jsoup/select/QueryParser.indexEquals
+	org/jsoup/select/Evaluator$IsFirstOfType.<init>
+	org/jsoup/select/QueryParser.indexGreaterThan
+	org/jsoup/select/QueryParser.has
+	org/jsoup/parser/TokenQueue.matches
+	org/jsoup/select/Evaluator$IsFirstChild.<init>
+	org/jsoup/parser/TokenQueue.remainder
+	org/jsoup/select/QueryParser.byClass
+	org/jsoup/select/Evaluator$IsLastOfType.<init>
+	org/jsoup/select/QueryParser.cssNthChild
+	org/jsoup/select/Selector$SelectorParseException.<init>
+org/jsoup/nodes/Node$OuterHtmlVisitor.head may call:
+	org/jsoup/nodes/Node.outerHtmlHead
+	org/jsoup/SerializationException.<init>
+org/jsoup/parser/ParseErrorList.noTracking may call:
+	org/jsoup/parser/ParseErrorList.<init>
+org/jsoup/nodes/Document.text may call:
+	org/jsoup/nodes/Document.body
+	org/jsoup/nodes/Element.text
+org/jsoup/helper/StringUtil.in may call:
+org/jsoup/select/Evaluator$AttributeWithValueEnding.<init> may call:
+	org/jsoup/select/Evaluator$AttributeKeyPair.<init>
+org/jsoup/parser/Token$TokenType.<init> may call:
+org/jsoup/nodes/Attribute.createFromEncoded may call:
+	org/jsoup/nodes/Entities.unescape
+	org/jsoup/nodes/Attribute.<init>
+org/jsoup/parser/TokeniserState$58.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/helper/HttpConnection$Request.headers may call:
+	org/jsoup/helper/HttpConnection$Base.headers
+org/jsoup/parser/Token$TokenType.values may call:
+	[Lorg/jsoup/parser/Token$TokenType;.clone
+org/jsoup/nodes/Attribute.shouldCollapseAttribute may call:
+	org/jsoup/nodes/Document$OutputSettings.syntax
+	org/jsoup/nodes/Attribute.isBooleanAttribute
+org/jsoup/parser/TokeniserState.readEndTag may call:
+	org/jsoup/parser/CharacterReader.matchesLetter
+	org/jsoup/parser/Tokeniser.createTagPending
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/Tokeniser.emit
+org/jsoup/select/Elements.remove may call:
+	org/jsoup/nodes/Element.remove
+	org/jsoup/select/Elements.iterator
+org/jsoup/parser/TokeniserState$31.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/nodes/BooleanAttribute.<init> may call:
+	org/jsoup/nodes/Attribute.<init>
+org/jsoup/nodes/Element.ownText may call:
+	org/jsoup/nodes/Element.ownText
+	org/jsoup/nodes/Element.appendNormalisedText
+	org/jsoup/nodes/Element.appendWhitespaceIfBr
+org/jsoup/parser/TokeniserState$20.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/select/CombiningEvaluator$Or.matches may call:
+	org/jsoup/select/Evaluator.matches
+org/jsoup/nodes/Document.createShell may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Document.<init>
+	org/jsoup/nodes/Element.appendElement
+	org/jsoup/nodes/Document.appendElement
+org/jsoup/parser/TokeniserState$42.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/select/QueryParser.has may call:
+	org/jsoup/select/QueryParser.parse
+	org/jsoup/select/StructuralEvaluator$Has.<init>
+	org/jsoup/helper/Validate.notEmpty
+	org/jsoup/parser/TokenQueue.consume
+	org/jsoup/parser/TokenQueue.chompBalanced
+org/jsoup/helper/HttpConnection$KeyVal.create may call:
+	org/jsoup/helper/HttpConnection$KeyVal.key
+	org/jsoup/helper/HttpConnection$KeyVal.inputStream
+	org/jsoup/helper/HttpConnection$KeyVal.<init>
+	org/jsoup/helper/HttpConnection$KeyVal.value
+org/jsoup/parser/TokeniserState$39.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/nodes/Attribute.hashCode may call:
+org/jsoup/helper/HttpConnection$Request.parser may call:
+	org/jsoup/helper/HttpConnection$Request.parser
+org/jsoup/parser/CharacterReader.consumeTo may call:
+	org/jsoup/parser/CharacterReader.cacheString
+	org/jsoup/parser/CharacterReader.nextIndexOf
+	org/jsoup/parser/CharacterReader.consumeToEnd
+org/jsoup/parser/TokeniserState$28.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/Parser.parse may call:
+	org/jsoup/parser/ParseErrorList.noTracking
+	org/jsoup/parser/HtmlTreeBuilder.<init>
+	org/jsoup/parser/TreeBuilder.defaultSettings
+	org/jsoup/parser/TreeBuilder.parse
+org/jsoup/parser/HtmlTreeBuilderState$6.anythingElse may call:
+	org/jsoup/parser/HtmlTreeBuilder.processStartTag
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/HtmlTreeBuilder.framesetOk
+org/jsoup/nodes/TextNode.attr may call:
+	org/jsoup/nodes/TextNode.ensureAttributes
+	org/jsoup/nodes/Node.attr
+org/jsoup/parser/HtmlTreeBuilderState$12.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/Token.asComment
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/HtmlTreeBuilder.currentElement
+	org/jsoup/parser/HtmlTreeBuilderState.access$100
+	org/jsoup/parser/Token$TokenType.ordinal
+	org/jsoup/parser/Token$StartTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.pop
+	org/jsoup/parser/HtmlTreeBuilder.insertEmpty
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/parser/Token.asCharacter
+	org/jsoup/nodes/Element.nodeName
+	org/jsoup/parser/HtmlTreeBuilderState$12.anythingElse
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/Token.asStartTag
+org/jsoup/nodes/Element.removeClass may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Element.classNames
+org/jsoup/parser/TokeniserState$17.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/select/QueryParser.combinator may call:
+	org/jsoup/select/CombiningEvaluator$Or.add
+	org/jsoup/select/StructuralEvaluator$ImmediatePreviousSibling.<init>
+	org/jsoup/select/QueryParser.parse
+	org/jsoup/select/StructuralEvaluator$Parent.<init>
+	org/jsoup/select/CombiningEvaluator$Or.<init>
+	org/jsoup/select/StructuralEvaluator$PreviousSibling.<init>
+	org/jsoup/select/CombiningEvaluator$Or.replaceRightMostEvaluator
+	org/jsoup/select/QueryParser.consumeSubQuery
+	org/jsoup/select/CombiningEvaluator$Or.rightMostEvaluator
+	org/jsoup/parser/TokenQueue.consumeWhitespace
+	org/jsoup/select/CombiningEvaluator$And.<init>
+	org/jsoup/select/StructuralEvaluator$ImmediateParent.<init>
+	org/jsoup/select/Selector$SelectorParseException.<init>
+org/jsoup/helper/HttpConnection.execute may call:
+	org/jsoup/helper/HttpConnection$Response.execute
+org/jsoup/nodes/Element.tagName may call:
+	org/jsoup/parser/Tag.valueOf
+	org/jsoup/parser/Tag.getName
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/select/Evaluator$IsOnlyOfType.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/parser/TokeniserState$23.read may call:
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/CharacterReader.isEmpty
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/Tokeniser.emit
+org/jsoup/select/Evaluator$Tag.matches may call:
+	org/jsoup/nodes/Element.tagName
+org/jsoup/parser/TreeBuilder.<init> may call:
+	org/jsoup/parser/Token$StartTag.<init>
+	org/jsoup/parser/Token$EndTag.<init>
+org/jsoup/parser/TokeniserState$38.read may call:
+	org/jsoup/parser/Tokeniser.consumeCharacterReference
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.consumeToAny
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Token$Tag.appendAttributeValue
+	org/jsoup/parser/Token$Tag.setEmptyAttributeValue
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/TokeniserState.access$800
+org/jsoup/Jsoup.parseBodyFragment may call:
+	org/jsoup/parser/Parser.parseBodyFragment
+org/jsoup/parser/Tokeniser.<init> may call:
+	org/jsoup/parser/Token$Comment.<init>
+	org/jsoup/parser/Token$StartTag.<init>
+	org/jsoup/parser/Token$EndTag.<init>
+	org/jsoup/parser/Token$Character.<init>
+	org/jsoup/parser/Token$Doctype.<init>
+org/jsoup/parser/HtmlTreeBuilderState.handleRcData may call:
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/parser/HtmlTreeBuilder.markInsertionMode
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/parser/HtmlTreeBuilderState$18.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/Token.asComment
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/HtmlTreeBuilderState.access$100
+	org/jsoup/parser/Token.isComment
+	org/jsoup/parser/Token$StartTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/parser/Token.isEndTag
+	org/jsoup/parser/Token.isStartTag
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.isFragmentParsing
+	org/jsoup/parser/Token.isEOF
+	org/jsoup/parser/Token.asStartTag
+	org/jsoup/parser/Token.isDoctype
+org/jsoup/examples/HtmlToPlainText$FormattingVisitor.tail may call:
+	org/jsoup/nodes/Node.absUrl
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/examples/HtmlToPlainText$FormattingVisitor.append
+	org/jsoup/nodes/Node.nodeName
+org/jsoup/select/Evaluator$Matches.matches may call:
+	org/jsoup/nodes/Element.text
+org/jsoup/nodes/Node.childNodesCopy may call:
+	org/jsoup/nodes/Node.clone
+org/jsoup/parser/XmlTreeBuilder.<init> may call:
+	org/jsoup/parser/TreeBuilder.<init>
+org/jsoup/parser/HtmlTreeBuilder.replaceActiveFormattingElement may call:
+	org/jsoup/parser/HtmlTreeBuilder.replaceInQueue
+org/jsoup/nodes/XmlDeclaration.outerHtmlHead may call:
+	org/jsoup/nodes/Attributes.html
+org/jsoup/parser/TokeniserState$22.read may call:
+	org/jsoup/parser/CharacterReader.current
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/CharacterReader.isEmpty
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.consumeToAny
+	org/jsoup/parser/CharacterReader.advance
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/Tokeniser.emit
+org/jsoup/helper/StringUtil.isBlank may call:
+	org/jsoup/helper/StringUtil.isWhitespace
+org/jsoup/parser/TokeniserState$39.read may call:
+	org/jsoup/parser/Tokeniser.consumeCharacterReference
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.consumeToAny
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/TokeniserState.access$900
+	org/jsoup/parser/Token$Tag.appendAttributeValue
+	org/jsoup/parser/Token$Tag.setEmptyAttributeValue
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/parser/HtmlTreeBuilderState$15.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/HtmlTreeBuilderState$15.closeCell
+	org/jsoup/parser/HtmlTreeBuilder.currentElement
+	org/jsoup/parser/HtmlTreeBuilderState$15.anythingElse
+	org/jsoup/parser/Token$StartTag.normalName
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/parser/Token.isEndTag
+	org/jsoup/parser/HtmlTreeBuilder.clearFormattingElementsToLastMarker
+	org/jsoup/parser/HtmlTreeBuilder.inTableScope
+	org/jsoup/nodes/Element.nodeName
+	org/jsoup/parser/Token.isStartTag
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.popStackToClose
+	org/jsoup/parser/Token.asStartTag
+	org/jsoup/parser/HtmlTreeBuilder.generateImpliedEndTags
+org/jsoup/select/Elements.outerHtml may call:
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Element.outerHtml
+org/jsoup/helper/HttpConnection.access$500 may call:
+	org/jsoup/helper/HttpConnection.encodeMimeName
+org/jsoup/nodes/DocumentType.has may call:
+	org/jsoup/nodes/DocumentType.attr
+	org/jsoup/helper/StringUtil.isBlank
+org/jsoup/parser/TokeniserState.<clinit> may call:
+	org/jsoup/parser/TokeniserState$49.<init>
+	org/jsoup/parser/TokeniserState$47.<init>
+	org/jsoup/parser/TokeniserState$64.<init>
+	org/jsoup/parser/TokeniserState$48.<init>
+	org/jsoup/parser/TokeniserState$63.<init>
+	org/jsoup/parser/TokeniserState$65.<init>
+	org/jsoup/parser/TokeniserState$67.<init>
+	org/jsoup/parser/TokeniserState$60.<init>
+	org/jsoup/parser/TokeniserState$61.<init>
+	org/jsoup/parser/TokeniserState$62.<init>
+	org/jsoup/parser/TokeniserState$66.<init>
+	org/jsoup/parser/TokeniserState$23.<init>
+	org/jsoup/parser/TokeniserState$14.<init>
+	org/jsoup/parser/TokeniserState$30.<init>
+	org/jsoup/parser/TokeniserState$32.<init>
+	org/jsoup/parser/TokeniserState$21.<init>
+	org/jsoup/parser/TokeniserState$25.<init>
+	org/jsoup/parser/TokeniserState$50.<init>
+	org/jsoup/parser/TokeniserState$52.<init>
+	org/jsoup/parser/TokeniserState$43.<init>
+	org/jsoup/parser/TokeniserState$34.<init>
+	org/jsoup/parser/TokeniserState$36.<init>
+	org/jsoup/parser/TokeniserState$41.<init>
+	org/jsoup/parser/TokeniserState$45.<init>
+	org/jsoup/parser/TokeniserState$6.<init>
+	org/jsoup/parser/TokeniserState$38.<init>
+	org/jsoup/parser/TokeniserState$27.<init>
+	org/jsoup/parser/TokeniserState$29.<init>
+	org/jsoup/parser/TokeniserState$2.<init>
+	org/jsoup/parser/TokeniserState$18.<init>
+	org/jsoup/parser/TokeniserState$4.<init>
+	org/jsoup/parser/TokeniserState$8.<init>
+	org/jsoup/parser/TokeniserState$16.<init>
+	org/jsoup/parser/TokeniserState$10.<init>
+	org/jsoup/parser/TokeniserState$12.<init>
+	org/jsoup/parser/TokeniserState$53.<init>
+	org/jsoup/parser/TokeniserState$54.<init>
+	org/jsoup/parser/TokeniserState$55.<init>
+	org/jsoup/parser/TokeniserState$56.<init>
+	org/jsoup/parser/TokeniserState$57.<init>
+	org/jsoup/parser/TokeniserState$58.<init>
+	org/jsoup/parser/TokeniserState$59.<init>
+	org/jsoup/parser/TokeniserState$40.<init>
+	org/jsoup/parser/TokeniserState$15.<init>
+	org/jsoup/parser/TokeniserState$31.<init>
+	org/jsoup/parser/TokeniserState$33.<init>
+	org/jsoup/parser/TokeniserState$20.<init>
+	org/jsoup/parser/TokeniserState$22.<init>
+	org/jsoup/parser/TokeniserState$24.<init>
+	org/jsoup/parser/TokeniserState$51.<init>
+	org/jsoup/parser/TokeniserState$26.<init>
+	org/jsoup/parser/TokeniserState$35.<init>
+	org/jsoup/parser/TokeniserState$44.<init>
+	org/jsoup/parser/TokeniserState$37.<init>
+	org/jsoup/parser/TokeniserState$42.<init>
+	org/jsoup/parser/TokeniserState$46.<init>
+	org/jsoup/parser/TokeniserState$5.<init>
+	org/jsoup/parser/TokeniserState$39.<init>
+	org/jsoup/parser/TokeniserState$28.<init>
+	org/jsoup/parser/TokeniserState$11.<init>
+	org/jsoup/parser/TokeniserState$9.<init>
+	org/jsoup/parser/TokeniserState$1.<init>
+	org/jsoup/parser/TokeniserState$3.<init>
+	org/jsoup/parser/TokeniserState$19.<init>
+	org/jsoup/parser/TokeniserState$7.<init>
+	org/jsoup/parser/TokeniserState$13.<init>
+	org/jsoup/parser/TokeniserState$17.<init>
+org/jsoup/select/Evaluator$IsFirstChild.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/select/QueryParser.byClass may call:
+	org/jsoup/parser/TokenQueue.consumeCssIdentifier
+	org/jsoup/select/Evaluator$Class.<init>
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/parser/Token$Tag.appendTagName may call:
+	org/jsoup/parser/Token$Tag.appendTagName
+org/jsoup/nodes/Element$1.head may call:
+	org/jsoup/nodes/Element.access$000
+	org/jsoup/nodes/Element.access$100
+	org/jsoup/parser/Tag.getName
+	org/jsoup/nodes/TextNode.lastCharIsWhitespace
+	org/jsoup/nodes/Element.isBlock
+org/jsoup/parser/TokeniserState$7.read may call:
+	org/jsoup/parser/CharacterReader.current
+	org/jsoup/parser/CharacterReader.consumeTo
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Token$EOF.<init>
+	org/jsoup/parser/CharacterReader.advance
+	org/jsoup/parser/Tokeniser.emit
+org/jsoup/parser/TokeniserState$4.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/safety/Whitelist.addTags may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/safety/Whitelist$TagName.valueOf
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/parser/TokeniserState$12.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/XmlTreeBuilder.insertNode may call:
+	org/jsoup/parser/XmlTreeBuilder.currentElement
+	org/jsoup/nodes/Element.appendChild
+org/jsoup/helper/HttpConnection$Base.hasHeader may call:
+	org/jsoup/helper/HttpConnection$Base.getHeaderCaseInsensitive
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/nodes/Attributes.dataKey may call:
+org/jsoup/nodes/Element.hasText may call:
+	org/jsoup/nodes/Element.hasText
+	org/jsoup/nodes/TextNode.isBlank
+org/jsoup/select/Evaluator$IsRoot.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/helper/HttpConnection$Response.headers may call:
+	org/jsoup/helper/HttpConnection$Base.headers
+org/jsoup/examples/HtmlToPlainText.main may call:
+	org/jsoup/Connection.timeout
+	org/jsoup/Connection.get
+	org/jsoup/helper/Validate.isTrue
+	org/jsoup/Connection.userAgent
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Document.select
+	org/jsoup/examples/HtmlToPlainText.getPlainText
+	org/jsoup/Jsoup.connect
+	org/jsoup/examples/HtmlToPlainText.<init>
+org/jsoup/helper/Validate.isTrue may call:
+org/jsoup/nodes/Entities.canEncode may call:
+	org/jsoup/nodes/Entities$CoreCharset.ordinal
+org/jsoup/parser/Token.<init> may call:
+	org/jsoup/parser/Token.<init>
+org/jsoup/nodes/TextNode.isBlank may call:
+	org/jsoup/nodes/TextNode.getWholeText
+	org/jsoup/helper/StringUtil.isBlank
+org/jsoup/nodes/TextNode.absUrl may call:
+	org/jsoup/nodes/Node.absUrl
+	org/jsoup/nodes/TextNode.ensureAttributes
+org/jsoup/parser/Tag.hashCode may call:
+org/jsoup/parser/XmlTreeBuilder.popStackToClose may call:
+	org/jsoup/nodes/Element.nodeName
+	org/jsoup/parser/Token$EndTag.name
+org/jsoup/safety/Whitelist.isValidAnchor may call:
+org/jsoup/parser/CharacterReader.<init> may call:
+	org/jsoup/helper/Validate.notNull
+org/jsoup/parser/Token$Comment.toString may call:
+	org/jsoup/parser/Token$Comment.getData
+org/jsoup/select/Evaluator$MatchesOwn.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/nodes/Node.hasSameValue may call:
+	org/jsoup/nodes/Node.outerHtml
+org/jsoup/helper/HttpConnection$Base.url may call:
+	org/jsoup/helper/Validate.notNull
+org/jsoup/nodes/Entities$CoreCharset.valueOf may call:
+org/jsoup/parser/Token$Comment.<init> may call:
+	org/jsoup/parser/Token.<init>
+org/jsoup/parser/TreeBuilder.runParser may call:
+	org/jsoup/parser/Token.reset
+	org/jsoup/parser/TreeBuilder.process
+	org/jsoup/parser/Tokeniser.read
+org/jsoup/parser/HtmlTreeBuilderState$15.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/parser/CharacterReader.consumeData may call:
+	org/jsoup/parser/CharacterReader.cacheString
+org/jsoup/parser/HtmlTreeBuilderState.access$300 may call:
+	org/jsoup/parser/HtmlTreeBuilderState.handleRawtext
+org/jsoup/parser/Tokeniser.createTempBuffer may call:
+	org/jsoup/parser/Token.reset
+org/jsoup/nodes/Node.removeChild may call:
+	org/jsoup/helper/Validate.isTrue
+	org/jsoup/nodes/Node.reindexChildren
+org/jsoup/nodes/Document.head may call:
+	org/jsoup/nodes/Document.findFirstElementByTagName
+org/jsoup/nodes/TextNode.attributes may call:
+	org/jsoup/nodes/TextNode.ensureAttributes
+	org/jsoup/nodes/Node.attributes
+org/jsoup/parser/TokeniserState$7.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/CharacterReader.consumeLetterThenDigitSequence may call:
+	org/jsoup/parser/CharacterReader.cacheString
+	org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/safety/Whitelist$AttributeKey.valueOf may call:
+	org/jsoup/safety/Whitelist$AttributeKey.<init>
+org/jsoup/parser/HtmlTreeBuilderState$2.anythingElse may call:
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/HtmlTreeBuilder.insertStartTag
+org/jsoup/nodes/Node.addSiblingHtml may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Node.parent
+	org/jsoup/nodes/Node.baseUri
+	org/jsoup/nodes/Node.addChildren
+	org/jsoup/parser/Parser.parseFragment
+org/jsoup/nodes/Document$QuirksMode.<clinit> may call:
+	org/jsoup/nodes/Document$QuirksMode.<init>
+org/jsoup/nodes/Element.clone may call:
+	org/jsoup/nodes/Element.clone
+	org/jsoup/nodes/Node.clone
+org/jsoup/parser/TokenQueue.matchChomp may call:
+	org/jsoup/parser/TokenQueue.matches
+org/jsoup/parser/ParseSettings.normalizeTag may call:
+org/jsoup/parser/HtmlTreeBuilder.clearStackToTableBodyContext may call:
+	org/jsoup/parser/HtmlTreeBuilder.clearStackToContext
+org/jsoup/parser/TokeniserState$46.read may call:
+	org/jsoup/parser/Tokeniser.emitCommentPending
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/parser/ParseError.toString may call:
+org/jsoup/safety/Cleaner.createSafeElement may call:
+	org/jsoup/nodes/Attributes.put
+	org/jsoup/safety/Whitelist.getEnforcedAttributes
+	org/jsoup/nodes/Attributes.<init>
+	org/jsoup/nodes/Element.tagName
+	org/jsoup/nodes/Element.baseUri
+	org/jsoup/parser/Tag.valueOf
+	org/jsoup/nodes/Element.attributes
+	org/jsoup/nodes/Element.<init>
+	org/jsoup/nodes/Attributes.addAll
+	org/jsoup/nodes/Attributes.iterator
+	org/jsoup/safety/Whitelist.isSafeAttribute
+	org/jsoup/safety/Cleaner$ElementMeta.<init>
+org/jsoup/parser/HtmlTreeBuilder.insertNode may call:
+	org/jsoup/parser/HtmlTreeBuilder.isFosterInserts
+	org/jsoup/parser/HtmlTreeBuilder.currentElement
+	org/jsoup/nodes/Document.appendChild
+	org/jsoup/nodes/FormElement.addElement
+	org/jsoup/parser/HtmlTreeBuilder.insertInFosterParent
+	org/jsoup/parser/Tag.isFormListed
+	org/jsoup/nodes/Element.tag
+	org/jsoup/nodes/Element.appendChild
+org/jsoup/nodes/Entities$CoreCharset.<clinit> may call:
+	org/jsoup/nodes/Entities$CoreCharset.<init>
+org/jsoup/parser/TokeniserState$64.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/helper/HttpConnection.encodeUrl may call:
+org/jsoup/select/Evaluator$AttributeWithValueNot.matches may call:
+	org/jsoup/nodes/Element.attr
+org/jsoup/nodes/Entities.access$000 may call:
+	org/jsoup/nodes/Entities.load
+org/jsoup/select/Evaluator$Matches.toString may call:
+org/jsoup/parser/TokeniserState$29.read may call:
+	org/jsoup/parser/CharacterReader.current
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.consumeToAny
+	org/jsoup/parser/CharacterReader.advance
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/parser/Tokeniser.createDoctypePending may call:
+	org/jsoup/parser/Token$Doctype.reset
+org/jsoup/select/Evaluator$IsNthOfType.calculatePosition may call:
+	org/jsoup/nodes/Element.children
+	org/jsoup/parser/Tag.equals
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Element.tag
+	org/jsoup/nodes/Element.parent
+org/jsoup/parser/TokeniserState$25.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/TokeniserState$36.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/select/StructuralEvaluator$Has.<init> may call:
+	org/jsoup/select/StructuralEvaluator.<init>
+org/jsoup/select/Elements.traverse may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/select/NodeTraversor.<init>
+	org/jsoup/select/Elements.iterator
+	org/jsoup/select/NodeTraversor.traverse
+org/jsoup/nodes/Element.getElementsByAttributeValueContaining may call:
+	org/jsoup/select/Collector.collect
+	org/jsoup/select/Evaluator$AttributeWithValueContaining.<init>
+org/jsoup/nodes/Attributes$Dataset.entrySet may call:
+	org/jsoup/nodes/Attributes$Dataset$EntrySet.<init>
+org/jsoup/nodes/Element.empty may call:
+org/jsoup/parser/HtmlTreeBuilderState$10.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/select/Evaluator$AttributeWithValueMatching.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/select/StructuralEvaluator$PreviousSibling.toString may call:
+org/jsoup/parser/Tokeniser.eofError may call:
+	org/jsoup/parser/ParseErrorList.canAddError
+	org/jsoup/parser/ParseError.<init>
+	org/jsoup/parser/ParseErrorList.add
+	org/jsoup/parser/CharacterReader.pos
+org/jsoup/parser/HtmlTreeBuilderState$12.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/parser/HtmlTreeBuilderState$21.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/parser/HtmlTreeBuilderState$23.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/examples/HtmlToPlainText$FormattingVisitor.<init> may call:
+	org/jsoup/examples/HtmlToPlainText$FormattingVisitor.<init>
+org/jsoup/nodes/Element.child may call:
+	org/jsoup/nodes/Element.children
+	org/jsoup/select/Elements.get
+org/jsoup/select/QueryParser.byTag may call:
+	org/jsoup/select/CombiningEvaluator$Or.<init>
+	org/jsoup/parser/TokenQueue.consumeElementSelector
+	org/jsoup/select/Evaluator$Tag.<init>
+	org/jsoup/helper/Validate.notEmpty
+	org/jsoup/select/Evaluator$TagEndsWith.<init>
+org/jsoup/select/StructuralEvaluator$Root.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/nodes/Document.createElement may call:
+	org/jsoup/parser/Tag.valueOf
+	org/jsoup/nodes/Element.<init>
+	org/jsoup/nodes/Document.baseUri
+org/jsoup/helper/DataUtil.parseByteData may call:
+	org/jsoup/parser/Parser.parseInput
+	org/jsoup/nodes/Document.outputSettings
+	org/jsoup/nodes/Document$OutputSettings.charset
+	org/jsoup/helper/DataUtil.detectCharsetFromBom
+	org/jsoup/nodes/XmlDeclaration.name
+	org/jsoup/nodes/XmlDeclaration.attr
+	org/jsoup/helper/DataUtil.validateCharset
+	org/jsoup/helper/DataUtil.getCharsetFromContentType
+	org/jsoup/nodes/Element.attr
+	org/jsoup/nodes/Document.childNode
+	org/jsoup/nodes/Element.hasAttr
+	org/jsoup/nodes/Document.select
+	org/jsoup/select/Elements.first
+	org/jsoup/nodes/Document.childNodeSize
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/safety/Whitelist.basic may call:
+	org/jsoup/safety/Whitelist.<init>
+	org/jsoup/safety/Whitelist.addAttributes
+	org/jsoup/safety/Whitelist.addEnforcedAttribute
+	org/jsoup/safety/Whitelist.addTags
+	org/jsoup/safety/Whitelist.addProtocols
+org/jsoup/nodes/Node.childNodeSize may call:
+org/jsoup/select/Evaluator$IndexLessThan.toString may call:
+org/jsoup/parser/TokeniserState$6.read may call:
+	org/jsoup/parser/TokeniserState.access$200
+org/jsoup/parser/Tokeniser.characterReferenceError may call:
+	org/jsoup/parser/ParseErrorList.canAddError
+	org/jsoup/parser/ParseError.<init>
+	org/jsoup/parser/ParseErrorList.add
+	org/jsoup/parser/CharacterReader.pos
+org/jsoup/parser/Tokeniser.unescapeEntities may call:
+	org/jsoup/parser/Tokeniser.consumeCharacterReference
+	org/jsoup/parser/CharacterReader.consumeTo
+	org/jsoup/parser/CharacterReader.isEmpty
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/CharacterReader.matches
+org/jsoup/parser/TokeniserState$56.read may call:
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.emitDoctypePending
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/parser/Token$TokenType.<clinit> may call:
+	org/jsoup/parser/Token$TokenType.<init>
+org/jsoup/parser/TokeniserState$53.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/Token$Tag.reset may call:
+	org/jsoup/parser/Token$Tag.reset
+org/jsoup/nodes/Attribute.clone may call:
+	org/jsoup/nodes/Attribute.clone
+org/jsoup/parser/ParseErrorList.<init> may call:
+org/jsoup/nodes/Element.appendChild may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Element.reparentChild
+	org/jsoup/nodes/Element.ensureChildNodes
+	org/jsoup/nodes/Node.setSiblingIndex
+org/jsoup/helper/HttpConnection$Base.hasCookie may call:
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/parser/TokenQueue.chompTo may call:
+	org/jsoup/parser/TokenQueue.matchChomp
+	org/jsoup/parser/TokenQueue.consumeTo
+org/jsoup/parser/TreeBuilder.processStartTag may call:
+	org/jsoup/parser/Token$StartTag.nameAttr
+	org/jsoup/parser/Token$StartTag.<init>
+	org/jsoup/parser/Token$StartTag.name
+	org/jsoup/parser/TreeBuilder.process
+	org/jsoup/parser/Token$Tag.name
+	org/jsoup/parser/Token$StartTag.reset
+org/jsoup/parser/HtmlTreeBuilderState.access$100 may call:
+	org/jsoup/parser/HtmlTreeBuilderState.isWhitespace
+org/jsoup/helper/W3CDom.convert may call:
+	org/jsoup/helper/W3CDom$W3CBuilder.<init>
+	org/jsoup/nodes/Document.child
+	org/jsoup/helper/StringUtil.isBlank
+	org/jsoup/nodes/Document.location
+	org/jsoup/select/NodeTraversor.<init>
+	org/w3c/dom/Document.setDocumentURI
+	org/jsoup/select/NodeTraversor.traverse
+org/jsoup/nodes/Element.prependText may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/TextNode.<init>
+	org/jsoup/nodes/Element.baseUri
+	org/jsoup/nodes/Element.prependChild
+org/jsoup/nodes/Document$QuirksMode.values may call:
+	[Lorg/jsoup/nodes/Document$QuirksMode;.clone
+org/jsoup/helper/HttpConnection.referrer may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/Connection$Request.header
+org/jsoup/select/Evaluator$IsOnlyChild.matches may call:
+	org/jsoup/select/Elements.size
+	org/jsoup/nodes/Element.siblingElements
+	org/jsoup/nodes/Element.parent
+org/jsoup/nodes/Element.nextElementSibling may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Element.children
+	org/jsoup/nodes/Element.parent
+	org/jsoup/nodes/Element.indexInList
+org/jsoup/parser/TokeniserState$54.read may call:
+	org/jsoup/parser/CharacterReader.matchConsumeIgnoreCase
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/CharacterReader.isEmpty
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.emitDoctypePending
+	org/jsoup/parser/CharacterReader.matchesAny
+	org/jsoup/parser/CharacterReader.advance
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/CharacterReader.matches
+org/jsoup/nodes/TextNode.normaliseWhitespace may call:
+	org/jsoup/helper/StringUtil.normaliseWhitespace
+org/jsoup/parser/ParseSettings.normalizeAttribute may call:
+org/jsoup/parser/Tokeniser.error may call:
+	org/jsoup/parser/ParseErrorList.canAddError
+	org/jsoup/parser/CharacterReader.current
+	org/jsoup/parser/ParseError.<init>
+	org/jsoup/parser/ParseErrorList.add
+	org/jsoup/parser/CharacterReader.pos
+org/jsoup/select/QueryParser.byId may call:
+	org/jsoup/select/Evaluator$Id.<init>
+	org/jsoup/parser/TokenQueue.consumeCssIdentifier
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/helper/HttpConnection$Request.postDataCharset may call:
+	org/jsoup/helper/Validate.notNull
+org/jsoup/parser/TokeniserState$47.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/nodes/Document.normaliseTextNodes may call:
+	org/jsoup/nodes/Document.body
+	org/jsoup/nodes/TextNode.<init>
+	org/jsoup/nodes/Element.prependChild
+	org/jsoup/nodes/Element.removeChild
+	org/jsoup/nodes/TextNode.isBlank
+org/jsoup/select/Evaluator$AttributeWithValueStarting.<init> may call:
+	org/jsoup/select/Evaluator$AttributeKeyPair.<init>
+org/jsoup/nodes/Node.setParentNode may call:
+	org/jsoup/nodes/Node.removeChild
+org/jsoup/parser/Tokeniser.advanceTransition may call:
+	org/jsoup/parser/CharacterReader.advance
+org/jsoup/nodes/Attribute.getValue may call:
+	org/jsoup/nodes/Attribute.getValue
+org/jsoup/nodes/Entities.unescape may call:
+	org/jsoup/nodes/Entities.unescape
+	org/jsoup/parser/Parser.unescapeEntities
+org/jsoup/helper/HttpConnection.ignoreContentType may call:
+	org/jsoup/Connection$Request.ignoreContentType
+org/jsoup/select/Elements.first may call:
+	org/jsoup/select/Elements.get
+	org/jsoup/select/Elements.isEmpty
+org/jsoup/nodes/Entities.appendEncoded may call:
+	org/jsoup/nodes/Entities$EscapeMode.nameForCodepoint
+org/jsoup/parser/TokenQueue.toString may call:
+org/jsoup/parser/TokeniserState$14.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/HtmlTreeBuilderState$6.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/Token.asComment
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/HtmlTreeBuilder.framesetOk
+	org/jsoup/parser/HtmlTreeBuilderState.access$100
+	org/jsoup/parser/HtmlTreeBuilder.push
+	org/jsoup/parser/Token.isComment
+	org/jsoup/parser/Token$StartTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/parser/HtmlTreeBuilder.getHeadElement
+	org/jsoup/parser/Token.isEndTag
+	org/jsoup/parser/HtmlTreeBuilder.removeFromStack
+	org/jsoup/parser/Token.asCharacter
+	org/jsoup/parser/Token.isStartTag
+	org/jsoup/parser/HtmlTreeBuilderState$6.anythingElse
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/Token.asStartTag
+	org/jsoup/parser/Token.isDoctype
+org/jsoup/helper/HttpConnection$Base.hasHeaderWithValue may call:
+	org/jsoup/helper/HttpConnection$Base.header
+	org/jsoup/helper/HttpConnection$Base.hasHeader
+org/jsoup/nodes/Element.text may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/TextNode.<init>
+	org/jsoup/nodes/Element$1.<init>
+	org/jsoup/nodes/Element.empty
+	org/jsoup/select/NodeTraversor.<init>
+	org/jsoup/select/NodeTraversor.traverse
+	org/jsoup/nodes/Element.appendChild
+org/jsoup/select/Elements.hasClass may call:
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Element.hasClass
+org/jsoup/nodes/Node.childNodes may call:
+org/jsoup/nodes/Element.getElementsByTag may call:
+	org/jsoup/select/Collector.collect
+	org/jsoup/select/Evaluator$Tag.<init>
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/nodes/Document.clone may call:
+	org/jsoup/nodes/Document$OutputSettings.clone
+	org/jsoup/nodes/Element.clone
+	org/jsoup/nodes/Document.clone
+org/jsoup/parser/HtmlTreeBuilder.popStackToClose may call:
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/nodes/Element.nodeName
+org/jsoup/nodes/Node.toString may call:
+	org/jsoup/nodes/Node.outerHtml
+org/jsoup/parser/TokenQueue.<init> may call:
+	org/jsoup/helper/Validate.notNull
+org/jsoup/select/StructuralEvaluator$ImmediateParent.<init> may call:
+	org/jsoup/select/StructuralEvaluator.<init>
+org/jsoup/select/Evaluator$AttributeStarting.toString may call:
+org/jsoup/parser/Tokeniser.emitTagPending may call:
+	org/jsoup/parser/Token$Tag.finaliseTag
+	org/jsoup/parser/Tokeniser.emit
+org/jsoup/parser/HtmlTreeBuilderState$15.closeCell may call:
+	org/jsoup/parser/HtmlTreeBuilder.inTableScope
+	org/jsoup/parser/HtmlTreeBuilder.processEndTag
+org/jsoup/nodes/Entities$EscapeMode.<init> may call:
+	org/jsoup/nodes/Entities.access$000
+org/jsoup/parser/TokenQueue.chompToIgnoreCase may call:
+	org/jsoup/parser/TokenQueue.matchChomp
+	org/jsoup/parser/TokenQueue.consumeToIgnoreCase
+org/jsoup/nodes/XmlDeclaration.getWholeDeclaration may call:
+	org/jsoup/nodes/Attributes.html
+org/jsoup/parser/HtmlTreeBuilderState$9.anythingElse may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/HtmlTreeBuilder.currentElement
+	org/jsoup/parser/HtmlTreeBuilder.setFosterInserts
+	org/jsoup/nodes/Element.nodeName
+org/jsoup/parser/HtmlTreeBuilder.popStackToBefore may call:
+	org/jsoup/nodes/Element.nodeName
+org/jsoup/helper/StringUtil.inSorted may call:
+org/jsoup/Jsoup.clean may call:
+	org/jsoup/safety/Cleaner.clean
+	org/jsoup/safety/Cleaner.<init>
+	org/jsoup/nodes/Document.body
+	org/jsoup/nodes/Document.outputSettings
+	org/jsoup/Jsoup.clean
+	org/jsoup/nodes/Element.html
+	org/jsoup/Jsoup.parseBodyFragment
+org/jsoup/select/Elements.parents may call:
+	org/jsoup/select/Elements.iterator
+	org/jsoup/select/Elements.<init>
+	org/jsoup/nodes/Element.parents
+org/jsoup/nodes/Attributes.hashCode may call:
+org/jsoup/select/StructuralEvaluator$ImmediateParent.matches may call:
+	org/jsoup/select/Evaluator.matches
+	org/jsoup/nodes/Element.parent
+org/jsoup/select/Elements.addClass may call:
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Element.addClass
+org/jsoup/parser/Token$Character.<init> may call:
+	org/jsoup/parser/Token.<init>
+java/lang/Object.<clinit> may call:
+org/jsoup/parser/CharacterReader.matchesAnySorted may call:
+	org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/TokeniserState$64.read may call:
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.emitDoctypePending
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/parser/HtmlTreeBuilderState.handleRawtext may call:
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/parser/HtmlTreeBuilder.markInsertionMode
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/select/QueryParser.contains may call:
+	org/jsoup/select/Evaluator$ContainsOwnText.<init>
+	org/jsoup/helper/Validate.notEmpty
+	org/jsoup/select/Evaluator$ContainsText.<init>
+	org/jsoup/parser/TokenQueue.consume
+	org/jsoup/parser/TokenQueue.chompBalanced
+	org/jsoup/parser/TokenQueue.unescape
+org/jsoup/safety/Whitelist$TagName.valueOf may call:
+	org/jsoup/safety/Whitelist$TagName.<init>
+org/jsoup/helper/HttpConnection.requestBody may call:
+	org/jsoup/Connection$Request.requestBody
+org/jsoup/parser/HtmlTreeBuilder.clearStackToContext may call:
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/nodes/Element.nodeName
+org/jsoup/select/Evaluator$IsNthChild.<init> may call:
+	org/jsoup/select/Evaluator$CssNthEvaluator.<init>
+org/jsoup/Connection$Method.<init> may call:
+org/jsoup/nodes/Node.attr may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Node.absUrl
+	org/jsoup/nodes/Attributes.put
+	org/jsoup/nodes/Attributes.getIgnoreCase
+org/jsoup/parser/TokenQueue.consumeToIgnoreCase may call:
+	org/jsoup/parser/TokenQueue.isEmpty
+	org/jsoup/parser/TokenQueue.matches
+org/jsoup/select/Evaluator$IsOnlyOfType.matches may call:
+	org/jsoup/nodes/Element.children
+	org/jsoup/parser/Tag.equals
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Element.tag
+	org/jsoup/nodes/Element.parent
+org/jsoup/Jsoup.<init> may call:
+org/jsoup/examples/ListLinks.<init> may call:
+org/jsoup/helper/HttpConnection$Request.proxy may call:
+	org/jsoup/helper/HttpConnection$Request.proxy
+org/jsoup/select/Evaluator$AttributeWithValueMatching.matches may call:
+	org/jsoup/nodes/Element.attr
+	org/jsoup/nodes/Element.hasAttr
+org/jsoup/helper/HttpConnection$Base.getHeaderCaseInsensitive may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/helper/HttpConnection$Base.scanHeaders
+org/jsoup/parser/TokeniserState$62.read may call:
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.emitDoctypePending
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/parser/Token$Tag.appendAttributeValue may call:
+	org/jsoup/parser/Token$Tag.ensureAttributeValue
+org/jsoup/select/Elements.tagName may call:
+	org/jsoup/nodes/Element.tagName
+	org/jsoup/select/Elements.iterator
+org/jsoup/parser/TokeniserState$45.read may call:
+	org/jsoup/parser/Tokeniser.emitCommentPending
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/parser/CharacterReader.matchesLetter may call:
+	org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/nodes/Document$OutputSettings.clone may call:
+	org/jsoup/nodes/Document$OutputSettings.clone
+	org/jsoup/nodes/Entities$EscapeMode.name
+	org/jsoup/nodes/Document$OutputSettings.charset
+	org/jsoup/nodes/Entities$EscapeMode.valueOf
+org/jsoup/parser/TokeniserState$63.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/helper/DataUtil.emptyByteBuffer may call:
+org/jsoup/parser/HtmlTreeBuilder.removeFromStack may call:
+org/jsoup/select/Elements.not may call:
+	org/jsoup/select/Selector.filterOut
+	org/jsoup/select/Selector.select
+org/jsoup/nodes/Node.replaceWith may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Node.replaceChild
+org/jsoup/parser/Tag.equals may call:
+org/jsoup/parser/CharacterReader.nextIndexOf may call:
+org/jsoup/safety/Whitelist.removeProtocols may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/safety/Whitelist$Protocol.valueOf
+	org/jsoup/safety/Whitelist$TagName.valueOf
+	org/jsoup/helper/Validate.notEmpty
+	org/jsoup/safety/Whitelist$AttributeKey.valueOf
+org/jsoup/parser/TokeniserState.access$500 may call:
+	org/jsoup/parser/TokeniserState.handleDataEndTag
+org/jsoup/nodes/Element.addClass may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Element.classNames
+org/jsoup/parser/HtmlTreeBuilderState$7.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/select/StructuralEvaluator$Has.toString may call:
+org/jsoup/helper/HttpConnection.validateTLSCertificates may call:
+	org/jsoup/Connection$Request.validateTLSCertificates
+org/jsoup/nodes/Attributes.asList may call:
+org/jsoup/nodes/Attributes.remove may call:
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/safety/Whitelist.none may call:
+	org/jsoup/safety/Whitelist.<init>
+org/jsoup/parser/HtmlTreeBuilder.replaceInQueue may call:
+	org/jsoup/helper/Validate.isTrue
+org/jsoup/select/StructuralEvaluator$ImmediatePreviousSibling.<init> may call:
+	org/jsoup/select/StructuralEvaluator.<init>
+org/jsoup/nodes/Element.getElementsByIndexEquals may call:
+	org/jsoup/select/Evaluator$IndexEquals.<init>
+	org/jsoup/select/Collector.collect
+org/jsoup/parser/TokeniserState$28.read may call:
+	org/jsoup/parser/TokeniserState.access$600
+org/jsoup/helper/StringUtil.appendNormalisedWhitespace may call:
+	org/jsoup/helper/StringUtil.isWhitespace
+org/jsoup/select/Elements.text may call:
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Element.text
+org/jsoup/nodes/Attributes.dataset may call:
+	org/jsoup/nodes/Attributes$Dataset.<init>
+org/jsoup/nodes/Node$OuterHtmlVisitor.<init> may call:
+org/jsoup/parser/ParseErrorList.canAddError may call:
+	org/jsoup/parser/ParseErrorList.size
+org/jsoup/nodes/Element.getElementById may call:
+	org/jsoup/select/Evaluator$Id.<init>
+	org/jsoup/select/Collector.collect
+	org/jsoup/select/Elements.size
+	org/jsoup/select/Elements.get
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/parser/TokeniserState$1.read may call:
+	org/jsoup/parser/CharacterReader.current
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.consumeData
+	org/jsoup/parser/Token$EOF.<init>
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.emit
+org/jsoup/parser/TokeniserState$12.read may call:
+	org/jsoup/parser/CharacterReader.matchesLetter
+	org/jsoup/parser/CharacterReader.current
+	org/jsoup/parser/Token$Tag.appendTagName
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.createTagPending
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/parser/HtmlTreeBuilder.process may call:
+	org/jsoup/parser/HtmlTreeBuilderState.process
+org/jsoup/helper/HttpConnection$Response.execute may call:
+	org/jsoup/Connection$Request.cookie
+	org/jsoup/helper/HttpConnection$Response.setOutputContentType
+	org/jsoup/helper/HttpConnection$Response.execute
+	org/jsoup/helper/Validate.isFalse
+	org/jsoup/UnsupportedMimeTypeException.<init>
+	org/jsoup/Connection$Request.requestBody
+	org/jsoup/helper/HttpConnection$Response.setupFromConnection
+	org/jsoup/Connection$Request.url
+	org/jsoup/helper/HttpConnection$Response.hasHeaderWithValue
+	org/jsoup/helper/DataUtil.getCharsetFromContentType
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/helper/HttpConnection$Response.writePost
+	org/jsoup/parser/Parser.xmlParser
+	org/jsoup/helper/DataUtil.emptyByteBuffer
+	org/jsoup/Connection$Request.ignoreHttpErrors
+	org/jsoup/helper/HttpConnection$Response.header
+	org/jsoup/Connection$Request.method
+	org/jsoup/Connection$Request.followRedirects
+	org/jsoup/Connection$Method.hasBody
+	org/jsoup/Connection$Request.maxBodySize
+	org/jsoup/Connection$Request.data
+	org/jsoup/helper/HttpConnection$Response.hasHeader
+	org/jsoup/helper/StringUtil.resolve
+	org/jsoup/helper/HttpConnection$Request.access$300
+	org/jsoup/helper/DataUtil.readToByteBuffer
+	org/jsoup/helper/HttpConnection.access$200
+	org/jsoup/helper/HttpConnection$Response.<init>
+	org/jsoup/Connection$Request.parser
+	org/jsoup/HttpStatusException.<init>
+	org/jsoup/helper/HttpConnection$Response.serialiseRequestUrl
+	org/jsoup/helper/HttpConnection$Response.createConnection
+	org/jsoup/Connection$Request.ignoreContentType
+	org/jsoup/helper/HttpConnection$Response.contentType
+org/jsoup/parser/TokeniserState$49.read may call:
+	org/jsoup/parser/Tokeniser.emitCommentPending
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/helper/HttpConnection$KeyVal.inputStream may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/helper/HttpConnection$KeyVal.inputStream
+org/jsoup/helper/W3CDom.fromJsoup may call:
+	org/jsoup/helper/Validate.notNull
+	javax/xml/parsers/DocumentBuilderFactory.newDocumentBuilder
+	javax/xml/parsers/DocumentBuilder.newDocument
+	org/jsoup/helper/W3CDom.convert
+	javax/xml/parsers/DocumentBuilderFactory.setNamespaceAware
+org/jsoup/helper/HttpConnection.connect may call:
+	org/jsoup/helper/HttpConnection.<init>
+	org/jsoup/Connection.url
+org/jsoup/parser/HtmlTreeBuilder.newPendingTableCharacters may call:
+org/jsoup/nodes/Element.firstElementSibling may call:
+	org/jsoup/nodes/Element.children
+	org/jsoup/nodes/Element.parent
+org/jsoup/nodes/Node.wrap may call:
+	org/jsoup/nodes/Node.parent
+	org/jsoup/nodes/Node.baseUri
+	org/jsoup/nodes/Node.replaceChild
+	org/jsoup/nodes/Element.addChildren
+	org/jsoup/nodes/Node.removeChild
+	org/jsoup/helper/Validate.notEmpty
+	org/jsoup/parser/Parser.parseFragment
+	org/jsoup/nodes/Element.appendChild
+	org/jsoup/nodes/Node.getDeepChild
+org/jsoup/examples/HtmlToPlainText$FormattingVisitor.head may call:
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/examples/HtmlToPlainText$FormattingVisitor.append
+	org/jsoup/nodes/Node.nodeName
+	org/jsoup/nodes/TextNode.text
+org/jsoup/parser/TokenQueue.matchesAny may call:
+	org/jsoup/parser/TokenQueue.isEmpty
+	org/jsoup/parser/TokenQueue.matches
+org/jsoup/select/StructuralEvaluator$ImmediatePreviousSibling.matches may call:
+	org/jsoup/select/Evaluator.matches
+	org/jsoup/nodes/Element.previousElementSibling
+org/jsoup/nodes/Element.before may call:
+	org/jsoup/nodes/Element.before
+	org/jsoup/nodes/Node.before
+org/jsoup/parser/HtmlTreeBuilder.isSpecial may call:
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/nodes/Element.nodeName
+org/jsoup/parser/HtmlTreeBuilder.inScope may call:
+	org/jsoup/parser/HtmlTreeBuilder.inSpecificScope
+	org/jsoup/parser/HtmlTreeBuilder.inScope
+org/jsoup/parser/TokenQueue.consumeCssIdentifier may call:
+	org/jsoup/parser/TokenQueue.isEmpty
+	org/jsoup/parser/TokenQueue.matchesWord
+	org/jsoup/parser/TokenQueue.matchesAny
+org/jsoup/nodes/Document$OutputSettings$Syntax.<init> may call:
+org/jsoup/nodes/Element.isBlock may call:
+	org/jsoup/parser/Tag.isBlock
+org/jsoup/safety/Cleaner.<init> may call:
+	org/jsoup/helper/Validate.notNull
+org/jsoup/select/Evaluator$IsNthChild.calculatePosition may call:
+	org/jsoup/nodes/Element.elementSiblingIndex
+org/jsoup/nodes/Comment.getData may call:
+	org/jsoup/nodes/Attributes.get
+org/jsoup/nodes/Node.getOutputSettings may call:
+	org/jsoup/nodes/Document.<init>
+	org/jsoup/nodes/Document.outputSettings
+	org/jsoup/nodes/Node.ownerDocument
+org/jsoup/helper/HttpConnection$Response.initUnSecureTSL may call:
+	javax/net/ssl/SSLContext.getSocketFactory
+	org/jsoup/helper/HttpConnection$Response$2.<init>
+	javax/net/ssl/SSLContext.getInstance
+	javax/net/ssl/SSLContext.init
+org/jsoup/parser/HtmlTreeBuilderState$20.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/parser/TokeniserState$9.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/CharacterReader.consumeTagName may call:
+	org/jsoup/parser/CharacterReader.cacheString
+org/jsoup/parser/TokeniserState$1.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/HtmlTreeBuilderState$17.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/parser/ParseErrorList.tracking may call:
+	org/jsoup/parser/ParseErrorList.<init>
+org/jsoup/parser/TokeniserState$21.read may call:
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/CharacterReader.matches
+org/jsoup/nodes/Element.toString may call:
+	org/jsoup/nodes/Element.outerHtml
+org/jsoup/safety/Whitelist.basicWithImages may call:
+	org/jsoup/safety/Whitelist.addAttributes
+	org/jsoup/safety/Whitelist.basic
+	org/jsoup/safety/Whitelist.addTags
+	org/jsoup/safety/Whitelist.addProtocols
+org/jsoup/safety/Whitelist.<init> may call:
+org/jsoup/parser/ParseSettings.normalizeAttributes may call:
+	org/jsoup/nodes/Attribute.getKey
+	org/jsoup/nodes/Attributes.iterator
+	org/jsoup/nodes/Attribute.setKey
+org/jsoup/parser/HtmlTreeBuilder.pushActiveFormattingElements may call:
+	org/jsoup/parser/HtmlTreeBuilder.isSameFormattingElement
+org/jsoup/nodes/Attributes.getIgnoreCase may call:
+	org/jsoup/nodes/Attribute.getValue
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/helper/DataUtil.validateCharset may call:
+org/jsoup/select/Evaluator$IsLastChild.matches may call:
+	org/jsoup/nodes/Element.children
+	org/jsoup/select/Elements.size
+	org/jsoup/nodes/Element.elementSiblingIndex
+	org/jsoup/nodes/Element.parent
+org/jsoup/parser/HtmlTreeBuilderState$13.exitTableBody may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/HtmlTreeBuilder.inTableScope
+	org/jsoup/parser/HtmlTreeBuilder.currentElement
+	org/jsoup/nodes/Element.nodeName
+	org/jsoup/parser/HtmlTreeBuilder.clearStackToTableBodyContext
+	org/jsoup/parser/HtmlTreeBuilder.processEndTag
+	org/jsoup/parser/HtmlTreeBuilder.inScope
+org/jsoup/select/Evaluator$AttributeWithValueMatching.toString may call:
+org/jsoup/nodes/Entities.getCharacterByName may call:
+	org/jsoup/nodes/Entities$EscapeMode.codepointForName
+org/jsoup/helper/W3CDom$W3CBuilder.updateNamespaces may call:
+	org/jsoup/nodes/Element.tagName
+	org/jsoup/nodes/Attribute.getKey
+	org/jsoup/nodes/Element.attributes
+	org/jsoup/nodes/Attribute.getValue
+	org/jsoup/nodes/Attributes.iterator
+org/jsoup/parser/TokeniserState$9.read may call:
+	org/jsoup/parser/CharacterReader.matchesLetter
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/CharacterReader.isEmpty
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.createTagPending
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/CharacterReader.matches
+org/jsoup/helper/HttpConnection.proxy may call:
+	org/jsoup/Connection$Request.proxy
+org/jsoup/select/Evaluator$AttributeWithValueNot.toString may call:
+org/jsoup/parser/CharacterReader.matchesIgnoreCase may call:
+org/jsoup/select/Evaluator$AttributeWithValue.<init> may call:
+	org/jsoup/select/Evaluator$AttributeKeyPair.<init>
+org/jsoup/parser/Tokeniser.<clinit> may call:
+org/jsoup/parser/TokeniserState$41.read may call:
+	org/jsoup/parser/Tokeniser.emitTagPending
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.unconsume
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/safety/Cleaner$CleaningVisitor.head may call:
+	org/jsoup/safety/Cleaner.access$000
+	org/jsoup/nodes/TextNode.getWholeText
+	org/jsoup/safety/Cleaner.access$100
+	org/jsoup/nodes/Element.tagName
+	org/jsoup/nodes/TextNode.<init>
+	org/jsoup/nodes/DataNode.<init>
+	org/jsoup/nodes/Node.parent
+	org/jsoup/nodes/Node.nodeName
+	org/jsoup/safety/Whitelist.isSafeTag
+	org/jsoup/nodes/Node.baseUri
+	org/jsoup/nodes/DataNode.getWholeData
+	org/jsoup/nodes/Element.appendChild
+org/jsoup/select/Elements.hasAttr may call:
+	org/jsoup/nodes/Element.hasAttr
+	org/jsoup/select/Elements.iterator
+org/jsoup/nodes/Entities.load may call:
+	org/jsoup/nodes/Entities$EscapeMode.access$502
+	org/jsoup/nodes/Entities$EscapeMode.access$402
+	org/jsoup/nodes/Entities$EscapeMode.access$300
+	org/jsoup/nodes/Entities$EscapeMode.access$200
+	org/jsoup/nodes/Entities$EscapeMode.access$302
+	org/jsoup/nodes/Entities$EscapeMode.access$500
+	org/jsoup/nodes/Entities$EscapeMode.access$202
+	org/jsoup/nodes/Entities$EscapeMode.access$400
+org/jsoup/parser/TokenQueue.consumeTagName may call:
+	org/jsoup/parser/TokenQueue.isEmpty
+	org/jsoup/parser/TokenQueue.matchesWord
+	org/jsoup/parser/TokenQueue.matchesAny
+org/jsoup/parser/TokeniserState$18.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/nodes/Entities$EscapeMode.valueOf may call:
+org/jsoup/nodes/Node.replaceChild may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/helper/Validate.isTrue
+	org/jsoup/nodes/Node.setSiblingIndex
+	org/jsoup/nodes/Node.removeChild
+org/jsoup/nodes/Attributes$Dataset$DatasetIterator.hasNext may call:
+	org/jsoup/nodes/Attribute.isDataAttribute
+org/jsoup/nodes/Node.getDeepChild may call:
+	org/jsoup/nodes/Element.children
+	org/jsoup/nodes/Node.getDeepChild
+org/jsoup/select/Selector$SelectorParseException.<init> may call:
+org/jsoup/helper/HttpConnection$Base.method may call:
+	org/jsoup/helper/Validate.notNull
+org/jsoup/nodes/Node.hasAttr may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Node.absUrl
+	org/jsoup/nodes/Attributes.hasKeyIgnoreCase
+org/jsoup/nodes/Attributes$Dataset$DatasetIterator.remove may call:
+	org/jsoup/nodes/Attributes.access$100
+	org/jsoup/nodes/Attribute.getKey
+org/jsoup/parser/HtmlTreeBuilder.inButtonScope may call:
+	org/jsoup/parser/HtmlTreeBuilder.inScope
+org/jsoup/select/Evaluator$Tag.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/parser/HtmlTreeBuilderState.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/parser/HtmlTreeBuilderState$15.anythingElse may call:
+	org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/helper/StringUtil.isNumeric may call:
+org/jsoup/parser/XmlTreeBuilder.parse may call:
+	org/jsoup/parser/XmlTreeBuilder.parse
+	org/jsoup/parser/ParseErrorList.noTracking
+org/jsoup/select/CombiningEvaluator.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+	org/jsoup/select/CombiningEvaluator.<init>
+	org/jsoup/select/CombiningEvaluator.updateNumEvaluators
+org/jsoup/nodes/Attributes$Dataset$EntrySet.iterator may call:
+	org/jsoup/nodes/Attributes$Dataset$DatasetIterator.<init>
+org/jsoup/helper/DataUtil.<clinit> may call:
+org/jsoup/nodes/TextNode.<init> may call:
+	org/jsoup/nodes/Node.<init>
+org/jsoup/parser/TokeniserState$42.read may call:
+	org/jsoup/parser/Tokeniser.emitTagPending
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.unconsume
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/parser/TokeniserState$48.read may call:
+	org/jsoup/parser/Tokeniser.emitCommentPending
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/nodes/TextNode.toString may call:
+	org/jsoup/nodes/TextNode.outerHtml
+org/jsoup/parser/TokenQueue.matchesWhitespace may call:
+	org/jsoup/parser/TokenQueue.isEmpty
+	org/jsoup/helper/StringUtil.isWhitespace
+org/jsoup/nodes/Node.unwrap may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Node.childNodesAsArray
+	org/jsoup/nodes/Node.remove
+	org/jsoup/nodes/Node.addChildren
+java/lang/Object.wait may call:
+org/jsoup/select/Evaluator$IsNthLastOfType.<init> may call:
+	org/jsoup/select/Evaluator$CssNthEvaluator.<init>
+org/jsoup/nodes/Document.normalise may call:
+	org/jsoup/nodes/Document.body
+	org/jsoup/nodes/Document.normaliseTextNodes
+	org/jsoup/nodes/Document.ensureMetaCharsetElement
+	org/jsoup/nodes/Element.appendElement
+	org/jsoup/nodes/Document.findFirstElementByTagName
+	org/jsoup/nodes/Document.head
+	org/jsoup/nodes/Document.appendElement
+	org/jsoup/nodes/Document.normaliseStructure
+	org/jsoup/nodes/Element.prependElement
+org/jsoup/helper/HttpConnection.followRedirects may call:
+	org/jsoup/Connection$Request.followRedirects
+org/jsoup/select/Evaluator$Attribute.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/parser/TokeniserState$2.read may call:
+	org/jsoup/parser/TokeniserState.access$100
+org/jsoup/nodes/Attribute.toString may call:
+	org/jsoup/nodes/Attribute.html
+org/jsoup/parser/TokeniserState$8.read may call:
+	org/jsoup/parser/CharacterReader.matchesLetter
+	org/jsoup/parser/CharacterReader.current
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.createTagPending
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/Tokeniser.emit
+org/jsoup/parser/HtmlTreeBuilderState$5.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/HtmlTreeBuilderState.access$100
+	org/jsoup/parser/Token$StartTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.pop
+	org/jsoup/parser/Token.isComment
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/parser/Token.isEndTag
+	org/jsoup/parser/Token.isStartTag
+	org/jsoup/parser/HtmlTreeBuilderState$5.anythingElse
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/Token.asStartTag
+	org/jsoup/parser/Token.isDoctype
+org/jsoup/nodes/Element.attr may call:
+	org/jsoup/nodes/Attributes.put
+	org/jsoup/nodes/Element.attr
+	org/jsoup/nodes/Node.attr
+org/jsoup/select/Evaluator$AttributeWithValueEnding.matches may call:
+	org/jsoup/nodes/Element.attr
+	org/jsoup/nodes/Element.hasAttr
+org/jsoup/select/Evaluator$AttributeWithValueContaining.toString may call:
+org/jsoup/helper/StringUtil.<init> may call:
+org/jsoup/parser/TokeniserState$19.read may call:
+	org/jsoup/parser/TokeniserState.access$500
+org/jsoup/nodes/Element.lastElementSibling may call:
+	org/jsoup/nodes/Element.children
+	org/jsoup/nodes/Element.parent
+org/jsoup/parser/TokeniserState$32.read may call:
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.createTempBuffer
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/CharacterReader.matches
+org/jsoup/parser/ParseSettings.<clinit> may call:
+	org/jsoup/parser/ParseSettings.<init>
+org/jsoup/nodes/Document.normaliseStructure may call:
+	org/jsoup/nodes/Element.equals
+	org/jsoup/nodes/Document.getElementsByTag
+	org/jsoup/nodes/Node.remove
+	org/jsoup/select/Elements.first
+	org/jsoup/select/Elements.size
+	org/jsoup/select/Elements.get
+	org/jsoup/nodes/Element.parent
+	org/jsoup/nodes/Element.appendChild
+org/jsoup/parser/TokeniserState$15.read may call:
+	org/jsoup/parser/TokeniserState.access$400
+org/jsoup/parser/HtmlTreeBuilder.<clinit> may call:
+org/jsoup/Connection$Method.<clinit> may call:
+	org/jsoup/Connection$Method.<init>
+org/jsoup/helper/W3CDom$W3CBuilder.<init> may call:
+org/jsoup/helper/DescendableLinkedList.push may call:
+	org/jsoup/helper/DescendableLinkedList.addFirst
+org/jsoup/helper/HttpConnection$Request.maxBodySize may call:
+	org/jsoup/helper/Validate.isTrue
+org/jsoup/select/QueryParser.byAttribute may call:
+	org/jsoup/parser/TokenQueue.isEmpty
+	org/jsoup/select/Evaluator$Attribute.<init>
+	org/jsoup/parser/TokenQueue.matchChomp
+	org/jsoup/select/Evaluator$AttributeWithValue.<init>
+	org/jsoup/parser/TokenQueue.consumeToAny
+	org/jsoup/select/Evaluator$AttributeWithValueStarting.<init>
+	org/jsoup/parser/TokenQueue.remainder
+	org/jsoup/select/Evaluator$AttributeWithValueEnding.<init>
+	org/jsoup/select/Evaluator$AttributeWithValueNot.<init>
+	org/jsoup/select/Evaluator$AttributeWithValueMatching.<init>
+	org/jsoup/select/Evaluator$AttributeStarting.<init>
+	org/jsoup/parser/TokenQueue.consumeWhitespace
+	org/jsoup/helper/Validate.notEmpty
+	org/jsoup/parser/TokenQueue.chompBalanced
+	org/jsoup/select/Evaluator$AttributeWithValueContaining.<init>
+	org/jsoup/parser/TokenQueue.<init>
+	org/jsoup/select/Selector$SelectorParseException.<init>
+org/jsoup/helper/HttpConnection.header may call:
+	org/jsoup/Connection$Request.header
+org/jsoup/parser/TokeniserState.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/TokeniserState.handleDataEndTag may call:
+	org/jsoup/parser/CharacterReader.matchesLetter
+	org/jsoup/parser/Tokeniser.isAppropriateEndTagToken
+	org/jsoup/parser/Tokeniser.emitTagPending
+	org/jsoup/parser/Token$Tag.appendTagName
+	org/jsoup/parser/CharacterReader.isEmpty
+	org/jsoup/parser/CharacterReader.consumeLetterSequence
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/Tokeniser.emit
+org/jsoup/parser/TokeniserState$13.anythingElse may call:
+	org/jsoup/parser/CharacterReader.unconsume
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/select/Evaluator$AttributeWithValueStarting.toString may call:
+org/jsoup/select/Evaluator$ContainsOwnText.toString may call:
+org/jsoup/parser/ParseError.<init> may call:
+org/jsoup/nodes/Element.dataNodes may call:
+org/jsoup/helper/HttpConnection$Response$2.<init> may call:
+org/jsoup/parser/TokeniserState.access$100 may call:
+	org/jsoup/parser/TokeniserState.readCharRef
+org/jsoup/parser/XmlTreeBuilder.processStartTag may call:
+	org/jsoup/parser/TreeBuilder.processStartTag
+org/jsoup/parser/HtmlTreeBuilder.parseFragment may call:
+	org/jsoup/nodes/Document.quirksMode
+	org/jsoup/nodes/Element.tagName
+	org/jsoup/nodes/Element.ownerDocument
+	org/jsoup/select/Elements.add
+	org/jsoup/nodes/Document.appendChild
+	org/jsoup/nodes/Element.<init>
+	org/jsoup/nodes/Element.parents
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/nodes/Element.childNodes
+	org/jsoup/parser/Tag.valueOf
+	org/jsoup/parser/HtmlTreeBuilder.runParser
+	org/jsoup/parser/HtmlTreeBuilder.resetInsertionMode
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Document.childNodes
+	org/jsoup/parser/HtmlTreeBuilder.initialiseParse
+org/jsoup/parser/TokeniserState$66.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/select/Elements.forms may call:
+	org/jsoup/select/Elements.iterator
+org/jsoup/parser/TokeniserState$61.read may call:
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.emitDoctypePending
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/nodes/Entities$EscapeMode.values may call:
+	[Lorg/jsoup/nodes/Entities$EscapeMode;.clone
+org/jsoup/parser/HtmlTreeBuilderState$2.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/nodes/Attributes.equals may call:
+org/jsoup/parser/HtmlTreeBuilderState$14.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/helper/StringUtil.resolve may call:
+	org/jsoup/helper/StringUtil.resolve
+org/jsoup/helper/DataUtil.detectCharsetFromBom may call:
+org/jsoup/helper/W3CDom$W3CBuilder.head may call:
+	org/w3c/dom/Element.appendChild
+	org/jsoup/nodes/TextNode.getWholeText
+	org/jsoup/nodes/Element.tagName
+	org/w3c/dom/Document.createElementNS
+	org/jsoup/helper/W3CDom$W3CBuilder.copyAttributes
+	org/jsoup/nodes/Comment.getData
+	org/w3c/dom/Document.appendChild
+	org/w3c/dom/Document.createTextNode
+	org/jsoup/helper/W3CDom$W3CBuilder.updateNamespaces
+	org/jsoup/nodes/DataNode.getWholeData
+	org/w3c/dom/Document.createComment
+org/jsoup/parser/Tokeniser.emit may call:
+	org/jsoup/helper/Validate.isFalse
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.emit
+org/jsoup/parser/HtmlTreeBuilderState.<clinit> may call:
+	org/jsoup/parser/HtmlTreeBuilderState$16.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$14.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$15.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$6.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$10.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$19.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$20.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$18.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$11.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$12.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$13.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$8.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$17.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$22.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$5.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$7.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$9.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$21.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$23.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$1.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$2.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$3.<init>
+	org/jsoup/parser/HtmlTreeBuilderState$4.<init>
+org/jsoup/parser/HtmlTreeBuilder.processStartTag may call:
+	org/jsoup/parser/TreeBuilder.processStartTag
+org/jsoup/Connection$Method.values may call:
+	[Lorg/jsoup/Connection$Method;.clone
+org/jsoup/nodes/Element.getElementsByIndexGreaterThan may call:
+	org/jsoup/select/Evaluator$IndexGreaterThan.<init>
+	org/jsoup/select/Collector.collect
+org/jsoup/select/Evaluator$Tag.toString may call:
+org/jsoup/parser/TokeniserState$38.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/select/StructuralEvaluator$Not.toString may call:
+org/jsoup/helper/HttpConnection.cookie may call:
+	org/jsoup/Connection$Request.cookie
+org/jsoup/nodes/Node.outerHtml may call:
+	org/jsoup/nodes/Node.getOutputSettings
+	org/jsoup/nodes/Node.outerHtml
+	org/jsoup/select/NodeTraversor.<init>
+	org/jsoup/nodes/Node$OuterHtmlVisitor.<init>
+	org/jsoup/select/NodeTraversor.traverse
+org/jsoup/parser/TokeniserState$27.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/HtmlTreeBuilderState$14.handleMissingTr may call:
+	org/jsoup/parser/TreeBuilder.process
+	org/jsoup/parser/TreeBuilder.processEndTag
+org/jsoup/examples/ListLinks.main may call:
+	org/jsoup/nodes/Element.tagName
+	org/jsoup/nodes/Element.attr
+	org/jsoup/Connection.get
+	org/jsoup/helper/Validate.isTrue
+	org/jsoup/examples/ListLinks.print
+	org/jsoup/select/Elements.iterator
+	org/jsoup/examples/ListLinks.trim
+	org/jsoup/nodes/Element.text
+	org/jsoup/nodes/Document.select
+	org/jsoup/select/Elements.size
+	org/jsoup/Jsoup.connect
+org/jsoup/parser/TokeniserState$58.read may call:
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.emitDoctypePending
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/select/Elements.after may call:
+	org/jsoup/nodes/Element.after
+	org/jsoup/select/Elements.iterator
+org/jsoup/parser/HtmlTreeBuilderState$8.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/parser/HtmlTreeBuilder.originalState
+	org/jsoup/parser/Token.isEndTag
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/Token.asCharacter
+	org/jsoup/parser/Token.isCharacter
+	org/jsoup/parser/Token.isEOF
+	org/jsoup/parser/HtmlTreeBuilder.pop
+org/jsoup/helper/DataUtil.mimeBoundary may call:
+org/jsoup/parser/HtmlTreeBuilderState$24.<clinit> may call:
+	org/jsoup/parser/Token$TokenType.values
+	org/jsoup/parser/Token$TokenType.ordinal
+org/jsoup/select/Evaluator$MatchesOwn.toString may call:
+org/jsoup/helper/DataUtil.<init> may call:
+org/jsoup/nodes/Comment.outerHtmlHead may call:
+	org/jsoup/nodes/Comment.getData
+	org/jsoup/nodes/Comment.indent
+	org/jsoup/nodes/Document$OutputSettings.prettyPrint
+org/jsoup/parser/TokeniserState$65.read may call:
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.emitDoctypePending
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/nodes/Element.parents may call:
+	org/jsoup/select/Elements.<init>
+	org/jsoup/nodes/Element.accumulateParents
+org/jsoup/parser/HtmlTreeBuilder.insert may call:
+	org/jsoup/nodes/Element.tagName
+	org/jsoup/nodes/DataNode.<init>
+	org/jsoup/parser/Token$Comment.getData
+	org/jsoup/parser/ParseSettings.normalizeAttributes
+	org/jsoup/parser/HtmlTreeBuilder.currentElement
+	org/jsoup/nodes/Element.<init>
+	org/jsoup/parser/Token$StartTag.isSelfClosing
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/HtmlTreeBuilder.insertNode
+	org/jsoup/parser/Token$Character.getData
+	org/jsoup/parser/HtmlTreeBuilder.insertEmpty
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/nodes/TextNode.<init>
+	org/jsoup/nodes/Comment.<init>
+	org/jsoup/parser/Token$EndTag.reset
+	org/jsoup/parser/Token$StartTag.name
+	org/jsoup/parser/Tag.valueOf
+	org/jsoup/parser/Token$Tag.name
+	org/jsoup/nodes/Element.appendChild
+org/jsoup/parser/HtmlTreeBuilderState$3.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/Token.asComment
+	org/jsoup/parser/HtmlTreeBuilderState.process
+	org/jsoup/parser/HtmlTreeBuilder.setHeadElement
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/HtmlTreeBuilderState.access$100
+	org/jsoup/parser/Token.isComment
+	org/jsoup/parser/Token$StartTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.processStartTag
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/parser/Token.isEndTag
+	org/jsoup/parser/Token.isStartTag
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/Token.asStartTag
+	org/jsoup/parser/Token.isDoctype
+org/jsoup/select/QueryParser.consumeSubQuery may call:
+	org/jsoup/parser/TokenQueue.isEmpty
+	org/jsoup/parser/TokenQueue.matchesAny
+	org/jsoup/parser/TokenQueue.chompBalanced
+	org/jsoup/parser/TokenQueue.consume
+	org/jsoup/parser/TokenQueue.matches
+org/jsoup/select/QueryParser.allElements may call:
+	org/jsoup/select/Evaluator$AllElements.<init>
+org/jsoup/parser/CharacterReader.toString may call:
+org/jsoup/parser/TokenQueue.consumeAttributeKey may call:
+	org/jsoup/parser/TokenQueue.isEmpty
+	org/jsoup/parser/TokenQueue.matchesWord
+	org/jsoup/parser/TokenQueue.matchesAny
+org/jsoup/parser/TokenQueue.peek may call:
+	org/jsoup/parser/TokenQueue.isEmpty
+org/jsoup/parser/HtmlTreeBuilderState$19.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/Token.asComment
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/HtmlTreeBuilder.currentElement
+	org/jsoup/parser/HtmlTreeBuilderState.access$100
+	org/jsoup/parser/Token.isComment
+	org/jsoup/parser/Token$StartTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.pop
+	org/jsoup/parser/HtmlTreeBuilder.insertEmpty
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/parser/Token.isEndTag
+	org/jsoup/parser/Token.asCharacter
+	org/jsoup/nodes/Element.nodeName
+	org/jsoup/parser/Token.isStartTag
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.isFragmentParsing
+	org/jsoup/parser/Token.isEOF
+	org/jsoup/parser/Token.asStartTag
+	org/jsoup/parser/Token.isDoctype
+org/jsoup/helper/Validate.<init> may call:
+org/jsoup/select/Evaluator$IsLastChild.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/safety/Cleaner.isValid may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Document.body
+	org/jsoup/nodes/Document.createShell
+	org/jsoup/safety/Cleaner.copySafeNodes
+	org/jsoup/nodes/Document.baseUri
+org/jsoup/nodes/Attributes$Dataset$EntrySet.<init> may call:
+	org/jsoup/nodes/Attributes$Dataset$EntrySet.<init>
+org/jsoup/nodes/TextNode.hasAttr may call:
+	org/jsoup/nodes/TextNode.ensureAttributes
+	org/jsoup/nodes/Node.hasAttr
+org/jsoup/HttpStatusException.<init> may call:
+org/jsoup/helper/HttpConnection$Response.<clinit> may call:
+org/jsoup/helper/StringUtil.padding may call:
+org/jsoup/parser/HtmlTreeBuilderState$4.anythingElse may call:
+	org/jsoup/parser/TreeBuilder.process
+	org/jsoup/parser/TreeBuilder.processEndTag
+org/jsoup/select/Elements.toString may call:
+	org/jsoup/select/Elements.outerHtml
+org/jsoup/nodes/Attributes.access$300 may call:
+	org/jsoup/nodes/Attributes.dataKey
+org/jsoup/parser/CharacterReader.matchConsumeIgnoreCase may call:
+	org/jsoup/parser/CharacterReader.matchesIgnoreCase
+org/jsoup/select/CombiningEvaluator$And.toString may call:
+	org/jsoup/helper/StringUtil.join
+org/jsoup/nodes/Node.<clinit> may call:
+org/jsoup/parser/Parser.htmlParser may call:
+	org/jsoup/parser/Parser.<init>
+	org/jsoup/parser/HtmlTreeBuilder.<init>
+org/jsoup/helper/HttpConnection$Base.header may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/helper/HttpConnection$Base.getHeaderCaseInsensitive
+	org/jsoup/helper/HttpConnection$Base.removeHeader
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/select/StructuralEvaluator$ImmediatePreviousSibling.toString may call:
+org/jsoup/parser/HtmlTreeBuilderState$20.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/Token.asComment
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/HtmlTreeBuilderState.access$100
+	org/jsoup/parser/Token.isComment
+	org/jsoup/parser/Token$StartTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/parser/Token.isEndTag
+	org/jsoup/parser/Token.asCharacter
+	org/jsoup/parser/Token.isStartTag
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/Token.isEOF
+	org/jsoup/parser/Token.asStartTag
+	org/jsoup/parser/Token.isDoctype
+org/jsoup/parser/TokeniserState$49.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/select/Evaluator$IsNthLastChild.<init> may call:
+	org/jsoup/select/Evaluator$CssNthEvaluator.<init>
+org/jsoup/parser/HtmlTreeBuilder.insertStartTag may call:
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/parser/Tag.valueOf
+	org/jsoup/nodes/Element.<init>
+org/jsoup/helper/HttpConnection$Request.hasCookie may call:
+	org/jsoup/helper/HttpConnection$Base.hasCookie
+org/jsoup/nodes/Element.children may call:
+	org/jsoup/select/Elements.<init>
+org/jsoup/parser/Token$Doctype.reset may call:
+	org/jsoup/parser/Token$Doctype.reset
+org/jsoup/nodes/Node.<init> may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Attributes.<init>
+	org/jsoup/nodes/Node.<init>
+org/jsoup/helper/HttpConnection.ignoreHttpErrors may call:
+	org/jsoup/Connection$Request.ignoreHttpErrors
+org/jsoup/nodes/Entities$CoreCharset.byName may call:
+org/jsoup/parser/HtmlTreeBuilderState.isWhitespace may call:
+	org/jsoup/helper/StringUtil.isWhitespace
+	org/jsoup/parser/Token.asCharacter
+	org/jsoup/parser/Token.isCharacter
+	org/jsoup/parser/HtmlTreeBuilderState.isWhitespace
+	org/jsoup/parser/Token$Character.getData
+org/jsoup/safety/Whitelist.addProtocols may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/safety/Whitelist$Protocol.valueOf
+	org/jsoup/safety/Whitelist$TagName.valueOf
+	org/jsoup/helper/Validate.notEmpty
+	org/jsoup/safety/Whitelist$AttributeKey.valueOf
+org/jsoup/helper/HttpConnection$Request.hasHeader may call:
+	org/jsoup/helper/HttpConnection$Base.hasHeader
+org/jsoup/nodes/Document.outerHtml may call:
+	org/jsoup/nodes/Element.html
+org/jsoup/safety/Whitelist$AttributeValue.valueOf may call:
+	org/jsoup/safety/Whitelist$AttributeValue.<init>
+org/jsoup/helper/HttpConnection$Request.timeout may call:
+	org/jsoup/helper/HttpConnection$Request.timeout
+	org/jsoup/helper/Validate.isTrue
+org/jsoup/helper/HttpConnection$Request.data may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/helper/HttpConnection$Request.data
+org/jsoup/parser/Tokeniser.consumeCharacterReference may call:
+	org/jsoup/parser/CharacterReader.matchConsumeIgnoreCase
+	org/jsoup/nodes/Entities.isBaseNamedEntity
+	org/jsoup/parser/CharacterReader.matchConsume
+	org/jsoup/parser/CharacterReader.consumeHexSequence
+	org/jsoup/parser/CharacterReader.matchesAnySorted
+	org/jsoup/nodes/Entities.codepointsForName
+	org/jsoup/parser/CharacterReader.matchesAny
+	org/jsoup/parser/CharacterReader.rewindToMark
+	org/jsoup/parser/CharacterReader.matchesLetter
+	org/jsoup/parser/CharacterReader.current
+	org/jsoup/parser/Tokeniser.characterReferenceError
+	org/jsoup/helper/Validate.fail
+	org/jsoup/nodes/Entities.isNamedEntity
+	org/jsoup/parser/CharacterReader.matchesDigit
+	org/jsoup/parser/CharacterReader.isEmpty
+	org/jsoup/parser/CharacterReader.mark
+	org/jsoup/parser/CharacterReader.consumeDigitSequence
+	org/jsoup/parser/CharacterReader.consumeLetterThenDigitSequence
+	org/jsoup/parser/CharacterReader.matches
+org/jsoup/parser/TokeniserState$50.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/select/Evaluator$IndexGreaterThan.toString may call:
+org/jsoup/parser/HtmlTreeBuilderState$Constants.<init> may call:
+org/jsoup/safety/Whitelist$TypedValue.hashCode may call:
+org/jsoup/nodes/Node.clone may call:
+	org/jsoup/nodes/Node.doClone
+	org/jsoup/nodes/Node.clone
+org/jsoup/parser/TokeniserState$25.read may call:
+	org/jsoup/parser/CharacterReader.matchesLetter
+	org/jsoup/parser/CharacterReader.current
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.createTempBuffer
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/CharacterReader.matches
+org/jsoup/helper/HttpConnection$KeyVal.value may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/helper/HttpConnection$KeyVal.value
+org/jsoup/parser/TokeniserState$6.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/TokeniserState$55.read may call:
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.emitDoctypePending
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/select/StructuralEvaluator$Has.matches may call:
+	org/jsoup/select/Evaluator.matches
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Element.getAllElements
+org/jsoup/parser/Token$Doctype.getPublicIdentifier may call:
+org/jsoup/parser/TokeniserState.valueOf may call:
+org/jsoup/parser/TokeniserState$16.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/TokenQueue.consumeWord may call:
+	org/jsoup/parser/TokenQueue.matchesWord
+org/jsoup/parser/TreeBuilder.parse may call:
+	org/jsoup/parser/TreeBuilder.initialiseParse
+	org/jsoup/parser/TreeBuilder.runParser
+org/jsoup/nodes/Node.html may call:
+	org/jsoup/nodes/Node.outerHtml
+org/jsoup/select/Evaluator$AttributeWithValue.toString may call:
+org/jsoup/select/Evaluator$TagEndsWith.toString may call:
+org/jsoup/helper/HttpConnection$Base.cookie may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/parser/HtmlTreeBuilder.isInActiveFormattingElements may call:
+	org/jsoup/parser/HtmlTreeBuilder.isElementInQueue
+org/jsoup/parser/Parser.unescapeEntities may call:
+	org/jsoup/parser/Tokeniser.<init>
+	org/jsoup/parser/Tokeniser.unescapeEntities
+	org/jsoup/parser/CharacterReader.<init>
+	org/jsoup/parser/ParseErrorList.noTracking
+org/jsoup/nodes/Node.after may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Node.addSiblingHtml
+	org/jsoup/nodes/Node.addChildren
+org/jsoup/nodes/Node$OuterHtmlVisitor.tail may call:
+	org/jsoup/nodes/Node.outerHtmlTail
+	org/jsoup/nodes/Node.nodeName
+	org/jsoup/SerializationException.<init>
+org/jsoup/select/StructuralEvaluator$Parent.matches may call:
+	org/jsoup/select/Evaluator.matches
+	org/jsoup/nodes/Element.parent
+org/jsoup/parser/TokeniserState$55.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/select/Evaluator$IndexEquals.toString may call:
+org/jsoup/nodes/DocumentType.outerHtmlHead may call:
+	org/jsoup/nodes/DocumentType.has
+	org/jsoup/nodes/DocumentType.attr
+	org/jsoup/nodes/Document$OutputSettings.syntax
+org/jsoup/parser/HtmlTreeBuilderState$14.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/HtmlTreeBuilderState$14.anythingElse
+	org/jsoup/parser/Token$StartTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.pop
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/parser/Token.isEndTag
+	org/jsoup/parser/HtmlTreeBuilder.insertMarkerToFormattingElements
+	org/jsoup/parser/HtmlTreeBuilder.inTableScope
+	org/jsoup/parser/HtmlTreeBuilderState$14.handleMissingTr
+	org/jsoup/parser/Token.isStartTag
+	org/jsoup/parser/HtmlTreeBuilder.processEndTag
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/Token.asStartTag
+	org/jsoup/parser/HtmlTreeBuilder.clearStackToTableRowContext
+org/jsoup/nodes/TextNode.ensureAttributes may call:
+	org/jsoup/nodes/Attributes.put
+	org/jsoup/nodes/Attributes.<init>
+org/jsoup/parser/TokeniserState$33.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/select/Evaluator$IndexLessThan.<init> may call:
+	org/jsoup/select/Evaluator$IndexEvaluator.<init>
+org/jsoup/parser/TokeniserState$22.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/nodes/Attributes.get may call:
+	org/jsoup/nodes/Attribute.getValue
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/parser/TokeniserState$44.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/safety/Whitelist$Protocol.valueOf may call:
+	org/jsoup/safety/Whitelist$Protocol.<init>
+org/jsoup/select/QueryParser.indexEquals may call:
+	org/jsoup/select/Evaluator$IndexEquals.<init>
+	org/jsoup/select/QueryParser.consumeIndex
+org/jsoup/safety/Whitelist.simpleText may call:
+	org/jsoup/safety/Whitelist.<init>
+	org/jsoup/safety/Whitelist.addTags
+org/jsoup/parser/HtmlTreeBuilder.aboveOnStack may call:
+	org/jsoup/parser/HtmlTreeBuilder.onStack
+org/jsoup/nodes/Attribute.<init> may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/nodes/Node.traverse may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/select/NodeTraversor.<init>
+	org/jsoup/select/NodeTraversor.traverse
+org/jsoup/parser/TokeniserState$5.read may call:
+	org/jsoup/parser/TokeniserState.access$200
+org/jsoup/nodes/Attributes.hasKeyIgnoreCase may call:
+org/jsoup/nodes/Element.getElementsMatchingOwnText may call:
+	org/jsoup/nodes/Element.getElementsMatchingOwnText
+	org/jsoup/select/Collector.collect
+	org/jsoup/select/Evaluator$MatchesOwn.<init>
+org/jsoup/select/Evaluator$IsLastOfType.<init> may call:
+	org/jsoup/select/Evaluator$IsNthLastOfType.<init>
+org/jsoup/parser/TokeniserState$35.read may call:
+	org/jsoup/parser/CharacterReader.consumeToAnySorted
+	org/jsoup/parser/Tokeniser.emitTagPending
+	org/jsoup/parser/Token$Tag.appendAttributeName
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/TokeniserState.access$700
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/parser/HtmlTreeBuilderState$19.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/parser/TokeniserState$11.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/nodes/Element.getElementsByAttributeValueNot may call:
+	org/jsoup/select/Evaluator$AttributeWithValueNot.<init>
+	org/jsoup/select/Collector.collect
+org/jsoup/nodes/Element.getElementsByAttribute may call:
+	org/jsoup/select/Evaluator$Attribute.<init>
+	org/jsoup/select/Collector.collect
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/parser/Tokeniser.createCommentPending may call:
+	org/jsoup/parser/Token$Comment.reset
+org/jsoup/nodes/Element.append may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Element.baseUri
+	org/jsoup/nodes/Element.addChildren
+	org/jsoup/parser/Parser.parseFragment
+org/jsoup/safety/Whitelist$TypedValue.equals may call:
+org/jsoup/select/StructuralEvaluator$PreviousSibling.matches may call:
+	org/jsoup/select/Evaluator.matches
+	org/jsoup/nodes/Element.previousElementSibling
+org/jsoup/helper/HttpConnection.cookies may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/Connection$Request.cookie
+org/jsoup/nodes/Attributes.<init> may call:
+org/jsoup/UnsupportedMimeTypeException.<init> may call:
+org/jsoup/parser/HtmlTreeBuilder.parse may call:
+	org/jsoup/parser/TreeBuilder.parse
+org/jsoup/nodes/Attributes.addAll may call:
+	org/jsoup/nodes/Attributes.size
+org/jsoup/parser/HtmlTreeBuilder.push may call:
+org/jsoup/parser/TokeniserState$3.read may call:
+	org/jsoup/parser/CharacterReader.current
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Token$EOF.<init>
+	org/jsoup/parser/CharacterReader.consumeToAny
+	org/jsoup/parser/CharacterReader.advance
+	org/jsoup/parser/Tokeniser.emit
+org/jsoup/safety/Cleaner$CleaningVisitor.tail may call:
+	org/jsoup/safety/Cleaner.access$000
+	org/jsoup/nodes/Node.nodeName
+	org/jsoup/safety/Whitelist.isSafeTag
+	org/jsoup/nodes/Element.parent
+org/jsoup/parser/TokeniserState$65.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/select/Evaluator$AttributeStarting.matches may call:
+	org/jsoup/nodes/Attributes.asList
+	org/jsoup/nodes/Attribute.getKey
+	org/jsoup/nodes/Element.attributes
+org/jsoup/parser/TokeniserState$59.read may call:
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.emitDoctypePending
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/nodes/Entities$CoreCharset.<init> may call:
+org/jsoup/select/Collector.collect may call:
+	org/jsoup/select/NodeTraversor.<init>
+	org/jsoup/select/Collector$Accumulator.<init>
+	org/jsoup/select/Elements.<init>
+	org/jsoup/select/NodeTraversor.traverse
+org/jsoup/select/Collector$Accumulator.<init> may call:
+org/jsoup/helper/DescendableLinkedList$DescendingIterator.remove may call:
+org/jsoup/parser/HtmlTreeBuilderState$9.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/helper/Validate.noNullElements may call:
+	org/jsoup/helper/Validate.noNullElements
+org/jsoup/parser/HtmlTreeBuilderState$1.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/parser/Parser.parseBodyFragment may call:
+	org/jsoup/nodes/Document.body
+	org/jsoup/nodes/Node.remove
+	org/jsoup/nodes/Document.createShell
+	org/jsoup/parser/Parser.parseFragment
+	org/jsoup/nodes/Element.appendChild
+org/jsoup/parser/CharacterReader.matchConsume may call:
+	org/jsoup/parser/CharacterReader.matches
+org/jsoup/examples/HtmlToPlainText$FormattingVisitor.append may call:
+	org/jsoup/helper/StringUtil.in
+org/jsoup/parser/HtmlTreeBuilderState$4.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.maybeSetBaseUri
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/Token.asComment
+	org/jsoup/parser/HtmlTreeBuilderState.process
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/HtmlTreeBuilderState.access$100
+	org/jsoup/parser/HtmlTreeBuilderState.access$300
+	org/jsoup/parser/Token$TokenType.ordinal
+	org/jsoup/parser/HtmlTreeBuilderState.access$200
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/Token$StartTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.pop
+	org/jsoup/parser/HtmlTreeBuilder.insertEmpty
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/parser/HtmlTreeBuilder.markInsertionMode
+	org/jsoup/parser/Token.asCharacter
+	org/jsoup/nodes/Element.hasAttr
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/Token.asStartTag
+	org/jsoup/parser/HtmlTreeBuilderState$4.anythingElse
+org/jsoup/parser/TokenQueue.matchesWord may call:
+	org/jsoup/parser/TokenQueue.isEmpty
+org/jsoup/parser/TokenQueue.addFirst may call:
+	org/jsoup/parser/TokenQueue.addFirst
+org/jsoup/parser/HtmlTreeBuilder.reconstructFormattingElements may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/parser/HtmlTreeBuilder.lastFormattingElement
+	org/jsoup/parser/HtmlTreeBuilder.onStack
+	org/jsoup/nodes/Element.attributes
+	org/jsoup/nodes/Element.nodeName
+	org/jsoup/nodes/Attributes.addAll
+	org/jsoup/parser/HtmlTreeBuilder.insertStartTag
+org/jsoup/select/Evaluator$IsEmpty.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/safety/Whitelist.addEnforcedAttribute may call:
+	org/jsoup/safety/Whitelist$AttributeValue.valueOf
+	org/jsoup/safety/Whitelist$TagName.valueOf
+	org/jsoup/helper/Validate.notEmpty
+	org/jsoup/safety/Whitelist$AttributeKey.valueOf
+org/jsoup/nodes/DataNode.getWholeData may call:
+	org/jsoup/nodes/Attributes.get
+org/jsoup/nodes/Element.parent may call:
+	org/jsoup/nodes/Element.parent
+org/jsoup/nodes/FormElement.submit may call:
+	org/jsoup/nodes/FormElement.absUrl
+	org/jsoup/Connection.method
+	org/jsoup/nodes/FormElement.hasAttr
+	org/jsoup/Connection.data
+	org/jsoup/Jsoup.connect
+	org/jsoup/nodes/FormElement.formData
+	org/jsoup/nodes/FormElement.baseUri
+	org/jsoup/helper/Validate.notEmpty
+	org/jsoup/nodes/FormElement.attr
+org/jsoup/select/Evaluator$IndexEquals.<init> may call:
+	org/jsoup/select/Evaluator$IndexEvaluator.<init>
+org/jsoup/parser/CharacterReader.consumeAsString may call:
+org/jsoup/parser/TokeniserState$60.read may call:
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.emitDoctypePending
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/nodes/Element.html may call:
+	org/jsoup/nodes/Element.empty
+	org/jsoup/nodes/Node.outerHtml
+	org/jsoup/nodes/Element.html
+	org/jsoup/nodes/Element.getOutputSettings
+	org/jsoup/nodes/Document$OutputSettings.prettyPrint
+	org/jsoup/nodes/Element.append
+org/jsoup/nodes/Element.data may call:
+	org/jsoup/nodes/Element.data
+	org/jsoup/nodes/DataNode.getWholeData
+org/jsoup/nodes/Element.<clinit> may call:
+org/jsoup/helper/HttpConnection$Response.createConnection may call:
+	org/jsoup/Connection$Request.timeout
+	org/jsoup/Connection$Request.proxy
+	javax/net/ssl/HttpsURLConnection.setSSLSocketFactory
+	org/jsoup/Connection$Request.cookies
+	org/jsoup/Connection$Request.url
+	org/jsoup/helper/HttpConnection$Response.getInsecureVerifier
+	org/jsoup/Connection$Request.validateTLSCertificates
+	javax/net/ssl/HttpsURLConnection.setHostnameVerifier
+	org/jsoup/helper/HttpConnection$Response.initUnSecureTSL
+	org/jsoup/Connection$Request.headers
+	org/jsoup/helper/HttpConnection$Response.getRequestCookieString
+	org/jsoup/Connection$Request.method
+	org/jsoup/Connection$Method.name
+	org/jsoup/Connection$Method.hasBody
+org/jsoup/safety/Cleaner.clean may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Document.body
+	org/jsoup/nodes/Document.createShell
+	org/jsoup/safety/Cleaner.copySafeNodes
+	org/jsoup/nodes/Document.baseUri
+org/jsoup/nodes/Document.body may call:
+	org/jsoup/nodes/Document.findFirstElementByTagName
+org/jsoup/parser/TokeniserState$18.read may call:
+	org/jsoup/parser/TokeniserState.access$400
+org/jsoup/parser/TokeniserState$43.read may call:
+	org/jsoup/parser/Token$Comment.<init>
+	org/jsoup/parser/CharacterReader.consumeTo
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/CharacterReader.unconsume
+	org/jsoup/parser/Tokeniser.emit
+org/jsoup/select/Evaluator$IndexEquals.matches may call:
+	org/jsoup/nodes/Element.elementSiblingIndex
+org/jsoup/nodes/Element.toggleClass may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Element.classNames
+org/jsoup/parser/TokeniserState.handleDataDoubleEscapeTag may call:
+	org/jsoup/parser/CharacterReader.matchesLetter
+	org/jsoup/parser/CharacterReader.unconsume
+	org/jsoup/parser/CharacterReader.consumeLetterSequence
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/nodes/Element.classNames may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Attributes.put
+	org/jsoup/helper/StringUtil.join
+	org/jsoup/nodes/Element.className
+org/jsoup/nodes/Element.siblingElements may call:
+	org/jsoup/nodes/Element.children
+	org/jsoup/select/Elements.add
+	org/jsoup/select/Elements.<init>
+	org/jsoup/nodes/Element.parent
+org/jsoup/parser/HtmlTreeBuilder.inListItemScope may call:
+	org/jsoup/parser/HtmlTreeBuilder.inScope
+org/jsoup/select/Elements.empty may call:
+	org/jsoup/nodes/Element.empty
+	org/jsoup/select/Elements.iterator
+org/jsoup/select/Collector$Accumulator.head may call:
+	org/jsoup/select/Evaluator.matches
+	org/jsoup/select/Elements.add
+org/jsoup/parser/HtmlTreeBuilder.insertEmpty may call:
+	org/jsoup/parser/Tag.isSelfClosing
+	org/jsoup/parser/Token$StartTag.name
+	org/jsoup/parser/Tag.valueOf
+	org/jsoup/parser/Tokeniser.acknowledgeSelfClosingFlag
+	org/jsoup/parser/Tag.setSelfClosing
+	org/jsoup/nodes/Element.<init>
+	org/jsoup/parser/Token$StartTag.isSelfClosing
+	org/jsoup/parser/HtmlTreeBuilder.insertNode
+	org/jsoup/parser/Tag.isKnownTag
+org/jsoup/nodes/Element.getElementsContainingOwnText may call:
+	org/jsoup/select/Evaluator$ContainsOwnText.<init>
+	org/jsoup/select/Collector.collect
+org/jsoup/nodes/Comment.<init> may call:
+	org/jsoup/nodes/Attributes.put
+	org/jsoup/nodes/Node.<init>
+org/jsoup/parser/TokeniserState$54.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/safety/Whitelist.isSafeTag may call:
+	org/jsoup/safety/Whitelist$TagName.valueOf
+org/jsoup/nodes/Attributes.removeIgnoreCase may call:
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/nodes/TextNode.createFromEncoded may call:
+	org/jsoup/nodes/TextNode.<init>
+	org/jsoup/nodes/Entities.unescape
+org/jsoup/helper/DescendableLinkedList.descendingIterator may call:
+	org/jsoup/helper/DescendableLinkedList$DescendingIterator.<init>
+	org/jsoup/helper/DescendableLinkedList.size
+org/jsoup/select/Elements.clone may call:
+	org/jsoup/select/Elements.clone
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Element.clone
+	org/jsoup/select/Elements.add
+	org/jsoup/select/Elements.size
+	org/jsoup/select/Elements.<init>
+org/jsoup/helper/HttpConnection$Response.hasHeader may call:
+	org/jsoup/helper/HttpConnection$Base.hasHeader
+org/jsoup/parser/XmlTreeBuilder.insert may call:
+	org/jsoup/parser/Token$Doctype.getSystemIdentifier
+	org/jsoup/nodes/Element.tagName
+	org/jsoup/parser/Token$Comment.getData
+	org/jsoup/parser/ParseSettings.normalizeAttributes
+	org/jsoup/parser/Tokeniser.acknowledgeSelfClosingFlag
+	org/jsoup/nodes/Element.attributes
+	org/jsoup/parser/Tag.setSelfClosing
+	org/jsoup/parser/ParseSettings.normalizeTag
+	org/jsoup/nodes/Comment.baseUri
+	org/jsoup/nodes/Attributes.addAll
+	org/jsoup/parser/Parser.xmlParser
+	org/jsoup/nodes/TextNode.<init>
+	org/jsoup/nodes/Comment.<init>
+	org/jsoup/parser/Token$StartTag.name
+	org/jsoup/parser/Token$Doctype.getName
+	org/jsoup/nodes/Element.<init>
+	org/jsoup/parser/Token$StartTag.isSelfClosing
+	org/jsoup/Jsoup.parse
+	org/jsoup/nodes/DocumentType.<init>
+	org/jsoup/parser/Tag.isKnownTag
+	org/jsoup/parser/Token$Character.getData
+	org/jsoup/nodes/Comment.getData
+	org/jsoup/nodes/Document.child
+	org/jsoup/parser/Tag.valueOf
+	org/jsoup/nodes/Node.attributes
+	org/jsoup/parser/Token$Doctype.getPublicIdentifier
+	org/jsoup/nodes/XmlDeclaration.<init>
+	org/jsoup/parser/XmlTreeBuilder.insertNode
+org/jsoup/parser/TokeniserState$24.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/safety/Whitelist.removeTags may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/safety/Whitelist$TagName.valueOf
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/parser/TokeniserState$35.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/helper/HttpConnection$Request.header may call:
+	org/jsoup/helper/HttpConnection$Base.header
+org/jsoup/nodes/Document$OutputSettings$Syntax.valueOf may call:
+org/jsoup/parser/TokeniserState$46.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/helper/HttpConnection.access$400 may call:
+	org/jsoup/helper/HttpConnection.needsMultipart
+org/jsoup/parser/CharacterReader.rangeEquals may call:
+org/jsoup/select/Evaluator$AttributeStarting.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/nodes/Node.setBaseUri may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Node$1.<init>
+	org/jsoup/nodes/Node.traverse
+org/jsoup/parser/Token$Tag.<init> may call:
+	org/jsoup/parser/Token.<init>
+org/jsoup/parser/HtmlTreeBuilderState$7.process may call:
+	org/jsoup/nodes/Attributes.<init>
+	org/jsoup/nodes/Document.quirksMode
+	org/jsoup/nodes/Element.attributes
+	org/jsoup/nodes/Attributes.addAll
+	org/jsoup/parser/HtmlTreeBuilder.removeFromStack
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$2000
+	org/jsoup/nodes/Element.nodeName
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$500
+	org/jsoup/parser/HtmlTreeBuilder.framesetOk
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$900
+	org/jsoup/parser/HtmlTreeBuilder.reconstructFormattingElements
+	org/jsoup/nodes/Element.<init>
+	org/jsoup/parser/HtmlTreeBuilder.insertForm
+	org/jsoup/nodes/Element.parent
+	org/jsoup/parser/Token$Character.getData
+	org/jsoup/parser/HtmlTreeBuilder.processStartTag
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$1200
+	org/jsoup/nodes/Element.childNodes
+	org/jsoup/nodes/Element.remove
+	org/jsoup/nodes/Element.hasAttr
+	org/jsoup/parser/Tag.valueOf
+	org/jsoup/parser/Token.asStartTag
+	org/jsoup/parser/HtmlTreeBuilderState.equals
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$1600
+	org/jsoup/parser/HtmlTreeBuilder.getBaseUri
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/HtmlTreeBuilder.currentElement
+	org/jsoup/parser/HtmlTreeBuilder.inListItemScope
+	org/jsoup/parser/Token$StartTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.insertEmpty
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/parser/HtmlTreeBuilder.clearFormattingElementsToLastMarker
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$2100
+	org/jsoup/parser/HtmlTreeBuilder.processEndTag
+	org/jsoup/nodes/Element.appendChild
+	org/jsoup/parser/HtmlTreeBuilder.getDocument
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$800
+	org/jsoup/parser/HtmlTreeBuilder.isSpecial
+	org/jsoup/parser/HtmlTreeBuilderState.access$100
+	org/jsoup/parser/HtmlTreeBuilder.inScope
+	org/jsoup/parser/HtmlTreeBuilder.getStack
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$1300
+	org/jsoup/parser/HtmlTreeBuilder.insertMarkerToFormattingElements
+	org/jsoup/parser/Token$StartTag.getAttributes
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$1700
+	org/jsoup/parser/Token.asComment
+	org/jsoup/parser/Tokeniser.acknowledgeSelfClosingFlag
+	org/jsoup/parser/HtmlTreeBuilder.pushActiveFormattingElements
+	org/jsoup/parser/HtmlTreeBuilder.getActiveFormattingElement
+	org/jsoup/nodes/Attributes.iterator
+	org/jsoup/nodes/Element.tag
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/HtmlTreeBuilder.replaceActiveFormattingElement
+	org/jsoup/parser/HtmlTreeBuilder.state
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$700
+	org/jsoup/parser/Token$TokenType.ordinal
+	org/jsoup/parser/HtmlTreeBuilder.replaceOnStack
+	org/jsoup/parser/HtmlTreeBuilderState.access$400
+	org/jsoup/nodes/Element.childNodeSize
+	org/jsoup/nodes/Attributes.put
+	org/jsoup/parser/HtmlTreeBuilder.setFormElement
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$1400
+	org/jsoup/parser/HtmlTreeBuilder.markInsertionMode
+	org/jsoup/parser/HtmlTreeBuilder.onStack
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$1000
+	org/jsoup/parser/HtmlTreeBuilderState$7.anyOtherEndTag
+	org/jsoup/parser/HtmlTreeBuilder.popStackToClose
+	org/jsoup/parser/HtmlTreeBuilder.getFromStack
+	org/jsoup/nodes/Attributes.hasKey
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$1800
+	org/jsoup/parser/Token$Character.data
+	org/jsoup/parser/HtmlTreeBuilder.getFormElement
+	org/jsoup/parser/HtmlTreeBuilder.inButtonScope
+	org/jsoup/parser/HtmlTreeBuilder.isInActiveFormattingElements
+	org/jsoup/parser/HtmlTreeBuilder.pop
+	org/jsoup/parser/HtmlTreeBuilder.popStackToBefore
+	org/jsoup/helper/StringUtil.inSorted
+	org/jsoup/parser/Token$StartTag.name
+	org/jsoup/parser/HtmlTreeBuilder.insertInFosterParent
+	org/jsoup/parser/HtmlTreeBuilder.generateImpliedEndTags
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$600
+	org/jsoup/parser/HtmlTreeBuilder.removeFromActiveFormattingElements
+	org/jsoup/parser/Token$Character.<init>
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/nodes/Attributes.get
+	org/jsoup/parser/HtmlTreeBuilderState.access$300
+	org/jsoup/parser/HtmlTreeBuilder.aboveOnStack
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$1500
+	org/jsoup/nodes/Attribute.getKey
+	org/jsoup/nodes/Element.attr
+	org/jsoup/parser/Token.asCharacter
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$1100
+	org/jsoup/parser/HtmlTreeBuilder.insertOnStackAfter
+	org/jsoup/parser/HtmlTreeBuilderState$Constants.access$1900
+org/jsoup/parser/Token$Character.toString may call:
+	org/jsoup/parser/Token$Character.getData
+org/jsoup/parser/TokeniserState$13.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/nodes/Attributes$Dataset.<init> may call:
+	org/jsoup/nodes/Attributes.access$102
+	org/jsoup/nodes/Attributes.access$100
+	org/jsoup/nodes/Attributes$Dataset.<init>
+org/jsoup/nodes/Element.wrap may call:
+	org/jsoup/nodes/Element.wrap
+	org/jsoup/nodes/Node.wrap
+org/jsoup/helper/HttpConnection$Response.setOutputContentType may call:
+	org/jsoup/helper/DataUtil.mimeBoundary
+	org/jsoup/Connection$Request.postDataCharset
+	org/jsoup/Connection$Request.hasHeader
+	org/jsoup/Connection$Request.header
+	org/jsoup/helper/HttpConnection.access$400
+org/jsoup/nodes/Element.getElementsByAttributeValueEnding may call:
+	org/jsoup/select/Evaluator$AttributeWithValueEnding.<init>
+	org/jsoup/select/Collector.collect
+org/jsoup/parser/XmlTreeBuilder$1.<clinit> may call:
+	org/jsoup/parser/Token$TokenType.values
+	org/jsoup/parser/Token$TokenType.ordinal
+org/jsoup/select/Evaluator$CssNthEvaluator.matches may call:
+	org/jsoup/nodes/Element.parent
+	org/jsoup/select/Evaluator$CssNthEvaluator.calculatePosition
+org/jsoup/select/Selector.select may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/select/Selector.<init>
+	org/jsoup/select/Selector.select
+	org/jsoup/select/Elements.iterator
+	org/jsoup/select/Collector.collect
+	org/jsoup/select/QueryParser.parse
+	org/jsoup/select/Elements.<init>
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/parser/CharacterReader.consumeDigitSequence may call:
+	org/jsoup/parser/CharacterReader.cacheString
+org/jsoup/safety/Cleaner.copySafeNodes may call:
+	org/jsoup/safety/Cleaner$CleaningVisitor.<init>
+	org/jsoup/select/NodeTraversor.<init>
+	org/jsoup/select/NodeTraversor.traverse
+	org/jsoup/safety/Cleaner$CleaningVisitor.access$300
+org/jsoup/helper/HttpConnection$Response.hasCookie may call:
+	org/jsoup/helper/HttpConnection$Base.hasCookie
+org/jsoup/parser/Token$Tag.ensureAttributeValue may call:
+org/jsoup/helper/Validate.notEmpty may call:
+org/jsoup/select/Evaluator$IndexGreaterThan.<init> may call:
+	org/jsoup/select/Evaluator$IndexEvaluator.<init>
+org/jsoup/nodes/Attributes.size may call:
+org/jsoup/parser/TokeniserState$43.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/nodes/Element.id may call:
+	org/jsoup/nodes/Attributes.getIgnoreCase
+org/jsoup/nodes/TextNode.outerHtmlHead may call:
+	org/jsoup/nodes/TextNode.indent
+	org/jsoup/nodes/TextNode.getWholeText
+	org/jsoup/parser/Tag.formatAsBlock
+	org/jsoup/nodes/Document$OutputSettings.outline
+	org/jsoup/nodes/TextNode.parent
+	org/jsoup/nodes/Document$OutputSettings.prettyPrint
+	org/jsoup/nodes/Element.preserveWhitespace
+	org/jsoup/nodes/TextNode.siblingIndex
+	org/jsoup/nodes/Element.tag
+	org/jsoup/nodes/TextNode.siblingNodes
+	org/jsoup/nodes/TextNode.isBlank
+	org/jsoup/nodes/Entities.escape
+org/jsoup/select/Evaluator$CssNthEvaluator.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+	org/jsoup/select/Evaluator$CssNthEvaluator.<init>
+org/jsoup/nodes/Entities.escape may call:
+	org/jsoup/nodes/Entities.appendEncoded
+	org/jsoup/helper/StringUtil.isWhitespace
+	org/jsoup/nodes/Document$OutputSettings.encoder
+	org/jsoup/SerializationException.<init>
+	org/jsoup/nodes/Document$OutputSettings.escapeMode
+	org/jsoup/nodes/Entities.canEncode
+	org/jsoup/nodes/Entities.escape
+	org/jsoup/nodes/Entities$CoreCharset.access$100
+org/jsoup/select/Evaluator$IndexEvaluator.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/select/CombiningEvaluator$Or.<init> may call:
+	org/jsoup/select/CombiningEvaluator$Or.<init>
+	org/jsoup/select/CombiningEvaluator$Or.updateNumEvaluators
+	org/jsoup/select/CombiningEvaluator.<init>
+	org/jsoup/select/CombiningEvaluator$And.<init>
+org/jsoup/select/Evaluator$Id.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/nodes/Node.doClone may call:
+	org/jsoup/nodes/Attributes.clone
+org/jsoup/helper/W3CDom$W3CBuilder.tail may call:
+	org/w3c/dom/Element.getParentNode
+org/jsoup/nodes/Attributes.html may call:
+	org/jsoup/nodes/Document.<init>
+	org/jsoup/nodes/Attributes.html
+	org/jsoup/nodes/Document.outputSettings
+	org/jsoup/SerializationException.<init>
+	org/jsoup/nodes/Attribute.html
+org/jsoup/parser/TokeniserState$52.read may call:
+	org/jsoup/parser/CharacterReader.matchesLetter
+	org/jsoup/parser/Tokeniser.createDoctypePending
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.emitDoctypePending
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/nodes/Node.siblingNodes may call:
+org/jsoup/parser/HtmlTreeBuilderState$12.anythingElse may call:
+	org/jsoup/parser/TreeBuilder.process
+	org/jsoup/parser/TreeBuilder.processEndTag
+org/jsoup/parser/TokenQueue.matchesCS may call:
+org/jsoup/helper/DescendableLinkedList.peekLast may call:
+	org/jsoup/helper/DescendableLinkedList.getLast
+	org/jsoup/helper/DescendableLinkedList.size
+org/jsoup/nodes/Node.reindexChildren may call:
+	org/jsoup/nodes/Node.setSiblingIndex
+org/jsoup/Jsoup.isValid may call:
+	org/jsoup/safety/Cleaner.<init>
+	org/jsoup/safety/Cleaner.isValid
+	org/jsoup/Jsoup.parseBodyFragment
+org/jsoup/select/Evaluator$IsNthOfType.<init> may call:
+	org/jsoup/select/Evaluator$CssNthEvaluator.<init>
+org/jsoup/select/QueryParser.consumeIndex may call:
+	org/jsoup/parser/TokenQueue.chompTo
+	org/jsoup/helper/Validate.isTrue
+	org/jsoup/helper/StringUtil.isNumeric
+org/jsoup/nodes/Element.appendText may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/TextNode.<init>
+	org/jsoup/nodes/Element.baseUri
+	org/jsoup/nodes/Element.appendChild
+org/jsoup/nodes/Document.charset may call:
+	org/jsoup/nodes/Document.updateMetaCharsetElement
+	org/jsoup/nodes/Document.ensureMetaCharsetElement
+	org/jsoup/nodes/Document$OutputSettings.charset
+org/jsoup/parser/TokeniserState$51.read may call:
+	org/jsoup/parser/Tokeniser.createDoctypePending
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.emitDoctypePending
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/nodes/Document$QuirksMode.valueOf may call:
+org/jsoup/nodes/Entities$EscapeMode.codepointForName may call:
+org/jsoup/nodes/Entities.getByName may call:
+	org/jsoup/nodes/Entities$EscapeMode.codepointForName
+org/jsoup/parser/TokeniserState.readData may call:
+	org/jsoup/parser/CharacterReader.current
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Token$EOF.<init>
+	org/jsoup/parser/CharacterReader.consumeToAny
+	org/jsoup/parser/CharacterReader.advance
+	org/jsoup/parser/Tokeniser.emit
+org/jsoup/safety/Whitelist.relaxed may call:
+	org/jsoup/safety/Whitelist.<init>
+	org/jsoup/safety/Whitelist.addAttributes
+	org/jsoup/safety/Whitelist.addTags
+	org/jsoup/safety/Whitelist.addProtocols
+org/jsoup/parser/HtmlTreeBuilder.pop may call:
+org/jsoup/helper/HttpConnection$Response.bodyAsBytes may call:
+	org/jsoup/helper/Validate.isTrue
+org/jsoup/select/Elements.last may call:
+	org/jsoup/select/Elements.size
+	org/jsoup/select/Elements.get
+	org/jsoup/select/Elements.isEmpty
+org/jsoup/select/Evaluator$Attribute.toString may call:
+org/jsoup/nodes/Comment.toString may call:
+	org/jsoup/nodes/Comment.outerHtml
+org/jsoup/parser/CharacterReader.consumeToEnd may call:
+	org/jsoup/parser/CharacterReader.cacheString
+org/jsoup/SerializationException.<init> may call:
+org/jsoup/nodes/Entities$CoreCharset.values may call:
+	[Lorg/jsoup/nodes/Entities$CoreCharset;.clone
+org/jsoup/parser/HtmlTreeBuilder.generateImpliedEndTags may call:
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/parser/HtmlTreeBuilder.currentElement
+	org/jsoup/nodes/Element.nodeName
+	org/jsoup/parser/HtmlTreeBuilder.pop
+	org/jsoup/parser/HtmlTreeBuilder.generateImpliedEndTags
+org/jsoup/parser/HtmlTreeBuilder.error may call:
+	org/jsoup/parser/ParseErrorList.canAddError
+	org/jsoup/parser/ParseError.<init>
+	org/jsoup/parser/ParseErrorList.add
+	org/jsoup/parser/Token.tokenType
+	org/jsoup/parser/CharacterReader.pos
+org/jsoup/nodes/Attributes$Dataset$DatasetIterator.<init> may call:
+	org/jsoup/nodes/Attributes.access$100
+	org/jsoup/nodes/Attributes$Dataset$DatasetIterator.<init>
+org/jsoup/nodes/Element.getElementsByAttributeValue may call:
+	org/jsoup/select/Collector.collect
+	org/jsoup/select/Evaluator$AttributeWithValue.<init>
+org/jsoup/select/Elements.unwrap may call:
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Element.unwrap
+org/jsoup/parser/TokeniserState$67.read may call:
+	org/jsoup/parser/CharacterReader.matchConsume
+	org/jsoup/parser/CharacterReader.consumeTo
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/Jsoup.parse may call:
+	org/jsoup/helper/DataUtil.load
+	org/jsoup/Connection.timeout
+	org/jsoup/parser/Parser.parseInput
+	org/jsoup/Connection.get
+	org/jsoup/parser/Parser.parse
+	org/jsoup/helper/HttpConnection.connect
+org/jsoup/nodes/Element.prependElement may call:
+	org/jsoup/nodes/Element.baseUri
+	org/jsoup/parser/Tag.valueOf
+	org/jsoup/nodes/Element.prependChild
+	org/jsoup/nodes/Element.<init>
+org/jsoup/select/Evaluator$AttributeWithValueContaining.matches may call:
+	org/jsoup/nodes/Element.attr
+	org/jsoup/nodes/Element.hasAttr
+org/jsoup/parser/HtmlTreeBuilder.resetInsertionMode may call:
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/nodes/Element.nodeName
+org/jsoup/parser/HtmlTreeBuilder.inSelectScope may call:
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/helper/Validate.fail
+	org/jsoup/nodes/Element.nodeName
+org/jsoup/parser/HtmlTreeBuilder.insertOnStackAfter may call:
+	org/jsoup/helper/Validate.isTrue
+org/jsoup/parser/ParseSettings.<init> may call:
+org/jsoup/select/CombiningEvaluator$And.matches may call:
+	org/jsoup/select/Evaluator.matches
+org/jsoup/select/Evaluator$AttributeWithValueContaining.<init> may call:
+	org/jsoup/select/Evaluator$AttributeKeyPair.<init>
+org/jsoup/helper/HttpConnection$KeyVal.<init> may call:
+org/jsoup/parser/HtmlTreeBuilder.clearStackToTableContext may call:
+	org/jsoup/parser/HtmlTreeBuilder.clearStackToContext
+org/jsoup/safety/Whitelist.addAttributes may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/helper/Validate.isTrue
+	org/jsoup/safety/Whitelist$TagName.valueOf
+	org/jsoup/helper/Validate.notEmpty
+	org/jsoup/safety/Whitelist$AttributeKey.valueOf
+org/jsoup/parser/Token$Comment.getData may call:
+org/jsoup/helper/DescendableLinkedList.pollLast may call:
+	org/jsoup/helper/DescendableLinkedList.size
+	org/jsoup/helper/DescendableLinkedList.removeLast
+org/jsoup/parser/HtmlTreeBuilderState$14.anythingElse may call:
+	org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/examples/ListLinks.print may call:
+org/jsoup/select/Evaluator$Class.matches may call:
+	org/jsoup/nodes/Element.hasClass
+org/jsoup/select/QueryParser.parse may call:
+	org/jsoup/parser/TokenQueue.isEmpty
+	org/jsoup/select/StructuralEvaluator$Root.<init>
+	org/jsoup/select/QueryParser.<init>
+	org/jsoup/select/QueryParser.findElements
+	org/jsoup/select/QueryParser.parse
+	org/jsoup/parser/TokenQueue.matchesAny
+	org/jsoup/parser/TokenQueue.consumeWhitespace
+	org/jsoup/select/CombiningEvaluator$And.<init>
+	org/jsoup/parser/TokenQueue.consume
+	org/jsoup/select/QueryParser.combinator
+org/jsoup/select/QueryParser.indexLessThan may call:
+	org/jsoup/select/Evaluator$IndexLessThan.<init>
+	org/jsoup/select/QueryParser.consumeIndex
+org/jsoup/parser/HtmlTreeBuilderState$6.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/parser/Parser.xmlParser may call:
+	org/jsoup/parser/Parser.<init>
+	org/jsoup/parser/XmlTreeBuilder.<init>
+org/jsoup/helper/HttpConnection$Response.writePost may call:
+	org/jsoup/Connection$KeyVal.hasInputStream
+	org/jsoup/Connection$KeyVal.key
+	org/jsoup/Connection$KeyVal.value
+	org/jsoup/Connection$Request.postDataCharset
+	org/jsoup/Connection$Request.requestBody
+	org/jsoup/helper/DataUtil.crossStreams
+	org/jsoup/Connection$Request.data
+	org/jsoup/helper/HttpConnection.access$500
+	org/jsoup/Connection$KeyVal.inputStream
+org/jsoup/helper/Validate.notNull may call:
+org/jsoup/parser/Token$EndTag.<init> may call:
+	org/jsoup/parser/Token$Tag.<init>
+org/jsoup/helper/Validate.fail may call:
+org/jsoup/select/Elements.removeAttr may call:
+	org/jsoup/nodes/Element.removeAttr
+	org/jsoup/select/Elements.iterator
+org/jsoup/nodes/Attributes.clone may call:
+	org/jsoup/nodes/Attributes.<init>
+	org/jsoup/nodes/Attribute.getKey
+	org/jsoup/nodes/Attributes.clone
+	org/jsoup/nodes/Attribute.clone
+	org/jsoup/nodes/Attributes.iterator
+org/jsoup/nodes/Element.elementSiblingIndex may call:
+	org/jsoup/nodes/Element.children
+	org/jsoup/nodes/Element.parent
+	org/jsoup/nodes/Element.indexInList
+org/jsoup/parser/HtmlTreeBuilderState$22.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/parser/Token.asComment
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/HtmlTreeBuilderState.access$100
+	org/jsoup/parser/Token.isStartTag
+	org/jsoup/parser/Token.isEOF
+	org/jsoup/parser/Token.asStartTag
+	org/jsoup/parser/Token.isComment
+	org/jsoup/parser/Token.isDoctype
+	org/jsoup/parser/Token$StartTag.normalName
+org/jsoup/parser/TokeniserState$62.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/nodes/Element.appendWhitespaceIfBr may call:
+	org/jsoup/parser/Tag.getName
+	org/jsoup/nodes/TextNode.lastCharIsWhitespace
+org/jsoup/parser/HtmlTreeBuilderState$4.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/select/CombiningEvaluator$Or.add may call:
+	org/jsoup/select/CombiningEvaluator$Or.updateNumEvaluators
+org/jsoup/parser/HtmlTreeBuilderState$16.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/helper/HttpConnection.userAgent may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/Connection$Request.header
+org/jsoup/helper/HttpConnection.parser may call:
+	org/jsoup/Connection$Request.parser
+org/jsoup/parser/TokeniserState$30.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/helper/HttpConnection$Base.removeHeader may call:
+	org/jsoup/helper/HttpConnection$Base.scanHeaders
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/helper/HttpConnection$Base.removeCookie may call:
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/parser/TokeniserState$44.read may call:
+	org/jsoup/parser/CharacterReader.matchConsumeIgnoreCase
+	org/jsoup/parser/CharacterReader.matchConsume
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.createCommentPending
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/select/QueryParser.indexGreaterThan may call:
+	org/jsoup/select/Evaluator$IndexGreaterThan.<init>
+	org/jsoup/select/QueryParser.consumeIndex
+org/jsoup/parser/HtmlTreeBuilderState.access$200 may call:
+	org/jsoup/parser/HtmlTreeBuilderState.handleRcData
+org/jsoup/parser/TreeBuilder.processEndTag may call:
+	org/jsoup/parser/Token$EndTag.<init>
+	org/jsoup/parser/Token$EndTag.reset
+	org/jsoup/parser/TreeBuilder.process
+	org/jsoup/parser/Token$Tag.name
+	org/jsoup/parser/Token$EndTag.name
+org/jsoup/nodes/Node.before may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Node.addSiblingHtml
+	org/jsoup/nodes/Node.addChildren
+org/jsoup/safety/Whitelist.isSafeAttribute may call:
+	org/jsoup/nodes/Attribute.getKey
+	org/jsoup/safety/Whitelist.testValidProtocol
+	org/jsoup/safety/Whitelist$TagName.valueOf
+	org/jsoup/safety/Whitelist$AttributeKey.valueOf
+	org/jsoup/safety/Whitelist.isSafeAttribute
+org/jsoup/safety/Whitelist.getEnforcedAttributes may call:
+	org/jsoup/nodes/Attributes.put
+	org/jsoup/nodes/Attributes.<init>
+	org/jsoup/safety/Whitelist$AttributeKey.toString
+	org/jsoup/safety/Whitelist$AttributeValue.toString
+	org/jsoup/safety/Whitelist$TagName.valueOf
+org/jsoup/select/StructuralEvaluator$PreviousSibling.<init> may call:
+	org/jsoup/select/StructuralEvaluator.<init>
+org/jsoup/parser/Tag.valueOf may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/parser/Tag.valueOf
+	org/jsoup/parser/ParseSettings.normalizeTag
+	org/jsoup/helper/Validate.notEmpty
+	org/jsoup/parser/Tag.<init>
+org/jsoup/helper/HttpConnection.method may call:
+	org/jsoup/Connection$Request.method
+org/jsoup/parser/TokeniserState$29.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/HtmlTreeBuilderState$13.anythingElse may call:
+	org/jsoup/parser/HtmlTreeBuilder.process
+org/jsoup/select/StructuralEvaluator$Parent.toString may call:
+org/jsoup/select/Evaluator$Class.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/nodes/Attributes.toString may call:
+	org/jsoup/nodes/Attributes.html
+org/jsoup/parser/TokeniserState$4.read may call:
+	org/jsoup/parser/TokeniserState.access$100
+org/jsoup/helper/DataUtil.readFileToByteBuffer may call:
+org/jsoup/nodes/TextNode.text may call:
+	org/jsoup/nodes/TextNode.getWholeText
+	org/jsoup/nodes/Attributes.put
+	org/jsoup/nodes/TextNode.normaliseWhitespace
+org/jsoup/parser/TokenQueue.unescape may call:
+org/jsoup/nodes/Element.getAllElements may call:
+	org/jsoup/select/Evaluator$AllElements.<init>
+	org/jsoup/select/Collector.collect
+org/jsoup/nodes/Document.ensureMetaCharsetElement may call:
+	org/jsoup/select/Elements.remove
+	org/jsoup/nodes/Document.charset
+	org/jsoup/nodes/Document.outputSettings
+	org/jsoup/nodes/XmlDeclaration.name
+	org/jsoup/nodes/XmlDeclaration.attr
+	org/jsoup/nodes/Element.appendElement
+	org/jsoup/nodes/Document.prependChild
+	org/jsoup/nodes/Element.attr
+	org/jsoup/nodes/Document.childNodes
+	org/jsoup/nodes/Document.select
+	org/jsoup/select/Elements.first
+	org/jsoup/nodes/Document$OutputSettings.syntax
+	org/jsoup/nodes/XmlDeclaration.<init>
+	org/jsoup/nodes/Document.head
+org/jsoup/parser/Token$StartTag.toString may call:
+	org/jsoup/parser/Token$StartTag.name
+	org/jsoup/nodes/Attributes.size
+	org/jsoup/nodes/Attributes.toString
+org/jsoup/select/Evaluator$Class.toString may call:
+org/jsoup/select/StructuralEvaluator$Parent.<init> may call:
+	org/jsoup/select/StructuralEvaluator.<init>
+org/jsoup/select/Elements.attr may call:
+	org/jsoup/nodes/Element.attr
+	org/jsoup/nodes/Element.hasAttr
+	org/jsoup/select/Elements.iterator
+org/jsoup/helper/HttpConnection$Request.hasHeaderWithValue may call:
+	org/jsoup/helper/HttpConnection$Base.hasHeaderWithValue
+org/jsoup/parser/Tag.register may call:
+org/jsoup/parser/TokeniserState$57.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/nodes/Attribute.setValue may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Attribute.setValue
+org/jsoup/helper/HttpConnection$Response.header may call:
+	org/jsoup/helper/HttpConnection$Base.header
+org/jsoup/parser/TokeniserState$11.read may call:
+	org/jsoup/parser/CharacterReader.matchesLetter
+	org/jsoup/parser/Tokeniser.emitTagPending
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/CharacterReader.containsIgnoreCase
+	org/jsoup/parser/Token$Tag.name
+	org/jsoup/parser/Tokeniser.createTempBuffer
+	org/jsoup/parser/CharacterReader.unconsume
+	org/jsoup/parser/Tokeniser.createTagPending
+	org/jsoup/parser/Tokeniser.appropriateEndTagName
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/CharacterReader.matches
+org/jsoup/nodes/Element.accumulateParents may call:
+	org/jsoup/nodes/Element.tagName
+	org/jsoup/select/Elements.add
+	org/jsoup/nodes/Element.accumulateParents
+	org/jsoup/nodes/Element.parent
+org/jsoup/parser/TokeniserState$34.read may call:
+	org/jsoup/parser/Tokeniser.emitTagPending
+	org/jsoup/parser/Token$Tag.newAttribute
+	org/jsoup/parser/Token$Tag.appendAttributeName
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.unconsume
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/nodes/TextNode.lastCharIsWhitespace may call:
+org/jsoup/parser/Tokeniser.read may call:
+	org/jsoup/parser/Token$Character.data
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/TokeniserState.read
+org/jsoup/safety/Cleaner$CleaningVisitor.<init> may call:
+	org/jsoup/safety/Cleaner$CleaningVisitor.<init>
+org/jsoup/nodes/FormElement.<init> may call:
+	org/jsoup/select/Elements.<init>
+	org/jsoup/nodes/Element.<init>
+org/jsoup/parser/HtmlTreeBuilderState$16.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/Token.asComment
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/HtmlTreeBuilder.currentElement
+	org/jsoup/parser/Token$TokenType.ordinal
+	org/jsoup/parser/HtmlTreeBuilderState$16.anythingElse
+	org/jsoup/parser/HtmlTreeBuilder.aboveOnStack
+	org/jsoup/parser/HtmlTreeBuilderState.access$400
+	org/jsoup/parser/Token$Character.getData
+	org/jsoup/parser/Token$StartTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.pop
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/parser/Token.asCharacter
+	org/jsoup/nodes/Element.nodeName
+	org/jsoup/parser/HtmlTreeBuilder.resetInsertionMode
+	org/jsoup/parser/HtmlTreeBuilder.inSelectScope
+	org/jsoup/parser/HtmlTreeBuilder.processEndTag
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.popStackToClose
+	org/jsoup/parser/Token.asStartTag
+org/jsoup/examples/HtmlToPlainText$FormattingVisitor.toString may call:
+org/jsoup/select/Elements.append may call:
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Element.append
+org/jsoup/select/Elements.select may call:
+	org/jsoup/select/Selector.select
+org/jsoup/parser/CharacterReader.consumeToAnySorted may call:
+	org/jsoup/parser/CharacterReader.cacheString
+org/jsoup/select/Evaluator$IsEmpty.matches may call:
+	org/jsoup/nodes/Element.childNodes
+org/jsoup/nodes/TextNode.removeAttr may call:
+	org/jsoup/nodes/TextNode.ensureAttributes
+	org/jsoup/nodes/Node.removeAttr
+org/jsoup/helper/HttpConnection$Response.cookie may call:
+	org/jsoup/helper/HttpConnection$Base.cookie
+org/jsoup/parser/Token$Doctype.getSystemIdentifier may call:
+org/jsoup/nodes/Node.nextSibling may call:
+org/jsoup/nodes/Attributes$Dataset$DatasetIterator.next may call:
+	org/jsoup/nodes/Attribute.getKey
+	org/jsoup/nodes/Attribute.getValue
+	org/jsoup/nodes/Attributes$Dataset$DatasetIterator.next
+	org/jsoup/nodes/Attribute.<init>
+org/jsoup/nodes/Document.findFirstElementByTagName may call:
+	org/jsoup/nodes/Node.nodeName
+	org/jsoup/nodes/Document.findFirstElementByTagName
+org/jsoup/nodes/Entities$CoreCharset.access$100 may call:
+	org/jsoup/nodes/Entities$CoreCharset.byName
+org/jsoup/helper/HttpConnection$Response.getInsecureVerifier may call:
+	org/jsoup/helper/HttpConnection$Response$1.<init>
+org/jsoup/parser/CharacterReader.cacheString may call:
+	org/jsoup/parser/CharacterReader.rangeEquals
+org/jsoup/nodes/Node.remove may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Node.removeChild
+org/jsoup/parser/Tokeniser.emitDoctypePending may call:
+	org/jsoup/parser/Tokeniser.emit
+org/jsoup/select/Evaluator$MatchesOwn.matches may call:
+	org/jsoup/nodes/Element.ownText
+org/jsoup/nodes/Attribute.setKey may call:
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/nodes/Node.previousSibling may call:
+org/jsoup/helper/StringUtil.join may call:
+	org/jsoup/helper/StringUtil.join
+org/jsoup/parser/TokeniserState$36.read may call:
+	org/jsoup/parser/Tokeniser.emitTagPending
+	org/jsoup/parser/Token$Tag.newAttribute
+	org/jsoup/parser/Token$Tag.appendAttributeName
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.unconsume
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/examples/ListLinks.trim may call:
+org/jsoup/parser/TokeniserState$52.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/HtmlTreeBuilderState$11.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/HtmlTreeBuilder.currentElement
+	org/jsoup/parser/Token$StartTag.normalName
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/parser/Token.isEndTag
+	org/jsoup/parser/HtmlTreeBuilder.clearFormattingElementsToLastMarker
+	org/jsoup/parser/HtmlTreeBuilder.inTableScope
+	org/jsoup/nodes/Element.nodeName
+	org/jsoup/parser/Token.isStartTag
+	org/jsoup/parser/HtmlTreeBuilder.processEndTag
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.popStackToClose
+	org/jsoup/parser/Token.asStartTag
+	org/jsoup/parser/HtmlTreeBuilder.generateImpliedEndTags
+org/jsoup/parser/HtmlTreeBuilder.replaceOnStack may call:
+	org/jsoup/parser/HtmlTreeBuilder.replaceInQueue
+org/jsoup/helper/HttpConnection$Request.cookie may call:
+	org/jsoup/helper/HttpConnection$Base.cookie
+org/jsoup/parser/TokeniserState$41.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/select/Evaluator$IsNthLastChild.calculatePosition may call:
+	org/jsoup/nodes/Element.children
+	org/jsoup/select/Elements.size
+	org/jsoup/nodes/Element.elementSiblingIndex
+	org/jsoup/nodes/Element.parent
+org/jsoup/parser/TokenQueue.matches may call:
+org/jsoup/nodes/Element.preserveWhitespace may call:
+	org/jsoup/parser/Tag.preserveWhitespace
+	org/jsoup/nodes/Element.parent
+org/jsoup/nodes/Attributes.hasKey may call:
+org/jsoup/parser/TokeniserState$8.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/HtmlTreeBuilderState.values may call:
+	[Lorg/jsoup/parser/HtmlTreeBuilderState;.clone
+org/jsoup/select/Evaluator$CssNthEvaluator.toString may call:
+	org/jsoup/select/Evaluator$CssNthEvaluator.getPseudoClass
+org/jsoup/parser/TokenQueue.chompBalanced may call:
+	org/jsoup/parser/TokenQueue.isEmpty
+	org/jsoup/parser/TokenQueue.consume
+org/jsoup/nodes/XmlDeclaration.toString may call:
+	org/jsoup/nodes/XmlDeclaration.outerHtml
+org/jsoup/select/Evaluator$ContainsText.toString may call:
+org/jsoup/parser/Token$Tag.newAttribute may call:
+	org/jsoup/nodes/Attributes.put
+	org/jsoup/nodes/Attributes.<init>
+	org/jsoup/nodes/BooleanAttribute.<init>
+	org/jsoup/parser/Token$Tag.reset
+	org/jsoup/nodes/Attribute.<init>
+org/jsoup/helper/DescendableLinkedList$DescendingIterator.next may call:
+org/jsoup/helper/Validate.isFalse may call:
+org/jsoup/parser/Token$StartTag.nameAttr may call:
+org/jsoup/parser/HtmlTreeBuilder.isSameFormattingElement may call:
+	org/jsoup/nodes/Attributes.equals
+	org/jsoup/nodes/Element.attributes
+	org/jsoup/nodes/Element.nodeName
+org/jsoup/parser/HtmlTreeBuilderState$1.process may call:
+	org/jsoup/parser/Token$Doctype.getSystemIdentifier
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/HtmlTreeBuilder.getDocument
+	org/jsoup/parser/Token.asComment
+	org/jsoup/nodes/Document.quirksMode
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/HtmlTreeBuilderState.access$100
+	org/jsoup/parser/ParseSettings.normalizeTag
+	org/jsoup/nodes/Document.appendChild
+	org/jsoup/nodes/DocumentType.<init>
+	org/jsoup/parser/Token$Doctype.isForceQuirks
+	org/jsoup/parser/Token.isComment
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/parser/Token.asDoctype
+	org/jsoup/parser/Token$Doctype.getName
+	org/jsoup/parser/Token$Doctype.getPublicIdentifier
+	org/jsoup/parser/HtmlTreeBuilder.getBaseUri
+	org/jsoup/parser/Token.isDoctype
+org/jsoup/parser/HtmlTreeBuilderState$17.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/parser/Token.isEndTag
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/HtmlTreeBuilder.inTableScope
+	org/jsoup/parser/Token.isStartTag
+	org/jsoup/parser/HtmlTreeBuilder.processEndTag
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/Token.asStartTag
+	org/jsoup/parser/Token$StartTag.normalName
+org/jsoup/parser/CharacterReader.containsIgnoreCase may call:
+	org/jsoup/parser/CharacterReader.nextIndexOf
+org/jsoup/parser/HtmlTreeBuilder.insertInFosterParent may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Element.before
+	org/jsoup/parser/HtmlTreeBuilder.getFromStack
+	org/jsoup/parser/HtmlTreeBuilder.aboveOnStack
+	org/jsoup/nodes/Element.parent
+	org/jsoup/nodes/Element.appendChild
+org/jsoup/select/Evaluator$IsNthLastOfType.calculatePosition may call:
+	org/jsoup/nodes/Element.children
+	org/jsoup/parser/Tag.equals
+	org/jsoup/select/Elements.size
+	org/jsoup/nodes/Element.elementSiblingIndex
+	org/jsoup/select/Elements.get
+	org/jsoup/nodes/Element.tag
+	org/jsoup/nodes/Element.parent
+org/jsoup/parser/TokeniserState$26.read may call:
+	org/jsoup/parser/CharacterReader.matchesLetter
+	org/jsoup/parser/CharacterReader.current
+	org/jsoup/parser/Token$Tag.appendTagName
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.createTagPending
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/helper/HttpConnection.needsMultipart may call:
+	org/jsoup/Connection$KeyVal.hasInputStream
+	org/jsoup/Connection$Request.data
+org/jsoup/safety/Whitelist.removeEnforcedAttribute may call:
+	org/jsoup/safety/Whitelist$TagName.valueOf
+	org/jsoup/helper/Validate.notEmpty
+	org/jsoup/safety/Whitelist$AttributeKey.valueOf
+org/jsoup/helper/HttpConnection$Response.createHeaderMap may call:
+org/jsoup/nodes/Attributes$Dataset.put may call:
+	org/jsoup/nodes/Attributes.access$300
+	org/jsoup/nodes/Attributes.access$100
+	org/jsoup/nodes/Attributes$Dataset.put
+	org/jsoup/nodes/Attribute.getValue
+	org/jsoup/nodes/Attributes.hasKey
+	org/jsoup/nodes/Attribute.<init>
+org/jsoup/parser/HtmlTreeBuilderState.valueOf may call:
+org/jsoup/helper/HttpConnection.access$200 may call:
+	org/jsoup/helper/HttpConnection.encodeUrl
+org/jsoup/helper/HttpConnection$Response.parse may call:
+	org/jsoup/Connection$Request.parser
+	org/jsoup/nodes/Document.outputSettings
+	org/jsoup/helper/Validate.isTrue
+	org/jsoup/helper/DataUtil.parseByteData
+	org/jsoup/nodes/Document$OutputSettings.charset
+org/jsoup/parser/CharacterReader.consumeToAny may call:
+	org/jsoup/parser/CharacterReader.cacheString
+org/jsoup/nodes/Attribute.getKey may call:
+	org/jsoup/nodes/Attribute.getKey
+org/jsoup/helper/StringUtil.normaliseWhitespace may call:
+	org/jsoup/helper/StringUtil.appendNormalisedWhitespace
+org/jsoup/parser/TokeniserState$3.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/TokeniserState$19.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/TokeniserState$16.read may call:
+	org/jsoup/parser/TokeniserState.access$500
+org/jsoup/parser/HtmlTreeBuilderState$11.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/parser/HtmlTreeBuilderState$22.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/nodes/Attribute.isBooleanAttribute may call:
+org/jsoup/select/Selector.filterOut may call:
+	org/jsoup/nodes/Element.equals
+	org/jsoup/select/Elements.add
+	org/jsoup/select/Elements.<init>
+org/jsoup/nodes/TextNode.splitText may call:
+	org/jsoup/nodes/TextNode.getWholeText
+	org/jsoup/nodes/TextNode.<init>
+	org/jsoup/helper/Validate.isTrue
+	org/jsoup/nodes/TextNode.parent
+	org/jsoup/nodes/TextNode.baseUri
+	org/jsoup/nodes/TextNode.siblingIndex
+	org/jsoup/nodes/Node.addChildren
+	org/jsoup/nodes/TextNode.text
+org/jsoup/select/Evaluator$ContainsOwnText.matches may call:
+	org/jsoup/nodes/Element.ownText
+org/jsoup/select/Evaluator$ContainsText.matches may call:
+	org/jsoup/nodes/Element.text
+org/jsoup/helper/HttpConnection$Response.hasHeaderWithValue may call:
+	org/jsoup/helper/HttpConnection$Base.hasHeaderWithValue
+org/jsoup/parser/HtmlTreeBuilder.<init> may call:
+	org/jsoup/parser/Token$EndTag.<init>
+	org/jsoup/parser/TreeBuilder.<init>
+org/jsoup/nodes/Document.<init> may call:
+	org/jsoup/parser/Tag.valueOf
+	org/jsoup/nodes/Element.<init>
+	org/jsoup/nodes/Document$OutputSettings.<init>
+org/jsoup/nodes/Element.className may call:
+	org/jsoup/nodes/Element.attr
+org/jsoup/parser/CharacterReader.matchesDigit may call:
+	org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/Token$Doctype.getName may call:
+org/jsoup/nodes/Element.nodeName may call:
+	org/jsoup/parser/Tag.getName
+org/jsoup/parser/TokeniserState$67.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/helper/DescendableLinkedList$DescendingIterator.<init> may call:
+	org/jsoup/helper/DescendableLinkedList.listIterator
+	org/jsoup/helper/DescendableLinkedList$DescendingIterator.<init>
+org/jsoup/parser/HtmlTreeBuilderState$3.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/safety/Whitelist$TagName.<init> may call:
+	org/jsoup/safety/Whitelist$TypedValue.<init>
+org/jsoup/select/CombiningEvaluator.replaceRightMostEvaluator may call:
+org/jsoup/nodes/Element.<init> may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Attributes.<init>
+	org/jsoup/nodes/Node.<init>
+	org/jsoup/nodes/Element.<init>
+org/jsoup/parser/Token$EOF.<init> may call:
+	org/jsoup/parser/Token.<init>
+org/jsoup/parser/TokeniserState$33.read may call:
+	org/jsoup/parser/TokeniserState.access$600
+org/jsoup/select/CombiningEvaluator$Or.toString may call:
+org/jsoup/helper/HttpConnection$Base.scanHeaders may call:
+org/jsoup/helper/W3CDom.<init> may call:
+	javax/xml/parsers/DocumentBuilderFactory.newInstance
+org/jsoup/helper/HttpConnection$Response.url may call:
+	org/jsoup/helper/HttpConnection$Base.url
+org/jsoup/parser/TokenQueue.consumeElementSelector may call:
+	org/jsoup/parser/TokenQueue.isEmpty
+	org/jsoup/parser/TokenQueue.matchesWord
+	org/jsoup/parser/TokenQueue.matchesAny
+org/jsoup/safety/Whitelist$AttributeValue.<init> may call:
+	org/jsoup/safety/Whitelist$TypedValue.<init>
+org/jsoup/helper/HttpConnection$Base.<init> may call:
+	org/jsoup/helper/HttpConnection$Base.<init>
+org/jsoup/helper/HttpConnection$Response.cookies may call:
+	org/jsoup/helper/HttpConnection$Base.cookies
+org/jsoup/nodes/DataNode.toString may call:
+	org/jsoup/nodes/DataNode.outerHtml
+org/jsoup/parser/HtmlTreeBuilderState$21.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/parser/Token.asComment
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/HtmlTreeBuilderState.access$100
+	org/jsoup/parser/Token.isStartTag
+	org/jsoup/parser/Token.isEOF
+	org/jsoup/parser/Token.asStartTag
+	org/jsoup/parser/Token.isComment
+	org/jsoup/parser/Token.isDoctype
+	org/jsoup/parser/Token$StartTag.normalName
+org/jsoup/select/Elements.hasText may call:
+	org/jsoup/nodes/Element.hasText
+	org/jsoup/select/Elements.iterator
+org/jsoup/helper/HttpConnection.<init> may call:
+	org/jsoup/helper/HttpConnection$Request.<init>
+	org/jsoup/helper/HttpConnection$Response.<init>
+org/jsoup/nodes/Node.childNode may call:
+org/jsoup/parser/TokenQueue.advance may call:
+	org/jsoup/parser/TokenQueue.isEmpty
+org/jsoup/helper/HttpConnection$Response.setupFromConnection may call:
+	org/jsoup/Connection$Response.cookies
+	org/jsoup/Connection$Method.valueOf
+	org/jsoup/helper/HttpConnection$Response.processResponseHeaders
+	org/jsoup/helper/HttpConnection$Response.hasCookie
+	org/jsoup/helper/HttpConnection$Response.cookie
+	org/jsoup/helper/HttpConnection$Response.createHeaderMap
+org/jsoup/parser/HtmlTreeBuilder.clearFormattingElementsToLastMarker may call:
+	org/jsoup/parser/HtmlTreeBuilder.removeLastFormattingElement
+org/jsoup/helper/HttpConnection.maxBodySize may call:
+	org/jsoup/Connection$Request.maxBodySize
+org/jsoup/nodes/Document$OutputSettings$Syntax.values may call:
+	[Lorg/jsoup/nodes/Document$OutputSettings$Syntax;.clone
+org/jsoup/nodes/Document.title may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Document.getElementsByTag
+	org/jsoup/nodes/Element.text
+	org/jsoup/helper/StringUtil.normaliseWhitespace
+	org/jsoup/select/Elements.first
+	org/jsoup/nodes/Element.appendElement
+	org/jsoup/nodes/Document.head
+org/jsoup/parser/TokeniserState$50.read may call:
+	org/jsoup/parser/Tokeniser.emitCommentPending
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/select/Elements.<init> may call:
+org/jsoup/parser/TokeniserState.readCharRef may call:
+	org/jsoup/parser/Tokeniser.consumeCharacterReference
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/parser/TokeniserState.access$400 may call:
+	org/jsoup/parser/TokeniserState.readEndTag
+org/jsoup/parser/Parser.parseFragment may call:
+	org/jsoup/parser/HtmlTreeBuilder.parseFragment
+	org/jsoup/parser/ParseErrorList.noTracking
+	org/jsoup/parser/HtmlTreeBuilder.defaultSettings
+	org/jsoup/parser/HtmlTreeBuilder.<init>
+org/jsoup/helper/HttpConnection.headers may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/Connection$Request.header
+org/jsoup/parser/TokenQueue.isEmpty may call:
+	org/jsoup/parser/TokenQueue.remainingLength
+org/jsoup/select/Elements.val may call:
+	org/jsoup/nodes/Element.val
+	org/jsoup/select/Elements.iterator
+	org/jsoup/select/Elements.size
+	org/jsoup/select/Elements.first
+org/jsoup/helper/HttpConnection.url may call:
+	org/jsoup/helper/HttpConnection.encodeUrl
+	org/jsoup/Connection$Request.url
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/helper/HttpConnection.data may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/Connection$KeyVal.key
+	org/jsoup/helper/Validate.isTrue
+	org/jsoup/helper/Validate.notEmpty
+	org/jsoup/Connection$Request.data
+	org/jsoup/helper/HttpConnection$KeyVal.create
+	org/jsoup/helper/HttpConnection.request
+org/jsoup/parser/TokeniserState$24.read may call:
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/CharacterReader.isEmpty
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/Tokeniser.emit
+org/jsoup/parser/TokeniserState$5.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/select/Elements.eq may call:
+	org/jsoup/select/Elements.size
+	org/jsoup/select/Elements.<init>
+	org/jsoup/select/Elements.get
+org/jsoup/helper/HttpConnection$Request.<init> may call:
+	org/jsoup/parser/Parser.htmlParser
+	org/jsoup/helper/HttpConnection$Request.<init>
+	org/jsoup/helper/HttpConnection$Base.<init>
+org/jsoup/select/Evaluator$Id.toString may call:
+org/jsoup/parser/Token.tokenType may call:
+org/jsoup/parser/HtmlTreeBuilderState$13.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/helper/HttpConnection$Response.body may call:
+	org/jsoup/helper/Validate.isTrue
+org/jsoup/helper/HttpConnection.encodeMimeName may call:
+org/jsoup/helper/HttpConnection.postDataCharset may call:
+	org/jsoup/Connection$Request.postDataCharset
+org/jsoup/select/Elements.removeClass may call:
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Element.removeClass
+org/jsoup/nodes/Element.outerHtmlTail may call:
+	org/jsoup/parser/Tag.isSelfClosing
+	org/jsoup/nodes/Element.tagName
+	org/jsoup/parser/Tag.formatAsBlock
+	org/jsoup/nodes/Document$OutputSettings.outline
+	org/jsoup/nodes/Element.indent
+	org/jsoup/nodes/Document$OutputSettings.prettyPrint
+org/jsoup/parser/Token$Tag.finaliseTag may call:
+	org/jsoup/parser/Token$Tag.newAttribute
+org/jsoup/nodes/Document$OutputSettings.encoder may call:
+org/jsoup/parser/HtmlTreeBuilderState$16.anythingElse may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+org/jsoup/nodes/Element.hasClass may call:
+	org/jsoup/nodes/Attributes.get
+org/jsoup/parser/TokenQueue.consume may call:
+	org/jsoup/parser/TokenQueue.remainingLength
+	org/jsoup/parser/TokenQueue.matches
+org/jsoup/helper/DataUtil.getCharsetFromContentType may call:
+	org/jsoup/helper/DataUtil.validateCharset
+org/jsoup/UnsupportedMimeTypeException.toString may call:
+org/jsoup/parser/TreeBuilder.initialiseParse may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/parser/Tokeniser.<init>
+	org/jsoup/nodes/Document.<init>
+	org/jsoup/parser/CharacterReader.<init>
+org/jsoup/parser/TokeniserState$48.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/HtmlTreeBuilder.inTableScope may call:
+	org/jsoup/parser/HtmlTreeBuilder.inSpecificScope
+org/jsoup/nodes/Entities$1.<clinit> may call:
+	org/jsoup/nodes/Entities$CoreCharset.ordinal
+	org/jsoup/nodes/Entities$CoreCharset.values
+org/jsoup/nodes/DataNode.outerHtmlHead may call:
+	org/jsoup/nodes/DataNode.getWholeData
+org/jsoup/nodes/Element.prepend may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Element.baseUri
+	org/jsoup/nodes/Element.addChildren
+	org/jsoup/parser/Parser.parseFragment
+org/jsoup/nodes/Element.appendNormalisedText may call:
+	org/jsoup/nodes/TextNode.getWholeText
+	org/jsoup/nodes/Element.preserveWhitespace
+	org/jsoup/helper/StringUtil.appendNormalisedWhitespace
+	org/jsoup/nodes/TextNode.lastCharIsWhitespace
+org/jsoup/parser/TokeniserState$37.read may call:
+	org/jsoup/parser/Tokeniser.emitTagPending
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.unconsume
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/Token$Tag.appendAttributeValue
+org/jsoup/nodes/Element.getElementsContainingText may call:
+	org/jsoup/select/Collector.collect
+	org/jsoup/select/Evaluator$ContainsText.<init>
+org/jsoup/parser/HtmlTreeBuilderState$2.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/Token.asComment
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/HtmlTreeBuilderState$2.anythingElse
+	org/jsoup/parser/HtmlTreeBuilderState.access$100
+	org/jsoup/parser/Token.isComment
+	org/jsoup/parser/Token$StartTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/parser/Token.isEndTag
+	org/jsoup/parser/Token.isStartTag
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/Token.asStartTag
+	org/jsoup/parser/Token.isDoctype
+org/jsoup/select/Evaluator$IndexGreaterThan.matches may call:
+	org/jsoup/nodes/Element.elementSiblingIndex
+org/jsoup/select/Selector.<init> may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/select/QueryParser.parse
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/helper/DataUtil.load may call:
+	org/jsoup/parser/Parser.htmlParser
+	org/jsoup/helper/DataUtil.readToByteBuffer
+	org/jsoup/helper/DataUtil.parseByteData
+	org/jsoup/helper/DataUtil.readFileToByteBuffer
+org/jsoup/helper/HttpConnection$Response.charset may call:
+	org/jsoup/helper/HttpConnection$Response.charset
+org/jsoup/nodes/Element.textNodes may call:
+org/jsoup/nodes/DocumentType.<init> may call:
+	org/jsoup/nodes/DocumentType.attr
+	org/jsoup/nodes/Node.<init>
+org/jsoup/select/Collector.<init> may call:
+org/jsoup/nodes/Element.indexInList may call:
+	org/jsoup/helper/Validate.notNull
+org/jsoup/parser/TokeniserState$45.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/helper/HttpConnection$Request.method may call:
+	org/jsoup/helper/HttpConnection$Base.method
+org/jsoup/nodes/Document$OutputSettings.<init> may call:
+org/jsoup/parser/TokeniserState$66.read may call:
+	org/jsoup/parser/Tokeniser.emitDoctypePending
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/safety/Cleaner.access$100 may call:
+	org/jsoup/safety/Cleaner.createSafeElement
+org/jsoup/parser/TokenQueue.remainder may call:
+org/jsoup/parser/Token$Doctype.<init> may call:
+	org/jsoup/parser/Token.<init>
+org/jsoup/nodes/Entities.<clinit> may call:
+org/jsoup/parser/TokeniserState$2.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/XmlTreeBuilder.parseFragment may call:
+	org/jsoup/parser/XmlTreeBuilder.initialiseParse
+	org/jsoup/nodes/Document.childNodes
+	org/jsoup/parser/XmlTreeBuilder.runParser
+org/jsoup/nodes/Entities$EscapeMode.nameForCodepoint may call:
+org/jsoup/parser/TokeniserState$10.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/nodes/Entities.isBaseNamedEntity may call:
+	org/jsoup/nodes/Entities$EscapeMode.codepointForName
+org/jsoup/nodes/Node.childNodesAsArray may call:
+	org/jsoup/nodes/Node.childNodeSize
+org/jsoup/parser/TokeniserState$57.read may call:
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.emitDoctypePending
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/select/Evaluator$AllElements.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/parser/HtmlTreeBuilder.toString may call:
+	org/jsoup/parser/HtmlTreeBuilder.currentElement
+org/jsoup/select/StructuralEvaluator$Not.matches may call:
+	org/jsoup/select/Evaluator.matches
+org/jsoup/nodes/Element.appendElement may call:
+	org/jsoup/nodes/Element.baseUri
+	org/jsoup/parser/Tag.valueOf
+	org/jsoup/nodes/Element.<init>
+	org/jsoup/nodes/Element.appendChild
+org/jsoup/parser/TokeniserState$56.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/TokeniserState$59.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/select/StructuralEvaluator.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/safety/Whitelist$AttributeKey.<init> may call:
+	org/jsoup/safety/Whitelist$TypedValue.<init>
+org/jsoup/select/Elements.toggleClass may call:
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Element.toggleClass
+org/jsoup/parser/TokeniserState.access$600 may call:
+	org/jsoup/parser/TokeniserState.handleDataDoubleEscapeTag
+org/jsoup/select/CombiningEvaluator$And.<init> may call:
+	org/jsoup/select/CombiningEvaluator.<init>
+	org/jsoup/select/CombiningEvaluator$And.<init>
+org/jsoup/parser/TokeniserState$40.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/TokeniserState$15.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/helper/DataUtil.readToByteBuffer may call:
+	org/jsoup/helper/DataUtil.readToByteBuffer
+	org/jsoup/helper/Validate.isTrue
+org/jsoup/helper/HttpConnection$KeyVal.key may call:
+	org/jsoup/helper/HttpConnection$KeyVal.key
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/nodes/Element.after may call:
+	org/jsoup/nodes/Element.after
+	org/jsoup/nodes/Node.after
+org/jsoup/parser/TokeniserState$51.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/TokeniserState$26.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/nodes/Node.reparentChild may call:
+	org/jsoup/nodes/Node.setParentNode
+	org/jsoup/nodes/Node.removeChild
+org/jsoup/nodes/Node.indent may call:
+	org/jsoup/nodes/Document$OutputSettings.indentAmount
+	org/jsoup/helper/StringUtil.padding
+org/jsoup/nodes/Document$OutputSettings$Syntax.<clinit> may call:
+	org/jsoup/nodes/Document$OutputSettings$Syntax.<init>
+org/jsoup/parser/TokeniserState$37.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/select/Elements.before may call:
+	org/jsoup/nodes/Element.before
+	org/jsoup/select/Elements.iterator
+org/jsoup/parser/Tag.isKnownTag may call:
+org/jsoup/parser/HtmlTreeBuilderState$10.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/Token$Character.data
+	org/jsoup/parser/Token$Character.<init>
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/HtmlTreeBuilder.currentElement
+	org/jsoup/parser/HtmlTreeBuilder.setFosterInserts
+	org/jsoup/parser/Token$TokenType.ordinal
+	org/jsoup/parser/HtmlTreeBuilderState.access$400
+	org/jsoup/parser/Token$Character.getData
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/parser/HtmlTreeBuilder.originalState
+	org/jsoup/parser/HtmlTreeBuilder.newPendingTableCharacters
+	org/jsoup/parser/Token.asCharacter
+	org/jsoup/parser/HtmlTreeBuilder.getPendingTableCharacters
+	org/jsoup/nodes/Element.nodeName
+	org/jsoup/parser/HtmlTreeBuilderState.access$2200
+org/jsoup/nodes/Node.removeAttr may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Attributes.removeIgnoreCase
+org/jsoup/helper/W3CDom$W3CBuilder.copyAttributes may call:
+	org/jsoup/nodes/Attribute.getKey
+	org/w3c/dom/Element.setAttribute
+	org/jsoup/nodes/Node.attributes
+	org/jsoup/nodes/Attribute.getValue
+	org/jsoup/nodes/Attributes.iterator
+org/jsoup/nodes/Element.dataset may call:
+	org/jsoup/nodes/Attributes.dataset
+org/jsoup/nodes/Element.getElementsByAttributeValueMatching may call:
+	org/jsoup/select/Evaluator$AttributeWithValueMatching.<init>
+	org/jsoup/nodes/Element.getElementsByAttributeValueMatching
+	org/jsoup/select/Collector.collect
+org/jsoup/parser/HtmlTreeBuilder.lastFormattingElement may call:
+org/jsoup/select/QueryParser.<init> may call:
+	org/jsoup/parser/TokenQueue.<init>
+org/jsoup/nodes/FormElement.addElement may call:
+	org/jsoup/select/Elements.add
+org/jsoup/examples/HtmlToPlainText.getPlainText may call:
+	org/jsoup/examples/HtmlToPlainText$FormattingVisitor.<init>
+	org/jsoup/select/NodeTraversor.<init>
+	org/jsoup/examples/HtmlToPlainText$FormattingVisitor.toString
+	org/jsoup/select/NodeTraversor.traverse
+org/jsoup/nodes/XmlDeclaration.<init> may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Node.<init>
+org/jsoup/parser/CharacterReader.consumeLetterSequence may call:
+	org/jsoup/parser/CharacterReader.cacheString
+org/jsoup/parser/TokeniserState$13.read may call:
+	org/jsoup/parser/CharacterReader.matchesLetter
+	org/jsoup/parser/Tokeniser.isAppropriateEndTagToken
+	org/jsoup/parser/TokeniserState$13.anythingElse
+	org/jsoup/parser/Tokeniser.emitTagPending
+	org/jsoup/parser/Token$Tag.appendTagName
+	org/jsoup/parser/CharacterReader.consumeLetterSequence
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/select/Evaluator$ContainsText.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/nodes/Element.getElementsByIndexLessThan may call:
+	org/jsoup/select/Evaluator$IndexLessThan.<init>
+	org/jsoup/select/Collector.collect
+org/jsoup/select/Evaluator$TagEndsWith.matches may call:
+	org/jsoup/nodes/Element.tagName
+org/jsoup/parser/TokenQueue.matchesStartTag may call:
+	org/jsoup/parser/TokenQueue.remainingLength
+org/jsoup/parser/Tag.<init> may call:
+org/jsoup/select/Elements.wrap may call:
+	org/jsoup/nodes/Element.wrap
+	org/jsoup/select/Elements.iterator
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/parser/Token.reset may call:
+org/jsoup/nodes/Element.getElementsByAttributeValueStarting may call:
+	org/jsoup/select/Evaluator$AttributeWithValueStarting.<init>
+	org/jsoup/select/Collector.collect
+org/jsoup/nodes/Element$1.<init> may call:
+org/jsoup/nodes/Element.getElementsByClass may call:
+	org/jsoup/select/Collector.collect
+	org/jsoup/select/Evaluator$Class.<init>
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/select/Evaluator$AttributeWithValueEnding.toString may call:
+org/jsoup/parser/TokeniserState$60.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/Tokeniser.createTagPending may call:
+	org/jsoup/parser/Token$EndTag.reset
+	org/jsoup/parser/Token$StartTag.reset
+org/jsoup/parser/TokenQueue.consumeWhitespace may call:
+	org/jsoup/parser/TokenQueue.matchesWhitespace
+org/jsoup/parser/HtmlTreeBuilderState$8.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/parser/HtmlTreeBuilder.isElementInQueue may call:
+org/jsoup/nodes/Document$QuirksMode.<init> may call:
+org/jsoup/parser/TokeniserState$23.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/parser/Token$StartTag.<init> may call:
+	org/jsoup/nodes/Attributes.<init>
+	org/jsoup/parser/Token$Tag.<init>
+org/jsoup/parser/CharacterReader.consumeHexSequence may call:
+	org/jsoup/parser/CharacterReader.cacheString
+org/jsoup/parser/TokeniserState$30.read may call:
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/parser/TokeniserState$32.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/nodes/Element.getElementsByAttributeStarting may call:
+	org/jsoup/select/Evaluator$AttributeStarting.<init>
+	org/jsoup/select/Collector.collect
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/parser/TokeniserState$21.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/select/Evaluator.<init> may call:
+org/jsoup/nodes/Element.cssSelector may call:
+	org/jsoup/nodes/Element.tagName
+	org/jsoup/helper/StringUtil.join
+	org/jsoup/nodes/Element.select
+	org/jsoup/select/Elements.size
+	org/jsoup/nodes/Element.cssSelector
+	org/jsoup/nodes/Element.classNames
+	org/jsoup/nodes/Element.elementSiblingIndex
+	org/jsoup/nodes/Element.id
+	org/jsoup/nodes/Element.parent
+org/jsoup/helper/DescendableLinkedList.<init> may call:
+org/jsoup/nodes/Document$OutputSettings.charset may call:
+	org/jsoup/nodes/Document$OutputSettings.charset
+org/jsoup/parser/TokeniserState$34.<init> may call:
+	org/jsoup/parser/TokeniserState.<init>
+org/jsoup/nodes/Node.ownerDocument may call:
+	org/jsoup/nodes/Node.ownerDocument
+org/jsoup/parser/TokeniserState$17.read may call:
+	org/jsoup/parser/Tokeniser.createTempBuffer
+	org/jsoup/parser/CharacterReader.unconsume
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/Tokeniser.emit
+org/jsoup/nodes/Node.addChildren may call:
+	org/jsoup/nodes/Node.setSiblingIndex
+	org/jsoup/nodes/Node.reparentChild
+	org/jsoup/nodes/Node.ensureChildNodes
+	org/jsoup/nodes/Node.reindexChildren
+	org/jsoup/helper/Validate.noNullElements
+org/jsoup/nodes/Element.previousElementSibling may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Element.children
+	org/jsoup/nodes/Element.parent
+	org/jsoup/nodes/Element.indexInList
+org/jsoup/nodes/Document$OutputSettings.indentAmount may call:
+	org/jsoup/helper/Validate.isTrue
+org/jsoup/parser/TokeniserState$63.read may call:
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.emitDoctypePending
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/nodes/Entities.<init> may call:
+org/jsoup/parser/TokeniserState.values may call:
+	[Lorg/jsoup/parser/TokeniserState;.clone
+org/jsoup/select/Elements.prepend may call:
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Element.prepend
+org/jsoup/parser/Token$Tag.name may call:
+	org/jsoup/helper/Validate.isFalse
+org/jsoup/parser/HtmlTreeBuilderState$18.<init> may call:
+	org/jsoup/parser/HtmlTreeBuilderState.<init>
+org/jsoup/select/QueryParser.cssNthChild may call:
+	org/jsoup/select/Evaluator$IsNthLastOfType.<init>
+	org/jsoup/parser/TokenQueue.chompTo
+	org/jsoup/select/Evaluator$IsNthChild.<init>
+	org/jsoup/select/Evaluator$IsNthLastChild.<init>
+	org/jsoup/select/Evaluator$IsNthOfType.<init>
+	org/jsoup/select/Selector$SelectorParseException.<init>
+org/jsoup/parser/HtmlTreeBuilderState$13.process may call:
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/HtmlTreeBuilder.clearStackToTableBodyContext
+	org/jsoup/parser/Token$TokenType.ordinal
+	org/jsoup/parser/Token$StartTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.pop
+	org/jsoup/parser/HtmlTreeBuilder.processStartTag
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/parser/HtmlTreeBuilder.inTableScope
+	org/jsoup/parser/HtmlTreeBuilderState$13.exitTableBody
+	org/jsoup/parser/HtmlTreeBuilderState$13.anythingElse
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/Token.asStartTag
+org/jsoup/parser/XmlTreeBuilder.initialiseParse may call:
+	org/jsoup/parser/TreeBuilder.initialiseParse
+	org/jsoup/nodes/Document.outputSettings
+	org/jsoup/nodes/Document$OutputSettings.syntax
+org/jsoup/parser/Tag.isData may call:
+	org/jsoup/parser/Tag.isEmpty
+org/jsoup/helper/HttpConnection$KeyVal.toString may call:
+org/jsoup/parser/XmlTreeBuilder.process may call:
+	org/jsoup/parser/XmlTreeBuilder.popStackToClose
+	org/jsoup/parser/Token.asComment
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/Token.asDoctype
+	org/jsoup/helper/Validate.fail
+	org/jsoup/parser/XmlTreeBuilder.insert
+	org/jsoup/parser/Token.asCharacter
+	org/jsoup/parser/Token$TokenType.ordinal
+	org/jsoup/parser/Token.asStartTag
+org/jsoup/nodes/Node.absUrl may call:
+	org/jsoup/nodes/Node.hasAttr
+	org/jsoup/helper/StringUtil.resolve
+	org/jsoup/nodes/Node.attr
+	org/jsoup/helper/Validate.notEmpty
+org/jsoup/parser/TokenQueue.consumeToAny may call:
+	org/jsoup/parser/TokenQueue.isEmpty
+	org/jsoup/parser/TokenQueue.matchesAny
+org/jsoup/parser/HtmlTreeBuilder.inSpecificScope may call:
+	org/jsoup/parser/HtmlTreeBuilder.inSpecificScope
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/helper/Validate.fail
+	org/jsoup/nodes/Element.nodeName
+org/jsoup/helper/HttpConnection$Request.url may call:
+	org/jsoup/helper/HttpConnection$Base.url
+org/jsoup/parser/Tokeniser.emitCommentPending may call:
+	org/jsoup/parser/Tokeniser.emit
+org/jsoup/select/Evaluator$IsRoot.matches may call:
+	org/jsoup/nodes/Element.child
+org/jsoup/parser/TreeBuilder.currentElement may call:
+org/jsoup/parser/HtmlTreeBuilder.clearStackToTableRowContext may call:
+	org/jsoup/parser/HtmlTreeBuilder.clearStackToContext
+org/jsoup/select/CombiningEvaluator.updateNumEvaluators may call:
+org/jsoup/select/StructuralEvaluator$ImmediateParent.toString may call:
+org/jsoup/parser/Token$Tag.appendAttributeName may call:
+	org/jsoup/parser/Token$Tag.appendAttributeName
+org/jsoup/Connection$Method.valueOf may call:
+org/jsoup/nodes/Document.outputSettings may call:
+	org/jsoup/helper/Validate.notNull
+org/jsoup/nodes/Node.ensureChildNodes may call:
+org/jsoup/parser/CharacterReader.matchesAny may call:
+	org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/helper/HttpConnection.post may call:
+	org/jsoup/Connection$Response.parse
+	org/jsoup/Connection$Request.method
+	org/jsoup/helper/HttpConnection.execute
+org/jsoup/safety/Cleaner$ElementMeta.<init> may call:
+org/jsoup/parser/HtmlTreeBuilder.insertMarkerToFormattingElements may call:
+org/jsoup/helper/HttpConnection$Response.serialiseRequestUrl may call:
+	org/jsoup/Connection$KeyVal.hasInputStream
+	org/jsoup/Connection$KeyVal.key
+	org/jsoup/Connection$KeyVal.value
+	org/jsoup/helper/Validate.isFalse
+	org/jsoup/Connection$Request.url
+	org/jsoup/Connection$Request.data
+org/jsoup/helper/HttpConnection$Response.method may call:
+	org/jsoup/helper/HttpConnection$Base.method
+org/jsoup/nodes/Entities.isNamedEntity may call:
+	org/jsoup/nodes/Entities$EscapeMode.codepointForName
+org/jsoup/parser/TokeniserState$27.read may call:
+	org/jsoup/parser/TokeniserState.access$500
+org/jsoup/helper/DescendableLinkedList$DescendingIterator.hasNext may call:
+org/jsoup/nodes/Entities$EscapeMode.<clinit> may call:
+	org/jsoup/nodes/Entities$EscapeMode.<init>
+org/jsoup/select/Evaluator$TagEndsWith.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/select/QueryParser.matches may call:
+	org/jsoup/select/Evaluator$Matches.<init>
+	org/jsoup/select/Evaluator$MatchesOwn.<init>
+	org/jsoup/helper/Validate.notEmpty
+	org/jsoup/parser/TokenQueue.consume
+	org/jsoup/parser/TokenQueue.chompBalanced
+org/jsoup/parser/TokeniserState$40.read may call:
+	org/jsoup/parser/TokeniserState.access$1000
+	org/jsoup/parser/CharacterReader.consumeToAnySorted
+	org/jsoup/parser/Tokeniser.consumeCharacterReference
+	org/jsoup/parser/Tokeniser.emitTagPending
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Token$Tag.appendAttributeValue
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/parser/HtmlTreeBuilder.removeLastFormattingElement may call:
+org/jsoup/nodes/Node$1.<init> may call:
+org/jsoup/Jsoup.connect may call:
+	org/jsoup/helper/HttpConnection.connect
+org/jsoup/safety/Whitelist.removeAttributes may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/helper/Validate.isTrue
+	org/jsoup/safety/Whitelist$TagName.valueOf
+	org/jsoup/helper/Validate.notEmpty
+	org/jsoup/safety/Whitelist$AttributeKey.valueOf
+org/jsoup/parser/HtmlTreeBuilder.getActiveFormattingElement may call:
+	org/jsoup/nodes/Element.nodeName
+org/jsoup/nodes/Element.prependChild may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Element.addChildren
+org/jsoup/select/QueryParser.<clinit> may call:
+org/jsoup/nodes/Attributes.iterator may call:
+org/jsoup/parser/TokeniserState$53.read may call:
+	org/jsoup/parser/CharacterReader.matchesLetter
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/Tokeniser.error
+	org/jsoup/parser/Tokeniser.emitDoctypePending
+	org/jsoup/parser/CharacterReader.consumeLetterSequence
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/nodes/TextNode.getWholeText may call:
+	org/jsoup/nodes/Attributes.get
+org/jsoup/nodes/Element.insertChildren may call:
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/helper/Validate.isTrue
+	org/jsoup/nodes/Element.addChildren
+	org/jsoup/nodes/Element.childNodeSize
+org/jsoup/select/StructuralEvaluator$Not.<init> may call:
+	org/jsoup/select/StructuralEvaluator.<init>
+org/jsoup/select/Elements.html may call:
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Element.html
+org/jsoup/select/Evaluator$Id.matches may call:
+	org/jsoup/nodes/Element.id
+org/jsoup/nodes/Attributes.put may call:
+	org/jsoup/nodes/Attributes.put
+	org/jsoup/helper/Validate.notNull
+	org/jsoup/nodes/Attribute.getKey
+	org/jsoup/nodes/Attributes.remove
+	org/jsoup/nodes/BooleanAttribute.<init>
+	org/jsoup/nodes/Attribute.<init>
+org/jsoup/parser/Token$TokenType.valueOf may call:
+org/jsoup/parser/HtmlTreeBuilder.onStack may call:
+	org/jsoup/parser/HtmlTreeBuilder.isElementInQueue
+org/jsoup/select/NodeTraversor.<init> may call:
+org/jsoup/helper/HttpConnection$Response.getRequestCookieString may call:
+	org/jsoup/Connection$Request.cookies
+org/jsoup/helper/HttpConnection$Response.processResponseHeaders may call:
+	org/jsoup/parser/TokenQueue.chompTo
+	org/jsoup/helper/HttpConnection$Response.header
+	org/jsoup/parser/TokenQueue.consumeTo
+	org/jsoup/helper/HttpConnection$Response.cookie
+	org/jsoup/parser/TokenQueue.<init>
+org/jsoup/parser/HtmlTreeBuilderState$7.anyOtherEndTag may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/parser/HtmlTreeBuilder.currentElement
+	org/jsoup/nodes/Element.nodeName
+	org/jsoup/parser/HtmlTreeBuilder.isSpecial
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.getStack
+	org/jsoup/parser/HtmlTreeBuilder.popStackToClose
+	org/jsoup/parser/HtmlTreeBuilder.generateImpliedEndTags
+org/jsoup/parser/TokenQueue.consumeTo may call:
+	org/jsoup/parser/TokenQueue.remainder
+org/jsoup/parser/Token$EndTag.toString may call:
+	org/jsoup/parser/Token$EndTag.name
+org/jsoup/parser/HtmlTreeBuilder.getFromStack may call:
+	org/jsoup/nodes/Element.nodeName
+org/jsoup/examples/HtmlToPlainText.<init> may call:
+org/jsoup/parser/Parser.parseXmlFragment may call:
+	org/jsoup/parser/XmlTreeBuilder.defaultSettings
+	org/jsoup/parser/XmlTreeBuilder.parseFragment
+	org/jsoup/parser/ParseErrorList.noTracking
+	org/jsoup/parser/XmlTreeBuilder.<init>
+org/jsoup/helper/HttpConnection.timeout may call:
+	org/jsoup/Connection$Request.timeout
+org/jsoup/nodes/Attributes$Dataset$EntrySet.size may call:
+	org/jsoup/nodes/Attributes$Dataset$DatasetIterator.<init>
+org/jsoup/parser/TokeniserState$20.read may call:
+	org/jsoup/parser/Tokeniser.advanceTransition
+	org/jsoup/parser/Tokeniser.emit
+	org/jsoup/parser/Tokeniser.transition
+	org/jsoup/parser/CharacterReader.matches
+org/jsoup/nodes/Attribute.equals may call:
+org/jsoup/parser/Parser.<init> may call:
+	org/jsoup/parser/TreeBuilder.defaultSettings
+org/jsoup/parser/TokeniserState.access$200 may call:
+	org/jsoup/parser/TokeniserState.readData
+org/jsoup/select/Evaluator$IsOnlyChild.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/parser/HtmlTreeBuilder.removeFromActiveFormattingElements may call:
+org/jsoup/select/Evaluator$Matches.<init> may call:
+	org/jsoup/select/Evaluator.<init>
+org/jsoup/parser/Parser.parseBodyFragmentRelaxed may call:
+	org/jsoup/parser/Parser.parse
+org/jsoup/nodes/DataNode.createFromEncoded may call:
+	org/jsoup/nodes/DataNode.<init>
+	org/jsoup/nodes/Entities.unescape
+org/jsoup/safety/Whitelist.testValidProtocol may call:
+	org/jsoup/safety/Whitelist.isValidAnchor
+	org/jsoup/nodes/Attribute.getKey
+	org/jsoup/nodes/Element.absUrl
+	org/jsoup/nodes/Attribute.getValue
+	org/jsoup/nodes/Attribute.setValue
+	org/jsoup/safety/Whitelist$Protocol.toString
+org/jsoup/nodes/FormElement.formData may call:
+	org/jsoup/parser/Tag.isFormSubmittable
+	org/jsoup/nodes/Element.tagName
+	org/jsoup/nodes/Element.attr
+	org/jsoup/nodes/Element.hasAttr
+	org/jsoup/nodes/Element.val
+	org/jsoup/select/Elements.iterator
+	org/jsoup/nodes/Element.select
+	org/jsoup/select/Elements.first
+	org/jsoup/nodes/Element.tag
+	org/jsoup/helper/HttpConnection$KeyVal.create
+org/jsoup/select/Evaluator$IsFirstChild.matches may call:
+	org/jsoup/nodes/Element.elementSiblingIndex
+	org/jsoup/nodes/Element.parent
+org/jsoup/nodes/TextNode.stripLeadingWhitespace may call:
+org/jsoup/select/Evaluator$AttributeWithValueNot.<init> may call:
+	org/jsoup/select/Evaluator$AttributeKeyPair.<init>
+org/jsoup/parser/HtmlTreeBuilderState$9.process may call:
+	org/jsoup/parser/Token.asComment
+	org/jsoup/parser/HtmlTreeBuilder.process
+	org/jsoup/parser/HtmlTreeBuilder.clearStackToTableContext
+	org/jsoup/parser/HtmlTreeBuilder.getFormElement
+	org/jsoup/parser/HtmlTreeBuilder.currentElement
+	org/jsoup/parser/HtmlTreeBuilderState$9.anythingElse
+	org/jsoup/parser/Token$StartTag.normalName
+	org/jsoup/parser/HtmlTreeBuilder.insertEmpty
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/helper/StringUtil.in
+	org/jsoup/parser/Token.isEndTag
+	org/jsoup/parser/HtmlTreeBuilder.newPendingTableCharacters
+	org/jsoup/parser/HtmlTreeBuilder.inTableScope
+	org/jsoup/nodes/Element.nodeName
+	org/jsoup/parser/HtmlTreeBuilder.processEndTag
+	org/jsoup/parser/Token$EndTag.normalName
+	org/jsoup/parser/Token.isDoctype
+	org/jsoup/parser/HtmlTreeBuilder.transition
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/Token.asEndTag
+	org/jsoup/nodes/Attributes.get
+	org/jsoup/parser/HtmlTreeBuilder.insertForm
+	org/jsoup/parser/Token.isComment
+	org/jsoup/parser/HtmlTreeBuilder.processStartTag
+	org/jsoup/parser/HtmlTreeBuilder.markInsertionMode
+	org/jsoup/parser/HtmlTreeBuilder.insertMarkerToFormattingElements
+	org/jsoup/parser/Token.isCharacter
+	org/jsoup/parser/HtmlTreeBuilder.resetInsertionMode
+	org/jsoup/parser/Token.isStartTag
+	org/jsoup/parser/HtmlTreeBuilder.popStackToClose
+	org/jsoup/parser/Token.isEOF
+	org/jsoup/parser/Token.asStartTag
+org/jsoup/parser/TokeniserState$10.read may call:
+	org/jsoup/parser/Tokeniser.emitTagPending
+	org/jsoup/parser/Token$Tag.appendTagName
+	org/jsoup/parser/Tokeniser.eofError
+	org/jsoup/parser/TokeniserState.access$300
+	org/jsoup/parser/CharacterReader.consumeTagName
+	org/jsoup/parser/CharacterReader.consume
+	org/jsoup/parser/Tokeniser.transition
+org/jsoup/nodes/Element.select may call:
+	org/jsoup/select/Selector.select
+org/jsoup/parser/HtmlTreeBuilderState$5.anythingElse may call:
+	org/jsoup/parser/HtmlTreeBuilder.error
+	org/jsoup/parser/HtmlTreeBuilder.insert
+	org/jsoup/parser/Token$Character.data
+	org/jsoup/parser/Token$Character.<init>
+org/jsoup/helper/HttpConnection$Request.cookies may call:
+	org/jsoup/helper/HttpConnection$Base.cookies
+org/jsoup/select/Elements.is may call:
+	org/jsoup/select/Elements.select
+	org/jsoup/select/Elements.isEmpty
+org/jsoup/parser/HtmlTreeBuilderState.access$2200 may call:
+	org/jsoup/parser/HtmlTreeBuilderState.isWhitespace

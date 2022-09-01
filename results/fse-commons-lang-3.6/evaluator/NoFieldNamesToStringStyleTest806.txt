@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.lang3.builder.NoFieldNamesToStringStyleTest.testAppendSuper:70
+Methods call in assertion: [org/apache/commons/lang3/builder/ToStringBuilder.append, org/apache/commons/lang3/builder/ToStringBuilder.appendSuper, org/apache/commons/lang3/builder/ToStringBuilder.toString]
+org/apache/commons/lang3/builder/ToStringBuilder.append
+org/apache/commons/lang3/builder/ToStringBuilder.<init>
+org/apache/commons/lang3/builder/ToStringBuilder.getStringBuffer
+org/apache/commons/lang3/builder/ToStringBuilder.appendSuper
+org/apache/commons/lang3/builder/ToStringBuilder.toString
+top 10 recommendations: 
+org/apache/commons/lang3/builder/ToStringBuilder.toString
+org/apache/commons/lang3/builder/ToStringBuilder.append
+org/apache/commons/lang3/builder/ToStringBuilder.<init>
+org/apache/commons/lang3/builder/ToStringBuilder.getStringBuffer
+org/apache/commons/lang3/builder/ToStringBuilder.appendSuper
+after post processing ......
+org/apache/commons/lang3/builder/ToStringBuilder.toString
+org/apache/commons/lang3/builder/ToStringBuilder.append
+org/apache/commons/lang3/builder/ToStringBuilder.<init>
+org/apache/commons/lang3/builder/ToStringBuilder.getStringBuffer
+org/apache/commons/lang3/builder/ToStringBuilder.appendSuper
+found in top 10

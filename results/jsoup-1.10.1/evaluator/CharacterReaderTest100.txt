@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.parser.CharacterReaderTest.consumeLetterSequence:142
+Methods call in assertion: [org/jsoup/parser/CharacterReader.consumeLetterSequence]
+org/jsoup/parser/CharacterReader.consumeLetterSequence
+top 10 recommendations: 
+org/jsoup/parser/CharacterReader.consumeLetterSequence
+after post processing ......
+org/jsoup/parser/CharacterReader.consumeLetterSequence
+perfect match

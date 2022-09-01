@@ -1,0 +1,53 @@
+slicing criterion: org.jfree.chart.JFreeChartTest.testSerialization1:272
+Methods call in assertion: [org/jfree/chart/title/LegendTitle.getSources, org/jfree/chart/JFreeChart.getPlot]
+org/jfree/data/DefaultKeyedValues.getIndex
+org/jfree/chart/plot/Plot.getNoDataMessagePaint
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/JFreeChart.getLegend
+org/jfree/chart/title/LegendTitle.getSources
+org/jfree/chart/JFreeChart.<init>
+org/jfree/data/DefaultKeyedValues.clone
+org/jfree/chart/util/SerialUtils.readShape
+org/jfree/chart/plot/PiePlot.<init>
+org/jfree/data/general/DefaultPieDataset.setValue
+org/jfree/chart/plot/Plot.getNoDataMessageFont
+org/jfree/data/DefaultKeyedValues.setValue
+org/jfree/chart/util/SerialUtils.isSerializable
+org/jfree/chart/util/SerialUtils.writeStroke
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/chart/util/SerialUtils.readStroke
+org/jfree/chart/util/SerialUtils.writePaint
+org/jfree/chart/JFreeChart.getPlot
+org/jfree/chart/ChartFactory.createPieChart
+top 10 recommendations: 
+org/jfree/chart/ChartFactory.createPieChart
+org/jfree/data/general/DefaultPieDataset.setValue
+org/jfree/data/DefaultKeyedValues.setValue
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/data/DefaultKeyedValues.getIndex
+org/jfree/chart/plot/Plot.getNoDataMessagePaint
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/JFreeChart.getLegend
+org/jfree/chart/title/LegendTitle.getSources
+org/jfree/chart/JFreeChart.<init>
+after post processing ......
+org/jfree/chart/ChartFactory.createPieChart
+org/jfree/data/general/DefaultPieDataset.setValue
+org/jfree/data/DefaultKeyedValues.setValue
+org/jfree/chart/util/SerialUtils.readPaint
+org/jfree/data/DefaultKeyedValues.getIndex
+org/jfree/chart/plot/Plot.getNoDataMessagePaint
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/JFreeChart.getLegend
+org/jfree/chart/title/LegendTitle.getSources
+org/jfree/chart/JFreeChart.<init>
+org/jfree/data/DefaultKeyedValues.clone
+org/jfree/chart/util/SerialUtils.readShape
+org/jfree/chart/plot/PiePlot.<init>
+org/jfree/chart/plot/Plot.getNoDataMessageFont
+org/jfree/chart/util/SerialUtils.isSerializable
+org/jfree/chart/util/SerialUtils.writeStroke
+org/jfree/chart/util/SerialUtils.readStroke
+org/jfree/chart/util/SerialUtils.writePaint
+org/jfree/chart/JFreeChart.getPlot
+all method calls are suggested

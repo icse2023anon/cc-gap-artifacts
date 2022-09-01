@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testEquals:77
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.equals]
+org/apache/commons/csv/CSVFormat.equals
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.equals
+after post processing ......
+org/apache/commons/csv/CSVFormat.equals
+perfect match

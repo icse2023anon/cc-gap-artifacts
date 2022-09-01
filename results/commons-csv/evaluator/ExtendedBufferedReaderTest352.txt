@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.csv.ExtendedBufferedReaderTest.testReadLookahead1:49
+Methods call in assertion: [org/apache/commons/csv/ExtendedBufferedReader.getCurrentLineNumber]
+org/apache/commons/csv/ExtendedBufferedReader.getCurrentLineNumber
+top 10 recommendations: 
+org/apache/commons/csv/ExtendedBufferedReader.getCurrentLineNumber
+after post processing ......
+org/apache/commons/csv/ExtendedBufferedReader.getCurrentLineNumber
+perfect match

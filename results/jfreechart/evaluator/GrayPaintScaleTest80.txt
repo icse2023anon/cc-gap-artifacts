@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.GrayPaintScaleTest.testConstructor:67
+Methods call in assertion: [org/jfree/chart/renderer/GrayPaintScale.getLowerBound]
+org/jfree/chart/renderer/GrayPaintScale.getLowerBound
+top 10 recommendations: 
+org/jfree/chart/renderer/GrayPaintScale.getLowerBound
+after post processing ......
+org/jfree/chart/renderer/GrayPaintScale.getLowerBound
+perfect match

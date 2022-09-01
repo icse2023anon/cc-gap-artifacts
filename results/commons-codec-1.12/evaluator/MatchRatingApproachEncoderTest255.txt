@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompareNameToSingleLetter_KARL_C_DoesNotMatch:390
+Methods call in assertion: [org/apache/commons/codec/language/MatchRatingApproachEncoder.isEncodeEquals]
+org/apache/commons/codec/language/MatchRatingApproachEncoder.isEncodeEquals
+top 10 recommendations: 
+org/apache/commons/codec/language/MatchRatingApproachEncoder.isEncodeEquals
+after post processing ......
+org/apache/commons/codec/language/MatchRatingApproachEncoder.isEncodeEquals
+perfect match

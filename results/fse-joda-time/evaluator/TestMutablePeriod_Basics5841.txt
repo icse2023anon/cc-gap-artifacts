@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestMutablePeriod_Basics.testClone:518
+Methods call in assertion: [org/joda/time/MutablePeriod.getPeriodType]
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/PeriodType.standard
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/MutablePeriod.clone
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.standard
+org/joda/time/MutablePeriod.clone
+after post processing ......
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.standard
+org/joda/time/MutablePeriod.clone
+found in top 10

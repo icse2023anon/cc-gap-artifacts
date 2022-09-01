@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testIntArrayToLong:600
+Methods call in assertion: [org/apache/commons/lang3/Conversion.intArrayToLong]
+org/apache/commons/lang3/Conversion.intArrayToLong
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.intArrayToLong
+after post processing ......
+org/apache/commons/lang3/Conversion.intArrayToLong
+perfect match

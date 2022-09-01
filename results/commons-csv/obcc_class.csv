@@ -1,0 +1,8 @@
+class,obc(%),omc_obc(%),cov_gap(%)
+org.apache.commons.csv.CSVFormat,87.27273,25.454544,61.818184
+org.apache.commons.csv.Lexer,92.96875,68.75,24.21875
+org.apache.commons.csv.CSVRecord,53.846157,42.307693,11.538464
+org.apache.commons.csv.CSVParser,91.07143,48.214287,42.85714
+org.apache.commons.csv.CSVParser$1,100.0,50.0,50.0
+org.apache.commons.csv.ExtendedBufferedReader,96.875,75.0,21.875
+org.apache.commons.csv.CSVPrinter,84.44444,8.888889,75.55556

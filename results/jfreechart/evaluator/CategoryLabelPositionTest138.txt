@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.axis.CategoryLabelPositionTest.testEquals:73
+Methods call in assertion: [org/jfree/chart/axis/CategoryLabelPosition.equals]
+org/jfree/chart/axis/CategoryLabelPosition.equals
+top 10 recommendations: 
+org/jfree/chart/axis/CategoryLabelPosition.equals
+after post processing ......
+org/jfree/chart/axis/CategoryLabelPosition.equals
+perfect match

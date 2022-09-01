@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestPreciseDurationField.test_getName:103
+Methods call in assertion: [org/joda/time/field/PreciseDurationField.getName]
+org/joda/time/DurationFieldType.seconds
+org/joda/time/field/BaseDurationField.getName
+top 10 recommendations: 
+org/joda/time/DurationFieldType.seconds
+org/joda/time/field/BaseDurationField.getName
+after post processing ......
+org/joda/time/DurationFieldType.seconds
+org/joda/time/field/BaseDurationField.getName
+found in top 10

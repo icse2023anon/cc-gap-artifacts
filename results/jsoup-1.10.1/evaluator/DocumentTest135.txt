@@ -1,0 +1,17 @@
+slicing criterion: org.jsoup.nodes.DocumentTest.testMetaCharsetUpdateDisabled:258
+Methods call in assertion: [org/jsoup/nodes/Document.select, org/jsoup/select/Elements.first]
+org/jsoup/nodes/Element.select
+org/jsoup/select/Collector.collect
+org/jsoup/select/Elements.first
+org/jsoup/nodes/Document.createShell
+top 10 recommendations: 
+org/jsoup/nodes/Element.select
+org/jsoup/select/Collector.collect
+org/jsoup/select/Elements.first
+org/jsoup/nodes/Document.createShell
+after post processing ......
+org/jsoup/nodes/Element.select
+org/jsoup/select/Collector.collect
+org/jsoup/select/Elements.first
+org/jsoup/nodes/Document.createShell
+found in top 10

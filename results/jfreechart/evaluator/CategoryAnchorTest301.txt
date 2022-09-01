@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.axis.CategoryAnchorTest.testHashCode:75
+Methods call in assertion: [org/jfree/chart/axis/CategoryAnchor.equals]
+org/jfree/chart/axis/CategoryAnchor.equals
+top 10 recommendations: 
+org/jfree/chart/axis/CategoryAnchor.equals
+after post processing ......
+org/jfree/chart/axis/CategoryAnchor.equals
+perfect match

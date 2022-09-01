@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.urls.CustomCategoryURLGeneratorTest.testEquals:72
+Methods call in assertion: [org/jfree/chart/urls/CustomCategoryURLGenerator.equals]
+org/jfree/chart/urls/CustomCategoryURLGenerator.addURLSeries
+org/jfree/chart/urls/CustomCategoryURLGenerator.equals
+org/jfree/chart/urls/CustomCategoryURLGenerator.getListCount
+top 10 recommendations: 
+org/jfree/chart/urls/CustomCategoryURLGenerator.equals
+org/jfree/chart/urls/CustomCategoryURLGenerator.addURLSeries
+org/jfree/chart/urls/CustomCategoryURLGenerator.getListCount
+after post processing ......
+org/jfree/chart/urls/CustomCategoryURLGenerator.equals
+org/jfree/chart/urls/CustomCategoryURLGenerator.addURLSeries
+org/jfree/chart/urls/CustomCategoryURLGenerator.getListCount
+perfect match

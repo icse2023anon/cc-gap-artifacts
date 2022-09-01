@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ClassUtilsTest.test_getAbbreviatedName_Class:285
+Methods call in assertion: [org/apache/commons/lang3/ClassUtils.getAbbreviatedName]
+org/apache/commons/lang3/ClassUtils.getAbbreviatedName
+top 10 recommendations: 
+org/apache/commons/lang3/ClassUtils.getAbbreviatedName
+after post processing ......
+org/apache/commons/lang3/ClassUtils.getAbbreviatedName
+perfect match

@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestInterval_Constructors.testConstructor_long_long_Zone:300
+Methods call in assertion: [org/joda/time/chrono/ISOChronology.getInstance, org/joda/time/Interval.getChronology]
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/tz/FixedDateTimeZone.hashCode
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/tz/FixedDateTimeZone.hashCode
+after post processing ......
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/tz/FixedDateTimeZone.hashCode
+found in top 10

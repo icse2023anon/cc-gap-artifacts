@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.ToStringStyleTest.testSetFieldNameValueSeparator:89
+Methods call in assertion: [org/apache/commons/lang3/builder/ToStringStyle.getFieldNameValueSeparator]
+org/apache/commons/lang3/builder/ToStringStyle.setFieldNameValueSeparator
+org/apache/commons/lang3/builder/ToStringStyle.getFieldNameValueSeparator
+top 10 recommendations: 
+org/apache/commons/lang3/builder/ToStringStyle.setFieldNameValueSeparator
+org/apache/commons/lang3/builder/ToStringStyle.getFieldNameValueSeparator
+after post processing ......
+org/apache/commons/lang3/builder/ToStringStyle.setFieldNameValueSeparator
+org/apache/commons/lang3/builder/ToStringStyle.getFieldNameValueSeparator
+found in top 10

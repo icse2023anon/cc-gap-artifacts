@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestInstant_Basics.testCompareTo:270
+Methods call in assertion: [org/joda/time/Instant.compareTo]
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/AbstractInstant.compareTo
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/Instant.getMillis
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/AbstractInstant.compareTo
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/Instant.getMillis
+after post processing ......
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/AbstractInstant.compareTo
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/Instant.getMillis
+found in top 10

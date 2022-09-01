@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableFloatTest.testPrimitiveValues:164
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableFloat.intValue]
+org/apache/commons/lang3/mutable/MutableFloat.intValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableFloat.intValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableFloat.intValue
+perfect match

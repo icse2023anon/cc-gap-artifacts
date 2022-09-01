@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.validator.routines.ShortValidatorTest.testShortValidatorMethods:99
+Methods call in assertion: [org/apache/commons/validator/routines/ShortValidator.getInstance, org/apache/commons/validator/routines/ShortValidator.validate]
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/ShortValidator.validate
+org/apache/commons/validator/routines/ShortValidator.getInstance
+top 10 recommendations: 
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/ShortValidator.validate
+org/apache/commons/validator/routines/ShortValidator.getInstance
+after post processing ......
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/ShortValidator.validate
+org/apache/commons/validator/routines/ShortValidator.getInstance
+found in top 10

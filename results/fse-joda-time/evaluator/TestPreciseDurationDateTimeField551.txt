@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestPreciseDurationDateTimeField.test_getMinimumValue_RP:450
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.getMinimumValue]
+org/joda/time/field/PreciseDurationDateTimeField.getMinimumValue
+org/joda/time/field/BaseDateTimeField.getMinimumValue
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationDateTimeField.getMinimumValue
+org/joda/time/field/BaseDateTimeField.getMinimumValue
+after post processing ......
+org/joda/time/field/PreciseDurationDateTimeField.getMinimumValue
+org/joda/time/field/BaseDateTimeField.getMinimumValue
+found in top 10

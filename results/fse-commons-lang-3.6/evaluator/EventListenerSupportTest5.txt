@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.event.EventListenerSupportTest.testGetListeners:131
+Methods call in assertion: [org/apache/commons/lang3/event/EventListenerSupport.getListeners]
+org/apache/commons/lang3/event/EventListenerSupport.<init>
+org/apache/commons/lang3/event/EventListenerSupport.getListeners
+org/apache/commons/lang3/event/EventListenerSupport.create
+top 10 recommendations: 
+org/apache/commons/lang3/event/EventListenerSupport.create
+org/apache/commons/lang3/event/EventListenerSupport.<init>
+org/apache/commons/lang3/event/EventListenerSupport.getListeners
+after post processing ......
+org/apache/commons/lang3/event/EventListenerSupport.create
+org/apache/commons/lang3/event/EventListenerSupport.<init>
+org/apache/commons/lang3/event/EventListenerSupport.getListeners
+found in top 10

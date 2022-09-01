@@ -1,0 +1,1219 @@
+org/apache/commons/cli/PosixParser.burstToken may call:
+	org/apache/commons/cli/Options.getOption
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Options.hasOption
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/PosixParser.processNonOptionToken
+	org/apache/commons/cli/Option.hasArg
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/Options.getOptions may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Options.helpOptions
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/GnuParser.flatten may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Util.stripLeadingHyphens
+	org/apache/commons/cli/Options.hasOption
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/CommandLine.hasOption may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/CommandLine.hasOption
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/CommandLine.resolveOption
+org/apache/commons/cli/DefaultParser.handleLongOption may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/DefaultParser.handleLongOptionWithoutEqual
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/DefaultParser.handleLongOptionWithEqual
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/Option.hasLongOpt may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option$Builder.type may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.hasArgs may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/DefaultParser.parse may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/DefaultParser.handleProperties
+	org/apache/commons/cli/DefaultParser.handleToken
+	org/apache/commons/cli/Options.getRequiredOptions
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/DefaultParser.checkRequiredArgs
+	org/apache/commons/cli/Options.getOptionGroups
+	org/apache/commons/cli/DefaultParser.parse
+	org/apache/commons/cli/OptionGroup.setSelected
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/CommandLine.<init>
+	org/apache/commons/cli/DefaultParser.checkRequiredOptions
+org/apache/commons/cli/OptionBuilder.isRequired may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/PosixParser$__CLR4_0_616f16fl7evbmlb.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/HelpFormatter.getOptionComparator may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/OptionGroup.getSelected may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/DefaultParser.isNegativeNumber may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+java/lang/Object.toString may call:
+org/apache/commons/cli/Option$Builder.build may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Option.<init>
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/HelpFormatter.printWrapped may call:
+	org/apache/commons/cli/HelpFormatter.renderWrappedTextBlock
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/HelpFormatter.printWrapped
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/OptionBuilder.withArgName may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.clearValues may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/OptionGroup.<init> may call:
+org/apache/commons/cli/BasicParser$__CLR4_0_6wwl7evbm4l.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/HelpFormatter.setLongOptPrefix may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/DefaultParser.isLongOption may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Options.getMatchingOptions
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/DefaultParser.getLongPrefix
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/OptionValidator.<init> may call:
+org/apache/commons/cli/HelpFormatter.setOptPrefix may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option$Builder.numberOfArgs may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/HelpFormatter.createPadding may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/OptionValidator.validateOption may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/OptionValidator.isValidChar
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/OptionValidator.isValidOpt
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/Util$__CLR4_0_61bh1bhl7evbmmf.<init> may call:
+org/apache/commons/cli/DefaultParser.isJavaProperty may call:
+	org/apache/commons/cli/Options.getOption
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Option.getArgs
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/CommandLine.getOptions may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/TypeHandler.createObject may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/ParseException.<init>
+org/apache/commons/cli/HelpFormatter.printHelp may call:
+	org/apache/commons/cli/HelpFormatter.printUsage
+	org/apache/commons/cli/HelpFormatter.printHelp
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/HelpFormatter.getDescPadding
+	org/apache/commons/cli/HelpFormatter.printWrapped
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/HelpFormatter.getWidth
+	org/apache/commons/cli/HelpFormatter.printOptions
+	org/apache/commons/cli/HelpFormatter.getLeftPadding
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/OptionGroup.getNames may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/HelpFormatter.getOptPrefix may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/DefaultParser.handleLongOptionWithoutEqual may call:
+	org/apache/commons/cli/Options.getOption
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Options.getMatchingOptions
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/AmbiguousOptionException.<init>
+	org/apache/commons/cli/DefaultParser.handleUnknownToken
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/DefaultParser.handleOption
+org/apache/commons/cli/CommandLine$Builder.<init> may call:
+	org/apache/commons/cli/CommandLine.<init>
+org/apache/commons/cli/MissingOptionException$__CLR4_0_6m2m2l7evbme3.<init> may call:
+org/apache/commons/cli/ParseException$__CLR4_0_610j10jl7evbmj2.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/Parser.processOption may call:
+	org/apache/commons/cli/UnrecognizedOptionException.<init>
+	org/apache/commons/cli/Options.getOption
+	org/apache/commons/cli/Option.clone
+	org/apache/commons/cli/Parser.updateRequiredOptions
+	org/apache/commons/cli/CommandLine.addOption
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Options.hasOption
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Parser.getOptions
+	org/apache/commons/cli/Option.hasArg
+	org/apache/commons/cli/Parser.processArgs
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/PatternOptionBuilder$__CLR4_0_614w14wl7evbmkq.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/Options.helpOptions may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/MissingArgumentException.<init> may call:
+	org/apache/commons/cli/Option.getKey
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/MissingArgumentException.<init>
+	org/apache/commons/cli/ParseException.<init>
+org/apache/commons/cli/CommandLine.iterator may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.hasValueSeparator may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Options.<init> may call:
+org/apache/commons/cli/OptionGroup.toString may call:
+	org/apache/commons/cli/OptionGroup.getOptions
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Option.getLongOpt
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.getDescription
+	org/apache/commons/cli/Option.getOpt
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/OptionGroup.setSelected may call:
+	org/apache/commons/cli/Option.getKey
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/AlreadySelectedException.<init>
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/OptionBuilder.hasOptionalArgs may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/PosixParser.init may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/HelpFormatter.setNewLine may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/OptionBuilder.reset may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/MissingArgumentException$__CLR4_0_6lvlvl7evbmdd.<init> may call:
+org/apache/commons/cli/OptionBuilder.hasArg may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/PatternOptionBuilder$__CLR4_0_614w14wl7evbmkq.<init> may call:
+org/apache/commons/cli/MissingArgumentException$__CLR4_0_6lvlvl7evbmdd.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/Option$Builder.<init> may call:
+	org/apache/commons/cli/Option$Builder.<init>
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/OptionValidator.validateOption
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option$Builder.hasArgs may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.clone may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/HelpFormatter.getDescPadding may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/MissingOptionException.getMissingOptions may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/CommandLine.getOptionProperties may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Option.getLongOpt
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.getValuesList
+	org/apache/commons/cli/Option.getOpt
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/DefaultParser.handleToken may call:
+	org/apache/commons/cli/Util.stripLeadingAndTrailingQuotes
+	org/apache/commons/cli/Option.addValueForProcessing
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/DefaultParser.handleLongOption
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.acceptsArg
+	org/apache/commons/cli/CommandLine.addArg
+	org/apache/commons/cli/DefaultParser.handleShortAndLongOption
+	org/apache/commons/cli/DefaultParser.handleUnknownToken
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/DefaultParser.isArgument
+org/apache/commons/cli/OptionBuilder.hasOptionalArg may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.hasNoValues may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Options.addRequiredOption may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Option.<init>
+	org/apache/commons/cli/Options.addOption
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.setRequired
+org/apache/commons/cli/HelpFormatter.getNewLine may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.getKey may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/PatternOptionBuilder.parsePattern may call:
+	org/apache/commons/cli/Option$Builder.build
+	org/apache/commons/cli/PatternOptionBuilder.isValueCode
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Options.addOption
+	org/apache/commons/cli/Option.builder
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option$Builder.required
+	org/apache/commons/cli/Option$Builder.type
+	org/apache/commons/cli/Options.<init>
+	org/apache/commons/cli/Option$Builder.hasArg
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/PatternOptionBuilder.getValueClass
+org/apache/commons/cli/Option.setValueSeparator may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/OptionBuilder.withLongOpt may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/DefaultParser.handleOption may call:
+	org/apache/commons/cli/Option.clone
+	org/apache/commons/cli/CommandLine.addOption
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/DefaultParser.updateRequiredOptions
+	org/apache/commons/cli/DefaultParser.checkRequiredArgs
+	org/apache/commons/cli/Option.hasArg
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/CommandLine$Builder.build may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.processValue may call:
+	org/apache/commons/cli/Option.add
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.hasValueSeparator
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/Option.getValueSeparator
+org/apache/commons/cli/GnuParser$__CLR4_0_6c0c0l7evbma2.<init> may call:
+org/apache/commons/cli/TypeHandler.createFile may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/DefaultParser.handleProperties may call:
+	org/apache/commons/cli/UnrecognizedOptionException.<init>
+	org/apache/commons/cli/Option.addValueForProcessing
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Options.getOption
+	org/apache/commons/cli/CommandLine.hasOption
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Options.getOptionGroup
+	org/apache/commons/cli/OptionGroup.getSelected
+	org/apache/commons/cli/Option.hasArg
+	org/apache/commons/cli/Option.getValues
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/DefaultParser.handleOption
+org/apache/commons/cli/Options.addOption may call:
+	org/apache/commons/cli/Option.getKey
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Option.<init>
+	org/apache/commons/cli/Options.addOption
+	org/apache/commons/cli/Option.getLongOpt
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.hasLongOpt
+	org/apache/commons/cli/Option.isRequired
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/PosixParser.flatten may call:
+	org/apache/commons/cli/PosixParser.burstToken
+	org/apache/commons/cli/Options.getOption
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Option.getLongOpt
+	org/apache/commons/cli/PosixParser.processNonOptionToken
+	org/apache/commons/cli/PosixParser.processOptionToken
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/Options.hasOption
+	org/apache/commons/cli/PosixParser.gobble
+	org/apache/commons/cli/Options.getMatchingOptions
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/AmbiguousOptionException.<init>
+	org/apache/commons/cli/PosixParser.init
+org/apache/commons/cli/Parser.getRequiredOptions may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/OptionBuilder.hasArgs may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/OptionGroup.addOption may call:
+	org/apache/commons/cli/Option.getKey
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Parser.processProperties may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Options.getOption
+	org/apache/commons/cli/CommandLine.addOption
+	org/apache/commons/cli/CommandLine.hasOption
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/UnrecognizedOptionException.<init>
+	org/apache/commons/cli/Option.addValueForProcessing
+	org/apache/commons/cli/Parser.updateRequiredOptions
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Options.getOptionGroup
+	org/apache/commons/cli/OptionGroup.getSelected
+	org/apache/commons/cli/Option.hasArg
+	org/apache/commons/cli/Option.getValues
+org/apache/commons/cli/PatternOptionBuilder.<init> may call:
+org/apache/commons/cli/PosixParser.processOptionToken may call:
+	org/apache/commons/cli/Options.getOption
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Options.hasOption
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/CommandLine$Builder.addArg may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/CommandLine.addArg
+org/apache/commons/cli/PatternOptionBuilder.getValueClass may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.getValueSeparator may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/AlreadySelectedException$__CLR4_0_600l7evbm2t.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/DefaultParser$__CLR4_0_63o3ol7evbm8z.<init> may call:
+org/apache/commons/cli/HelpFormatter.getLongOptSeparator may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/HelpFormatter.rtrim may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/OptionGroup.getOptions may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Util.stripLeadingHyphens may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/Option$Builder.desc may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/GnuParser.<init> may call:
+	org/apache/commons/cli/Parser.<init>
+org/apache/commons/cli/CommandLine.getParsedOptionValue may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/CommandLine.getOptionValue
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.getType
+	org/apache/commons/cli/CommandLine.resolveOption
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/TypeHandler.createValue
+org/apache/commons/cli/DefaultParser.checkRequiredArgs may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/MissingArgumentException.<init>
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/Option.requiresArg
+org/apache/commons/cli/TypeHandler.createDate may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.requiresArg may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.acceptsArg
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/OptionValidator$__CLR4_0_6xixil7evbmhx.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/Util.<init> may call:
+org/apache/commons/cli/OptionBuilder.withValueSeparator may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.getValue may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Option.getValue
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/Option.hasNoValues
+org/apache/commons/cli/Option.setArgName may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Parser.checkRequiredOptions may call:
+	org/apache/commons/cli/Parser.getRequiredOptions
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/MissingOptionException.<init>
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/OptionGroup.isRequired may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option$Builder.required may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option$Builder.required
+org/apache/commons/cli/Option.hasOptionalArg may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/DefaultParser.isOption may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/DefaultParser.isLongOption
+	org/apache/commons/cli/DefaultParser.isShortOption
+org/apache/commons/cli/OptionGroup.setRequired may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/HelpFormatter.findWrapPos may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/Option.addValue may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Options.hasShortOption may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Util.stripLeadingHyphens
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/TypeHandler$__CLR4_0_619c19cl7evbmlt.<init> may call:
+org/apache/commons/cli/BasicParser.flatten may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Options.getRequiredOptions may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/GnuParser$__CLR4_0_6c0c0l7evbma2.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/Options.getOptionGroup may call:
+	org/apache/commons/cli/Option.getKey
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Parser$__CLR4_0_610l10ll7evbmjw.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/Option.hasArg may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+java/lang/Object.wait may call:
+org/apache/commons/cli/Option.setLongOpt may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/MissingArgumentException.getOption may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/AmbiguousOptionException.createMessage may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/CommandLine.getOptionValue may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/CommandLine.getOptionValues
+	org/apache/commons/cli/CommandLine.getOptionValue
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/HelpFormatter$OptionComparator.<init> may call:
+	org/apache/commons/cli/HelpFormatter$OptionComparator.<init>
+org/apache/commons/cli/Option.hashCode may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/DefaultParser.handleLongOptionWithEqual may call:
+	org/apache/commons/cli/Option.addValueForProcessing
+	org/apache/commons/cli/Options.getOption
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Options.getMatchingOptions
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.acceptsArg
+	org/apache/commons/cli/AmbiguousOptionException.<init>
+	org/apache/commons/cli/DefaultParser.handleUnknownToken
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/DefaultParser.handleOption
+org/apache/commons/cli/OptionBuilder.<init> may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/CommandLine$__CLR4_0_6yyl7evbm60.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/TypeHandler.createClass may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/ParseException.<init>
+org/apache/commons/cli/Options.hasLongOption may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Util.stripLeadingHyphens
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/MissingOptionException$__CLR4_0_6m2m2l7evbme3.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/OptionValidator.isValidChar may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/HelpFormatter.getWidth may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Parser$__CLR4_0_610l10ll7evbmjw.<init> may call:
+org/apache/commons/cli/OptionValidator$__CLR4_0_6xixil7evbmhx.<init> may call:
+org/apache/commons/cli/Option.equals may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/PosixParser$__CLR4_0_616f16fl7evbmlb.<init> may call:
+org/apache/commons/cli/CommandLine$__CLR4_0_6yyl7evbm60.<init> may call:
+org/apache/commons/cli/DefaultParser.isShortOption may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Options.hasShortOption
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/HelpFormatter.renderOptions may call:
+	org/apache/commons/cli/Option.getArgName
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Option.getLongOpt
+	org/apache/commons/cli/HelpFormatter.getOptPrefix
+	org/apache/commons/cli/Option.hasLongOpt
+	org/apache/commons/cli/Option.getDescription
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/HelpFormatter.createPadding
+	org/apache/commons/cli/HelpFormatter.getArgName
+	org/apache/commons/cli/HelpFormatter.renderWrappedText
+	org/apache/commons/cli/Options.helpOptions
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/HelpFormatter.getOptionComparator
+	org/apache/commons/cli/Option.hasArg
+	org/apache/commons/cli/Option.getOpt
+	org/apache/commons/cli/HelpFormatter.getLongOptPrefix
+	org/apache/commons/cli/HelpFormatter.getNewLine
+org/apache/commons/cli/Parser.<init> may call:
+org/apache/commons/cli/PatternOptionBuilder.isValueCode may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.isRequired may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/OptionValidator.isValidOpt may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/OptionValidator.isValidChar
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/DefaultParser.handleUnknownToken may call:
+	org/apache/commons/cli/UnrecognizedOptionException.<init>
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/CommandLine.addArg
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/HelpFormatter.setArgName may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/HelpFormatter.getArgName may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Options.hasOption may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Util.stripLeadingHyphens
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/PosixParser.<init> may call:
+	org/apache/commons/cli/Parser.<init>
+org/apache/commons/cli/OptionGroup$__CLR4_0_6w4w4l7evbmhj.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/HelpFormatter.setOptionComparator may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/AmbiguousOptionException$__CLR4_0_6aal7evbm43.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/DefaultParser.handleShortAndLongOption may call:
+	org/apache/commons/cli/Options.getOption
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/DefaultParser.handleLongOptionWithoutEqual
+	org/apache/commons/cli/DefaultParser.handleLongOptionWithEqual
+	org/apache/commons/cli/DefaultParser.getLongPrefix
+	org/apache/commons/cli/Options.hasShortOption
+	org/apache/commons/cli/DefaultParser.handleUnknownToken
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/DefaultParser.handleOption
+	org/apache/commons/cli/Option.addValueForProcessing
+	org/apache/commons/cli/DefaultParser.handleConcatenatedOptions
+	org/apache/commons/cli/Util.stripLeadingHyphens
+	org/apache/commons/cli/Options.getMatchingOptions
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.acceptsArg
+	org/apache/commons/cli/DefaultParser.isJavaProperty
+org/apache/commons/cli/AlreadySelectedException$__CLR4_0_600l7evbm2t.<init> may call:
+org/apache/commons/cli/Options.addOptionGroup may call:
+	org/apache/commons/cli/Option.getKey
+	org/apache/commons/cli/OptionGroup.getOptions
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Options.addOption
+	org/apache/commons/cli/OptionGroup.isRequired
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.setRequired
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/Option.setArgs may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option$__CLR4_0_6mpmpl7evbmfh.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/Option.getType may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.<init> may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/Option$Builder.access$200
+	org/apache/commons/cli/Option$Builder.access$300
+	org/apache/commons/cli/Option$Builder.access$400
+	org/apache/commons/cli/Option$Builder.access$500
+	org/apache/commons/cli/Option.<init>
+	org/apache/commons/cli/Option$Builder.access$600
+	org/apache/commons/cli/Option$Builder.access$700
+	org/apache/commons/cli/OptionValidator.validateOption
+	org/apache/commons/cli/Option$Builder.access$800
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option$Builder.access$000
+	org/apache/commons/cli/Option$Builder.access$100
+org/apache/commons/cli/HelpFormatter.appendOptionGroup may call:
+	org/apache/commons/cli/OptionGroup.getOptions
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/OptionGroup.isRequired
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/HelpFormatter.getOptionComparator
+	org/apache/commons/cli/HelpFormatter.appendOption
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/Option$Builder.longOpt may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/TypeHandler.createFiles may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/AmbiguousOptionException.<init> may call:
+	org/apache/commons/cli/UnrecognizedOptionException.<init>
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/AmbiguousOptionException.createMessage
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/HelpFormatter.appendOption may call:
+	org/apache/commons/cli/Option.getArgName
+	org/apache/commons/cli/HelpFormatter.getArgName
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Option.getLongOpt
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.hasArg
+	org/apache/commons/cli/Option.getOpt
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/UnrecognizedOptionException.getOption may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/CommandLine.getArgList may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.setOptionalArg may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/AlreadySelectedException.<init> may call:
+	org/apache/commons/cli/Option.getKey
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/AlreadySelectedException.<init>
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/ParseException.<init>
+	org/apache/commons/cli/OptionGroup.getSelected
+org/apache/commons/cli/UnrecognizedOptionException$__CLR4_0_61ba1bal7evbmm3.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/Option.builder may call:
+	org/apache/commons/cli/Option$Builder.<init>
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Option.builder
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/CommandLine$Builder.addOption may call:
+	org/apache/commons/cli/CommandLine.addOption
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Parser.getOptions may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/ParseException.<init> may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Parser.setOptions may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Options.getRequiredOptions
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/DefaultParser.isArgument may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/DefaultParser.isOption
+	org/apache/commons/cli/DefaultParser.isNegativeNumber
+org/apache/commons/cli/Option.add may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.acceptsArg
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/Option.getId may call:
+	org/apache/commons/cli/Option.getKey
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/HelpFormatter$__CLR4_0_6d9d9l7evbmck.<init> may call:
+org/apache/commons/cli/Option$Builder.optionalArg may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Options.getMatchingOptions may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Util.stripLeadingHyphens
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/OptionBuilder.withDescription may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Parser.processArgs may call:
+	org/apache/commons/cli/Util.stripLeadingAndTrailingQuotes
+	org/apache/commons/cli/Option.addValueForProcessing
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Options.hasOption
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/MissingArgumentException.<init>
+	org/apache/commons/cli/Parser.getOptions
+	org/apache/commons/cli/Option.hasOptionalArg
+	org/apache/commons/cli/Option.getValues
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/Option$__CLR4_0_6mpmpl7evbmfh.<init> may call:
+org/apache/commons/cli/Options.getOptionGroups may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/AmbiguousOptionException.getMatchingOptions may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/CommandLine.getArgs may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/OptionBuilder.create may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/OptionBuilder.reset
+	org/apache/commons/cli/Option.setValueSeparator
+	org/apache/commons/cli/Option.setOptionalArg
+	org/apache/commons/cli/Option.setArgName
+	org/apache/commons/cli/OptionBuilder.create
+	org/apache/commons/cli/Option.setRequired
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/Option.<init>
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.setType
+	org/apache/commons/cli/Option.setLongOpt
+	org/apache/commons/cli/Option.setArgs
+org/apache/commons/cli/OptionBuilder$__CLR4_0_6tqtql7evbmgk.<init> may call:
+org/apache/commons/cli/BasicParser$__CLR4_0_6wwl7evbm4l.<init> may call:
+org/apache/commons/cli/AlreadySelectedException.getOption may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.setRequired may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.toString may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.hasArg
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/Option.hasArgs
+org/apache/commons/cli/UnrecognizedOptionException$__CLR4_0_61ba1bal7evbmm3.<init> may call:
+org/apache/commons/cli/HelpFormatter.renderWrappedText may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/HelpFormatter.createPadding
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/HelpFormatter.findWrapPos
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/HelpFormatter.getNewLine
+	org/apache/commons/cli/HelpFormatter.rtrim
+org/apache/commons/cli/PosixParser.gobble may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/MissingOptionException.createMessage may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/Option.getOpt may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/CommandLine.getOptionObject may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/ParseException.getMessage
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/CommandLine.getParsedOptionValue
+	org/apache/commons/cli/CommandLine.getOptionObject
+org/apache/commons/cli/HelpFormatter.getLongOptPrefix may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/AmbiguousOptionException$__CLR4_0_6aal7evbm43.<init> may call:
+org/apache/commons/cli/HelpFormatter.setDescPadding may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/CommandLine.addOption may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Options$__CLR4_0_6y4y4l7evbmio.<init> may call:
+org/apache/commons/cli/HelpFormatter.setSyntaxPrefix may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/OptionGroup$__CLR4_0_6w4w4l7evbmhj.<init> may call:
+org/apache/commons/cli/BasicParser.<init> may call:
+	org/apache/commons/cli/Parser.<init>
+org/apache/commons/cli/OptionBuilder.<clinit> may call:
+	org/apache/commons/cli/OptionBuilder.reset
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/OptionBuilder.<init>
+org/apache/commons/cli/TypeHandler.createNumber may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/ParseException.<init>
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/OptionBuilder$__CLR4_0_6tqtql7evbmgk.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/TypeHandler.<init> may call:
+org/apache/commons/cli/HelpFormatter.renderWrappedTextBlock may call:
+	org/apache/commons/cli/HelpFormatter.renderWrappedText
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/HelpFormatter.getNewLine
+org/apache/commons/cli/Options.getOption may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Util.stripLeadingHyphens
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/CommandLine.getOptionValues may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/CommandLine.getOptionValues
+	org/apache/commons/cli/Option.getLongOpt
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.getValuesList
+	org/apache/commons/cli/Option.getOpt
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/TypeHandler$__CLR4_0_619c19cl7evbmlt.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/HelpFormatter.setLongOptSeparator may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/CommandLine.addArg may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/HelpFormatter$OptionComparator.compare may call:
+	org/apache/commons/cli/Option.getKey
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/HelpFormatter$OptionComparator.compare
+org/apache/commons/cli/Option$Builder.valueSeparator may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option$Builder.valueSeparator
+org/apache/commons/cli/HelpFormatter$__CLR4_0_6d9d9l7evbmck.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/DefaultParser.handleConcatenatedOptions may call:
+	org/apache/commons/cli/Option.addValueForProcessing
+	org/apache/commons/cli/Options.getOption
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Options.hasOption
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/DefaultParser.handleUnknownToken
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/DefaultParser.handleOption
+org/apache/commons/cli/HelpFormatter.setLeftPadding may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/TypeHandler.createURL may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/ParseException.<init>
+org/apache/commons/cli/HelpFormatter.printOptions may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/HelpFormatter.renderOptions
+org/apache/commons/cli/Option.hasArgName may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/HelpFormatter.getSyntaxPrefix may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/DefaultParser.checkRequiredOptions may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/MissingOptionException.<init>
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/Option.getArgName may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Options$__CLR4_0_6y4y4l7evbmio.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/Option.getArgs may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/PosixParser.processNonOptionToken may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.hasArg
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/OptionBuilder.withType may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/OptionBuilder.withType
+org/apache/commons/cli/TypeHandler.createValue may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/TypeHandler.createFile
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/TypeHandler.createURL
+	org/apache/commons/cli/TypeHandler.createNumber
+	org/apache/commons/cli/TypeHandler.createFiles
+	org/apache/commons/cli/TypeHandler.createObject
+	org/apache/commons/cli/TypeHandler.createDate
+	org/apache/commons/cli/TypeHandler.createValue
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/TypeHandler.createClass
+org/apache/commons/cli/Parser.updateRequiredOptions may call:
+	org/apache/commons/cli/Option.getKey
+	org/apache/commons/cli/Parser.getRequiredOptions
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/OptionGroup.isRequired
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.isRequired
+	org/apache/commons/cli/Options.getOptionGroup
+	org/apache/commons/cli/Parser.getOptions
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/OptionGroup.setSelected
+org/apache/commons/cli/DefaultParser$__CLR4_0_63o3ol7evbm8z.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/Parser.parse may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Parser.checkRequiredOptions
+	org/apache/commons/cli/Option.clearValues
+	org/apache/commons/cli/Parser.flatten
+	org/apache/commons/cli/Parser.getOptions
+	org/apache/commons/cli/CommandLine.addArg
+	org/apache/commons/cli/Parser.processProperties
+	org/apache/commons/cli/Parser.setOptions
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/CommandLine.<init>
+	org/apache/commons/cli/Parser.processOption
+	org/apache/commons/cli/Options.hasOption
+	org/apache/commons/cli/Parser.parse
+	org/apache/commons/cli/Options.helpOptions
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Options.getOptionGroups
+	org/apache/commons/cli/OptionGroup.setSelected
+org/apache/commons/cli/ParseException$__CLR4_0_610j10jl7evbmj2.<init> may call:
+org/apache/commons/cli/Option.acceptsArg may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.hasOptionalArg
+	org/apache/commons/cli/Option.hasArg
+	org/apache/commons/cli/Option.hasArgs
+org/apache/commons/cli/Option.getValues may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/Option.hasNoValues
+org/apache/commons/cli/HelpFormatter.printUsage may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Options.getOptions
+	org/apache/commons/cli/HelpFormatter.appendOptionGroup
+	org/apache/commons/cli/HelpFormatter.printWrapped
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/HelpFormatter.getOptionComparator
+	org/apache/commons/cli/Options.getOptionGroup
+	org/apache/commons/cli/Option.isRequired
+	org/apache/commons/cli/HelpFormatter.appendOption
+	org/apache/commons/cli/HelpFormatter.getSyntaxPrefix
+	com_atlassian_clover/CoverageRecorder.iget
+java/lang/Object.<clinit> may call:
+org/apache/commons/cli/Option.getLongOpt may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/MissingOptionException.<init> may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/MissingOptionException.createMessage
+	org/apache/commons/cli/MissingOptionException.<init>
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/ParseException.<init>
+org/apache/commons/cli/Option.setDescription may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.getDescription may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/DefaultParser.updateRequiredOptions may call:
+	org/apache/commons/cli/Option.getKey
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/OptionGroup.isRequired
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.isRequired
+	org/apache/commons/cli/Options.getOptionGroup
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/OptionGroup.setSelected
+org/apache/commons/cli/Options.toString may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/CommandLine.resolveOption may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Util.stripLeadingHyphens
+	org/apache/commons/cli/Option.getLongOpt
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.getOpt
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/DefaultParser.getLongPrefix may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	org/apache/commons/cli/Util.stripLeadingHyphens
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+	org/apache/commons/cli/Options.hasLongOption
+org/apache/commons/cli/Option.getValuesList may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option$Builder.hasArg may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option$Builder.hasArg
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/HelpFormatter.getLeftPadding may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/CommandLine.<init> may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option$Builder.argName may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Util$__CLR4_0_61bh1bhl7evbmmf.<clinit> may call:
+	com_atlassian_clover/CloverVersionInfo.An_old_version_of_clover_is_on_your_compilation_classpath___Please_remove___Required_version_is___4_0_6
+	com_atlassian_clover/CloverVersionInfo.getBuildStamp
+	com_atlassian_clover/Clover.getNullRecorder
+	com_atlassian_clover/CloverVersionInfo.getReleaseNum
+	com_atlassian_clover/Clover.getRecorder
+	com_atlassian_clover/Clover.l
+org/apache/commons/cli/UnrecognizedOptionException.<init> may call:
+	org/apache/commons/cli/UnrecognizedOptionException.<init>
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/ParseException.<init>
+org/apache/commons/cli/Option.addValueForProcessing may call:
+	org/apache/commons/cli/Option.processValue
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/Util.stripLeadingAndTrailingQuotes may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	com_atlassian_clover/CoverageRecorder.iget
+org/apache/commons/cli/HelpFormatter.<init> may call:
+	org/apache/commons/cli/HelpFormatter$OptionComparator.<init>
+org/apache/commons/cli/HelpFormatter.setWidth may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/Option.setType may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+	org/apache/commons/cli/Option.setType
+org/apache/commons/cli/AlreadySelectedException.getOptionGroup may call:
+	com_atlassian_clover/CoverageRecorder.flushNeeded
+	com_atlassian_clover/CoverageRecorder.inc
+org/apache/commons/cli/DefaultParser.<init> may call:

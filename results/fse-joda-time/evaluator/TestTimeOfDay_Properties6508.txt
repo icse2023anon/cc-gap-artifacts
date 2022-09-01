@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Properties.testPropertyGetMilli:622
+Methods call in assertion: [org/joda/time/TimeOfDay$Property.getRangeDurationField, org/joda/time/TimeOfDay.millisOfSecond, org/joda/time/Chronology.seconds, org/joda/time/TimeOfDay.getChronology]
+org/joda/time/field/AbstractPartialFieldProperty.getRangeDurationField
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/TimeOfDay.getField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.seconds
+org/joda/time/base/AbstractPartial.getField
+top 10 recommendations: 
+org/joda/time/field/AbstractPartialFieldProperty.getRangeDurationField
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/TimeOfDay.getField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.seconds
+org/joda/time/base/AbstractPartial.getField
+after post processing ......
+org/joda/time/field/AbstractPartialFieldProperty.getRangeDurationField
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/TimeOfDay.getField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.seconds
+org/joda/time/base/AbstractPartial.getField
+not matched

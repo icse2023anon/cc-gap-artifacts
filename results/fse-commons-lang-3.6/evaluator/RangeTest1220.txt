@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.RangeTest.testIsBeforeRange:402
+Methods call in assertion: [org/apache/commons/lang3/Range.between, org/apache/commons/lang3/Range.isBeforeRange]
+org/apache/commons/lang3/Range.isBefore
+org/apache/commons/lang3/Range.between
+org/apache/commons/lang3/Range.isBeforeRange
+top 10 recommendations: 
+org/apache/commons/lang3/Range.isBeforeRange
+org/apache/commons/lang3/Range.isBefore
+org/apache/commons/lang3/Range.between
+after post processing ......
+org/apache/commons/lang3/Range.isBeforeRange
+org/apache/commons/lang3/Range.isBefore
+org/apache/commons/lang3/Range.between
+found in top 10

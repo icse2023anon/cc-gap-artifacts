@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.reflect.FieldUtilsTest.testGetFieldsListWithAnnotation:276
+Methods call in assertion: [org/apache/commons/lang3/reflect/FieldUtils.getFieldsListWithAnnotation]
+org/apache/commons/lang3/reflect/FieldUtils.getField
+org/apache/commons/lang3/reflect/FieldUtils.getFieldsListWithAnnotation
+org/apache/commons/lang3/reflect/FieldUtils.getAllFieldsList
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/FieldUtils.getFieldsListWithAnnotation
+org/apache/commons/lang3/reflect/FieldUtils.getField
+org/apache/commons/lang3/reflect/FieldUtils.getAllFieldsList
+after post processing ......
+org/apache/commons/lang3/reflect/FieldUtils.getFieldsListWithAnnotation
+org/apache/commons/lang3/reflect/FieldUtils.getField
+org/apache/commons/lang3/reflect/FieldUtils.getAllFieldsList
+perfect match

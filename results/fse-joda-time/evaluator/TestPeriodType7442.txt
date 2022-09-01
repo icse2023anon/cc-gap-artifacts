@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestPeriodType.testYearWeekDayTime:261
+Methods call in assertion: [org/joda/time/PeriodType.millis, org/joda/time/PeriodType.equals]
+org/joda/time/PeriodType.millis
+org/joda/time/PeriodType.equals
+org/joda/time/PeriodType.yearWeekDayTime
+top 10 recommendations: 
+org/joda/time/PeriodType.millis
+org/joda/time/PeriodType.equals
+org/joda/time/PeriodType.yearWeekDayTime
+after post processing ......
+org/joda/time/PeriodType.millis
+org/joda/time/PeriodType.equals
+org/joda/time/PeriodType.yearWeekDayTime
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testHashCodeAndWithIgnoreHeaderCase:1076
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getIgnoreHeaderCase]
+org/apache/commons/csv/CSVFormat.withIgnoreHeaderCase
+org/apache/commons/csv/CSVFormat.getIgnoreHeaderCase
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.withIgnoreHeaderCase
+org/apache/commons/csv/CSVFormat.getIgnoreHeaderCase
+after post processing ......
+org/apache/commons/csv/CSVFormat.withIgnoreHeaderCase
+org/apache/commons/csv/CSVFormat.getIgnoreHeaderCase
+found in top 10

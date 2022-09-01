@@ -1,0 +1,39 @@
+slicing criterion: org.joda.time.TestYearMonth_Properties.testPropertyCompareToYear:206
+Methods call in assertion: [org/joda/time/YearMonth.year, org/joda/time/YearMonth$Property.compareTo]
+org/joda/time/YearMonth.size
+org/joda/time/base/AbstractDateTime.get
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonth.setCopy
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/field/AbstractPartialFieldProperty.compareTo
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/chrono/BasicChronology.getYear
+top 10 recommendations: 
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/YearMonth.size
+org/joda/time/base/AbstractDateTime.get
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonth.setCopy
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/field/AbstractPartialFieldProperty.compareTo
+after post processing ......
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/YearMonth.size
+org/joda/time/base/AbstractDateTime.get
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonth.setCopy
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/field/AbstractPartialFieldProperty.compareTo
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/chrono/BasicChronology.getYear
+not matched

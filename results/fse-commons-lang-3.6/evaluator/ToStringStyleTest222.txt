@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.ToStringStyleTest.testSetContentStart:75
+Methods call in assertion: [org/apache/commons/lang3/builder/ToStringStyle.getContentStart]
+org/apache/commons/lang3/builder/ToStringStyle.getContentStart
+org/apache/commons/lang3/builder/ToStringStyle.setContentStart
+top 10 recommendations: 
+org/apache/commons/lang3/builder/ToStringStyle.getContentStart
+org/apache/commons/lang3/builder/ToStringStyle.setContentStart
+after post processing ......
+org/apache/commons/lang3/builder/ToStringStyle.getContentStart
+org/apache/commons/lang3/builder/ToStringStyle.setContentStart
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.AnnotationUtilsTest.testNonEquivalentAnnotationsOfSameType:427
+Methods call in assertion: [org/apache/commons/lang3/AnnotationUtils.equals]
+org/apache/commons/lang3/AnnotationUtils.equals
+org/apache/commons/lang3/AnnotationUtils.isValidAnnotationMemberType
+top 10 recommendations: 
+org/apache/commons/lang3/AnnotationUtils.equals
+org/apache/commons/lang3/AnnotationUtils.isValidAnnotationMemberType
+after post processing ......
+org/apache/commons/lang3/AnnotationUtils.equals
+org/apache/commons/lang3/AnnotationUtils.isValidAnnotationMemberType
+perfect match

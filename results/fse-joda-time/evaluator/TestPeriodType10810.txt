@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestPeriodType.testYears:371
+Methods call in assertion: [org/joda/time/PeriodType.years]
+org/joda/time/PeriodType.years
+top 10 recommendations: 
+org/joda/time/PeriodType.years
+after post processing ......
+org/joda/time/PeriodType.years
+perfect match

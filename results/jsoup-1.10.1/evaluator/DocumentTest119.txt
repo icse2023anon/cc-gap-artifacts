@@ -1,0 +1,20 @@
+slicing criterion: org.jsoup.nodes.DocumentTest.testMetaCharsetUpdateXmlDisabledNoChanges:379
+Methods call in assertion: [org/jsoup/nodes/Document.toString]
+org/jsoup/nodes/Document.outerHtml
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Node.ownerDocument
+org/jsoup/nodes/Element.toString
+top 10 recommendations: 
+org/jsoup/nodes/Document.outerHtml
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Node.ownerDocument
+org/jsoup/nodes/Element.toString
+after post processing ......
+org/jsoup/nodes/Document.outerHtml
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Node.ownerDocument
+org/jsoup/nodes/Element.toString
+found in top 10

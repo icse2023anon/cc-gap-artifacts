@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestMutablePeriod_Constructors.testConstructor_Object_PeriodType4:987
+Methods call in assertion: [org/joda/time/MutablePeriod.getWeeks]
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/convert/ReadablePeriodConverter.getPeriodType
+org/joda/time/PeriodType.dayTime
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/MutablePeriod.getWeeks
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/PeriodType.getIndexedField
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/MutablePeriod.getWeeks
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/convert/ReadablePeriodConverter.getPeriodType
+org/joda/time/PeriodType.dayTime
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/PeriodType.getIndexedField
+after post processing ......
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/MutablePeriod.getWeeks
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/convert/ReadablePeriodConverter.getPeriodType
+org/joda/time/PeriodType.dayTime
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/PeriodType.getIndexedField
+found in top 10

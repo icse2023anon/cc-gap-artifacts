@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeXml:367
+Methods call in assertion: [org/apache/commons/lang3/StringEscapeUtils.unescapeXml]
+org/apache/commons/lang3/StringEscapeUtils.unescapeXml
+top 10 recommendations: 
+org/apache/commons/lang3/StringEscapeUtils.unescapeXml
+after post processing ......
+org/apache/commons/lang3/StringEscapeUtils.unescapeXml
+perfect match

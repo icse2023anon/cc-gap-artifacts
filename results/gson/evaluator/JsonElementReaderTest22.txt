@@ -1,0 +1,51 @@
+slicing criterion: com.google.gson.internal.bind.JsonElementReaderTest.testObject:147
+Methods call in assertion: [com/google/gson/internal/bind/JsonTreeReader.peek]
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/internal/LinkedTreeMap.put
+com/google/gson/internal/LinkedTreeMap.entrySet
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/stream/JsonReader.peek
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/JsonPrimitive.isString
+com/google/gson/internal/bind/JsonTreeReader.nextName
+com/google/gson/JsonParser.parse
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/internal/bind/JsonTreeReader.peek
+top 10 recommendations: 
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/JsonParser.parse
+com/google/gson/internal/bind/JsonTreeReader.peek
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/internal/LinkedTreeMap.put
+com/google/gson/stream/JsonReader.peek
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/stream/JsonReader.<init>
+after post processing ......
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/JsonParser.parse
+com/google/gson/internal/bind/JsonTreeReader.peek
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/internal/LinkedTreeMap.put
+com/google/gson/stream/JsonReader.peek
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/internal/LinkedTreeMap.entrySet
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/JsonPrimitive.isString
+com/google/gson/internal/bind/JsonTreeReader.nextName
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/stream/JsonReader.doPeek
+found in top 10

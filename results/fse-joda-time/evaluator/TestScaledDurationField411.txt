@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestScaledDurationField.test_getUnitMillis:133
+Methods call in assertion: [org/joda/time/field/ScaledDurationField.getUnitMillis]
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/field/ScaledDurationField.getUnitMillis
+top 10 recommendations: 
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/field/ScaledDurationField.getUnitMillis
+after post processing ......
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/field/ScaledDurationField.getUnitMillis
+found in top 10

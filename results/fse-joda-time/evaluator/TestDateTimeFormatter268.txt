@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatter.testParseLocalDateTime_simple:622
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.parseLocalDateTime, org/joda/time/format/DateTimeFormatter.withChronology]
+org/joda/time/format/DateTimeFormatter.parseLocalDateTime
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/DateTimeFormatter.withChronology
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatter.parseLocalDateTime
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/DateTimeFormatter.withChronology
+after post processing ......
+org/joda/time/format/DateTimeFormatter.parseLocalDateTime
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/DateTimeFormatter.withChronology
+found in top 10

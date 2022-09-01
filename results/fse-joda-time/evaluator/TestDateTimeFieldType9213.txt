@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_weekyearOfCentury:144
+Methods call in assertion: [org/joda/time/DateTimeFieldType.getName, org/joda/time/DateTimeFieldType.weekyearOfCentury]
+org/joda/time/DateTimeFieldType.getName
+org/joda/time/DateTimeFieldType.weekyearOfCentury
+top 10 recommendations: 
+org/joda/time/DateTimeFieldType.getName
+org/joda/time/DateTimeFieldType.weekyearOfCentury
+after post processing ......
+org/joda/time/DateTimeFieldType.getName
+org/joda/time/DateTimeFieldType.weekyearOfCentury
+perfect match

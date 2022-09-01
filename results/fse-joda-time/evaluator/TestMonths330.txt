@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestMonths.testGetPeriodType:246
+Methods call in assertion: [org/joda/time/PeriodType.months, org/joda/time/Months.getPeriodType]
+org/joda/time/Months.months
+org/joda/time/PeriodType.months
+top 10 recommendations: 
+org/joda/time/Months.months
+org/joda/time/PeriodType.months
+after post processing ......
+org/joda/time/Months.months
+org/joda/time/PeriodType.months
+not matched

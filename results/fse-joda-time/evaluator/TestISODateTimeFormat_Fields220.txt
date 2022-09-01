@@ -1,0 +1,37 @@
+slicing criterion: org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_ordinalBased_D:628
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.print]
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfYear
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeFieldType.year
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.canBuildFormatter
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/DateTimeFieldType.monthOfYear
+top 10 recommendations: 
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfYear
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeFieldType.year
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.canBuildFormatter
+org/joda/time/format/DateTimeFormatter.print
+after post processing ......
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfYear
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/DateTimeFieldType.dayOfYear
+org/joda/time/DateTimeFieldType.year
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.canBuildFormatter
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/DateTimeFieldType.monthOfYear
+found in top 10

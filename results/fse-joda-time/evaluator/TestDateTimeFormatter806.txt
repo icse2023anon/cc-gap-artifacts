@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_zone2:776
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.withZone, org/joda/time/format/DateTimeFormatter.parseMutableDateTime]
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/DateTimeFormatter.withZone
+org/joda/time/format/DateTimeFormatter.parseMutableDateTime
+top 10 recommendations: 
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/DateTimeFormatter.withZone
+org/joda/time/format/DateTimeFormatter.parseMutableDateTime
+after post processing ......
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/DateTimeFormatter.withZone
+org/joda/time/format/DateTimeFormatter.parseMutableDateTime
+found in top 10

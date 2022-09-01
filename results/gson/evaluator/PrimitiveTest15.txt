@@ -1,0 +1,35 @@
+slicing criterion: com.google.gson.functional.PrimitiveTest.testStringsAsBooleans:818
+Methods call in assertion: [com/google/gson/Gson.fromJson]
+com/google/gson/Gson.fromJson
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/Gson.newJsonReader
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/stream/JsonReader.peek
+com/google/gson/reflect/TypeToken.getSuperclassTypeParameter
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/internal/bind/TypeAdapterRuntimeTypeWrapper.read
+top 10 recommendations: 
+com/google/gson/Gson.fromJson
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/Gson.newJsonReader
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/reflect/TypeToken.getSuperclassTypeParameter
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/internal/bind/TypeAdapterRuntimeTypeWrapper.read
+after post processing ......
+com/google/gson/Gson.fromJson
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/Gson.newJsonReader
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/reflect/TypeToken.getSuperclassTypeParameter
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/internal/bind/TypeAdapterRuntimeTypeWrapper.read
+perfect match

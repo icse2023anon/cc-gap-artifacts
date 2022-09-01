@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.format.TestPeriodFormatterBuilder.testFormatAppend_PrinterParser_null_Parser:1182
+Methods call in assertion: [org/joda/time/format/PeriodFormatterBuilder.toPrinter]
+org/joda/time/format/PeriodFormatterBuilder.toPrinter
+org/joda/time/format/PeriodFormatterBuilder.appendMonths
+org/joda/time/format/PeriodFormatterBuilder.append
+top 10 recommendations: 
+org/joda/time/format/PeriodFormatterBuilder.toPrinter
+org/joda/time/format/PeriodFormatterBuilder.appendMonths
+org/joda/time/format/PeriodFormatterBuilder.append
+after post processing ......
+org/joda/time/format/PeriodFormatterBuilder.toPrinter
+org/joda/time/format/PeriodFormatterBuilder.appendMonths
+org/joda/time/format/PeriodFormatterBuilder.append
+perfect match

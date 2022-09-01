@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testCapacityAndLength:381
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.size]
+org/apache/commons/lang3/text/StrBuilder.setLength
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.size
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.setLength
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.size
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.setLength
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.size
+found in top 10

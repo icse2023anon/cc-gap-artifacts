@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.TestDateTimeZone.testGetOffset_long:1116
+Methods call in assertion: [org/joda/time/DateTimeZone.isStandardOffset]
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/CachedDateTimeZone.getStandardOffset
+org/joda/time/DateTimeZone.setProvider
+org/joda/time/tz/CachedDateTimeZone.forZone
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/DateTimeZone.isStandardOffset
+top 10 recommendations: 
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/CachedDateTimeZone.getStandardOffset
+org/joda/time/DateTimeZone.setProvider
+org/joda/time/tz/CachedDateTimeZone.forZone
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/DateTimeZone.isStandardOffset
+after post processing ......
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.forID
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/tz/CachedDateTimeZone.getStandardOffset
+org/joda/time/DateTimeZone.setProvider
+org/joda/time/tz/CachedDateTimeZone.forZone
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/DateTimeZone.isStandardOffset
+found in top 10

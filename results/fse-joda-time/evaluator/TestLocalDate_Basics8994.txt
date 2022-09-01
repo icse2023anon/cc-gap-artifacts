@@ -1,0 +1,59 @@
+slicing criterion: org.joda.time.TestLocalDate_Basics.testEqualsHashCodeStrict:578
+Methods call in assertion: [org/joda/time/LocalDate.equals]
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/chrono/StrictChronology.withUTC
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/LocalDate.<init>
+org/joda/time/chrono/StrictChronology.convertField
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/chrono/StrictChronology.assemble
+org/joda/time/chrono/StrictChronology.getInstance
+org/joda/time/field/DecoratedDateTimeField.isLenient
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/field/StrictDateTimeField.getInstance
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/LocalDate.equals
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/chrono/StrictChronology.assemble
+org/joda/time/chrono/StrictChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/chrono/StrictChronology.convertField
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/chrono/StrictChronology.getInstance
+org/joda/time/field/DecoratedDateTimeField.isLenient
+after post processing ......
+org/joda/time/chrono/StrictChronology.assemble
+org/joda/time/chrono/StrictChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/chrono/StrictChronology.convertField
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/chrono/StrictChronology.getInstance
+org/joda/time/field/DecoratedDateTimeField.isLenient
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/field/StrictDateTimeField.getInstance
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/LocalDate.equals
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/DateTimeUtils.getChronology
+all method calls are suggested

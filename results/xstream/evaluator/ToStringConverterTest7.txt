@@ -1,0 +1,8 @@
+slicing criterion: com.thoughtworks.xstream.converters.extended.ToStringConverterTest.testCanConvertRightType:48
+Methods call in assertion: [com/thoughtworks/xstream/converters/SingleValueConverter.fromString]
+com/thoughtworks/xstream/converters/extended/ToStringConverter.fromString
+top 10 recommendations: 
+com/thoughtworks/xstream/converters/extended/ToStringConverter.fromString
+after post processing ......
+com/thoughtworks/xstream/converters/extended/ToStringConverter.fromString
+not matched

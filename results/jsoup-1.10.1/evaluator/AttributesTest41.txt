@@ -1,0 +1,11 @@
+slicing criterion: org.jsoup.nodes.AttributesTest.html:22
+Methods call in assertion: [org/jsoup/nodes/Attributes.size]
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attributes.size
+top 10 recommendations: 
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attributes.size
+after post processing ......
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attributes.size
+found in top 10

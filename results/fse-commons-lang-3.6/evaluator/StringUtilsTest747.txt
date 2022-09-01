@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testSplitByCharacterTypeCamelCase:1246
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.splitByCharacterTypeCamelCase]
+org/apache/commons/lang3/StringUtils.splitByCharacterTypeCamelCase
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.splitByCharacterTypeCamelCase
+after post processing ......
+org/apache/commons/lang3/StringUtils.splitByCharacterTypeCamelCase
+perfect match

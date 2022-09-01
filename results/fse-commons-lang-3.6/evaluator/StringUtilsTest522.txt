@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testReCapitalize:338
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.capitalize, org/apache/commons/lang3/StringUtils.uncapitalize]
+org/apache/commons/lang3/StringUtils.capitalize
+org/apache/commons/lang3/StringUtils.uncapitalize
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.capitalize
+org/apache/commons/lang3/StringUtils.uncapitalize
+after post processing ......
+org/apache/commons/lang3/StringUtils.capitalize
+org/apache/commons/lang3/StringUtils.uncapitalize
+perfect match

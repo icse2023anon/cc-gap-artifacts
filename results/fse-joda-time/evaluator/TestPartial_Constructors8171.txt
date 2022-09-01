@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.TestPartial_Constructors.testConstructor_TypeArray_intArray:207
+Methods call in assertion: [org/joda/time/Partial.get, org/joda/time/DateTimeFieldType.year]
+org/joda/time/Partial.getValue
+org/joda/time/DateTimeFieldType.year
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/Partial.getFieldType
+org/joda/time/Partial.size
+org/joda/time/Partial.<init>
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/Partial.getChronology
+org/joda/time/base/AbstractPartial.get
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.get
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/Partial.getValue
+org/joda/time/DateTimeFieldType.year
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/Partial.getFieldType
+org/joda/time/Partial.size
+org/joda/time/Partial.<init>
+org/joda/time/Partial.getChronology
+after post processing ......
+org/joda/time/base/AbstractPartial.get
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/Partial.getValue
+org/joda/time/DateTimeFieldType.year
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/Partial.getFieldType
+org/joda/time/Partial.size
+org/joda/time/Partial.<init>
+org/joda/time/Partial.getChronology
+not matched

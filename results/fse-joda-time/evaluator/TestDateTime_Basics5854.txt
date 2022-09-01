@@ -1,0 +1,39 @@
+slicing criterion: org.joda.time.TestDateTime_Basics.testWithZone_DateTimeZone:891
+Methods call in assertion: [org/joda/time/DateTime.getMillis]
+org/joda/time/DateTime.withZone
+org/joda/time/DateTime.withChronology
+org/joda/time/chrono/GregorianChronology.withZone
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/chrono/GregorianChronology.getInstance
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/DateTime.withZone
+org/joda/time/chrono/GregorianChronology.withZone
+org/joda/time/DateTime.withChronology
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/GregorianChronology.getInstance
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+after post processing ......
+org/joda/time/DateTime.withZone
+org/joda/time/chrono/GregorianChronology.withZone
+org/joda/time/DateTime.withChronology
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/GregorianChronology.getInstance
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeUtils.getChronology
+not matched

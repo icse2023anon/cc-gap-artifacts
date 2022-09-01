@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.net.PercentCodecTest.testPercentEncoderDecoderWithNullOrEmptyInput:109
+Methods call in assertion: [org/apache/commons/codec/net/PercentCodec.encode]
+org/apache/commons/codec/net/PercentCodec.encode
+top 10 recommendations: 
+org/apache/commons/codec/net/PercentCodec.encode
+after post processing ......
+org/apache/commons/codec/net/PercentCodec.encode
+perfect match

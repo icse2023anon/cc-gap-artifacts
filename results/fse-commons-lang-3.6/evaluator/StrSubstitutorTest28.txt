@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.text.StrSubstitutorTest.testGetSetSuffix:556
+Methods call in assertion: [org/apache/commons/lang3/text/StrSubstitutor.getVariableSuffixMatcher]
+org/apache/commons/lang3/text/StrSubstitutor.getVariableSuffixMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/text/StrMatcher.stringMatcher
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrMatcher.stringMatcher
+org/apache/commons/lang3/text/StrSubstitutor.getVariableSuffixMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/text/StrMatcher.stringMatcher
+org/apache/commons/lang3/text/StrSubstitutor.getVariableSuffixMatcher
+org/apache/commons/lang3/StringUtils.isEmpty
+found in top 10

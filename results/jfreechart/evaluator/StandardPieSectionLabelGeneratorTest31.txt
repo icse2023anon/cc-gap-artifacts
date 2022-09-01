@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.labels.StandardPieSectionLabelGeneratorTest.testEquals:75
+Methods call in assertion: [org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals]
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+after post processing ......
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+perfect match

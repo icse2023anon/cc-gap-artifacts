@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.builder.DiffResultTest.testToStringSpecifyStyleOutput:114
+Methods call in assertion: [org/apache/commons/lang3/builder/DiffResult.getToStringStyle]
+org/apache/commons/lang3/builder/DiffBuilder.append
+org/apache/commons/lang3/builder/DiffBuilder.build
+org/apache/commons/lang3/builder/DiffResult.<init>
+org/apache/commons/lang3/builder/DiffResult.getToStringStyle
+top 10 recommendations: 
+org/apache/commons/lang3/builder/DiffBuilder.build
+org/apache/commons/lang3/builder/DiffBuilder.append
+org/apache/commons/lang3/builder/DiffResult.<init>
+org/apache/commons/lang3/builder/DiffResult.getToStringStyle
+after post processing ......
+org/apache/commons/lang3/builder/DiffBuilder.build
+org/apache/commons/lang3/builder/DiffBuilder.append
+org/apache/commons/lang3/builder/DiffResult.<init>
+org/apache/commons/lang3/builder/DiffResult.getToStringStyle
+found in top 10

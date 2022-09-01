@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestHours.testIsGreaterThan:213
+Methods call in assertion: [org/joda/time/Hours.isGreaterThan]
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Hours.isGreaterThan
+top 10 recommendations: 
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Hours.isGreaterThan
+after post processing ......
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Hours.isGreaterThan
+found in top 10

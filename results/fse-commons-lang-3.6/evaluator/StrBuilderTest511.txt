@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testCapacityAndLength:318
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.capacity]
+org/apache/commons/lang3/text/StrBuilder.capacity
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.capacity
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.capacity
+perfect match

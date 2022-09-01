@@ -1,0 +1,20 @@
+slicing criterion: com.thoughtworks.xstream.core.util.CloneablesTest.testCloneOfUncloneable:38
+Methods call in assertion: [com/thoughtworks/xstream/converters/reflection/ObjectAccessException.getCause]
+com/thoughtworks/xstream/core/util/Cloneables.clone
+com/thoughtworks/xstream/XStreamException.<init>
+com/thoughtworks/xstream/converters/reflection/ObjectAccessException.<init>
+com/thoughtworks/xstream/core/BaseException.<init>
+com/thoughtworks/xstream/converters/ErrorWritingException.<init>
+top 10 recommendations: 
+com/thoughtworks/xstream/core/util/Cloneables.clone
+com/thoughtworks/xstream/converters/reflection/ObjectAccessException.<init>
+com/thoughtworks/xstream/converters/ErrorWritingException.<init>
+com/thoughtworks/xstream/XStreamException.<init>
+com/thoughtworks/xstream/core/BaseException.<init>
+after post processing ......
+com/thoughtworks/xstream/core/util/Cloneables.clone
+com/thoughtworks/xstream/converters/reflection/ObjectAccessException.<init>
+com/thoughtworks/xstream/converters/ErrorWritingException.<init>
+com/thoughtworks/xstream/XStreamException.<init>
+com/thoughtworks/xstream/core/BaseException.<init>
+not matched

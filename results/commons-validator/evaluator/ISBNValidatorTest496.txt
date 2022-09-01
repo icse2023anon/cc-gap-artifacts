@@ -1,0 +1,29 @@
+slicing criterion: org.apache.commons.validator.routines.ISBNValidatorTest.testValidateISBN13:233
+Methods call in assertion: [org/apache/commons/validator/routines/ISBNValidator.validateISBN13]
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/ISBNValidator.validateISBN13
+org/apache/commons/validator/routines/checkdigit/EAN13CheckDigit.weightedValue
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/ISBNValidator.getInstance
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.toInt
+org/apache/commons/validator/routines/RegexValidator.validate
+top 10 recommendations: 
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/ISBNValidator.validateISBN13
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/EAN13CheckDigit.weightedValue
+org/apache/commons/validator/routines/ISBNValidator.getInstance
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.toInt
+org/apache/commons/validator/routines/RegexValidator.validate
+after post processing ......
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/ISBNValidator.validateISBN13
+org/apache/commons/validator/routines/CodeValidator.validate
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/EAN13CheckDigit.weightedValue
+org/apache/commons/validator/routines/ISBNValidator.getInstance
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.toInt
+org/apache/commons/validator/routines/RegexValidator.validate
+found in top 10

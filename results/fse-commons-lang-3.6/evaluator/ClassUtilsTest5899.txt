@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.ClassUtilsTest.testGetClassByNormalNameArrays:1073
+Methods call in assertion: [org/apache/commons/lang3/ClassUtils.getClass]
+org/apache/commons/lang3/StringUtils.deleteWhitespace
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/ClassUtils.getClass
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.deleteWhitespace
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/ClassUtils.getClass
+after post processing ......
+org/apache/commons/lang3/StringUtils.deleteWhitespace
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/ClassUtils.getClass
+found in top 10

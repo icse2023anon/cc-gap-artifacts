@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.convert.TestNullConverter.testSetInto_Object_Chronology1:199
+Methods call in assertion: [org/joda/time/MutableInterval.getEndMillis]
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/convert/NullConverter.setInto
+org/joda/time/base/BaseInterval.getEndMillis
+top 10 recommendations: 
+org/joda/time/convert/NullConverter.setInto
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/BaseInterval.getEndMillis
+after post processing ......
+org/joda/time/convert/NullConverter.setInto
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/BaseInterval.getEndMillis
+found in top 10

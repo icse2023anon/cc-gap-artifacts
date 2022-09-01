@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testReverseDelimited_StringChar:1989
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.reverseDelimited]
+org/apache/commons/lang3/StringUtils.reverseDelimited
+org/apache/commons/lang3/StringUtils.split
+org/apache/commons/lang3/StringUtils.join
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.reverseDelimited
+org/apache/commons/lang3/StringUtils.split
+org/apache/commons/lang3/StringUtils.join
+after post processing ......
+org/apache/commons/lang3/StringUtils.reverseDelimited
+org/apache/commons/lang3/StringUtils.split
+org/apache/commons/lang3/StringUtils.join
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDuration_Basics.testGetStandardSeconds:340
+Methods call in assertion: [org/joda/time/Duration.getStandardSeconds]
+org/joda/time/Duration.getStandardSeconds
+org/joda/time/base/BaseDuration.getMillis
+top 10 recommendations: 
+org/joda/time/Duration.getStandardSeconds
+org/joda/time/base/BaseDuration.getMillis
+after post processing ......
+org/joda/time/Duration.getStandardSeconds
+org/joda/time/base/BaseDuration.getMillis
+perfect match

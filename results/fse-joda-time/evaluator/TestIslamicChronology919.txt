@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.chrono.TestIslamicChronology.testSampleDate3:678
+Methods call in assertion: [org/joda/time/DateTime$Property.isLeap]
+org/joda/time/DateTime.getMillis
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/field/AbstractReadableInstantFieldProperty.isLeap
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.getMillis
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/field/AbstractReadableInstantFieldProperty.isLeap
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTime.getMillis
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/field/AbstractReadableInstantFieldProperty.isLeap
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+org/joda/time/DateTimeUtils.getChronology
+not matched

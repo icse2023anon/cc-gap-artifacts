@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsIsTest.testIsAlpha:44
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.isAlpha]
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/StringUtils.isAlpha
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.isAlpha
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/StringUtils.isAlpha
+org/apache/commons/lang3/StringUtils.isEmpty
+perfect match

@@ -1,0 +1,26 @@
+slicing criterion: org.jfree.chart.plot.PlotTest.testEquals:75
+Methods call in assertion: [org/jfree/chart/plot/PiePlot.equals]
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/PiePlot.equals
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/plot/PiePlot.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+after post processing ......
+org/jfree/chart/plot/PiePlot.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+perfect match

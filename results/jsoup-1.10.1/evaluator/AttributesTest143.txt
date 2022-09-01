@@ -1,0 +1,14 @@
+slicing criterion: org.jsoup.nodes.AttributesTest.testIterator:67
+Methods call in assertion: [org/jsoup/nodes/Attribute.getKey]
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Attributes.iterator
+top 10 recommendations: 
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Attributes.iterator
+after post processing ......
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Attributes.iterator
+found in top 10

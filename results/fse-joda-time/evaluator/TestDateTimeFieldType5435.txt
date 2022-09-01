@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_halfdayOfDay:203
+Methods call in assertion: [org/joda/time/DateTimeFieldType.halfdayOfDay]
+org/joda/time/DateTimeFieldType.halfdayOfDay
+top 10 recommendations: 
+org/joda/time/DateTimeFieldType.halfdayOfDay
+after post processing ......
+org/joda/time/DateTimeFieldType.halfdayOfDay
+perfect match

@@ -1,0 +1,51 @@
+slicing criterion: org.joda.time.TestMutableInterval_Constructors.testConstructor_RI_RI9:293
+Methods call in assertion: [org/joda/time/DateTime.getMillis, org/joda/time/MutableInterval.getEndMillis]
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.equals
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/chrono/GJCacheKey.hashCode
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/chrono/GJChronology.getDateTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.equals
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/DateTimeZone.setDefault
+after post processing ......
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.equals
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/chrono/GJCacheKey.hashCode
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/chrono/GJChronology.getDateTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/DateTimeUtils.getChronology
+not matched

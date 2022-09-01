@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.category.ScatterRendererTest.testFindRangeBounds:198
+Methods call in assertion: [org/jfree/chart/renderer/category/ScatterRenderer.findRangeBounds]
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/chart/renderer/category/ScatterRenderer.findRangeBounds
+top 10 recommendations: 
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/chart/renderer/category/ScatterRenderer.findRangeBounds
+after post processing ......
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.findRangeBounds
+org/jfree/chart/renderer/category/ScatterRenderer.findRangeBounds
+found in top 10

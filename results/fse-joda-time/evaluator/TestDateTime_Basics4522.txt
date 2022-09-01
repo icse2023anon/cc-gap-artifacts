@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestDateTime_Basics.testCompareTo:443
+Methods call in assertion: [org/joda/time/DateTime.compareTo]
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/AbstractInstant.compareTo
+org/joda/time/base/BaseDateTime.getMillis
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/AbstractInstant.compareTo
+org/joda/time/base/BaseDateTime.getMillis
+after post processing ......
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/AbstractInstant.compareTo
+org/joda/time/base/BaseDateTime.getMillis
+not matched

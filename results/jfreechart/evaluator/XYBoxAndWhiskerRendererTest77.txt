@@ -1,0 +1,20 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYBoxAndWhiskerRendererTest.testEquals:94
+Methods call in assertion: [org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.equals]
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.setBoxWidth
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.getFillBox
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.getBoxWidth
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.equals
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.setBoxWidth
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.getFillBox
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.getBoxWidth
+after post processing ......
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.equals
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.setBoxWidth
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.getFillBox
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.getBoxWidth
+perfect match

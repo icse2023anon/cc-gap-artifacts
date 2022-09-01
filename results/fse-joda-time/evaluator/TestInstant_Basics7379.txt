@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestInstant_Basics.testEqualsHashCode:237
+Methods call in assertion: [org/joda/time/Instant.hashCode]
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractInstant.hashCode
+org/joda/time/Instant.getChronology
+org/joda/time/Instant.getMillis
+top 10 recommendations: 
+org/joda/time/Instant.getChronology
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractInstant.hashCode
+org/joda/time/Instant.getMillis
+after post processing ......
+org/joda/time/Instant.getChronology
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractInstant.hashCode
+org/joda/time/Instant.getMillis
+found in top 10

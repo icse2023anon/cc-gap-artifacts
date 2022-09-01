@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.math.NumberUtilsTest.testMinFloat:766
+Methods call in assertion: [org/apache/commons/lang3/math/NumberUtils.min]
+org/apache/commons/lang3/math/NumberUtils.min
+top 10 recommendations: 
+org/apache/commons/lang3/math/NumberUtils.min
+after post processing ......
+org/apache/commons/lang3/math/NumberUtils.min
+perfect match

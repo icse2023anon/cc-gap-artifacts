@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.reflect.ConstructorUtilsTest.testGetAccessibleConstructorFromDescription:226
+Methods call in assertion: [org/apache/commons/lang3/reflect/ConstructorUtils.getAccessibleConstructor]
+org/apache/commons/lang3/reflect/ConstructorUtils.getAccessibleConstructor
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/ConstructorUtils.getAccessibleConstructor
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+after post processing ......
+org/apache/commons/lang3/reflect/ConstructorUtils.getAccessibleConstructor
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+perfect match

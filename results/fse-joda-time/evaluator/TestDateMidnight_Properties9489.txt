@@ -1,0 +1,51 @@
+slicing criterion: org.joda.time.TestDateMidnight_Properties.testPropertyEqualsHashCodeLenient:564
+Methods call in assertion: [org/joda/time/DateMidnight$Property.equals, org/joda/time/DateMidnight.dayOfMonth]
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/field/DelegatedDateTimeField.get
+org/joda/time/field/FieldUtils.equals
+org/joda/time/field/AbstractReadableInstantFieldProperty.getFieldType
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/field/LenientDateTimeField.getInstance
+org/joda/time/chrono/LenientChronology.assemble
+org/joda/time/field/DelegatedDateTimeField.getType
+org/joda/time/field/AbstractReadableInstantFieldProperty.equals
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/LenientChronology.getInstance
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/chrono/LenientChronology.convertField
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/field/AbstractReadableInstantFieldProperty.equals
+org/joda/time/chrono/LenientChronology.assemble
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/LenientChronology.convertField
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/field/DelegatedDateTimeField.get
+org/joda/time/field/FieldUtils.equals
+after post processing ......
+org/joda/time/field/AbstractReadableInstantFieldProperty.equals
+org/joda/time/chrono/LenientChronology.assemble
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/LenientChronology.convertField
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/field/DelegatedDateTimeField.get
+org/joda/time/field/FieldUtils.equals
+org/joda/time/field/AbstractReadableInstantFieldProperty.getFieldType
+org/joda/time/field/LenientDateTimeField.getInstance
+org/joda/time/field/DelegatedDateTimeField.getType
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/LenientChronology.getInstance
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/DateTimeUtils.getChronology
+not matched

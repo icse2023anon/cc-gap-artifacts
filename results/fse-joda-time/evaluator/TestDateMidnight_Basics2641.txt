@@ -1,0 +1,43 @@
+slicing criterion: org.joda.time.TestDateMidnight_Basics.testEqualsHashCode:342
+Methods call in assertion: [org/joda/time/DateMidnight.hashCode]
+org/joda/time/base/AbstractInstant.hashCode
+org/joda/time/DateMidnight.checkInstant
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/base/AbstractInstant.hashCode
+org/joda/time/DateMidnight.checkInstant
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+after post processing ......
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/base/AbstractInstant.hashCode
+org/joda/time/DateMidnight.checkInstant
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeZone.convertLocalToUTC
+found in top 10

@@ -1,0 +1,29 @@
+slicing criterion: org.apache.commons.validator.routines.FloatValidatorTest.testFloatRangeMinMax:160
+Methods call in assertion: [org/apache/commons/validator/routines/FloatValidator.minValue]
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/FloatValidator.<init>
+org/apache/commons/validator/routines/FloatValidator.validate
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/FloatValidator.processParsedValue
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/FloatValidator.minValue
+top 10 recommendations: 
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/FloatValidator.<init>
+org/apache/commons/validator/routines/FloatValidator.validate
+org/apache/commons/validator/routines/FloatValidator.processParsedValue
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/FloatValidator.minValue
+after post processing ......
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/FloatValidator.<init>
+org/apache/commons/validator/routines/FloatValidator.validate
+org/apache/commons/validator/routines/FloatValidator.processParsedValue
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+org/apache/commons/validator/routines/FloatValidator.minValue
+found in top 10

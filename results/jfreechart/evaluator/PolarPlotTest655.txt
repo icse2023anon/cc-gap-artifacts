@@ -1,0 +1,39 @@
+slicing criterion: org.jfree.chart.plot.PolarPlotTest.testGetLegendItems:92
+Methods call in assertion: [org/jfree/chart/LegendItemCollection.getItemCount]
+org/jfree/chart/plot/PolarPlot.getDataset
+org/jfree/chart/util/AbstractObjectList.size
+org/jfree/data/xy/XYSeriesCollection.addSeries
+org/jfree/chart/LegendItemCollection.getItemCount
+org/jfree/chart/plot/PolarPlot.setDataset
+org/jfree/data/xy/XYSeriesCollection.getSeriesCount
+org/jfree/chart/plot/PolarPlot.getRenderer
+org/jfree/chart/util/ObjectList.get
+org/jfree/chart/plot/PolarPlot.getLegendItems
+org/jfree/chart/plot/PolarPlot.setRenderer
+org/jfree/chart/plot/PolarPlot.<init>
+org/jfree/chart/LegendItemCollection.add
+top 10 recommendations: 
+org/jfree/chart/plot/PolarPlot.getLegendItems
+org/jfree/chart/plot/PolarPlot.setDataset
+org/jfree/chart/plot/PolarPlot.setRenderer
+org/jfree/chart/plot/PolarPlot.getDataset
+org/jfree/chart/plot/PolarPlot.getRenderer
+org/jfree/chart/util/AbstractObjectList.size
+org/jfree/data/xy/XYSeriesCollection.addSeries
+org/jfree/chart/LegendItemCollection.getItemCount
+org/jfree/data/xy/XYSeriesCollection.getSeriesCount
+org/jfree/chart/util/ObjectList.get
+after post processing ......
+org/jfree/chart/plot/PolarPlot.getLegendItems
+org/jfree/chart/plot/PolarPlot.setDataset
+org/jfree/chart/plot/PolarPlot.setRenderer
+org/jfree/chart/plot/PolarPlot.getDataset
+org/jfree/chart/plot/PolarPlot.getRenderer
+org/jfree/chart/util/AbstractObjectList.size
+org/jfree/data/xy/XYSeriesCollection.addSeries
+org/jfree/chart/LegendItemCollection.getItemCount
+org/jfree/data/xy/XYSeriesCollection.getSeriesCount
+org/jfree/chart/util/ObjectList.get
+org/jfree/chart/plot/PolarPlot.<init>
+org/jfree/chart/LegendItemCollection.add
+found in top 10

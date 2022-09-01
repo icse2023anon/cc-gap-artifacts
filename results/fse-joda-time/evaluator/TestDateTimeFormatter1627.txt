@@ -1,0 +1,32 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_withDefaultYear_feb29_newYork:1085
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.parseInto]
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.isParser
+org/joda/time/format/DateTimeFormatter.parseInto
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.isParser
+org/joda/time/format/DateTimeFormatter.parseInto
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormat.forPattern
+after post processing ......
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormatter.isParser
+org/joda/time/format/DateTimeFormatter.parseInto
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormat.forPattern
+found in top 10

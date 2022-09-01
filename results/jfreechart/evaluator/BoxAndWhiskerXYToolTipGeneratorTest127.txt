@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.labels.BoxAndWhiskerXYToolTipGeneratorTest.testHashCode:117
+Methods call in assertion: [org/jfree/chart/labels/BoxAndWhiskerXYToolTipGenerator.equals]
+org/jfree/chart/labels/BoxAndWhiskerXYToolTipGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/labels/BoxAndWhiskerXYToolTipGenerator.equals
+after post processing ......
+org/jfree/chart/labels/BoxAndWhiskerXYToolTipGenerator.equals
+perfect match

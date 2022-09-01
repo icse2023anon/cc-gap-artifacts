@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestPreciseDurationField.test_getMillis_int:161
+Methods call in assertion: [org/joda/time/field/PreciseDurationField.getMillis]
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/field/BaseDurationField.getMillis
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/field/BaseDurationField.getMillis
+after post processing ......
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/field/BaseDurationField.getMillis
+found in top 10

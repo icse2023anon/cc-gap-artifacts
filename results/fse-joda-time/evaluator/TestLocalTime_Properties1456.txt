@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.TestLocalTime_Properties.testPropertyGetMaxMinValuesHour:174
+Methods call in assertion: [org/joda/time/LocalTime$Property.getMaximumValueOverall, org/joda/time/LocalTime.hourOfDay]
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValueOverall
+org/joda/time/field/PreciseDateTimeField.getMaximumValue
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+top 10 recommendations: 
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValueOverall
+org/joda/time/field/PreciseDateTimeField.getMaximumValue
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+after post processing ......
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValueOverall
+org/joda/time/field/PreciseDateTimeField.getMaximumValue
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+not matched

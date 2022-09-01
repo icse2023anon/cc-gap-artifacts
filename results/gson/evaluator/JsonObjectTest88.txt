@@ -1,0 +1,26 @@
+slicing criterion: com.google.gson.JsonObjectTest.testAddingAndRemovingObjectProperties:43
+Methods call in assertion: [com/google/gson/JsonObject.get]
+com/google/gson/internal/LinkedTreeMap.removeInternal
+com/google/gson/JsonObject.get
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/internal/LinkedTreeMap.remove
+com/google/gson/internal/LinkedTreeMap.nextNode
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/internal/LinkedTreeMap.removeInternalByKey
+top 10 recommendations: 
+com/google/gson/internal/LinkedTreeMap.remove
+com/google/gson/JsonObject.get
+com/google/gson/internal/LinkedTreeMap.removeInternalByKey
+com/google/gson/internal/LinkedTreeMap.removeInternal
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/internal/LinkedTreeMap.nextNode
+com/google/gson/internal/LinkedTreeMap.find
+after post processing ......
+com/google/gson/internal/LinkedTreeMap.remove
+com/google/gson/JsonObject.get
+com/google/gson/internal/LinkedTreeMap.removeInternalByKey
+com/google/gson/internal/LinkedTreeMap.removeInternal
+com/google/gson/internal/LinkedTreeMap.get
+com/google/gson/internal/LinkedTreeMap.nextNode
+com/google/gson/internal/LinkedTreeMap.find
+found in top 10

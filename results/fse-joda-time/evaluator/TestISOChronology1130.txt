@@ -1,0 +1,32 @@
+slicing criterion: org.joda.time.chrono.TestISOChronology.testDurationFields:179
+Methods call in assertion: [org/joda/time/DurationField.getName, org/joda/time/chrono/ISOChronology.eras]
+org/joda/time/DurationFieldType.eras
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/field/UnsupportedDurationField.getInstance
+org/joda/time/chrono/AssembledChronology.eras
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/field/UnsupportedDurationField.getName
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+top 10 recommendations: 
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DurationFieldType.eras
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/field/UnsupportedDurationField.getInstance
+org/joda/time/chrono/AssembledChronology.eras
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/field/UnsupportedDurationField.getName
+org/joda/time/DateTimeZone.getDefault
+after post processing ......
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DurationFieldType.eras
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/field/UnsupportedDurationField.getInstance
+org/joda/time/chrono/AssembledChronology.eras
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/field/UnsupportedDurationField.getName
+org/joda/time/DateTimeZone.getDefault
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ClassUtilsTest.test_isInnerClass_Class:420
+Methods call in assertion: [org/apache/commons/lang3/ClassUtils.isInnerClass]
+org/apache/commons/lang3/ClassUtils.isInnerClass
+top 10 recommendations: 
+org/apache/commons/lang3/ClassUtils.isInnerClass
+after post processing ......
+org/apache/commons/lang3/ClassUtils.isInnerClass
+perfect match

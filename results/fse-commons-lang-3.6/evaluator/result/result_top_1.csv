@@ -1,0 +1,13 @@
+package,assertion_tested,exact_match,top_1,all_method_suggested
+org.apache.commons.lang3.builder,965,354,354,901
+org.apache.commons.lang3.test,0,0,0,0
+org.apache.commons.lang3,6027,5511,5511,5962
+org.apache.commons.lang3.exception,114,66,66,114
+org.apache.commons.lang3.text,1196,781,781,1166
+org.apache.commons.lang3.text.translate,5,0,0,0
+org.apache.commons.lang3.reflect,307,233,233,307
+org.apache.commons.lang3.event,11,0,0,11
+org.apache.commons.lang3.tuple,145,63,65,82
+org.apache.commons.lang3.mutable,437,422,422,427
+org.apache.commons.lang3.math,636,460,460,636
+total:,9843,7890,7892,9606

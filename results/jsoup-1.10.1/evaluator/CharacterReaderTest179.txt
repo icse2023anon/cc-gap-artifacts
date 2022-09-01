@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.parser.CharacterReaderTest.matchesIgnoreCase:177
+Methods call in assertion: [org/jsoup/parser/CharacterReader.matchesIgnoreCase]
+org/jsoup/parser/CharacterReader.matchesIgnoreCase
+top 10 recommendations: 
+org/jsoup/parser/CharacterReader.matchesIgnoreCase
+after post processing ......
+org/jsoup/parser/CharacterReader.matchesIgnoreCase
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.BooleanUtilsTest.test_toStringYesNo_Boolean:445
+Methods call in assertion: [org/apache/commons/lang3/BooleanUtils.toStringYesNo]
+org/apache/commons/lang3/BooleanUtils.toStringYesNo
+org/apache/commons/lang3/BooleanUtils.toString
+top 10 recommendations: 
+org/apache/commons/lang3/BooleanUtils.toStringYesNo
+org/apache/commons/lang3/BooleanUtils.toString
+after post processing ......
+org/apache/commons/lang3/BooleanUtils.toStringYesNo
+org/apache/commons/lang3/BooleanUtils.toString
+perfect match

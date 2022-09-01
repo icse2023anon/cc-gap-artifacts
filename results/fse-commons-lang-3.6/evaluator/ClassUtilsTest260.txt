@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.ClassUtilsTest.test_getAbbreviatedName_Class:287
+Methods call in assertion: [org/apache/commons/lang3/ClassUtils.getAbbreviatedName]
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/ClassUtils.getAbbreviatedName
+org/apache/commons/lang3/StringUtils.join
+org/apache/commons/lang3/StringUtils.countMatches
+top 10 recommendations: 
+org/apache/commons/lang3/ClassUtils.getAbbreviatedName
+org/apache/commons/lang3/StringUtils.countMatches
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/StringUtils.join
+after post processing ......
+org/apache/commons/lang3/ClassUtils.getAbbreviatedName
+org/apache/commons/lang3/StringUtils.countMatches
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/StringUtils.join
+perfect match

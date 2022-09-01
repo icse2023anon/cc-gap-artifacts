@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testWithRecordSeparatorLF:446
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getRecordSeparator]
+org/apache/commons/csv/CSVFormat.getRecordSeparator
+org/apache/commons/csv/CSVFormat.withRecordSeparator
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.getRecordSeparator
+org/apache/commons/csv/CSVFormat.withRecordSeparator
+after post processing ......
+org/apache/commons/csv/CSVFormat.getRecordSeparator
+org/apache/commons/csv/CSVFormat.withRecordSeparator
+perfect match

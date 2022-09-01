@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.EnumUtilsTest.test_getEnum:98
+Methods call in assertion: [org/apache/commons/lang3/EnumUtils.getEnum]
+org/apache/commons/lang3/EnumUtils.getEnum
+top 10 recommendations: 
+org/apache/commons/lang3/EnumUtils.getEnum
+after post processing ......
+org/apache/commons/lang3/EnumUtils.getEnum
+perfect match

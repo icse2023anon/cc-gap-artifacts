@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.text.StrTokenizerTest.testConstructor_String_char_char:721
+Methods call in assertion: [org/apache/commons/lang3/text/StrMatcher.isMatch, org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher]
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/text/StrTokenizer.setDelimiterMatcher
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/text/StrTokenizer.setDelimiterMatcher
+after post processing ......
+org/apache/commons/lang3/text/StrTokenizer.<init>
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrTokenizer.getDelimiterMatcher
+org/apache/commons/lang3/text/StrTokenizer.setDelimiterMatcher
+not matched

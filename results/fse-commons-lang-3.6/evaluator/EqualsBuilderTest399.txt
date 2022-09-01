@@ -1,0 +1,26 @@
+slicing criterion: org.apache.commons.lang3.builder.EqualsBuilderTest.testReflectionEquals:299
+Methods call in assertion: [org/apache/commons/lang3/builder/EqualsBuilder.reflectionEquals]
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionEquals
+org/apache/commons/lang3/builder/EqualsBuilder.setReflectUpToClass
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/builder/EqualsBuilder.setTestRecursive
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionAppend
+org/apache/commons/lang3/builder/EqualsBuilder.setTestTransients
+org/apache/commons/lang3/builder/EqualsBuilder.setExcludeFields
+top 10 recommendations: 
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionEquals
+org/apache/commons/lang3/builder/EqualsBuilder.setReflectUpToClass
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/builder/EqualsBuilder.setTestRecursive
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionAppend
+org/apache/commons/lang3/builder/EqualsBuilder.setTestTransients
+org/apache/commons/lang3/builder/EqualsBuilder.setExcludeFields
+after post processing ......
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionEquals
+org/apache/commons/lang3/builder/EqualsBuilder.setReflectUpToClass
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/builder/EqualsBuilder.setTestRecursive
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionAppend
+org/apache/commons/lang3/builder/EqualsBuilder.setTestTransients
+org/apache/commons/lang3/builder/EqualsBuilder.setExcludeFields
+perfect match

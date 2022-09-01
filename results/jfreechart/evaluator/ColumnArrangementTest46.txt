@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.block.ColumnArrangementTest.testEquals:93
+Methods call in assertion: [org/jfree/chart/block/ColumnArrangement.equals]
+org/jfree/chart/block/ColumnArrangement.equals
+top 10 recommendations: 
+org/jfree/chart/block/ColumnArrangement.equals
+after post processing ......
+org/jfree/chart/block/ColumnArrangement.equals
+perfect match

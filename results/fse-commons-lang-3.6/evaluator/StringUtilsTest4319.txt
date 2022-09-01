@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testChop:1736
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.chop]
+org/apache/commons/lang3/StringUtils.chop
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.chop
+after post processing ......
+org/apache/commons/lang3/StringUtils.chop
+perfect match

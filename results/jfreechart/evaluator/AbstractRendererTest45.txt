@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.AbstractRendererTest.testAutoPopulateFlagDefaults:717
+Methods call in assertion: [org/jfree/chart/renderer/category/BarRenderer.getAutoPopulateSeriesStroke]
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.getAutoPopulateSeriesStroke
+top 10 recommendations: 
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.getAutoPopulateSeriesStroke
+after post processing ......
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getLegendItem
+org/jfree/chart/renderer/AbstractRenderer.getAutoPopulateSeriesStroke
+found in top 10

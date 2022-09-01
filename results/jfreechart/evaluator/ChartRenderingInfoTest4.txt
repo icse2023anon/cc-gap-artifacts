@@ -1,0 +1,29 @@
+slicing criterion: org.jfree.chart.ChartRenderingInfoTest.testCloning:110
+Methods call in assertion: [org/jfree/chart/ChartRenderingInfo.equals]
+org/jfree/chart/ChartRenderingInfo.equals
+org/jfree/chart/ChartRenderingInfo.clone
+org/jfree/chart/entity/StandardEntityCollection.add
+org/jfree/chart/entity/StandardEntityCollection.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/entity/StandardEntityCollection.clone
+org/jfree/chart/ChartRenderingInfo.getChartArea
+org/jfree/chart/ChartRenderingInfo.getEntityCollection
+top 10 recommendations: 
+org/jfree/chart/ChartRenderingInfo.equals
+org/jfree/chart/entity/StandardEntityCollection.equals
+org/jfree/chart/ChartRenderingInfo.clone
+org/jfree/chart/entity/StandardEntityCollection.add
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/entity/StandardEntityCollection.clone
+org/jfree/chart/ChartRenderingInfo.getChartArea
+org/jfree/chart/ChartRenderingInfo.getEntityCollection
+after post processing ......
+org/jfree/chart/ChartRenderingInfo.equals
+org/jfree/chart/entity/StandardEntityCollection.equals
+org/jfree/chart/ChartRenderingInfo.clone
+org/jfree/chart/entity/StandardEntityCollection.add
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/entity/StandardEntityCollection.clone
+org/jfree/chart/ChartRenderingInfo.getChartArea
+org/jfree/chart/ChartRenderingInfo.getEntityCollection
+perfect match

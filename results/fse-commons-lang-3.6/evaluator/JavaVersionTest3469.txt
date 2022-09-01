@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.JavaVersionTest.testGetJavaVersion:63
+Methods call in assertion: [org/apache/commons/lang3/JavaVersion.get]
+org/apache/commons/lang3/JavaVersion.get
+top 10 recommendations: 
+org/apache/commons/lang3/JavaVersion.get
+after post processing ......
+org/apache/commons/lang3/JavaVersion.get
+perfect match

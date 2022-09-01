@@ -1,0 +1,37 @@
+slicing criterion: com.google.gson.stream.JsonReaderPathTest.objectPath:115
+Methods call in assertion: [com/google/gson/stream/JsonReader.getPath]
+com/google/gson/stream/JsonReader.getPath
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/internal/bind/JsonTreeReader.nextName
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/internal/bind/JsonTreeReader.getPath
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/stream/JsonReader.peek
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/stream/JsonReader.doPeek
+top 10 recommendations: 
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/stream/JsonReader.peek
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/stream/JsonReader.getPath
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/internal/bind/JsonTreeReader.nextName
+com/google/gson/internal/bind/JsonTreeReader.getPath
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+after post processing ......
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/stream/JsonReader.peek
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/stream/JsonReader.getPath
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/internal/bind/JsonTreeReader.nextName
+com/google/gson/internal/bind/JsonTreeReader.getPath
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/stream/JsonReader.doPeek
+found in top 10

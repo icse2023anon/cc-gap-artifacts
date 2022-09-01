@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.math.FractionTest.testFactory_String_improper:582
+Methods call in assertion: [org/apache/commons/lang3/math/Fraction.getDenominator]
+org/apache/commons/lang3/math/Fraction.getFraction
+org/apache/commons/lang3/math/Fraction.getDenominator
+top 10 recommendations: 
+org/apache/commons/lang3/math/Fraction.getFraction
+org/apache/commons/lang3/math/Fraction.getDenominator
+after post processing ......
+org/apache/commons/lang3/math/Fraction.getFraction
+org/apache/commons/lang3/math/Fraction.getDenominator
+found in top 10

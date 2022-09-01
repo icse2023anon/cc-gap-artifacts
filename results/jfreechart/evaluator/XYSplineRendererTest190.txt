@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYSplineRendererTest.testCloning:119
+Methods call in assertion: [org/jfree/chart/renderer/xy/XYSplineRenderer.equals]
+org/jfree/chart/renderer/xy/XYSplineRenderer.equals
+org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.clone
+org/jfree/chart/util/ObjectUtils.equal
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/XYSplineRenderer.equals
+org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.clone
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/renderer/xy/XYSplineRenderer.equals
+org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.clone
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

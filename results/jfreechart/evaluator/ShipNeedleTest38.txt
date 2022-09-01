@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.needle.ShipNeedleTest.testCloning:73
+Methods call in assertion: [org/jfree/chart/needle/ShipNeedle.equals]
+org/jfree/chart/needle/ShipNeedle.equals
+org/jfree/chart/needle/ShipNeedle.clone
+top 10 recommendations: 
+org/jfree/chart/needle/ShipNeedle.equals
+org/jfree/chart/needle/ShipNeedle.clone
+after post processing ......
+org/jfree/chart/needle/ShipNeedle.equals
+org/jfree/chart/needle/ShipNeedle.clone
+perfect match

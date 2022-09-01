@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Properties.testPropertyGetMaxMinValuesMilli:1035
+Methods call in assertion: [org/joda/time/LocalDateTime.millisOfSecond, org/joda/time/LocalDateTime$Property.getMaximumValue]
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValue
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/PreciseDateTimeField.getMaximumValue
+org/joda/time/LocalDateTime.<init>
+org/joda/time/field/BaseDateTimeField.getMaximumValue
+top 10 recommendations: 
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValue
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/PreciseDateTimeField.getMaximumValue
+org/joda/time/LocalDateTime.<init>
+org/joda/time/field/BaseDateTimeField.getMaximumValue
+after post processing ......
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValue
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/PreciseDateTimeField.getMaximumValue
+org/joda/time/LocalDateTime.<init>
+org/joda/time/field/BaseDateTimeField.getMaximumValue
+not matched

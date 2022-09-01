@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.csv.LexerTest.testBackslashWithEscaping:203
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.isEscapeCharacterSet]
+org/apache/commons/csv/CSVFormat.withIgnoreEmptyLines
+org/apache/commons/csv/CSVFormat.isEscapeCharacterSet
+org/apache/commons/csv/CSVFormat.withEscape
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.withIgnoreEmptyLines
+org/apache/commons/csv/CSVFormat.isEscapeCharacterSet
+org/apache/commons/csv/CSVFormat.withEscape
+after post processing ......
+org/apache/commons/csv/CSVFormat.withIgnoreEmptyLines
+org/apache/commons/csv/CSVFormat.isEscapeCharacterSet
+org/apache/commons/csv/CSVFormat.withEscape
+found in top 10

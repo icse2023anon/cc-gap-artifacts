@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_minuteOfHour:265
+Methods call in assertion: [org/joda/time/DurationFieldType.minutes, org/joda/time/DateTimeFieldType.minuteOfHour, org/joda/time/DateTimeFieldType.getDurationType]
+org/joda/time/DurationFieldType.minutes
+org/joda/time/DateTimeFieldType.minuteOfHour
+top 10 recommendations: 
+org/joda/time/DurationFieldType.minutes
+org/joda/time/DateTimeFieldType.minuteOfHour
+after post processing ......
+org/joda/time/DurationFieldType.minutes
+org/joda/time/DateTimeFieldType.minuteOfHour
+not matched

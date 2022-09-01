@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableBooleanTest.testConstructors:64
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableBoolean.booleanValue]
+org/apache/commons/lang3/mutable/MutableBoolean.booleanValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableBoolean.booleanValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableBoolean.booleanValue
+perfect match

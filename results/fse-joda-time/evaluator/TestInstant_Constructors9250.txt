@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestInstant_Constructors.testParse_noFormatter:165
+Methods call in assertion: [org/joda/time/DateTime.toInstant, org/joda/time/Instant.parse, org/joda/time/chrono/ISOChronology.getInstance]
+org/joda/time/Instant.withMillis
+org/joda/time/Instant.parse
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/ISOChronology.getInstance
+top 10 recommendations: 
+org/joda/time/Instant.withMillis
+org/joda/time/Instant.parse
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/ISOChronology.getInstance
+after post processing ......
+org/joda/time/Instant.withMillis
+org/joda/time/Instant.parse
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/ISOChronology.getInstance
+not matched

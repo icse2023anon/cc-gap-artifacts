@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestDuration_Basics.testToString:354
+Methods call in assertion: [org/joda/time/Duration.toString]
+org/joda/time/format/FormatUtils.appendUnpaddedInteger
+org/joda/time/base/AbstractDuration.toString
+org/joda/time/base/BaseDuration.getMillis
+top 10 recommendations: 
+org/joda/time/base/AbstractDuration.toString
+org/joda/time/format/FormatUtils.appendUnpaddedInteger
+org/joda/time/base/BaseDuration.getMillis
+after post processing ......
+org/joda/time/base/AbstractDuration.toString
+org/joda/time/format/FormatUtils.appendUnpaddedInteger
+org/joda/time/base/BaseDuration.getMillis
+found in top 10

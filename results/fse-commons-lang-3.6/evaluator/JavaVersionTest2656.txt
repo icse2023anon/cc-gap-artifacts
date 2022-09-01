@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.JavaVersionTest.testAtLeast:77
+Methods call in assertion: [org/apache/commons/lang3/JavaVersion.atLeast]
+org/apache/commons/lang3/JavaVersion.atLeast
+top 10 recommendations: 
+org/apache/commons/lang3/JavaVersion.atLeast
+after post processing ......
+org/apache/commons/lang3/JavaVersion.atLeast
+perfect match

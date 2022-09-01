@@ -1,0 +1,39 @@
+slicing criterion: org.jfree.chart.plot.PiePlotTest.testEquals:149
+Methods call in assertion: [org/jfree/chart/plot/PiePlot.equals]
+org/jfree/chart/PaintMap.getPaint
+org/jfree/chart/plot/PiePlot.setInteriorGap
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/plot/PiePlot.isCircular
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/PaintMap.put
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/plot/PiePlot.equals
+org/jfree/chart/plot/PiePlot.setSectionPaint
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/plot/PiePlot.equals
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/plot/PiePlot.setSectionPaint
+org/jfree/chart/PaintMap.getPaint
+org/jfree/chart/plot/PiePlot.setInteriorGap
+org/jfree/chart/plot/PiePlot.isCircular
+org/jfree/chart/PaintMap.put
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/plot/PiePlot.equals
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/plot/PiePlot.setSectionPaint
+org/jfree/chart/PaintMap.getPaint
+org/jfree/chart/plot/PiePlot.setInteriorGap
+org/jfree/chart/plot/PiePlot.isCircular
+org/jfree/chart/PaintMap.put
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+perfect match

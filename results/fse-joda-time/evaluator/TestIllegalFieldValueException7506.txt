@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestIllegalFieldValueException.testVerifyValueBounds:83
+Methods call in assertion: [org/joda/time/IllegalFieldValueException.getLowerBound]
+org/joda/time/field/FieldUtils.verifyValueBounds
+org/joda/time/IllegalFieldValueException.getLowerBound
+top 10 recommendations: 
+org/joda/time/field/FieldUtils.verifyValueBounds
+org/joda/time/IllegalFieldValueException.getLowerBound
+after post processing ......
+org/joda/time/field/FieldUtils.verifyValueBounds
+org/joda/time/IllegalFieldValueException.getLowerBound
+found in top 10

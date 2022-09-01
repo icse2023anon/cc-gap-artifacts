@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Constructors.testConstructor_Object_Chronology_crossChronology:655
+Methods call in assertion: [org/joda/time/LocalDateTime.getChronology]
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/BuddhistChronology.withUTC
+top 10 recommendations: 
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/BuddhistChronology.withUTC
+after post processing ......
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/chrono/BuddhistChronology.withUTC
+perfect match

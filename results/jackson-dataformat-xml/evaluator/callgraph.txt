@@ -1,0 +1,1102 @@
+com/fasterxml/jackson/dataformat/xml/XmlFactory.tryMatch may call:
+	com/fasterxml/jackson/core/format/InputAccessor.nextByte
+	com/fasterxml/jackson/core/format/InputAccessor.hasMoreBytes
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createChildObjectContext may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.reset
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.<init>
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.enable may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.getMask
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.expectComma may call:
+com/fasterxml/jackson/dataformat/xml/XmlFactory.readResolve may call:
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.<init>
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createXmlWriter may call:
+	com/fasterxml/jackson/dataformat/xml/XmlFactory._initializeXmlWriter
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+	com/fasterxml/jackson/dataformat/xml/XmlFactory._decorate
+	javax/xml/stream/XMLOutputFactory.createXMLStreamWriter
+com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.<init> may call:
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser._updateState may call:
+	com/fasterxml/jackson/core/JsonToken.ordinal
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createChildObjectContext
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createChildArrayContext
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getNamesToWrap
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getLocalName
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getParent
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.setCurrentName
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase.serializeWithType may call:
+	com/fasterxml/jackson/databind/jsontype/TypeSerializer.getTypeInclusion
+	com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.serializeWithType
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.setNextIsAttribute
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase._serializeWithObjectId
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.collectDefaults may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.getMask
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.values
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.enabledByDefault
+com/fasterxml/jackson/dataformat/xml/deser/XmlStringDeserializer.deserialize may call:
+	com/fasterxml/jackson/core/JsonParser.hasToken
+	com/fasterxml/jackson/databind/DeserializationContext.getBase64Variant
+	com/fasterxml/jackson/core/Base64Variant.encode
+	com/fasterxml/jackson/dataformat/xml/deser/XmlStringDeserializer.deserialize
+	com/fasterxml/jackson/core/JsonParser.getCurrentToken
+	com/fasterxml/jackson/core/JsonParser.getEmbeddedObject
+	com/fasterxml/jackson/databind/DeserializationContext.handleUnexpectedToken
+	com/fasterxml/jackson/core/JsonParser.getText
+	com/fasterxml/jackson/dataformat/xml/deser/XmlStringDeserializer._deserializeFromArray
+	com/fasterxml/jackson/core/JsonParser.getValueAsString
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.indentArraysWith may call:
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$NopIndenter.<init>
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getText may call:
+	com/fasterxml/jackson/core/JsonToken.ordinal
+	com/fasterxml/jackson/core/JsonToken.asString
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getText
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getCurrentName
+com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair.<init> may call:
+	com/fasterxml/jackson/databind/introspect/AnnotationIntrospectorPair.<init>
+	com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$JaxbWrapper.<init>
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.values may call:
+	[Lcom/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature;.clone
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer.toString may call:
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer.handledType
+com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.intermediateWrapper may call:
+	com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.<init>
+com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector.findNameForSerialization may call:
+	com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector._findXmlName
+	com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.findNameForSerialization
+	com/fasterxml/jackson/databind/introspect/Annotated.hasAnnotation
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getParsingContext may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getParsingContext
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createChildArrayContext may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.reset
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.<init>
+com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.matchingWrapper may call:
+	com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.<init>
+com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder.idResolver may call:
+	com/fasterxml/jackson/databind/cfg/MapperConfig.getTypeFactory
+	com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder$XmlMinimalClassNameIdResolver.<init>
+	com/fasterxml/jackson/annotation/JsonTypeInfo$Id.ordinal
+	com/fasterxml/jackson/databind/jsontype/impl/StdTypeResolverBuilder.idResolver
+	com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder$XmlClassNameIdResolver.<init>
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._reportUnimplementedStax2 may call:
+	com/fasterxml/jackson/core/JsonGenerationException.<init>
+com/fasterxml/jackson/dataformat/xml/XmlFactory.disable may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.getMask
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.getMask
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$1.<clinit> may call:
+	com/fasterxml/jackson/core/JsonToken.ordinal
+	com/fasterxml/jackson/core/JsonToken.values
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.<init> may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.ordinal
+com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair.isOutputAsCData may call:
+	com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector.isOutputAsCData
+com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair.isOutputAsText may call:
+	com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector.isOutputAsText
+com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder.typeProperty may call:
+	com/fasterxml/jackson/annotation/JsonTypeInfo$Id.getDefaultPropertyName
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.sanitizeXmlTypeName
+	com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder.typeProperty
+com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair.findNamespace may call:
+	com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector.findNamespace
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getStaxReader may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getXmlReader
+com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup.<init> may call:
+	com/fasterxml/jackson/databind/util/LRUMap.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.close may call:
+	org/codehaus/stax2/XMLStreamReader2.close
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getCurrentLocation may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getCurrentLocation
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getValueAsString may call:
+	com/fasterxml/jackson/core/JsonToken.ordinal
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsParseException
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.convertToString
+	com/fasterxml/jackson/core/JsonToken.asString
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getNamesToWrap
+	com/fasterxml/jackson/core/JsonToken.isScalarValue
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getCurrentName
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.skipEndElement
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getParent
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getValueAsString
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initializeXmlWriter may call:
+	javax/xml/stream/XMLStreamWriter.setDefaultNamespace
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.writeStartObject may call:
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Indenter.writeIndentation
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._handleStartObject
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Indenter.isInline
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.<init> may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.ordinal
+com/fasterxml/jackson/dataformat/xml/XmlMapper.disable may call:
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.disable
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer.unwrappingSerializer may call:
+	com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.skipEndElement may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.next
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase.<clinit> may call:
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getTokenLocation may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getTokenLocation
+com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector.findRootName may call:
+	com/fasterxml/jackson/dataformat/xml/annotation/JacksonXmlRootElement.localName
+	com/fasterxml/jackson/databind/PropertyName.<init>
+	com/fasterxml/jackson/dataformat/xml/annotation/JacksonXmlRootElement.namespace
+	com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.findRootName
+	com/fasterxml/jackson/databind/introspect/AnnotatedClass.getAnnotation
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeStreamAsBinary may call:
+	org/codehaus/stax2/XMLStreamWriter2.writeBinary
+com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder$XmlClassNameIdResolver.idFromValue may call:
+	com/fasterxml/jackson/databind/jsontype/impl/ClassNameIdResolver.idFromValue
+	com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder.encodeXmlClassName
+com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair.isOutputAsAttribute may call:
+	com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector.isOutputAsAttribute
+com/fasterxml/jackson/dataformat/xml/jaxb/XmlJaxbAnnotationIntrospector.isOutputAsAttribute may call:
+	com/fasterxml/jackson/module/jaxb/JaxbAnnotationIntrospector.isOutputAsAttribute
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._extractLocation may call:
+	org/codehaus/stax2/XMLStreamLocation2.getColumnNumber
+	org/codehaus/stax2/XMLStreamLocation2.getCharacterOffset
+	org/codehaus/stax2/XMLStreamLocation2.getLineNumber
+	com/fasterxml/jackson/core/JsonLocation.<init>
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._constructDefaultPrettyPrinter may call:
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.<init>
+com/fasterxml/jackson/dataformat/xml/XmlFactory.hasFormat may call:
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.hasXMLFormat
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeEndObject may call:
+	com/fasterxml/jackson/core/PrettyPrinter.writeEndObject
+	com/fasterxml/jackson/core/json/JsonWriteContext.typeDesc
+	com/fasterxml/jackson/core/json/JsonWriteContext.getEntryCount
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._reportError
+	com/fasterxml/jackson/core/json/JsonWriteContext.inObject
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._handleEndObject
+	com/fasterxml/jackson/core/json/JsonWriteContext.getParent
+com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer.createContextual may call:
+	com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer._verifyDeserType
+	com/fasterxml/jackson/databind/deser/SettableBeanProperty.getType
+	com/fasterxml/jackson/databind/deser/SettableBeanProperty.getWrapperName
+	com/fasterxml/jackson/databind/deser/BeanDeserializerBase.properties
+	com/fasterxml/jackson/databind/DeserializationContext.constructType
+	com/fasterxml/jackson/databind/JsonDeserializer.handledType
+	com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer.<init>
+	com/fasterxml/jackson/databind/DeserializationContext.handleSecondaryContextualization
+	com/fasterxml/jackson/dataformat/xml/util/TypeUtil.isIndexedType
+	com/fasterxml/jackson/databind/deser/SettableBeanProperty.getName
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.isEnabled may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.getMask
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getTextCharacters may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getText
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.<clinit> may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.<init>
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextTextValue may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser._updateState
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.inArray
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsParseException
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.next
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getText
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createChildObjectContext
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.repeatStartElement
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getNamesToWrap
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.skipEndElement
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getLocalName
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getParent
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.setCurrentName
+com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector.isOutputAsAttribute may call:
+	com/fasterxml/jackson/databind/introspect/Annotated.getAnnotation
+	com/fasterxml/jackson/dataformat/xml/annotation/JacksonXmlProperty.isAttribute
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Lf2SpacesIndenter.<clinit> may call:
+com/fasterxml/jackson/dataformat/xml/deser/XmlTextDeserializer.deserializeWithType may call:
+	com/fasterxml/jackson/databind/JsonDeserializer.deserializeWithType
+com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer.withIgnorals may call:
+	com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer.<init>
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.writeEndElement may call:
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Indenter.writeIndentation
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Indenter.isInline
+	org/codehaus/stax2/XMLStreamWriter2.writeEndElement
+com/fasterxml/jackson/dataformat/xml/jaxb/XmlJaxbAnnotationIntrospector.isOutputAsText may call:
+	com/fasterxml/jackson/module/jaxb/JaxbAnnotationIntrospector.isOutputAsText
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter._qname may call:
+	com/fasterxml/jackson/databind/PropertyName.getNamespace
+	javax/xml/namespace/QName.<init>
+	com/fasterxml/jackson/databind/PropertyName.getSimpleName
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.values may call:
+	[Lcom/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature;.clone
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.addVirtualWrapping may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.repeatStartElement
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.setNamesToWrap
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getLocalName
+com/fasterxml/jackson/dataformat/xml/XmlMapper.setDefaultUseWrapper may call:
+	com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector.setDefaultUseWrapper
+	com/fasterxml/jackson/databind/DeserializationConfig.getAnnotationIntrospector
+	com/fasterxml/jackson/databind/AnnotationIntrospector.allIntrospectors
+	com/fasterxml/jackson/dataformat/xml/XmlMapper.getDeserializationConfig
+com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil.findIsAttributeAnnotation may call:
+	com/fasterxml/jackson/module/jaxb/JaxbAnnotationIntrospector.isOutputAsAttribute
+	com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector.isOutputAsAttribute
+	com/fasterxml/jackson/databind/AnnotationIntrospector.allIntrospectors
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerModifier.<init> may call:
+	com/fasterxml/jackson/databind/ser/BeanSerializerModifier.<init>
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeString may call:
+	org/codehaus/stax2/XMLStreamWriter2.writeCharacters
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.handleMissingName
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+	org/codehaus/stax2/XMLStreamWriter2.writeStartElement
+	org/codehaus/stax2/XMLStreamWriter2.writeAttribute
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.checkNextIsUnwrapped
+	javax/xml/namespace/QName.getNamespaceURI
+	com/fasterxml/jackson/core/SerializableString.getValue
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._verifyValueWrite
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeString
+	javax/xml/namespace/QName.getLocalPart
+	com/fasterxml/jackson/dataformat/xml/XmlPrettyPrinter.writeLeafElement
+	org/codehaus/stax2/XMLStreamWriter2.writeCData
+	org/codehaus/stax2/XMLStreamWriter2.writeEndElement
+com/fasterxml/jackson/dataformat/xml/jaxb/XmlJaxbAnnotationIntrospector.findNamespace may call:
+	com/fasterxml/jackson/module/jaxb/JaxbAnnotationIntrospector.findNamespace
+com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider._asXmlGenerator may call:
+	com/fasterxml/jackson/databind/JsonMappingException.from
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initializeXmlReader may call:
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsParseException
+	javax/xml/stream/XMLStreamReader.next
+com/fasterxml/jackson/dataformat/xml/JacksonXmlModule._constructIntrospector may call:
+	com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector.<init>
+com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector.<init> may call:
+	com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.<init>
+	com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector.<init>
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser._getByteArrayBuilder may call:
+	com/fasterxml/jackson/core/util/ByteArrayBuilder.reset
+	com/fasterxml/jackson/core/util/ByteArrayBuilder.<init>
+com/fasterxml/jackson/dataformat/xml/XmlFactory.writeObject may call:
+com/fasterxml/jackson/dataformat/xml/XmlMapper.setXMLTextElementName may call:
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.setXMLTextElementName
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._handleEndElement may call:
+	com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.isMatching
+	com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.getWrapperLocalName
+	com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.getWrapperNamespace
+	com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.getParent
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeBoolean may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._verifyValueWrite
+	org/codehaus/stax2/XMLStreamWriter2.writeBoolean
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.handleMissingName
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+	org/codehaus/stax2/XMLStreamWriter2.writeStartElement
+	javax/xml/namespace/QName.getLocalPart
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.checkNextIsUnwrapped
+	com/fasterxml/jackson/dataformat/xml/XmlPrettyPrinter.writeLeafElement
+	org/codehaus/stax2/XMLStreamWriter2.writeBooleanAttribute
+	javax/xml/namespace/QName.getNamespaceURI
+	org/codehaus/stax2/XMLStreamWriter2.writeEndElement
+com/fasterxml/jackson/dataformat/xml/deser/XmlTextDeserializer._verifyDeserType may call:
+com/fasterxml/jackson/dataformat/xml/XmlFactory.copy may call:
+	com/fasterxml/jackson/dataformat/xml/XmlFactory._checkInvalidCopy
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.<init>
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.copy
+com/fasterxml/jackson/dataformat/xml/util/TypeUtil.isIndexedType may call:
+	com/fasterxml/jackson/databind/JavaType.isContainerType
+	com/fasterxml/jackson/databind/JavaType.getRawClass
+	com/fasterxml/jackson/databind/JavaType.isMapLikeType
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser may call:
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsParseException
+	javax/xml/stream/XMLInputFactory.createXMLStreamReader
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.<init>
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.setXMLTextElementName
+	com/fasterxml/jackson/dataformat/xml/XmlFactory._initializeXmlReader
+	org/codehaus/stax2/io/Stax2CharArraySource.<init>
+	org/codehaus/stax2/io/Stax2ByteArraySource.<init>
+	com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.valueOf may call:
+com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer.deserializeWithType may call:
+	com/fasterxml/jackson/databind/JsonDeserializer.deserializeWithType
+	com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer._configureParser
+com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup.findNamespace may call:
+	com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector.findNamespace
+	com/fasterxml/jackson/databind/AnnotationIntrospector.allIntrospectors
+com/fasterxml/jackson/dataformat/xml/deser/XmlTextDeserializer.createContextual may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTextDeserializer.<init>
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTextDeserializer._verifyDeserType
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerModifier.changeProperties may call:
+	com/fasterxml/jackson/dataformat/xml/util/XmlInfo.<init>
+	com/fasterxml/jackson/databind/ser/BeanPropertyWriter.setInternalSetting
+	com/fasterxml/jackson/databind/ser/BeanPropertyWriter.getType
+	com/fasterxml/jackson/dataformat/xml/util/TypeUtil.isIndexedType
+	com/fasterxml/jackson/databind/ser/BeanPropertyWriter.getMember
+	com/fasterxml/jackson/databind/PropertyName.getSimpleName
+	com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil.findIsAttributeAnnotation
+	com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil.findIsCDataAnnotation
+	com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil.findIsTextAnnotation
+	com/fasterxml/jackson/databind/SerializationConfig.getAnnotationIntrospector
+	com/fasterxml/jackson/databind/ser/BeanPropertyWriter.getName
+	com/fasterxml/jackson/databind/PropertyName.construct
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter.<init>
+	com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil.findNamespaceAnnotation
+	com/fasterxml/jackson/databind/ser/BeanPropertyWriter.getWrapperName
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer.asArraySerializer may call:
+	com/fasterxml/jackson/databind/ser/impl/BeanAsArraySerializer.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.<init> may call:
+	javax/xml/stream/XMLStreamReader.getEventType
+	org/codehaus/stax2/XMLStreamReader2.getLocalName
+	org/codehaus/stax2/XMLStreamReader2.getAttributeCount
+	org/codehaus/stax2/ri/Stax2ReaderAdapter.wrapIfNecessary
+	org/codehaus/stax2/XMLStreamReader2.getNamespaceURI
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.finishWrappedValue may call:
+	com/fasterxml/jackson/core/json/JsonWriteContext.getEntryCount
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+	com/fasterxml/jackson/dataformat/xml/XmlPrettyPrinter.writeEndElement
+	org/codehaus/stax2/XMLStreamWriter2.writeEndElement
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.enable may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.getMask
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.setFormatFeatures
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer.<init> may call:
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase.<init>
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.valueOf may call:
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeUTF8String may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._reportUnsupportedOperation
+com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder.init may call:
+	com/fasterxml/jackson/databind/jsontype/impl/StdTypeResolverBuilder.init
+	com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder.init
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.sanitizeXmlTypeName
+com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector.findWrapperName may call:
+	com/fasterxml/jackson/databind/introspect/Annotated.getAnnotation
+	com/fasterxml/jackson/dataformat/xml/annotation/JacksonXmlElementWrapper.localName
+	com/fasterxml/jackson/dataformat/xml/annotation/JacksonXmlElementWrapper.namespace
+	com/fasterxml/jackson/databind/PropertyName.construct
+	com/fasterxml/jackson/dataformat/xml/annotation/JacksonXmlElementWrapper.useWrapping
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.<init> may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createRootContext
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.<init>
+	com/fasterxml/jackson/core/io/IOContext.getSourceReference
+	com/fasterxml/jackson/core/base/ParserMinimalBase.<init>
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.indentObjectsWith may call:
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$NopIndenter.<init>
+com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$JaxbWrapper.<init> may call:
+com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup.readResolve may call:
+	com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup.<init>
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$NopIndenter.<init> may call:
+com/fasterxml/jackson/dataformat/xml/deser/XmlBeanDeserializerModifier.updateProperties may call:
+	com/fasterxml/jackson/databind/introspect/BeanPropertyDefinition.getWrapperName
+	com/fasterxml/jackson/databind/introspect/BeanPropertyDefinition.withSimpleName
+	com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil.findIsTextAnnotation
+	com/fasterxml/jackson/databind/introspect/BeanPropertyDefinition.getPrimaryMember
+	com/fasterxml/jackson/databind/DeserializationConfig.getAnnotationIntrospector
+	com/fasterxml/jackson/databind/PropertyName.getSimpleName
+	com/fasterxml/jackson/databind/introspect/BeanPropertyDefinition.getName
+com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider._startRootArray may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeStartObject
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeFieldName
+com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector.isOutputAsCData may call:
+	com/fasterxml/jackson/databind/introspect/Annotated.getAnnotation
+	com/fasterxml/jackson/dataformat/xml/annotation/JacksonXmlCData.value
+com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider.<init> may call:
+	com/fasterxml/jackson/databind/ser/DefaultSerializerProvider.<init>
+	com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup.<init>
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter.serializeAsField may call:
+	com/fasterxml/jackson/core/JsonGenerator.writeFieldName
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter._handleSelfReference
+	com/fasterxml/jackson/databind/JsonSerializer.serialize
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.startWrappedValue
+	com/fasterxml/jackson/databind/ser/impl/PropertySerializerMap.serializerFor
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter._findAndAddDynamic
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter.get
+	com/fasterxml/jackson/databind/JsonSerializer.isEmpty
+	com/fasterxml/jackson/databind/JsonSerializer.serializeWithType
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.finishWrappedValue
+com/fasterxml/jackson/dataformat/xml/XmlMapper._defaultPrettyPrinter may call:
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.<init>
+com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer._configureParser may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.addVirtualWrapping
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase.serializeFieldsFiltered may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.setNextIsCData
+	com/fasterxml/jackson/databind/SerializerProvider.getActiveView
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase.serializeFields
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase.wrapAndThrow
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.setNextName
+	com/fasterxml/jackson/databind/JsonMappingException.prependPath
+	com/fasterxml/jackson/databind/JsonMappingException$Reference.<init>
+	com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.serializeFieldsFiltered
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase.isUnwrappingSerializer
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.setNextIsUnwrapped
+	com/fasterxml/jackson/databind/ser/BeanPropertyWriter.getName
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase.findPropertyFilter
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.setNextIsAttribute
+	com/fasterxml/jackson/databind/ser/AnyGetterWriter.getAndSerialize
+	com/fasterxml/jackson/databind/ser/PropertyFilter.serializeAsField
+	com/fasterxml/jackson/databind/JsonMappingException.from
+com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwXmlAsIOException may call:
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil._unwrap
+com/fasterxml/jackson/dataformat/xml/util/StaxUtil.<init> may call:
+com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider._serializeXmlNull may call:
+	com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider._rootNameFromConfig
+	com/fasterxml/jackson/databind/ser/DefaultSerializerProvider.serializeValue
+	com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider._initWithRootName
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._initStartElement may call:
+	com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.intermediateWrapper
+	com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.getWrapperLocalName
+	com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.getWrapperNamespace
+	org/codehaus/stax2/XMLStreamReader2.getLocalName
+	org/codehaus/stax2/XMLStreamReader2.getAttributeCount
+	com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.matchesWrapper
+	com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.getParent
+	org/codehaus/stax2/XMLStreamReader2.getNamespaceURI
+com/fasterxml/jackson/dataformat/xml/XmlMapper.<init> may call:
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.<init>
+	com/fasterxml/jackson/databind/SerializationConfig.withDefaultPrettyPrinter
+	com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider.<init>
+	com/fasterxml/jackson/dataformat/xml/XmlMapper.<init>
+	com/fasterxml/jackson/databind/ObjectMapper.<init>
+	com/fasterxml/jackson/dataformat/xml/XmlMapper.registerModule
+	com/fasterxml/jackson/dataformat/xml/XmlMapper.enable
+	com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup.<init>
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeRawValue may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._verifyValueWrite
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.handleMissingName
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+	org/codehaus/stax2/XMLStreamWriter2.writeStartElement
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._reportUnsupportedOperation
+	javax/xml/namespace/QName.getLocalPart
+	org/codehaus/stax2/XMLStreamWriter2.writeAttribute
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._reportUnimplementedStax2
+	org/codehaus/stax2/XMLStreamWriter2.writeRaw
+	javax/xml/namespace/QName.getNamespaceURI
+	org/codehaus/stax2/XMLStreamWriter2.writeEndElement
+com/fasterxml/jackson/dataformat/xml/XmlFactory.configure may call:
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.enable
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.disable
+com/fasterxml/jackson/dataformat/xml/XmlMapper.getFactory may call:
+	com/fasterxml/jackson/dataformat/xml/XmlMapper.getFactory
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getParent may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getParent
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser._decodeBase64 may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser._getByteArrayBuilder
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser._decodeBase64
+	com/fasterxml/jackson/core/util/ByteArrayBuilder.toByteArray
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getText
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$FixedSpaceIndenter.writeIndentation may call:
+	org/codehaus/stax2/XMLStreamWriter2.writeRaw
+	com/fasterxml/jackson/core/JsonGenerator.writeRaw
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getTextLength may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getText
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Lf2SpacesIndenter.<init> may call:
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.enabledIn may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.getMask
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.<clinit> may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.<init>
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.configure may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.disable
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.enable
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextToken may call:
+	com/fasterxml/jackson/core/JsonToken.ordinal
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsParseException
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getText
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createChildObjectContext
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createChildArrayContext
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getNamesToWrap
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.repeatStartElement
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser._isEmpty
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.skipEndElement
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getLocalName
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.inObject
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getParent
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.inArray
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.next
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.setCurrentName
+com/fasterxml/jackson/dataformat/xml/util/XmlInfo.<init> may call:
+com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider._rootNameFromConfig may call:
+	com/fasterxml/jackson/databind/PropertyName.getNamespace
+	javax/xml/namespace/QName.<init>
+	com/fasterxml/jackson/databind/SerializationConfig.getFullRootName
+	com/fasterxml/jackson/databind/PropertyName.getSimpleName
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerModifier.modifySerializer may call:
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer.<init>
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeEndArray may call:
+	com/fasterxml/jackson/core/json/JsonWriteContext.typeDesc
+	com/fasterxml/jackson/core/json/JsonWriteContext.getEntryCount
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._reportError
+	com/fasterxml/jackson/core/json/JsonWriteContext.inArray
+	com/fasterxml/jackson/core/PrettyPrinter.writeEndArray
+	com/fasterxml/jackson/core/json/JsonWriteContext.getParent
+com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider.copy may call:
+	com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider.<init>
+com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider.<clinit> may call:
+	javax/xml/namespace/QName.<init>
+com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException may call:
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil._message
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil._unwrap
+	com/fasterxml/jackson/core/JsonGenerationException.<init>
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.<init> may call:
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$FixedSpaceIndenter.<init>
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Lf2SpacesIndenter.<init>
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.writeStartElement may call:
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Indenter.writeIndentation
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Indenter.isInline
+	org/codehaus/stax2/XMLStreamWriter2.writeStartElement
+com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil.findIsCDataAnnotation may call:
+	com/fasterxml/jackson/databind/AnnotationIntrospector.allIntrospectors
+	com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector.isOutputAsCData
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeRepeatedFieldName may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._reportError
+	javax/xml/namespace/QName.getLocalPart
+	com/fasterxml/jackson/core/json/JsonWriteContext.writeFieldName
+com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder$XmlMinimalClassNameIdResolver.<init> may call:
+	com/fasterxml/jackson/databind/jsontype/impl/MinimalClassNameIdResolver.<init>
+com/fasterxml/jackson/dataformat/xml/util/StaxUtil.sanitizeXmlTypeName may call:
+com/fasterxml/jackson/dataformat/xml/XmlFactory.enable may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.getMask
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.getMask
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeStringField may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeString
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeFieldName
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.createInstance may call:
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.<init>
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.createInstance
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createRootContext may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.<init>
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase._isCData may call:
+	com/fasterxml/jackson/databind/ser/BeanPropertyWriter.getInternalSetting
+	com/fasterxml/jackson/dataformat/xml/util/XmlInfo.isCData
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._handleStartObject may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.handleMissingName
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+	org/codehaus/stax2/XMLStreamWriter2.writeStartElement
+	javax/xml/namespace/QName.getLocalPart
+	javax/xml/namespace/QName.getNamespaceURI
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._skipUntilTag may call:
+	org/codehaus/stax2/XMLStreamReader2.hasNext
+	org/codehaus/stax2/XMLStreamReader2.next
+com/fasterxml/jackson/dataformat/xml/XmlFactory.skipSpace may call:
+	com/fasterxml/jackson/core/format/InputAccessor.nextByte
+	com/fasterxml/jackson/core/format/InputAccessor.hasMoreBytes
+com/fasterxml/jackson/dataformat/xml/XmlFactory.createGenerator may call:
+	com/fasterxml/jackson/dataformat/xml/XmlFactory._createXmlWriter
+	com/fasterxml/jackson/dataformat/xml/XmlFactory._initializeXmlWriter
+	com/fasterxml/jackson/dataformat/xml/XmlFactory._createContext
+	com/fasterxml/jackson/core/io/IOContext.setEncoding
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.createGenerator
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.<init>
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.flush may call:
+	org/codehaus/stax2/XMLStreamWriter2.flush
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.isEnabled
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.writeLeafElement may call:
+	org/codehaus/stax2/XMLStreamWriter2.writeInt
+	org/codehaus/stax2/XMLStreamWriter2.writeCharacters
+	org/codehaus/stax2/XMLStreamWriter2.writeStartElement
+	org/codehaus/stax2/XMLStreamWriter2.writeLong
+	org/codehaus/stax2/XMLStreamWriter2.writeBinary
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Indenter.writeIndentation
+	org/codehaus/stax2/XMLStreamWriter2.writeFloat
+	org/codehaus/stax2/XMLStreamWriter2.writeBoolean
+	org/codehaus/stax2/XMLStreamWriter2.writeInteger
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Indenter.isInline
+	org/codehaus/stax2/XMLStreamWriter2.writeDecimal
+	org/codehaus/stax2/XMLStreamWriter2.writeCData
+	org/codehaus/stax2/XMLStreamWriter2.writeEndElement
+	org/codehaus/stax2/XMLStreamWriter2.writeDouble
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._verifyValueWrite may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._reportError
+	com/fasterxml/jackson/core/json/JsonWriteContext.writeValue
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.writePrologLinefeed may call:
+	org/codehaus/stax2/XMLStreamWriter2.writeRaw
+com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder$1.<clinit> may call:
+	com/fasterxml/jackson/annotation/JsonTypeInfo$Id.ordinal
+	com/fasterxml/jackson/annotation/JsonTypeInfo$Id.values
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Lf2SpacesIndenter.writeIndentation may call:
+	org/codehaus/stax2/XMLStreamWriter2.writeRaw
+	com/fasterxml/jackson/core/JsonGenerator.writeRaw
+com/fasterxml/jackson/dataformat/xml/XmlFactory._initFactories may call:
+	javax/xml/stream/XMLInputFactory.setProperty
+	javax/xml/stream/XMLOutputFactory.setProperty
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.<init> may call:
+	org/codehaus/stax2/ri/Stax2WriterAdapter.wrapIfNecessary
+	com/fasterxml/jackson/core/base/GeneratorBase.<init>
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeFieldName may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._reportError
+	javax/xml/namespace/QName.<init>
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.setNextName
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeFieldName
+	com/fasterxml/jackson/core/json/JsonWriteContext.writeFieldName
+	javax/xml/namespace/QName.getNamespaceURI
+	com/fasterxml/jackson/core/SerializableString.getValue
+com/fasterxml/jackson/dataformat/xml/deser/XmlBeanDeserializerModifier._findSoleTextProp may call:
+	com/fasterxml/jackson/databind/deser/SettableBeanProperty.getFullName
+	com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil.findIsAttributeAnnotation
+	com/fasterxml/jackson/databind/DeserializationConfig.getAnnotationIntrospector
+	com/fasterxml/jackson/databind/deser/SettableBeanProperty.getMember
+	com/fasterxml/jackson/databind/PropertyName.getSimpleName
+com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder.decodeXmlClassName may call:
+com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer.deserialize may call:
+	com/fasterxml/jackson/databind/JsonDeserializer.deserialize
+	com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer._configureParser
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.isEnabled may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.getMask
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._allWs may call:
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.toFullBuffer may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._reportError
+com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider.createInstance may call:
+	com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider.<init>
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.disable may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.getMask
+com/fasterxml/jackson/dataformat/xml/XmlFactory.<init> may call:
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.<init>
+	javax/xml/stream/XMLOutputFactory.newInstance
+	javax/xml/stream/XMLInputFactory.setProperty
+	javax/xml/stream/XMLInputFactory.newInstance
+	com/fasterxml/jackson/dataformat/xml/XmlFactory._initFactories
+	com/fasterxml/jackson/core/JsonFactory.<init>
+com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder.<init> may call:
+	com/fasterxml/jackson/databind/jsontype/impl/StdTypeResolverBuilder.<init>
+com/fasterxml/jackson/dataformat/xml/XmlFactory.hasXMLFormat may call:
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.tryMatch
+	com/fasterxml/jackson/core/format/InputAccessor.nextByte
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.skipSpace
+	com/fasterxml/jackson/core/format/InputAccessor.hasMoreBytes
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.validXmlNameStartChar
+com/fasterxml/jackson/dataformat/xml/util/TypeUtil.<init> may call:
+com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup._findRootName may call:
+	com/fasterxml/jackson/databind/AnnotationIntrospector.findRootName
+	com/fasterxml/jackson/databind/PropertyName.getNamespace
+	com/fasterxml/jackson/databind/cfg/MapperConfig.introspectClassAnnotations
+	com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup.findNamespace
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.sanitizeXmlTypeName
+	javax/xml/namespace/QName.<init>
+	com/fasterxml/jackson/databind/cfg/MapperConfig.getAnnotationIntrospector
+	com/fasterxml/jackson/databind/PropertyName.getSimpleName
+	com/fasterxml/jackson/databind/BeanDescription.getClassInfo
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.disable may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.getMask
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.setFormatFeatures
+com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer.newDelegatingInstance may call:
+com/fasterxml/jackson/dataformat/xml/JacksonXmlModule.<init> may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlStringDeserializer.<init>
+	com/fasterxml/jackson/dataformat/xml/JacksonXmlModule.addDeserializer
+	com/fasterxml/jackson/databind/module/SimpleModule.<init>
+com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil.<init> may call:
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.handleMissingName may call:
+com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.matchesWrapper may call:
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer.serialize may call:
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer.serializeFieldsFiltered
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer.serializeFields
+	com/fasterxml/jackson/core/JsonGenerator.writeStartObject
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer._serializeWithObjectId
+	com/fasterxml/jackson/core/JsonGenerator.writeEndObject
+com/fasterxml/jackson/dataformat/xml/XmlMapper.configure may call:
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.configure
+com/fasterxml/jackson/dataformat/xml/XmlMapper.readValue may call:
+	com/fasterxml/jackson/dataformat/xml/XmlMapper.getFactory
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.createParser
+	com/fasterxml/jackson/databind/type/TypeFactory.constructType
+	com/fasterxml/jackson/databind/ObjectMapper.readValue
+	com/fasterxml/jackson/dataformat/xml/XmlMapper.readValue
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createGenerator may call:
+	com/fasterxml/jackson/core/util/VersionUtil.throwInternal
+com/fasterxml/jackson/dataformat/xml/deser/XmlStringDeserializer.deserializeWithType may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlStringDeserializer.deserializeWithType
+	com/fasterxml/jackson/dataformat/xml/deser/XmlStringDeserializer.deserialize
+com/fasterxml/jackson/dataformat/xml/deser/XmlTextDeserializer.<init> may call:
+	com/fasterxml/jackson/databind/deser/std/DelegatingDeserializer.<init>
+	com/fasterxml/jackson/databind/deser/SettableBeanProperty.getPropertyIndex
+	com/fasterxml/jackson/databind/deser/BeanDeserializerBase.getValueInstantiator
+	com/fasterxml/jackson/databind/deser/BeanDeserializerBase.findProperty
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.inRoot may call:
+	com/fasterxml/jackson/core/json/JsonWriteContext.inRoot
+com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer.<init> may call:
+	com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer.<init>
+	com/fasterxml/jackson/databind/deser/BeanDeserializerBase.getValueType
+	com/fasterxml/jackson/databind/deser/std/DelegatingDeserializer.<init>
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.startWrappedValue may call:
+	com/fasterxml/jackson/dataformat/xml/XmlPrettyPrinter.writeStartElement
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+	org/codehaus/stax2/XMLStreamWriter2.writeStartElement
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.setNextName
+	javax/xml/namespace/QName.getLocalPart
+	javax/xml/namespace/QName.getNamespaceURI
+com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil.findNamespaceAnnotation may call:
+	com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector.findNamespace
+	com/fasterxml/jackson/module/jaxb/JaxbAnnotationIntrospector.findNamespace
+	com/fasterxml/jackson/databind/AnnotationIntrospector.allIntrospectors
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase._serializeObjectId may call:
+	com/fasterxml/jackson/databind/jsontype/TypeSerializer.getTypeInclusion
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.setNextIsAttribute
+	com/fasterxml/jackson/databind/ser/std/BeanSerializerBase._serializeObjectId
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeRawUTF8String may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._reportUnsupportedOperation
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.writeLeafNullElement may call:
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Indenter.writeIndentation
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Indenter.isInline
+	org/codehaus/stax2/XMLStreamWriter2.writeEmptyElement
+com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder$XmlMinimalClassNameIdResolver.typeFromId may call:
+	com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder.decodeXmlClassName
+	com/fasterxml/jackson/databind/jsontype/impl/MinimalClassNameIdResolver.typeFromId
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser._isEmpty may call:
+com/fasterxml/jackson/dataformat/xml/deser/XmlBeanDeserializerModifier.<init> may call:
+	com/fasterxml/jackson/databind/deser/BeanDeserializerModifier.<init>
+com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector.isOutputAsText may call:
+	com/fasterxml/jackson/databind/introspect/Annotated.getAnnotation
+	com/fasterxml/jackson/dataformat/xml/annotation/JacksonXmlText.value
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.writeEndObject may call:
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Indenter.writeIndentation
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$Indenter.isInline
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._handleEndObject
+com/fasterxml/jackson/dataformat/xml/XmlFactory.readObject may call:
+com/fasterxml/jackson/dataformat/xml/deser/XmlTextDeserializer.newDelegatingInstance may call:
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._handleEndObject may call:
+	com/fasterxml/jackson/dataformat/xml/XmlPrettyPrinter.writePrologLinefeed
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+	com/fasterxml/jackson/core/JsonGenerationException.<init>
+	org/codehaus/stax2/XMLStreamWriter2.writeEndElement
+com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider._wrapAsIOE may call:
+	com/fasterxml/jackson/databind/JsonMappingException.<init>
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.writeRootValueSeparator may call:
+	com/fasterxml/jackson/core/JsonGenerator.writeRaw
+com/fasterxml/jackson/dataformat/xml/util/StaxUtil._message may call:
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeNull may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._verifyValueWrite
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.handleMissingName
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+	com/fasterxml/jackson/dataformat/xml/XmlPrettyPrinter.writeLeafNullElement
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.checkNextIsUnwrapped
+	javax/xml/namespace/QName.getLocalPart
+	org/codehaus/stax2/XMLStreamWriter2.writeEmptyElement
+	javax/xml/namespace/QName.getNamespaceURI
+com/fasterxml/jackson/dataformat/xml/PackageVersion.<init> may call:
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.configure may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.enable
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.disable
+com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder.encodeXmlClassName may call:
+com/fasterxml/jackson/dataformat/xml/XmlMapper.copy may call:
+	com/fasterxml/jackson/dataformat/xml/XmlMapper.<init>
+	com/fasterxml/jackson/dataformat/xml/XmlMapper.copy
+	com/fasterxml/jackson/dataformat/xml/XmlMapper._checkInvalidCopy
+com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer.toString may call:
+	com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer.handledType
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.overrideCurrentName may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getParent
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.setCurrentName
+com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer.withObjectIdWriter may call:
+	com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlTextDeserializer.deserialize may call:
+	com/fasterxml/jackson/databind/deser/ValueInstantiator.createUsingDefault
+	com/fasterxml/jackson/databind/JsonDeserializer.deserialize
+	com/fasterxml/jackson/core/JsonParser.getCurrentToken
+	com/fasterxml/jackson/databind/deser/SettableBeanProperty.deserializeAndSet
+com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer.withFilterId may call:
+	com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer.<init>
+	com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer.withFilterId
+com/fasterxml/jackson/dataformat/xml/XmlFactory.createParser may call:
+	com/fasterxml/jackson/core/io/InputDecorator.decorate
+	javax/xml/stream/XMLStreamReader.getEventType
+	com/fasterxml/jackson/dataformat/xml/XmlFactory._createContext
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.<init>
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.setXMLTextElementName
+	com/fasterxml/jackson/dataformat/xml/XmlFactory._initializeXmlReader
+	com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder$XmlClassNameIdResolver.<init> may call:
+	com/fasterxml/jackson/databind/jsontype/impl/ClassNameIdResolver.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.<init> may call:
+	com/fasterxml/jackson/core/JsonStreamContext.<init>
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeNumber may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeNull
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.handleMissingName
+	org/codehaus/stax2/XMLStreamWriter2.writeDoubleAttribute
+	org/codehaus/stax2/XMLStreamWriter2.writeAttribute
+	javax/xml/namespace/QName.getNamespaceURI
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._verifyValueWrite
+	org/codehaus/stax2/XMLStreamWriter2.writeFloat
+	org/codehaus/stax2/XMLStreamWriter2.writeIntegerAttribute
+	org/codehaus/stax2/XMLStreamWriter2.writeIntAttribute
+	org/codehaus/stax2/XMLStreamWriter2.writeDouble
+	org/codehaus/stax2/XMLStreamWriter2.writeInt
+	org/codehaus/stax2/XMLStreamWriter2.writeCharacters
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.isEnabled
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+	org/codehaus/stax2/XMLStreamWriter2.writeLongAttribute
+	org/codehaus/stax2/XMLStreamWriter2.writeStartElement
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.checkNextIsUnwrapped
+	org/codehaus/stax2/XMLStreamWriter2.writeFloatAttribute
+	org/codehaus/stax2/XMLStreamWriter2.writeDecimalAttribute
+	org/codehaus/stax2/XMLStreamWriter2.writeLong
+	org/codehaus/stax2/XMLStreamWriter2.writeInteger
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeString
+	org/codehaus/stax2/XMLStreamWriter2.writeDecimal
+	javax/xml/namespace/QName.getLocalPart
+	com/fasterxml/jackson/dataformat/xml/XmlPrettyPrinter.writeLeafElement
+	org/codehaus/stax2/XMLStreamWriter2.writeEndElement
+com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$JaxbWrapper.isOutputAsText may call:
+	com/fasterxml/jackson/module/jaxb/JaxbAnnotationIntrospector.isOutputAsText
+com/fasterxml/jackson/dataformat/xml/jaxb/XmlJaxbAnnotationIntrospector.<init> may call:
+	com/fasterxml/jackson/module/jaxb/JaxbAnnotationIntrospector.<init>
+com/fasterxml/jackson/dataformat/xml/util/AnnotationUtil.findIsTextAnnotation may call:
+	com/fasterxml/jackson/module/jaxb/JaxbAnnotationIntrospector.isOutputAsText
+	com/fasterxml/jackson/databind/AnnotationIntrospector.allIntrospectors
+	com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector.isOutputAsText
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeStartArray may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._verifyValueWrite
+	com/fasterxml/jackson/core/PrettyPrinter.writeStartArray
+	com/fasterxml/jackson/core/json/JsonWriteContext.createChildArrayContext
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer.withObjectIdWriter may call:
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlBeanDeserializerModifier.modifyDeserializer may call:
+	com/fasterxml/jackson/databind/deser/ValueInstantiator.canCreateFromString
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTextDeserializer.<init>
+	com/fasterxml/jackson/databind/deser/BeanDeserializerBase.properties
+	com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer.<init>
+	com/fasterxml/jackson/databind/deser/BeanDeserializerBase.getValueInstantiator
+	com/fasterxml/jackson/dataformat/xml/deser/XmlBeanDeserializerModifier._findSoleTextProp
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getStartLocation may call:
+	com/fasterxml/jackson/core/JsonLocation.<init>
+com/fasterxml/jackson/dataformat/xml/deser/WrapperHandlingDeserializer._verifyDeserType may call:
+com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsParseException may call:
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil._message
+	com/fasterxml/jackson/core/JsonParseException.<init>
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil._unwrap
+com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector._findXmlName may call:
+	com/fasterxml/jackson/databind/introspect/Annotated.getAnnotation
+	com/fasterxml/jackson/dataformat/xml/annotation/JacksonXmlProperty.namespace
+	com/fasterxml/jackson/databind/PropertyName.construct
+	com/fasterxml/jackson/dataformat/xml/annotation/JacksonXmlProperty.localName
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeRaw may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeRaw
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._reportUnimplementedStax2
+	org/codehaus/stax2/XMLStreamWriter2.writeRaw
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeBinary may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeNull
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.handleMissingName
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.toFullBuffer
+	org/codehaus/stax2/XMLStreamWriter2.writeStartElement
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.checkNextIsUnwrapped
+	javax/xml/namespace/QName.getNamespaceURI
+	org/codehaus/stax2/XMLStreamWriter2.writeBinaryAttribute
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeStreamAsBinary
+	org/codehaus/stax2/XMLStreamWriter2.writeBinary
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._verifyValueWrite
+	javax/xml/namespace/QName.getLocalPart
+	com/fasterxml/jackson/dataformat/xml/XmlPrettyPrinter.writeLeafElement
+	org/codehaus/stax2/XMLStreamWriter2.writeEndElement
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase.<init> may call:
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase._isCData
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase._orderAttributesFirst
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase._isAttribute
+	javax/xml/namespace/QName.<init>
+	com/fasterxml/jackson/databind/ser/BeanPropertyWriter.getInternalSetting
+	com/fasterxml/jackson/databind/ser/BeanPropertyWriter.getName
+	com/fasterxml/jackson/dataformat/xml/util/XmlInfo.getNamespace
+	com/fasterxml/jackson/dataformat/xml/util/XmlInfo.isText
+	com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._collectUntilTag may call:
+	org/codehaus/stax2/XMLStreamReader2.isEmptyElement
+	org/codehaus/stax2/XMLStreamReader2.next
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.enabledIn
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._getText
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeStartObject may call:
+	com/fasterxml/jackson/core/PrettyPrinter.writeStartObject
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._verifyValueWrite
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator._handleStartObject
+	com/fasterxml/jackson/core/json/JsonWriteContext.createChildObjectContext
+com/fasterxml/jackson/dataformat/xml/XmlFactory._decorate may call:
+	com/fasterxml/jackson/core/io/OutputDecorator.decorate
+com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector.findNameForDeserialization may call:
+	com/fasterxml/jackson/databind/introspect/JacksonAnnotationIntrospector.findNameForDeserialization
+	com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector._findXmlName
+	com/fasterxml/jackson/databind/introspect/Annotated.hasAnnotation
+com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector.findNamespace may call:
+	com/fasterxml/jackson/databind/introspect/Annotated.getAnnotation
+	com/fasterxml/jackson/dataformat/xml/annotation/JacksonXmlProperty.namespace
+com/fasterxml/jackson/dataformat/xml/XmlMapper.<clinit> may call:
+	com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter.<init>
+	com/fasterxml/jackson/dataformat/xml/JacksonXmlModule.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.next may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._next
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._handleRepeatElement
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser._handleEOF may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.inArray
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.inRoot
+	com/fasterxml/jackson/core/io/IOContext.getSourceReference
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser._reportInvalidEOF
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getStartLocation
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.convertToString may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._collectUntilTag
+	org/codehaus/stax2/XMLStreamReader2.getLocalName
+	com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.getParent
+	org/codehaus/stax2/XMLStreamReader2.getEventType
+	org/codehaus/stax2/XMLStreamReader2.getNamespaceURI
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer.withIgnorals may call:
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer.<init>
+com/fasterxml/jackson/dataformat/xml/JacksonXmlAnnotationIntrospector._constructStdTypeResolverBuilder may call:
+	com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder.<init>
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter.<init> may call:
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter.<init>
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter.assignSerializer
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter._qname
+	com/fasterxml/jackson/databind/ser/BeanPropertyWriter.<init>
+com/fasterxml/jackson/dataformat/xml/PackageVersion.<clinit> may call:
+	com/fasterxml/jackson/core/util/VersionUtil.parseVersion
+com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$JaxbWrapper.isOutputAsAttribute may call:
+	com/fasterxml/jackson/module/jaxb/JaxbAnnotationIntrospector.isOutputAsAttribute
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.toString may call:
+	com/fasterxml/jackson/core/io/CharTypes.appendQuoted
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getCurrentIndex
+com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder$XmlMinimalClassNameIdResolver.idFromValue may call:
+	com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder.encodeXmlClassName
+	com/fasterxml/jackson/databind/jsontype/impl/MinimalClassNameIdResolver.idFromValue
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._handleRepeatElement may call:
+	com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.intermediateWrapper
+	org/codehaus/stax2/XMLStreamReader2.getLocalName
+	com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.getParent
+	org/codehaus/stax2/XMLStreamReader2.getNamespaceURI
+com/fasterxml/jackson/dataformat/xml/util/DefaultXmlPrettyPrinter$FixedSpaceIndenter.<init> may call:
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._next may call:
+	org/codehaus/stax2/XMLStreamReader2.getAttributeNamespace
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._skipUntilTag
+	org/codehaus/stax2/XMLStreamReader2.getAttributeLocalName
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._handleEndElement
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._initStartElement
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._collectUntilTag
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._allWs
+	org/codehaus/stax2/XMLStreamReader2.getAttributeValue
+	org/codehaus/stax2/XMLStreamReader2.getEventType
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.collectDefaults may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.getMask
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.enabledByDefault
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.values
+com/fasterxml/jackson/dataformat/xml/XmlFactory.<clinit> may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.collectDefaults
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.collectDefaults
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase.serializeFields may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.setNextIsCData
+	com/fasterxml/jackson/databind/SerializerProvider.getActiveView
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase.wrapAndThrow
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.setNextName
+	com/fasterxml/jackson/databind/JsonMappingException.prependPath
+	com/fasterxml/jackson/databind/JsonMappingException$Reference.<init>
+	com/fasterxml/jackson/databind/ser/std/BeanSerializerBase.serializeFields
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase.isUnwrappingSerializer
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.setNextIsUnwrapped
+	com/fasterxml/jackson/databind/ser/BeanPropertyWriter.getName
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.setNextIsAttribute
+	com/fasterxml/jackson/databind/ser/AnyGetterWriter.getAndSerialize
+	com/fasterxml/jackson/databind/JsonMappingException.from
+	com/fasterxml/jackson/databind/ser/BeanPropertyWriter.serializeAsField
+com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider._initWithRootName may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.inRoot
+	javax/xml/stream/XMLStreamWriter.setDefaultNamespace
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.setNextNameIfMissing
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.initGenerator
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.setNextName
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.getStaxWriter
+	javax/xml/namespace/QName.getNamespaceURI
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.repeatStartElement may call:
+	com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.matchingWrapper
+	com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.getParent
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getTokenLocation may call:
+	org/codehaus/stax2/LocationInfo.getStartLocation
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._extractLocation
+	org/codehaus/stax2/XMLStreamReader2.getLocationInfo
+com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer.serialize may call:
+	com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer.serializeFields
+	com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer._serializeWithObjectId
+	com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer.serializeFieldsFiltered
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase._isAttribute may call:
+	com/fasterxml/jackson/dataformat/xml/util/XmlInfo.isAttribute
+	com/fasterxml/jackson/databind/ser/BeanPropertyWriter.getInternalSetting
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer.withFilterId may call:
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer.withFilterId
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializer.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.closeCompletely may call:
+	org/codehaus/stax2/XMLStreamReader2.closeCompletely
+com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer.<init> may call:
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase.<init>
+com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$JaxbWrapper.findNamespace may call:
+	com/fasterxml/jackson/module/jaxb/JaxbAnnotationIntrospector.findNamespace
+com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder$XmlClassNameIdResolver.typeFromId may call:
+	com/fasterxml/jackson/dataformat/xml/XmlTypeResolverBuilder.decodeXmlClassName
+	com/fasterxml/jackson/databind/jsontype/impl/ClassNameIdResolver.typeFromId
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getBinaryValue may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser._decodeBase64
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser._constructError
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser._reportError
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getCurrentName may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getCurrentName
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.getParent
+com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider.serializeValue may call:
+	com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider._rootNameFromConfig
+	com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider._serializeXmlNull
+	com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider._startRootArray
+	com/fasterxml/jackson/databind/JsonSerializer.serialize
+	com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider._initWithRootName
+	com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider._asXmlGenerator
+	com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup.findRootName
+	com/fasterxml/jackson/dataformat/xml/util/TypeUtil.isIndexedType
+	com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider._wrapAsIOE
+	com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider.findTypedValueSerializer
+	com/fasterxml/jackson/core/JsonGenerator.writeEndObject
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getCurrentLocation may call:
+	org/codehaus/stax2/LocationInfo.getCurrentLocation
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._extractLocation
+	org/codehaus/stax2/XMLStreamReader2.getLocationInfo
+com/fasterxml/jackson/dataformat/xml/XmlMapper.writeValue may call:
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.createGenerator
+	com/fasterxml/jackson/dataformat/xml/XmlMapper.getFactory
+	com/fasterxml/jackson/databind/ObjectMapper.writeValue
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.close may call:
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsParseException
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.closeCompletely
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser._releaseBuffers
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.isEnabled
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.close
+	com/fasterxml/jackson/core/io/IOContext.isResourceManaged
+com/fasterxml/jackson/dataformat/xml/XmlFactory.isEnabled may call:
+	com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser$Feature.getMask
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.getMask
+com/fasterxml/jackson/dataformat/xml/XmlMapper.enable may call:
+	com/fasterxml/jackson/dataformat/xml/XmlFactory.enable
+com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup.findRootName may call:
+	com/fasterxml/jackson/databind/JavaType.getRawClass
+	com/fasterxml/jackson/databind/util/LRUMap.put
+	com/fasterxml/jackson/databind/type/ClassKey.<init>
+	com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup.findRootName
+	com/fasterxml/jackson/dataformat/xml/util/XmlRootNameLookup._findRootName
+	com/fasterxml/jackson/databind/util/LRUMap.get
+com/fasterxml/jackson/dataformat/xml/deser/XmlStringDeserializer.<init> may call:
+	com/fasterxml/jackson/databind/deser/std/StdScalarDeserializer.<init>
+com/fasterxml/jackson/dataformat/xml/JacksonXmlModule.setupModule may call:
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerModifier.<init>
+	com/fasterxml/jackson/dataformat/xml/deser/XmlBeanDeserializerModifier.<init>
+	com/fasterxml/jackson/dataformat/xml/XmlMapper.setXMLTextElementName
+	com/fasterxml/jackson/databind/Module$SetupContext.addBeanSerializerModifier
+	com/fasterxml/jackson/databind/Module$SetupContext.addBeanDeserializerModifier
+	com/fasterxml/jackson/databind/Module$SetupContext.insertAnnotationIntrospector
+	com/fasterxml/jackson/databind/Module$SetupContext.getOwner
+	com/fasterxml/jackson/databind/module/SimpleModule.setupModule
+	com/fasterxml/jackson/dataformat/xml/JacksonXmlModule._constructIntrospector
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.enabledIn may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.getMask
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.skipAttributes may call:
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase._orderAttributesFirst may call:
+	com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerBase._isAttribute
+com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair.setDefaultUseWrapper may call:
+	com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector.setDefaultUseWrapper
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.toString may call:
+com/fasterxml/jackson/dataformat/xml/util/StaxUtil._unwrap may call:
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.initGenerator may call:
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator$Feature.enabledIn
+	com/fasterxml/jackson/dataformat/xml/XmlPrettyPrinter.writePrologLinefeed
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+	org/codehaus/stax2/XMLStreamWriter2.writeStartDocument
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.isExpectedStartArrayToken may call:
+	com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.convertToArray
+	com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.skipAttributes
+com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.close may call:
+	com/fasterxml/jackson/core/JsonStreamContext.inObject
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeEndArray
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.isEnabled
+	com/fasterxml/jackson/dataformat/xml/ser/ToXmlGenerator.writeEndObject
+	com/fasterxml/jackson/dataformat/xml/util/StaxUtil.throwAsGenerationException
+	org/codehaus/stax2/XMLStreamWriter2.closeCompletely
+	com/fasterxml/jackson/core/base/GeneratorBase.close
+	com/fasterxml/jackson/core/JsonGenerationException.<init>
+	com/fasterxml/jackson/core/JsonStreamContext.inArray
+	com/fasterxml/jackson/core/io/IOContext.isResourceManaged
+	org/codehaus/stax2/XMLStreamWriter2.close
+com/fasterxml/jackson/dataformat/xml/deser/ElementWrapper.toString may call:
+com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair.instance may call:
+	com/fasterxml/jackson/dataformat/xml/XmlAnnotationIntrospector$Pair.<init>
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream._getText may call:
+	org/codehaus/stax2/XMLStreamReader2.getText
+com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer.unwrappingSerializer may call:
+	com/fasterxml/jackson/dataformat/xml/ser/UnwrappingXmlBeanSerializer.<init>

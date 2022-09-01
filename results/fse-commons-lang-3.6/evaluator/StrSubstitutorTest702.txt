@@ -1,0 +1,32 @@
+slicing criterion: org.apache.commons.lang3.text.StrSubstitutorTest.testReplacePartialString_noReplace:342
+Methods call in assertion: [org/apache/commons/lang3/text/StrSubstitutor.replace]
+org/apache/commons/lang3/text/StrSubstitutor.getVariablePrefixMatcher
+org/apache/commons/lang3/text/StrSubstitutor.getValueDelimiterMatcher
+org/apache/commons/lang3/text/StrSubstitutor.substitute
+org/apache/commons/lang3/text/StrSubstitutor.getVariableSuffixMatcher
+org/apache/commons/lang3/text/StrMatcher.isMatch
+org/apache/commons/lang3/text/StrSubstitutor.isPreserveEscapes
+org/apache/commons/lang3/text/StrSubstitutor.isEnableSubstitutionInVariables
+org/apache/commons/lang3/text/StrSubstitutor.replace
+org/apache/commons/lang3/text/StrBuilder.append
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrSubstitutor.replace
+org/apache/commons/lang3/text/StrSubstitutor.substitute
+org/apache/commons/lang3/text/StrSubstitutor.getVariablePrefixMatcher
+org/apache/commons/lang3/text/StrSubstitutor.getValueDelimiterMatcher
+org/apache/commons/lang3/text/StrSubstitutor.getVariableSuffixMatcher
+org/apache/commons/lang3/text/StrMatcher.isMatch
+org/apache/commons/lang3/text/StrSubstitutor.isPreserveEscapes
+org/apache/commons/lang3/text/StrSubstitutor.isEnableSubstitutionInVariables
+org/apache/commons/lang3/text/StrBuilder.append
+after post processing ......
+org/apache/commons/lang3/text/StrSubstitutor.replace
+org/apache/commons/lang3/text/StrSubstitutor.substitute
+org/apache/commons/lang3/text/StrSubstitutor.getVariablePrefixMatcher
+org/apache/commons/lang3/text/StrSubstitutor.getValueDelimiterMatcher
+org/apache/commons/lang3/text/StrSubstitutor.getVariableSuffixMatcher
+org/apache/commons/lang3/text/StrMatcher.isMatch
+org/apache/commons/lang3/text/StrSubstitutor.isPreserveEscapes
+org/apache/commons/lang3/text/StrSubstitutor.isEnableSubstitutionInVariables
+org/apache/commons/lang3/text/StrBuilder.append
+perfect match

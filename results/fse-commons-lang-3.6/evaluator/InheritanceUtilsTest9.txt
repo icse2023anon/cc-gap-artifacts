@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.reflect.InheritanceUtilsTest.testDistanceEqualObject:66
+Methods call in assertion: [org/apache/commons/lang3/reflect/InheritanceUtils.distance]
+org/apache/commons/lang3/reflect/InheritanceUtils.distance
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/InheritanceUtils.distance
+after post processing ......
+org/apache/commons/lang3/reflect/InheritanceUtils.distance
+perfect match

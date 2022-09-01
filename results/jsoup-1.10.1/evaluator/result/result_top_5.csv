@@ -1,0 +1,8 @@
+package,assertion_tested,exact_match,top_5,all_method_suggested
+org.jsoup.nodes,217,50,107,161
+org.jsoup.integration,34,0,4,17
+org.jsoup.safety,16,1,1,2
+org.jsoup.helper,99,57,57,70
+org.jsoup.parser,393,102,173,290
+org.jsoup.select,339,0,0,96
+total:,1098,210,342,636

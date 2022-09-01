@@ -1,0 +1,57 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Properties.testPropertyCompareToMinute:424
+Methods call in assertion: [org/joda/time/TimeOfDay.minuteOfHour, org/joda/time/TimeOfDay$Property.compareTo]
+org/joda/time/field/AbstractPartialFieldProperty.getFieldType
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/TimeOfDay.getField
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/base/AbstractPartial.get
+org/joda/time/base/BasePartial.<init>
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.getFieldType
+org/joda/time/TimeOfDay.size
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/field/AbstractPartialFieldProperty.compareTo
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BasePartial.<init>
+org/joda/time/base/AbstractPartial.get
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/field/AbstractPartialFieldProperty.compareTo
+org/joda/time/field/AbstractPartialFieldProperty.getFieldType
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/ISOChronology.withUTC
+after post processing ......
+org/joda/time/base/BasePartial.<init>
+org/joda/time/base/AbstractPartial.get
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/field/AbstractPartialFieldProperty.compareTo
+org/joda/time/field/AbstractPartialFieldProperty.getFieldType
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/TimeOfDay.getField
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/chrono/AssembledChronology.minuteOfHour
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.getFieldType
+org/joda/time/TimeOfDay.size
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/BaseChronology.get
+not matched

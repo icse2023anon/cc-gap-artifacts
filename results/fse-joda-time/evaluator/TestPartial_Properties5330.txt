@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestPartial_Properties.testPropertyGetMaxMinValuesMinute:282
+Methods call in assertion: [org/joda/time/DateTimeFieldType.minuteOfHour, org/joda/time/Partial$Property.getMinimumValueOverall, org/joda/time/Partial.property]
+org/joda/time/field/PreciseDurationDateTimeField.getMinimumValue
+org/joda/time/Partial.without
+org/joda/time/field/AbstractPartialFieldProperty.getMinimumValueOverall
+org/joda/time/DateTimeFieldType.minuteOfHour
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationDateTimeField.getMinimumValue
+org/joda/time/Partial.without
+org/joda/time/field/AbstractPartialFieldProperty.getMinimumValueOverall
+org/joda/time/DateTimeFieldType.minuteOfHour
+after post processing ......
+org/joda/time/field/PreciseDurationDateTimeField.getMinimumValue
+org/joda/time/Partial.without
+org/joda/time/field/AbstractPartialFieldProperty.getMinimumValueOverall
+org/joda/time/DateTimeFieldType.minuteOfHour
+not matched

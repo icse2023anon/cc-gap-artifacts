@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.util.RelativeDateFormatTest.testEquals:177
+Methods call in assertion: [org/jfree/chart/util/RelativeDateFormat.equals]
+org/jfree/chart/util/RelativeDateFormat.getShowZeroDays
+org/jfree/chart/util/RelativeDateFormat.equals
+top 10 recommendations: 
+org/jfree/chart/util/RelativeDateFormat.getShowZeroDays
+org/jfree/chart/util/RelativeDateFormat.equals
+after post processing ......
+org/jfree/chart/util/RelativeDateFormat.getShowZeroDays
+org/jfree/chart/util/RelativeDateFormat.equals
+found in top 10

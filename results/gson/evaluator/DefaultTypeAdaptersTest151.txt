@@ -1,0 +1,23 @@
+slicing criterion: com.google.gson.functional.DefaultTypeAdaptersTest.testClassDeserialization:101
+Methods call in assertion: [com/google/gson/Gson.fromJson]
+com/google/gson/Gson.fromJson
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/Gson.newJsonReader
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.doPeek
+top 10 recommendations: 
+com/google/gson/Gson.fromJson
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/Gson.newJsonReader
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/stream/JsonReader.doPeek
+after post processing ......
+com/google/gson/Gson.fromJson
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/Gson.newJsonReader
+com/google/gson/stream/JsonReader.peek
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/stream/JsonReader.doPeek
+perfect match

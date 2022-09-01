@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestInstant_Basics.testEqualsHashCode:235
+Methods call in assertion: [org/joda/time/Instant.equals]
+org/joda/time/base/AbstractInstant.equals
+org/joda/time/Instant.getMillis
+top 10 recommendations: 
+org/joda/time/base/AbstractInstant.equals
+org/joda/time/Instant.getMillis
+after post processing ......
+org/joda/time/base/AbstractInstant.equals
+org/joda/time/Instant.getMillis
+found in top 10

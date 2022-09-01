@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testRemoveStartIgnoreCase:2771
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.removeStartIgnoreCase]
+org/apache/commons/lang3/StringUtils.removeStartIgnoreCase
+org/apache/commons/lang3/StringUtils.isEmpty
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.removeStartIgnoreCase
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/StringUtils.removeStartIgnoreCase
+org/apache/commons/lang3/StringUtils.isEmpty
+perfect match

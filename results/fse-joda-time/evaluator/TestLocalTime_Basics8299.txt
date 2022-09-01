@@ -1,0 +1,32 @@
+slicing criterion: org.joda.time.TestLocalTime_Basics.testGet_DateTimeFieldType:168
+Methods call in assertion: [org/joda/time/DateTimeFieldType.clockhourOfDay, org/joda/time/LocalTime.get]
+org/joda/time/chrono/AssembledChronology.clockhourOfDay
+org/joda/time/field/ZeroIsMaxDateTimeField.get
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/DateTimeFieldType.clockhourOfDay
+org/joda/time/LocalTime.get
+org/joda/time/LocalTime.getChronology
+org/joda/time/LocalTime.<init>
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+top 10 recommendations: 
+org/joda/time/LocalTime.get
+org/joda/time/LocalTime.<init>
+org/joda/time/chrono/AssembledChronology.clockhourOfDay
+org/joda/time/field/ZeroIsMaxDateTimeField.get
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/DateTimeFieldType.clockhourOfDay
+org/joda/time/LocalTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+after post processing ......
+org/joda/time/LocalTime.get
+org/joda/time/LocalTime.<init>
+org/joda/time/chrono/AssembledChronology.clockhourOfDay
+org/joda/time/field/ZeroIsMaxDateTimeField.get
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/DateTimeFieldType.clockhourOfDay
+org/joda/time/LocalTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.JavaVersionTest.testGetJavaVersion:65
+Methods call in assertion: [org/apache/commons/lang3/JavaVersion.get]
+org/apache/commons/lang3/JavaVersion.get
+org/apache/commons/lang3/math/NumberUtils.toFloat
+top 10 recommendations: 
+org/apache/commons/lang3/JavaVersion.get
+org/apache/commons/lang3/math/NumberUtils.toFloat
+after post processing ......
+org/apache/commons/lang3/JavaVersion.get
+org/apache/commons/lang3/math/NumberUtils.toFloat
+perfect match

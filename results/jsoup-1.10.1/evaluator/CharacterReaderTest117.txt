@@ -1,0 +1,14 @@
+slicing criterion: org.jsoup.parser.CharacterReaderTest.consumeLetterThenDigitSequence:153
+Methods call in assertion: [org/jsoup/parser/CharacterReader.consumeToEnd]
+org/jsoup/parser/CharacterReader.consumeToEnd
+org/jsoup/parser/CharacterReader.isEmpty
+org/jsoup/parser/CharacterReader.consumeLetterThenDigitSequence
+top 10 recommendations: 
+org/jsoup/parser/CharacterReader.consumeLetterThenDigitSequence
+org/jsoup/parser/CharacterReader.consumeToEnd
+org/jsoup/parser/CharacterReader.isEmpty
+after post processing ......
+org/jsoup/parser/CharacterReader.consumeLetterThenDigitSequence
+org/jsoup/parser/CharacterReader.consumeToEnd
+org/jsoup/parser/CharacterReader.isEmpty
+found in top 10

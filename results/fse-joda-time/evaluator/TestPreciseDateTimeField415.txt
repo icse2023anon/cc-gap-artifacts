@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestPreciseDateTimeField.test_add_long_int:261
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.add]
+org/joda/time/field/PreciseDurationDateTimeField.getDurationField
+org/joda/time/field/BaseDateTimeField.add
+top 10 recommendations: 
+org/joda/time/field/PreciseDurationDateTimeField.getDurationField
+org/joda/time/field/BaseDateTimeField.add
+after post processing ......
+org/joda/time/field/PreciseDurationDateTimeField.getDurationField
+org/joda/time/field/BaseDateTimeField.add
+found in top 10

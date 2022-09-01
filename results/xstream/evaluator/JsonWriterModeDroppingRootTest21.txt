@@ -1,0 +1,8 @@
+slicing criterion: com.thoughtworks.xstream.io.json.JsonWriterModeDroppingRootTest.testBracesAndSquareBracketsAreNotEscaped:76
+Methods call in assertion: [com/thoughtworks/xstream/XStream.toXML]
+com/thoughtworks/xstream/XStream.toXML
+top 10 recommendations: 
+com/thoughtworks/xstream/XStream.toXML
+after post processing ......
+com/thoughtworks/xstream/XStream.toXML
+perfect match

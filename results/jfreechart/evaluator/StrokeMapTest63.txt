@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.StrokeMapTest.testGetStroke:61
+Methods call in assertion: [org/jfree/chart/StrokeMap.getStroke]
+org/jfree/chart/StrokeMap.getStroke
+top 10 recommendations: 
+org/jfree/chart/StrokeMap.getStroke
+after post processing ......
+org/jfree/chart/StrokeMap.getStroke
+perfect match

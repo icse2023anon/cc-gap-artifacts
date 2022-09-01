@@ -1,0 +1,7 @@
+package,total_assertion,exact_match(%),top_1(%),top_5(%),top_10(%),all_method_suggested(%)
+org.joda.time.field,631,377,420,553,563,631,
+org.joda.time,11142,1540,1888,5142,6371,7195,
+org.joda.time.convert,343,40,50,141,229,245,
+org.joda.time.tz,33,11,11,21,27,27,
+org.joda.time.chrono,1933,83,83,234,284,471,
+org.joda.time.format,1693,243,243,696,905,1201,

@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.validator.routines.ByteValidatorTest.testByteValidatorMethods:98
+Methods call in assertion: [org/apache/commons/validator/routines/ByteValidator.validate, org/apache/commons/validator/routines/ByteValidator.getInstance]
+org/apache/commons/validator/routines/ByteValidator.validate
+org/apache/commons/validator/routines/ByteValidator.getInstance
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+top 10 recommendations: 
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/ByteValidator.validate
+org/apache/commons/validator/routines/ByteValidator.getInstance
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+after post processing ......
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/ByteValidator.validate
+org/apache/commons/validator/routines/ByteValidator.getInstance
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+found in top 10

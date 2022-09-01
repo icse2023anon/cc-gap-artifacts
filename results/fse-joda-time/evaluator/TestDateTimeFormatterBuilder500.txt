@@ -1,0 +1,43 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseZoneEtcGMT1_suffix:585
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.print]
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormat.appendPatternTo
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/format/DateTimeFormatterBuilder.appendPattern
+org/joda/time/format/DateTimeFormatterBuilder.appendSignedDecimal
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/format/DateTimeFormatterBuilder.appendTimeZoneId
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.appendMinuteOfHour
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormatter.print
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/format/DateTimeFormatterBuilder.appendPattern
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/format/DateTimeFormatterBuilder.appendMinuteOfHour
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormat.appendPatternTo
+org/joda/time/format/DateTimeFormatterBuilder.appendSignedDecimal
+org/joda/time/format/DateTimeFormatterBuilder.appendTimeZoneId
+after post processing ......
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/format/DateTimeFormatterBuilder.appendPattern
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/format/DateTimeFormatterBuilder.appendMinuteOfHour
+org/joda/time/format/DateTimeFormatterBuilder.appendHourOfDay
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/format/DateTimeFormat.appendPatternTo
+org/joda/time/format/DateTimeFormatterBuilder.appendSignedDecimal
+org/joda/time/format/DateTimeFormatterBuilder.appendTimeZoneId
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormatter.print
+all method calls are suggested

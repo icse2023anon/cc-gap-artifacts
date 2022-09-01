@@ -1,0 +1,35 @@
+slicing criterion: org.jfree.chart.plot.SpiderWebPlotTest.testGetLegendItems:357
+Methods call in assertion: [org/jfree/chart/LegendItem.getDatasetIndex]
+org/jfree/chart/LegendItemCollection.get
+org/jfree/data/DefaultKeyedValues2D.setValue
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/chart/plot/SpiderWebPlot.getDataset
+org/jfree/data/DefaultKeyedValues2D.addValue
+org/jfree/chart/plot/SpiderWebPlot.getLegendItems
+org/jfree/chart/LegendItem.getDatasetIndex
+org/jfree/data/DefaultKeyedValues2D.getRowIndex
+org/jfree/data/category/DefaultCategoryDataset.getRowKeys
+org/jfree/chart/LegendItemCollection.add
+top 10 recommendations: 
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/data/DefaultKeyedValues2D.addValue
+org/jfree/chart/plot/SpiderWebPlot.getLegendItems
+org/jfree/data/DefaultKeyedValues2D.setValue
+org/jfree/chart/LegendItemCollection.get
+org/jfree/chart/plot/SpiderWebPlot.getDataset
+org/jfree/chart/LegendItem.getDatasetIndex
+org/jfree/data/DefaultKeyedValues2D.getRowIndex
+org/jfree/data/category/DefaultCategoryDataset.getRowKeys
+org/jfree/chart/LegendItemCollection.add
+after post processing ......
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/data/DefaultKeyedValues2D.addValue
+org/jfree/chart/plot/SpiderWebPlot.getLegendItems
+org/jfree/data/DefaultKeyedValues2D.setValue
+org/jfree/chart/LegendItemCollection.get
+org/jfree/chart/plot/SpiderWebPlot.getDataset
+org/jfree/chart/LegendItem.getDatasetIndex
+org/jfree/data/DefaultKeyedValues2D.getRowIndex
+org/jfree/data/category/DefaultCategoryDataset.getRowKeys
+org/jfree/chart/LegendItemCollection.add
+found in top 10

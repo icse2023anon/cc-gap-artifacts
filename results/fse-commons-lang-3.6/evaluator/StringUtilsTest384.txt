@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testReplace_StringStringArrayStringArrayBoolean:1582
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.replaceEachRepeatedly]
+org/apache/commons/lang3/StringUtils.replaceEachRepeatedly
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.replaceEachRepeatedly
+after post processing ......
+org/apache/commons/lang3/StringUtils.replaceEachRepeatedly
+perfect match

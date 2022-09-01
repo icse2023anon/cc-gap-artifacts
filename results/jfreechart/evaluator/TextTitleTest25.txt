@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.title.TextTitleTest.testEquals:76
+Methods call in assertion: [org/jfree/chart/title/TextTitle.equals]
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/title/TextTitle.setText
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+top 10 recommendations: 
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/title/TextTitle.setText
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/title/TextTitle.setText
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+perfect match

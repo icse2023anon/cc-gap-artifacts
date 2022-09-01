@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.EncoderExceptionTest.testConstructorThrowable:60
+Methods call in assertion: [org/apache/commons/codec/EncoderException.getMessage]
+org/apache/commons/codec/EncoderException.<init>
+top 10 recommendations: 
+org/apache/commons/codec/EncoderException.<init>
+after post processing ......
+org/apache/commons/codec/EncoderException.<init>
+not matched

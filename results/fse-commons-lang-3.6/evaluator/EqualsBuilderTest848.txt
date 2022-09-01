@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.EqualsBuilderTest.testReflectionAppend:1395
+Methods call in assertion: [org/apache/commons/lang3/builder/EqualsBuilder.build, org/apache/commons/lang3/builder/EqualsBuilder.reflectionAppend]
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionAppend
+top 10 recommendations: 
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionAppend
+after post processing ......
+org/apache/commons/lang3/builder/EqualsBuilder.isEquals
+org/apache/commons/lang3/builder/EqualsBuilder.reflectionAppend
+not matched

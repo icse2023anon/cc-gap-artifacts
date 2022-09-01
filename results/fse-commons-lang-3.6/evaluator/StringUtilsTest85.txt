@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testTruncate_StringIntInt:2481
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.truncate]
+org/apache/commons/lang3/StringUtils.truncate
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.truncate
+after post processing ......
+org/apache/commons/lang3/StringUtils.truncate
+perfect match

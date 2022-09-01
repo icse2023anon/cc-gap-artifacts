@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.ToStringStyleTest.testSetNullText:103
+Methods call in assertion: [org/apache/commons/lang3/builder/ToStringStyle.getNullText]
+org/apache/commons/lang3/builder/ToStringStyle.setNullText
+org/apache/commons/lang3/builder/ToStringStyle.getNullText
+top 10 recommendations: 
+org/apache/commons/lang3/builder/ToStringStyle.setNullText
+org/apache/commons/lang3/builder/ToStringStyle.getNullText
+after post processing ......
+org/apache/commons/lang3/builder/ToStringStyle.setNullText
+org/apache/commons/lang3/builder/ToStringStyle.getNullText
+found in top 10

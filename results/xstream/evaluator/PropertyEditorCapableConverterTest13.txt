@@ -1,0 +1,8 @@
+slicing criterion: com.thoughtworks.xstream.converters.extended.PropertyEditorCapableConverterTest.testCanBeUsedForCustomTypes:46
+Methods call in assertion: [com/thoughtworks/xstream/converters/SingleValueConverter.canConvert]
+com/thoughtworks/xstream/converters/extended/PropertyEditorCapableConverter.canConvert
+top 10 recommendations: 
+com/thoughtworks/xstream/converters/extended/PropertyEditorCapableConverter.canConvert
+after post processing ......
+com/thoughtworks/xstream/converters/extended/PropertyEditorCapableConverter.canConvert
+not matched

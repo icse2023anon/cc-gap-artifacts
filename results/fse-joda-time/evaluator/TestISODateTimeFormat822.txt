@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.format.TestISODateTimeFormat.testFormat_weekyearWeekDay:526
+Methods call in assertion: [org/joda/time/format/ISODateTimeFormat.weekyearWeekDay, org/joda/time/format/DateTimeFormatter.print]
+org/joda/time/format/ISODateTimeFormat.weekyearWeekDay
+org/joda/time/format/DateTimeFormatter.print
+top 10 recommendations: 
+org/joda/time/format/ISODateTimeFormat.weekyearWeekDay
+org/joda/time/format/DateTimeFormatter.print
+after post processing ......
+org/joda/time/format/ISODateTimeFormat.weekyearWeekDay
+org/joda/time/format/DateTimeFormatter.print
+perfect match

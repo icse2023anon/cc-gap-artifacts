@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.renderer.AbstractRendererTest.testEquals:190
+Methods call in assertion: [org/jfree/chart/renderer/category/BarRenderer.equals]
+org/jfree/chart/renderer/category/BarRenderer.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/ui/StandardGradientPaintTransformer.equals
+org/jfree/chart/renderer/category/BarRenderer.getDefaultShadowsVisible
+org/jfree/chart/renderer/category/BarRenderer.getDefaultBarPainter
+top 10 recommendations: 
+org/jfree/chart/renderer/category/BarRenderer.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/ui/StandardGradientPaintTransformer.equals
+org/jfree/chart/renderer/category/BarRenderer.getDefaultShadowsVisible
+org/jfree/chart/renderer/category/BarRenderer.getDefaultBarPainter
+after post processing ......
+org/jfree/chart/renderer/category/BarRenderer.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/ui/StandardGradientPaintTransformer.equals
+org/jfree/chart/renderer/category/BarRenderer.getDefaultShadowsVisible
+org/jfree/chart/renderer/category/BarRenderer.getDefaultBarPainter
+perfect match

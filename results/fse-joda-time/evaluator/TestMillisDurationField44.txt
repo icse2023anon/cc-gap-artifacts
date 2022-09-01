@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.field.TestMillisDurationField.test_compareTo:207
+Methods call in assertion: [org/joda/time/DurationField.compareTo]
+org/joda/time/field/MillisDurationField.getUnitMillis
+org/joda/time/field/MillisDurationField.compareTo
+top 10 recommendations: 
+org/joda/time/field/MillisDurationField.compareTo
+org/joda/time/field/MillisDurationField.getUnitMillis
+after post processing ......
+org/joda/time/field/MillisDurationField.compareTo
+org/joda/time/field/MillisDurationField.getUnitMillis
+found in top 10

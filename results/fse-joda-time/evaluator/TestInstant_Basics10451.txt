@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestInstant_Basics.testGet_DateTimeFieldType:156
+Methods call in assertion: [org/joda/time/DateTimeFieldType.centuryOfEra, org/joda/time/Instant.get]
+org/joda/time/DateTimeFieldType.centuryOfEra
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/Instant.getChronology
+org/joda/time/field/DividedDateTimeField.get
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/AssembledChronology.centuryOfEra
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+top 10 recommendations: 
+org/joda/time/Instant.getChronology
+org/joda/time/DateTimeFieldType.centuryOfEra
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/field/DividedDateTimeField.get
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/AssembledChronology.centuryOfEra
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+after post processing ......
+org/joda/time/Instant.getChronology
+org/joda/time/DateTimeFieldType.centuryOfEra
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/field/DividedDateTimeField.get
+org/joda/time/base/AbstractInstant.get
+org/joda/time/chrono/AssembledChronology.centuryOfEra
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+found in top 10

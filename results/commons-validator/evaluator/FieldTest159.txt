@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.validator.FieldTest.testDefaultOnePosition:111
+Methods call in assertion: [org/apache/commons/validator/Field.getArgs]
+org/apache/commons/validator/Arg.getName
+org/apache/commons/validator/Arg.getKey
+org/apache/commons/validator/Arg.getPosition
+org/apache/commons/validator/Field.addArg
+org/apache/commons/validator/Field.getArgs
+top 10 recommendations: 
+org/apache/commons/validator/Field.addArg
+org/apache/commons/validator/Arg.getName
+org/apache/commons/validator/Arg.getKey
+org/apache/commons/validator/Arg.getPosition
+org/apache/commons/validator/Field.getArgs
+after post processing ......
+org/apache/commons/validator/Field.addArg
+org/apache/commons/validator/Arg.getName
+org/apache/commons/validator/Arg.getKey
+org/apache/commons/validator/Arg.getPosition
+org/apache/commons/validator/Field.getArgs
+found in top 10

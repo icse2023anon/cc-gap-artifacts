@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.ArrayUtilsAddTest.testAddObjectArrayToObjectArray:309
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.addAll]
+org/apache/commons/lang3/ArrayUtils.addAll
+org/apache/commons/lang3/ArrayUtils.clone
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.addAll
+org/apache/commons/lang3/ArrayUtils.clone
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.addAll
+org/apache/commons/lang3/ArrayUtils.clone
+perfect match

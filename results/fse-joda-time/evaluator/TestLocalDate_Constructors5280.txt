@@ -1,0 +1,45 @@
+slicing criterion: org.joda.time.TestLocalDate_Constructors.testParse_formatter:149
+Methods call in assertion: [org/joda/time/LocalDate.parse]
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/LocalDate.compareTo
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/format/DateTimeFormatterBuilder.appendSignedDecimal
+org/joda/time/LocalDate.parse
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/format/DateTimeFormatter.parseLocalDate
+org/joda/time/tz/CachedDateTimeZone.hashCode
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/LocalDate.parse
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/LocalDate.compareTo
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/format/DateTimeFormatterBuilder.appendSignedDecimal
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+after post processing ......
+org/joda/time/format/DateTimeFormatterBuilder.appendYear
+org/joda/time/format/DateTimeFormatterBuilder.appendMonthOfYear
+org/joda/time/LocalDate.parse
+org/joda/time/format/DateTimeFormatterBuilder.appendDayOfMonth
+org/joda/time/format/DateTimeFormatterBuilder.appendLiteral
+org/joda/time/LocalDate.compareTo
+org/joda/time/format/DateTimeFormatter.withChronology
+org/joda/time/format/DateTimeFormatterBuilder.appendSignedDecimal
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/format/DateTimeFormatterBuilder.appendDecimal
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/format/DateTimeFormatter.parseLocalDate
+org/joda/time/tz/CachedDateTimeZone.hashCode
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableByteTest.testToByte:161
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableByte.toByte]
+org/apache/commons/lang3/mutable/MutableByte.toByte
+org/apache/commons/lang3/mutable/MutableByte.byteValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableByte.toByte
+org/apache/commons/lang3/mutable/MutableByte.byteValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableByte.toByte
+org/apache/commons/lang3/mutable/MutableByte.byteValue
+perfect match

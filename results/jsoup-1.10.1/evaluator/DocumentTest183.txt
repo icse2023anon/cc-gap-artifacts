@@ -1,0 +1,45 @@
+slicing criterion: org.jsoup.nodes.DocumentTest.testMetaCharsetUpdateXmlUtf8:323
+Methods call in assertion: [org/jsoup/nodes/XmlDeclaration.attr]
+org/jsoup/nodes/Document.charset
+org/jsoup/nodes/Node.childNode
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/nodes/Document.updateMetaCharsetElement
+org/jsoup/nodes/Attributes.getIgnoreCase
+org/jsoup/nodes/XmlDeclaration.name
+org/jsoup/nodes/Element.appendElement
+org/jsoup/nodes/Node.addChildren
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Document.<init>
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Element.prependChild
+org/jsoup/nodes/Node.childNodes
+org/jsoup/nodes/Attribute.getValue
+org/jsoup/nodes/Node.attr
+top 10 recommendations: 
+org/jsoup/nodes/Node.attr
+org/jsoup/nodes/Document.charset
+org/jsoup/nodes/Attributes.getIgnoreCase
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Node.childNode
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/nodes/Document.updateMetaCharsetElement
+org/jsoup/nodes/XmlDeclaration.name
+org/jsoup/nodes/Element.appendElement
+org/jsoup/nodes/Node.addChildren
+after post processing ......
+org/jsoup/nodes/Node.attr
+org/jsoup/nodes/Document.charset
+org/jsoup/nodes/Attributes.getIgnoreCase
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Node.childNode
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/nodes/Document.updateMetaCharsetElement
+org/jsoup/nodes/XmlDeclaration.name
+org/jsoup/nodes/Element.appendElement
+org/jsoup/nodes/Node.addChildren
+org/jsoup/nodes/Document.<init>
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Element.prependChild
+org/jsoup/nodes/Node.childNodes
+org/jsoup/nodes/Attribute.getValue
+found in top 10

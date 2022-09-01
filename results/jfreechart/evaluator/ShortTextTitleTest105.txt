@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.title.ShortTextTitleTest.testEquals:65
+Methods call in assertion: [org/jfree/chart/title/ShortTextTitle.equals]
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/title/TextTitle.setText
+org/jfree/chart/util/ObjectUtils.equal
+top 10 recommendations: 
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/title/TextTitle.setText
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/title/TextTitle.equals
+org/jfree/chart/title/TextTitle.setText
+org/jfree/chart/util/ObjectUtils.equal
+found in top 10

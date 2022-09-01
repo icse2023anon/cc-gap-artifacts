@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.validator.routines.TimeValidatorTest.testCompare:299
+Methods call in assertion: [org/apache/commons/validator/routines/TimeValidator.compareHours]
+org/apache/commons/validator/routines/TimeValidator.compareTime
+org/apache/commons/validator/routines/AbstractCalendarValidator.compareTime
+org/apache/commons/validator/routines/TimeValidator.compareHours
+top 10 recommendations: 
+org/apache/commons/validator/routines/TimeValidator.compareHours
+org/apache/commons/validator/routines/TimeValidator.compareTime
+org/apache/commons/validator/routines/AbstractCalendarValidator.compareTime
+after post processing ......
+org/apache/commons/validator/routines/TimeValidator.compareHours
+org/apache/commons/validator/routines/TimeValidator.compareTime
+org/apache/commons/validator/routines/AbstractCalendarValidator.compareTime
+perfect match

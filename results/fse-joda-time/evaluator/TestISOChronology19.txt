@@ -1,0 +1,51 @@
+slicing criterion: org.joda.time.chrono.TestISOChronology.testMinYear:390
+Methods call in assertion: [org/joda/time/DateTime.getYear]
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/GregorianChronology.calculateFirstDayOfYearMillis
+org/joda/time/base/AbstractDateTime.getYear
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/chrono/BasicChronology.getYearMillis
+org/joda/time/chrono/GregorianChronology.getMinYear
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/chrono/BasicYearDateTimeField.getMinimumValue
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/GregorianChronology.calculateFirstDayOfYearMillis
+org/joda/time/base/AbstractDateTime.getYear
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/base/BaseDateTime.getChronology
+after post processing ......
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/GregorianChronology.calculateFirstDayOfYearMillis
+org/joda/time/base/AbstractDateTime.getYear
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/BasicChronology.getYearMillis
+org/joda/time/chrono/GregorianChronology.getMinYear
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/chrono/BasicYearDateTimeField.getMinimumValue
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/DateTimeUtils.getChronology
+not matched

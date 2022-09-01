@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.reflect.FieldUtilsTest.testGetAllFieldsList:239
+Methods call in assertion: [org/apache/commons/lang3/reflect/FieldUtils.getAllFieldsList]
+org/apache/commons/lang3/reflect/FieldUtils.getField
+org/apache/commons/lang3/reflect/FieldUtils.getAllFieldsList
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/FieldUtils.getField
+org/apache/commons/lang3/reflect/FieldUtils.getAllFieldsList
+after post processing ......
+org/apache/commons/lang3/reflect/FieldUtils.getField
+org/apache/commons/lang3/reflect/FieldUtils.getAllFieldsList
+found in top 10

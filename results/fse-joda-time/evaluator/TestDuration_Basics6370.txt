@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDuration_Basics.testEqualsHashCode:211
+Methods call in assertion: [org/joda/time/Duration.equals]
+org/joda/time/base/AbstractDuration.equals
+top 10 recommendations: 
+org/joda/time/base/AbstractDuration.equals
+after post processing ......
+org/joda/time/base/AbstractDuration.equals
+perfect match

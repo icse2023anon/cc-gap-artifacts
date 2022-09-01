@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testGetSetNullText:311
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.getNullText]
+org/apache/commons/lang3/text/StrBuilder.getNullText
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.getNullText
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.getNullText
+perfect match

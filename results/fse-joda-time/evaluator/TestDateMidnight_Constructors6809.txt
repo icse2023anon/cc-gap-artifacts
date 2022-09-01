@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestDateMidnight_Constructors.testParse_noFormatter:221
+Methods call in assertion: [org/joda/time/DateMidnight.parse, org/joda/time/chrono/ISOChronology.getInstance]
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/DateMidnight.parse
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateMidnight.<init>
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+top 10 recommendations: 
+org/joda/time/DateMidnight.<init>
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/DateMidnight.parse
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+after post processing ......
+org/joda/time/DateMidnight.<init>
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/DateMidnight.parse
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+found in top 10

@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.chrono.TestGregorianChronology.testToString:238
+Methods call in assertion: [org/joda/time/chrono/GregorianChronology.toString, org/joda/time/chrono/GregorianChronology.getInstance]
+org/joda/time/DateTimeZone.getID
+org/joda/time/UTCDateTimeZone.hashCode
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/chrono/GregorianChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+top 10 recommendations: 
+org/joda/time/chrono/GregorianChronology.getInstance
+org/joda/time/DateTimeZone.getID
+org/joda/time/UTCDateTimeZone.hashCode
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+after post processing ......
+org/joda/time/chrono/GregorianChronology.getInstance
+org/joda/time/DateTimeZone.getID
+org/joda/time/UTCDateTimeZone.hashCode
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+not matched

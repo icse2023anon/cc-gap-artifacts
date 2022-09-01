@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.reflect.InheritanceUtilsTest.testDistanceGreaterThanZero:54
+Methods call in assertion: [org/apache/commons/lang3/reflect/InheritanceUtils.distance]
+org/apache/commons/lang3/BooleanUtils.toInteger
+org/apache/commons/lang3/reflect/InheritanceUtils.distance
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/InheritanceUtils.distance
+org/apache/commons/lang3/BooleanUtils.toInteger
+after post processing ......
+org/apache/commons/lang3/reflect/InheritanceUtils.distance
+org/apache/commons/lang3/BooleanUtils.toInteger
+perfect match

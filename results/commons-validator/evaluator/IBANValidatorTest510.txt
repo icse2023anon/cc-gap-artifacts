@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.validator.routines.IBANValidatorTest.testValid:142
+Methods call in assertion: [org/apache/commons/validator/routines/IBANValidator.isValid]
+org/apache/commons/validator/routines/IBANValidator.isValid
+org/apache/commons/validator/routines/IBANValidator.getValidator
+top 10 recommendations: 
+org/apache/commons/validator/routines/IBANValidator.isValid
+org/apache/commons/validator/routines/IBANValidator.getValidator
+after post processing ......
+org/apache/commons/validator/routines/IBANValidator.isValid
+org/apache/commons/validator/routines/IBANValidator.getValidator
+perfect match

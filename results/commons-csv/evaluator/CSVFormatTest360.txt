@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testWithFirstRecordAsHeader:459
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getHeader]
+org/apache/commons/csv/CSVFormat.withFirstRecordAsHeader
+org/apache/commons/csv/CSVFormat.getHeader
+org/apache/commons/csv/CSVFormat.withHeader
+org/apache/commons/csv/CSVFormat.withSkipHeaderRecord
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.withFirstRecordAsHeader
+org/apache/commons/csv/CSVFormat.getHeader
+org/apache/commons/csv/CSVFormat.withHeader
+org/apache/commons/csv/CSVFormat.withSkipHeaderRecord
+after post processing ......
+org/apache/commons/csv/CSVFormat.withFirstRecordAsHeader
+org/apache/commons/csv/CSVFormat.getHeader
+org/apache/commons/csv/CSVFormat.withHeader
+org/apache/commons/csv/CSVFormat.withSkipHeaderRecord
+found in top 10

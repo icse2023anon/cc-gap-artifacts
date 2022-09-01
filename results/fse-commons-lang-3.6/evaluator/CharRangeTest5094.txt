@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.CharRangeTest.testHashCode:173
+Methods call in assertion: [org/apache/commons/lang3/CharRange.hashCode]
+org/apache/commons/lang3/CharRange.isIn
+org/apache/commons/lang3/CharRange.hashCode
+top 10 recommendations: 
+org/apache/commons/lang3/CharRange.isIn
+org/apache/commons/lang3/CharRange.hashCode
+after post processing ......
+org/apache/commons/lang3/CharRange.isIn
+org/apache/commons/lang3/CharRange.hashCode
+found in top 10

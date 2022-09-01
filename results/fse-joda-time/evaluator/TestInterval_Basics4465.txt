@@ -1,0 +1,47 @@
+slicing criterion: org.joda.time.TestInterval_Basics.testEqualsHashCodeStrict:318
+Methods call in assertion: [org/joda/time/Interval.equals]
+org/joda/time/chrono/LenientChronology.equals
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/field/FieldUtils.equals
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/LenientChronology.getInstance
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/base/AbstractInterval.equals
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/base/BaseInterval.getStartMillis
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/base/AbstractInterval.equals
+org/joda/time/chrono/LenientChronology.equals
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/field/FieldUtils.equals
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/LenientChronology.getInstance
+org/joda/time/DateTimeUtils.getInstantMillis
+after post processing ......
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/base/AbstractInterval.equals
+org/joda/time/chrono/LenientChronology.equals
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/field/FieldUtils.equals
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/LenientChronology.getInstance
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/base/BaseInterval.getStartMillis
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

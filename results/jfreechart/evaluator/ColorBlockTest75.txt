@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.block.ColorBlockTest.testEquals:68
+Methods call in assertion: [org/jfree/chart/block/ColorBlock.equals]
+org/jfree/chart/block/ColorBlock.equals
+top 10 recommendations: 
+org/jfree/chart/block/ColorBlock.equals
+after post processing ......
+org/jfree/chart/block/ColorBlock.equals
+perfect match

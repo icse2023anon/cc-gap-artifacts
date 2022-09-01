@@ -1,0 +1,53 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testEqualsHashCode:383
+Methods call in assertion: [org/joda/time/LocalDateTime.hashCode, org/joda/time/Partial.hashCode]
+org/joda/time/base/AbstractPartial.hashCode
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/Partial.size
+org/joda/time/LocalDateTime.getValue
+org/joda/time/Partial.getChronology
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/Partial.getValue
+org/joda/time/Partial.getFieldType
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/Partial.<init>
+org/joda/time/LocalDateTime.getField
+org/joda/time/LocalDateTime.<init>
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/LocalDateTime.size
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.hashCode
+org/joda/time/LocalDateTime.getValue
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/Partial.size
+org/joda/time/Partial.getChronology
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/Partial.getValue
+org/joda/time/Partial.getFieldType
+after post processing ......
+org/joda/time/base/AbstractPartial.hashCode
+org/joda/time/LocalDateTime.getValue
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/chrono/AssembledChronology.millisOfDay
+org/joda/time/Partial.size
+org/joda/time/Partial.getChronology
+org/joda/time/base/AbstractPartial.getFieldType
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/Partial.getValue
+org/joda/time/Partial.getFieldType
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/Partial.<init>
+org/joda/time/LocalDateTime.getField
+org/joda/time/LocalDateTime.<init>
+org/joda/time/chrono/AssembledChronology.year
+org/joda/time/LocalDateTime.size
+org/joda/time/field/DecoratedDateTimeField.getWrappedField
+not matched

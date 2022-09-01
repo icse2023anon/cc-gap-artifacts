@@ -1,0 +1,65 @@
+slicing criterion: com.google.gson.functional.SerializedNameTest.testMultipleNamesDeserializedCorrectly:36
+Methods call in assertion: [com/google/gson/Gson.fromJson]
+com/google/gson/Gson.<init>
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/internal/ConstructorConstructor.get
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/Gson.getAdapter
+com/google/gson/reflect/TypeToken.equals
+com/google/gson/internal/bind/TypeAdapters.create
+com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.create
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/internal/bind/MapTypeAdapterFactory.create
+com/google/gson/Gson.fromJson
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/stream/JsonReader.peek
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.excludeField
+com/google/gson/internal/UnsafeAllocator.create
+com/google/gson/Gson.newJsonReader
+com/google/gson/internal/Excluder.excludeField
+com/google/gson/internal/bind/CollectionTypeAdapterFactory.create
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/internal/Excluder.excludeClass
+com/google/gson/internal/Excluder.create
+com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.create
+top 10 recommendations: 
+com/google/gson/Gson.fromJson
+com/google/gson/internal/bind/MapTypeAdapterFactory.create
+com/google/gson/internal/bind/CollectionTypeAdapterFactory.create
+com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.create
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/internal/ConstructorConstructor.get
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.excludeField
+com/google/gson/internal/Excluder.create
+com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.create
+after post processing ......
+com/google/gson/Gson.fromJson
+com/google/gson/internal/bind/MapTypeAdapterFactory.create
+com/google/gson/internal/bind/CollectionTypeAdapterFactory.create
+com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.create
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/internal/ConstructorConstructor.get
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.excludeField
+com/google/gson/internal/Excluder.create
+com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.create
+com/google/gson/stream/JsonReader.peek
+com/google/gson/Gson.newJsonReader
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/Gson.<init>
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/Gson.getAdapter
+com/google/gson/reflect/TypeToken.equals
+com/google/gson/internal/bind/TypeAdapters.create
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/internal/UnsafeAllocator.create
+com/google/gson/internal/Excluder.excludeField
+com/google/gson/internal/Excluder.excludeClass
+perfect match

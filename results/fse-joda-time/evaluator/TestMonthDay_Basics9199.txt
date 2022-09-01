@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestMonthDay_Basics.testCompareTo:312
+Methods call in assertion: [org/joda/time/MonthDay.compareTo]
+org/joda/time/MonthDay.<init>
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/AbstractPartial.compareTo
+org/joda/time/MonthDay.size
+top 10 recommendations: 
+org/joda/time/MonthDay.<init>
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/AbstractPartial.compareTo
+org/joda/time/MonthDay.size
+after post processing ......
+org/joda/time/MonthDay.<init>
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/AbstractPartial.compareTo
+org/joda/time/MonthDay.size
+found in top 10

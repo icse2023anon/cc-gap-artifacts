@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.field.TestMillisDurationField.test_getDifference_long_int:188
+Methods call in assertion: [org/joda/time/DurationField.getDifference]
+org/joda/time/field/FieldUtils.safeToInt
+org/joda/time/field/MillisDurationField.getDifference
+org/joda/time/field/FieldUtils.safeSubtract
+top 10 recommendations: 
+org/joda/time/field/MillisDurationField.getDifference
+org/joda/time/field/FieldUtils.safeToInt
+org/joda/time/field/FieldUtils.safeSubtract
+after post processing ......
+org/joda/time/field/MillisDurationField.getDifference
+org/joda/time/field/FieldUtils.safeToInt
+org/joda/time/field/FieldUtils.safeSubtract
+found in top 10

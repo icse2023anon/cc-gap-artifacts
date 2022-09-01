@@ -1,0 +1,29 @@
+slicing criterion: com.thoughtworks.xstream.io.xml.xppdom.XppDomComparatorTest.testSortsAttributesBeforeElements:220
+Methods call in assertion: [com/thoughtworks/xstream/io/xml/xppdom/XppDomComparator.compare]
+com/thoughtworks/xstream/io/xml/xppdom/XppFactory.createDefaultParser
+com/thoughtworks/xstream/io/xml/xppdom/XppDom.setAttribute
+com/thoughtworks/xstream/io/xml/xppdom/XppDom.getAttribute
+com/thoughtworks/xstream/io/xml/xppdom/XppDomComparator.compare
+com/thoughtworks/xstream/io/xml/xppdom/XppDom.getAttributeNames
+com/thoughtworks/xstream/io/xml/xppdom/XppDom.build
+com/thoughtworks/xstream/io/xml/xppdom/XppFactory.buildDom
+com/thoughtworks/xstream/io/xml/xppdom/XppDom.getName
+top 10 recommendations: 
+com/thoughtworks/xstream/io/xml/xppdom/XppFactory.buildDom
+com/thoughtworks/xstream/io/xml/xppdom/XppDom.build
+com/thoughtworks/xstream/io/xml/xppdom/XppFactory.createDefaultParser
+com/thoughtworks/xstream/io/xml/xppdom/XppDom.setAttribute
+com/thoughtworks/xstream/io/xml/xppdom/XppDom.getAttribute
+com/thoughtworks/xstream/io/xml/xppdom/XppDomComparator.compare
+com/thoughtworks/xstream/io/xml/xppdom/XppDom.getAttributeNames
+com/thoughtworks/xstream/io/xml/xppdom/XppDom.getName
+after post processing ......
+com/thoughtworks/xstream/io/xml/xppdom/XppFactory.buildDom
+com/thoughtworks/xstream/io/xml/xppdom/XppDom.build
+com/thoughtworks/xstream/io/xml/xppdom/XppFactory.createDefaultParser
+com/thoughtworks/xstream/io/xml/xppdom/XppDom.setAttribute
+com/thoughtworks/xstream/io/xml/xppdom/XppDom.getAttribute
+com/thoughtworks/xstream/io/xml/xppdom/XppDomComparator.compare
+com/thoughtworks/xstream/io/xml/xppdom/XppDom.getAttributeNames
+com/thoughtworks/xstream/io/xml/xppdom/XppDom.getName
+found in top 10

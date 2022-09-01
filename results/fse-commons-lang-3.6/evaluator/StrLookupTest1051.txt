@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.StrLookupTest.testNoneLookup:49
+Methods call in assertion: [org/apache/commons/lang3/text/StrLookup.lookup, org/apache/commons/lang3/text/StrLookup.noneLookup]
+org/apache/commons/lang3/text/StrLookup.noneLookup
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrLookup.noneLookup
+after post processing ......
+org/apache/commons/lang3/text/StrLookup.noneLookup
+not matched

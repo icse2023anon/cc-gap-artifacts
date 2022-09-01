@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestYears.testPlus_int:226
+Methods call in assertion: [org/joda/time/Years.getYears]
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/Years.plus
+org/joda/time/Years.getYears
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Years.years
+top 10 recommendations: 
+org/joda/time/Years.plus
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/Years.getYears
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Years.years
+after post processing ......
+org/joda/time/Years.plus
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/Years.getYears
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Years.years
+found in top 10

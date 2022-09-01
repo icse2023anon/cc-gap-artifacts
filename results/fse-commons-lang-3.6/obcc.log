@@ -1,0 +1,48 @@
+Aug 25, 2022 6:07:45 PM omc_ob.OMCob main
+INFO: total slices = total criteria = total assertions = 14153
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+INFO: Total condition covered: 5108
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.lang3.builder.EqualsBuilderTest$TestBCanEqualA class not found in the jacoco report report
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.lang3.event.EventUtilsTest$EventCountingInvociationHandler class not found in the jacoco report report
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.lang3.builder.EqualsBuilderTest$TestACanEqualB class not found in the jacoco report report
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.lang3.text.StrBuilderTest$1 class not found in the jacoco report report
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.lang3.builder.EqualsBuilderTest$TestObject class not found in the jacoco report report
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per class coverage for object branch!
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: obc<omc_ob: org.apache.commons.lang3.reflect.TypeUtils.isAssignable 30.985916 50.0 71
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: obc<omc_ob: org.apache.commons.lang3.StringUtils.capitalize 100.0 112.5 9
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: obc<omc_ob: org.apache.commons.lang3.StringUtils.uncapitalize 100.0 112.5 9
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.lang3.event.EventUtilsTest$EventCountingInvociationHandler.getEventCount not found in the jacoco report
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: obc<omc_ob: org.apache.commons.lang3.StringUtils.stripStart 100.0 106.25 17
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: obc<omc_ob: org.apache.commons.lang3.StringUtils.stripEnd 100.0 106.25 17
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: obc<omc_ob: org.apache.commons.lang3.StringUtils.isBlank 100.0 112.5 9
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.lang3.builder.EqualsBuilderTest$TestBCanEqualA.equals not found in the jacoco report
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.lang3.text.StrBuilderTest$1.isMatch not found in the jacoco report
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.lang3.event.EventUtilsTest$EventCountingInvociationHandler.invoke not found in the jacoco report
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.lang3.builder.EqualsBuilderTest$TestObject.equals not found in the jacoco report
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.lang3.builder.EqualsBuilderTest$TestACanEqualB.equals not found in the jacoco report
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+WARNING: obc<omc_ob: org.apache.commons.lang3.reflect.MethodUtils.getAccessibleMethodFromInterfaceNest 75.0 87.5 7
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per method coverage for object branch!
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob main
+INFO: OBC :81.12405063291139
+Aug 25, 2022 6:07:59 PM omc_ob.OMCob main
+INFO: OMC_OBC :51.72658227848102

@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.field.TestBaseDateTimeField.test_getLeapAmount_long:422
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.getLeapAmount]
+org/joda/time/field/BaseDateTimeField.getLeapAmount
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.getLeapAmount
+after post processing ......
+org/joda/time/field/BaseDateTimeField.getLeapAmount
+perfect match

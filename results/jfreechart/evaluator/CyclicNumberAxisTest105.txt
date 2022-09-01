@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.axis.CyclicNumberAxisTest.testEquals:89
+Methods call in assertion: [org/jfree/chart/axis/CyclicNumberAxis.equals]
+org/jfree/chart/axis/CyclicNumberAxis.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+top 10 recommendations: 
+org/jfree/chart/axis/CyclicNumberAxis.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/axis/CyclicNumberAxis.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

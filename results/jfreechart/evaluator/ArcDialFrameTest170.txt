@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.plot.dial.ArcDialFrameTest.testCloning:149
+Methods call in assertion: [org/jfree/chart/plot/dial/ArcDialFrame.hasListener]
+org/jfree/chart/plot/dial/AbstractDialLayer.clone
+org/jfree/chart/plot/dial/AbstractDialLayer.addChangeListener
+org/jfree/chart/plot/dial/ArcDialFrame.getExtent
+org/jfree/chart/plot/dial/AbstractDialLayer.hasListener
+top 10 recommendations: 
+org/jfree/chart/plot/dial/AbstractDialLayer.clone
+org/jfree/chart/plot/dial/AbstractDialLayer.addChangeListener
+org/jfree/chart/plot/dial/ArcDialFrame.getExtent
+org/jfree/chart/plot/dial/AbstractDialLayer.hasListener
+after post processing ......
+org/jfree/chart/plot/dial/AbstractDialLayer.clone
+org/jfree/chart/plot/dial/AbstractDialLayer.addChangeListener
+org/jfree/chart/plot/dial/ArcDialFrame.getExtent
+org/jfree/chart/plot/dial/AbstractDialLayer.hasListener
+found in top 10

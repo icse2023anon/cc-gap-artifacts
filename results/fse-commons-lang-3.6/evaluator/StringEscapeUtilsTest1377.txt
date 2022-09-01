@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeHtmlVersions:345
+Methods call in assertion: [org/apache/commons/lang3/StringEscapeUtils.escapeHtml4]
+org/apache/commons/lang3/StringEscapeUtils.escapeHtml4
+top 10 recommendations: 
+org/apache/commons/lang3/StringEscapeUtils.escapeHtml4
+after post processing ......
+org/apache/commons/lang3/StringEscapeUtils.escapeHtml4
+perfect match

@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestMutableDateTime_Basics.testIsBefore:388
+Methods call in assertion: [org/joda/time/MutableDateTime.isBefore]
+org/joda/time/base/AbstractInstant.isBefore
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/base/BaseDateTime.getMillis
+top 10 recommendations: 
+org/joda/time/base/AbstractInstant.isBefore
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/base/BaseDateTime.getMillis
+after post processing ......
+org/joda/time/base/AbstractInstant.isBefore
+org/joda/time/base/BaseDateTime.checkInstant
+org/joda/time/DateTimeUtils.getInstantMillis
+org/joda/time/base/BaseDateTime.getMillis
+not matched

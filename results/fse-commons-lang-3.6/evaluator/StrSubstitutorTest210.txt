@@ -1,0 +1,43 @@
+slicing criterion: org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceInVariable:360
+Methods call in assertion: [org/apache/commons/lang3/text/StrSubstitutor.replace]
+org/apache/commons/lang3/text/StrSubstitutor.getValueDelimiterMatcher
+org/apache/commons/lang3/text/StrSubstitutor.isPreserveEscapes
+org/apache/commons/lang3/text/StrSubstitutor.replace
+org/apache/commons/lang3/text/StrSubstitutor.isEnableSubstitutionInVariables
+org/apache/commons/lang3/text/StrSubstitutor.getVariableResolver
+org/apache/commons/lang3/text/StrBuilder.<init>
+org/apache/commons/lang3/text/StrSubstitutor.getVariablePrefixMatcher
+org/apache/commons/lang3/text/StrBuilder.toString
+org/apache/commons/lang3/text/StrSubstitutor.substitute
+org/apache/commons/lang3/text/StrSubstitutor.getVariableSuffixMatcher
+org/apache/commons/lang3/text/StrLookup.lookup
+org/apache/commons/lang3/text/StrMatcher.isMatch
+org/apache/commons/lang3/text/StrSubstitutor.resolveVariable
+org/apache/commons/lang3/text/StrSubstitutor.getEscapeChar
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrSubstitutor.replace
+org/apache/commons/lang3/text/StrSubstitutor.substitute
+org/apache/commons/lang3/text/StrSubstitutor.resolveVariable
+org/apache/commons/lang3/text/StrSubstitutor.getValueDelimiterMatcher
+org/apache/commons/lang3/text/StrSubstitutor.isPreserveEscapes
+org/apache/commons/lang3/text/StrSubstitutor.isEnableSubstitutionInVariables
+org/apache/commons/lang3/text/StrSubstitutor.getVariableResolver
+org/apache/commons/lang3/text/StrBuilder.<init>
+org/apache/commons/lang3/text/StrSubstitutor.getVariablePrefixMatcher
+org/apache/commons/lang3/text/StrBuilder.toString
+after post processing ......
+org/apache/commons/lang3/text/StrSubstitutor.replace
+org/apache/commons/lang3/text/StrSubstitutor.substitute
+org/apache/commons/lang3/text/StrSubstitutor.resolveVariable
+org/apache/commons/lang3/text/StrSubstitutor.getValueDelimiterMatcher
+org/apache/commons/lang3/text/StrSubstitutor.isPreserveEscapes
+org/apache/commons/lang3/text/StrSubstitutor.isEnableSubstitutionInVariables
+org/apache/commons/lang3/text/StrSubstitutor.getVariableResolver
+org/apache/commons/lang3/text/StrBuilder.<init>
+org/apache/commons/lang3/text/StrSubstitutor.getVariablePrefixMatcher
+org/apache/commons/lang3/text/StrBuilder.toString
+org/apache/commons/lang3/text/StrSubstitutor.getVariableSuffixMatcher
+org/apache/commons/lang3/text/StrLookup.lookup
+org/apache/commons/lang3/text/StrMatcher.isMatch
+org/apache/commons/lang3/text/StrSubstitutor.getEscapeChar
+perfect match

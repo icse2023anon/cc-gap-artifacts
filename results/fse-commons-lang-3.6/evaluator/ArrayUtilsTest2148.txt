@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ArrayUtilsTest.testSameType:2020
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.isSameType]
+org/apache/commons/lang3/ArrayUtils.isSameType
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.isSameType
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.isSameType
+perfect match

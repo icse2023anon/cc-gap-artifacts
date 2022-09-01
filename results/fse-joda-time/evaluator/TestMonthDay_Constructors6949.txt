@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestMonthDay_Constructors.testConstructor_int_int_Chronology:411
+Methods call in assertion: [org/joda/time/MonthDay.getDayOfMonth]
+org/joda/time/base/BasePartial.getValue
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/MonthDay.getDayOfMonth
+top 10 recommendations: 
+org/joda/time/base/BasePartial.getValue
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/MonthDay.getDayOfMonth
+after post processing ......
+org/joda/time/base/BasePartial.getValue
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/MonthDay.getDayOfMonth
+found in top 10

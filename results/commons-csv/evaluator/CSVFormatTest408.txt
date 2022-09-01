@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testToStringAndWithCommentMarkerTakingCharacter:589
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getNullString]
+org/apache/commons/csv/CSVFormat.withCommentMarker
+org/apache/commons/csv/CSVFormat.getNullString
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.withCommentMarker
+org/apache/commons/csv/CSVFormat.getNullString
+after post processing ......
+org/apache/commons/csv/CSVFormat.withCommentMarker
+org/apache/commons/csv/CSVFormat.getNullString
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateMidnight_Basics.testProperty:1051
+Methods call in assertion: [org/joda/time/DateTimeFieldType.year, org/joda/time/DateMidnight.year, org/joda/time/DateMidnight.property]
+org/joda/time/DateTimeFieldType.year
+org/joda/time/DateMidnight.addWrapFieldToCopy
+top 10 recommendations: 
+org/joda/time/DateTimeFieldType.year
+org/joda/time/DateMidnight.addWrapFieldToCopy
+after post processing ......
+org/joda/time/DateTimeFieldType.year
+org/joda/time/DateMidnight.addWrapFieldToCopy
+not matched

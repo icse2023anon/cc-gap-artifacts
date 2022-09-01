@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestIllegalFieldValueException.testSetText:140
+Methods call in assertion: [org/joda/time/IllegalFieldValueException.getDurationFieldType]
+org/joda/time/IllegalFieldValueException.getDurationFieldType
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/field/BaseDateTimeField.convertText
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/IllegalFieldValueException.getDurationFieldType
+org/joda/time/field/BaseDateTimeField.convertText
+after post processing ......
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/IllegalFieldValueException.getDurationFieldType
+org/joda/time/field/BaseDateTimeField.convertText
+found in top 10

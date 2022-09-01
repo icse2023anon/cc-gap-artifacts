@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI1:733
+Methods call in assertion: [org/joda/time/PeriodType.standard, org/joda/time/Period.getPeriodType]
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/PeriodType.standard
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/BasePeriod.checkPeriodType
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.standard
+after post processing ......
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.standard
+found in top 10

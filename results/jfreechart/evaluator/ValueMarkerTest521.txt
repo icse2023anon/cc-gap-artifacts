@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.plot.ValueMarkerTest.testCloning:171
+Methods call in assertion: [org/jfree/chart/plot/ValueMarker.equals]
+org/jfree/chart/plot/ValueMarker.equals
+org/jfree/chart/plot/Marker.clone
+top 10 recommendations: 
+org/jfree/chart/plot/ValueMarker.equals
+org/jfree/chart/plot/Marker.clone
+after post processing ......
+org/jfree/chart/plot/ValueMarker.equals
+org/jfree/chart/plot/Marker.clone
+perfect match

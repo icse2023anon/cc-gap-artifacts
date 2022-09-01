@@ -1,0 +1,8 @@
+slicing criterion: com.thoughtworks.xstream.core.util.ObjectIdDictionaryTest.testMapsIdsToObjectReferences:26
+Methods call in assertion: [com/thoughtworks/xstream/core/util/ObjectIdDictionary.lookupId]
+com/thoughtworks/xstream/core/util/ObjectIdDictionary.lookupId
+top 10 recommendations: 
+com/thoughtworks/xstream/core/util/ObjectIdDictionary.lookupId
+after post processing ......
+com/thoughtworks/xstream/core/util/ObjectIdDictionary.lookupId
+perfect match

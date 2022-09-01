@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.math.FractionTest.testToString:1345
+Methods call in assertion: [org/apache/commons/lang3/math/Fraction.toString]
+org/apache/commons/lang3/math/Fraction.toString
+org/apache/commons/lang3/math/Fraction.getFraction
+top 10 recommendations: 
+org/apache/commons/lang3/math/Fraction.toString
+org/apache/commons/lang3/math/Fraction.getFraction
+after post processing ......
+org/apache/commons/lang3/math/Fraction.toString
+org/apache/commons/lang3/math/Fraction.getFraction
+perfect match

@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.tuple.PairTest.testComparable2:102
+Methods call in assertion: [org/apache/commons/lang3/tuple/Pair.compareTo]
+org/apache/commons/lang3/builder/CompareToBuilder.append
+org/apache/commons/lang3/tuple/ImmutablePair.getLeft
+org/apache/commons/lang3/tuple/ImmutablePair.getRight
+org/apache/commons/lang3/builder/CompareToBuilder.toComparison
+top 10 recommendations: 
+org/apache/commons/lang3/builder/CompareToBuilder.append
+org/apache/commons/lang3/tuple/ImmutablePair.getLeft
+org/apache/commons/lang3/tuple/ImmutablePair.getRight
+org/apache/commons/lang3/builder/CompareToBuilder.toComparison
+after post processing ......
+org/apache/commons/lang3/builder/CompareToBuilder.append
+org/apache/commons/lang3/tuple/ImmutablePair.getLeft
+org/apache/commons/lang3/tuple/ImmutablePair.getRight
+org/apache/commons/lang3/builder/CompareToBuilder.toComparison
+not matched

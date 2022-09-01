@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.codec.binary.HexTest.testEncodeDecodeHexCharArrayRandom:365
+Methods call in assertion: [org/apache/commons/codec/binary/StringUtils.getBytesUtf8]
+org/apache/commons/codec/binary/Hex.decode
+org/apache/commons/codec/binary/StringUtils.getBytesUtf8
+top 10 recommendations: 
+org/apache/commons/codec/binary/Hex.decode
+org/apache/commons/codec/binary/StringUtils.getBytesUtf8
+after post processing ......
+org/apache/commons/codec/binary/Hex.decode
+org/apache/commons/codec/binary/StringUtils.getBytesUtf8
+found in top 10

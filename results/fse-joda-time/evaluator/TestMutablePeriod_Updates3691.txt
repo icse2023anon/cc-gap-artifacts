@@ -1,0 +1,37 @@
+slicing criterion: org.joda.time.TestMutablePeriod_Updates.testAdd_long_Chronology3:1272
+Methods call in assertion: [org/joda/time/MutablePeriod.getDays]
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/PeriodType.standard
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/MutablePeriod.getDays
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/base/BasePeriod.getValue
+top 10 recommendations: 
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/MutablePeriod.getDays
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/PeriodType.standard
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/PeriodType.getIndexedField
+after post processing ......
+org/joda/time/base/BasePeriod.<init>
+org/joda/time/base/BasePeriod.checkPeriodType
+org/joda/time/DateTimeUtils.getPeriodType
+org/joda/time/MutablePeriod.getDays
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractPeriod.size
+org/joda/time/PeriodType.standard
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/base/BasePeriod.getValue
+found in top 10

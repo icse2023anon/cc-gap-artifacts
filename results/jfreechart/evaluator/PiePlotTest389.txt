@@ -1,0 +1,41 @@
+slicing criterion: org.jfree.chart.plot.PiePlotTest.testCloning_LegendLabelGenerator:473
+Methods call in assertion: [org/jfree/chart/plot/PiePlot.equals]
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/PaintMap.clone
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.clone
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/plot/PiePlot.clone
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/plot/PiePlot.equals
+org/jfree/chart/StrokeMap.clone
+top 10 recommendations: 
+org/jfree/chart/plot/PiePlot.clone
+org/jfree/chart/plot/PiePlot.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/PaintMap.clone
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.clone
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/plot/PiePlot.clone
+org/jfree/chart/plot/PiePlot.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/util/ShapeUtils.clone
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/PaintMap.clone
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.clone
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/StrokeMap.clone
+found in top 10

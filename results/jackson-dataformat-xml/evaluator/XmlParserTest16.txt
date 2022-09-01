@@ -1,0 +1,20 @@
+slicing criterion: com.fasterxml.jackson.dataformat.xml.stream.XmlParserTest.testForceElementAsArray:188
+Methods call in assertion: [com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getParsingContext, com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.inObject]
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createChildObjectContext
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getParsingContext
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextToken
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.toString
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+top 10 recommendations: 
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextToken
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createChildObjectContext
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getParsingContext
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.toString
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+after post processing ......
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.nextToken
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.createChildObjectContext
+com/fasterxml/jackson/dataformat/xml/deser/FromXmlParser.getParsingContext
+com/fasterxml/jackson/dataformat/xml/deser/XmlReadContext.toString
+com/fasterxml/jackson/dataformat/xml/XmlFactory._createParser
+not matched

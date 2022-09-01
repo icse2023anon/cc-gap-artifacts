@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestPeriodType.testHours:433
+Methods call in assertion: [org/joda/time/PeriodType.toString]
+org/joda/time/PeriodType.hours
+org/joda/time/PeriodType.toString
+top 10 recommendations: 
+org/joda/time/PeriodType.hours
+org/joda/time/PeriodType.toString
+after post processing ......
+org/joda/time/PeriodType.hours
+org/joda/time/PeriodType.toString
+found in top 10

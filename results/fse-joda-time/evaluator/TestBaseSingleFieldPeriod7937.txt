@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestBaseSingleFieldPeriod.testGet:212
+Methods call in assertion: [org/joda/time/DurationFieldType.weeks]
+org/joda/time/DurationFieldType.weeks
+org/joda/time/base/BaseSingleFieldPeriod.get
+org/joda/time/DurationFieldType.days
+top 10 recommendations: 
+org/joda/time/DurationFieldType.weeks
+org/joda/time/base/BaseSingleFieldPeriod.get
+org/joda/time/DurationFieldType.days
+after post processing ......
+org/joda/time/DurationFieldType.weeks
+org/joda/time/base/BaseSingleFieldPeriod.get
+org/joda/time/DurationFieldType.days
+perfect match

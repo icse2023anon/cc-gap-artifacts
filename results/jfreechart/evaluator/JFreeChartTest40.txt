@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.JFreeChartTest.testGetSubtitles:418
+Methods call in assertion: [org/jfree/chart/JFreeChart.getSubtitleCount]
+org/jfree/chart/JFreeChart.<init>
+org/jfree/chart/JFreeChart.getSubtitleCount
+org/jfree/chart/ChartFactory.createPieChart
+top 10 recommendations: 
+org/jfree/chart/ChartFactory.createPieChart
+org/jfree/chart/JFreeChart.<init>
+org/jfree/chart/JFreeChart.getSubtitleCount
+after post processing ......
+org/jfree/chart/ChartFactory.createPieChart
+org/jfree/chart/JFreeChart.<init>
+org/jfree/chart/JFreeChart.getSubtitleCount
+found in top 10

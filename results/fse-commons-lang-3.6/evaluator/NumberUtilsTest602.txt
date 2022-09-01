@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.math.NumberUtilsTest.testCreateNumber:276
+Methods call in assertion: [org/apache/commons/lang3/math/NumberUtils.createNumber]
+org/apache/commons/lang3/math/NumberUtils.createNumber
+org/apache/commons/lang3/math/NumberUtils.createLong
+org/apache/commons/lang3/math/NumberUtils.createInteger
+org/apache/commons/lang3/math/NumberUtils.createFloat
+top 10 recommendations: 
+org/apache/commons/lang3/math/NumberUtils.createNumber
+org/apache/commons/lang3/math/NumberUtils.createLong
+org/apache/commons/lang3/math/NumberUtils.createInteger
+org/apache/commons/lang3/math/NumberUtils.createFloat
+after post processing ......
+org/apache/commons/lang3/math/NumberUtils.createNumber
+org/apache/commons/lang3/math/NumberUtils.createLong
+org/apache/commons/lang3/math/NumberUtils.createInteger
+org/apache/commons/lang3/math/NumberUtils.createFloat
+perfect match

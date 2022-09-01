@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.xy.GradientXYBarPainterTest.testEquals:69
+Methods call in assertion: [org/jfree/chart/renderer/xy/GradientXYBarPainter.equals]
+org/jfree/chart/renderer/xy/GradientXYBarPainter.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/GradientXYBarPainter.equals
+after post processing ......
+org/jfree/chart/renderer/xy/GradientXYBarPainter.equals
+perfect match

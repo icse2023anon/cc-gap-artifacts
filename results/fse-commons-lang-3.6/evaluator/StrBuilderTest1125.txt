@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testContains_StrMatcher:1426
+Methods call in assertion: [org/apache/commons/lang3/text/StrMatcher.charMatcher, org/apache/commons/lang3/text/StrBuilder.contains]
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrBuilder.contains
+org/apache/commons/lang3/text/StrBuilder.<init>
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.indexOf
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.contains
+org/apache/commons/lang3/text/StrBuilder.<init>
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.indexOf
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.contains
+org/apache/commons/lang3/text/StrBuilder.<init>
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+org/apache/commons/lang3/text/StrBuilder.append
+org/apache/commons/lang3/text/StrBuilder.indexOf
+found in top 10

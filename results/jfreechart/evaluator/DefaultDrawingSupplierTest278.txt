@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.plot.DefaultDrawingSupplierTest.testEquals:154
+Methods call in assertion: [org/jfree/chart/plot/DefaultDrawingSupplier.equals]
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/DefaultDrawingSupplier.equals
+top 10 recommendations: 
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/DefaultDrawingSupplier.equals
+after post processing ......
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/DefaultDrawingSupplier.equals
+found in top 10

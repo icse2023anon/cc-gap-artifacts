@@ -1,0 +1,11 @@
+slicing criterion: org.codehaus.plexus.util.dag.DAGTest.testDAG:39
+Methods call in assertion: [org/codehaus/plexus/util/dag/DAG.getVertices]
+org/codehaus/plexus/util/dag/DAG.getVertices
+org/codehaus/plexus/util/dag/DAG.addVertex
+top 10 recommendations: 
+org/codehaus/plexus/util/dag/DAG.getVertices
+org/codehaus/plexus/util/dag/DAG.addVertex
+after post processing ......
+org/codehaus/plexus/util/dag/DAG.getVertices
+org/codehaus/plexus/util/dag/DAG.addVertex
+perfect match

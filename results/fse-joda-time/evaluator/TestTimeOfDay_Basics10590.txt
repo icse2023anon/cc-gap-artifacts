@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Basics.testCompareTo:309
+Methods call in assertion: [org/joda/time/TimeOfDay.compareTo]
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/TimeOfDay.size
+org/joda/time/base/AbstractPartial.compareTo
+top 10 recommendations: 
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/TimeOfDay.size
+org/joda/time/base/AbstractPartial.compareTo
+after post processing ......
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.setCopy
+org/joda/time/TimeOfDay.size
+org/joda/time/base/AbstractPartial.compareTo
+found in top 10

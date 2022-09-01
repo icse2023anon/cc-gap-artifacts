@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.axis.CategoryLabelWidthTypeTest.testHashCode:72
+Methods call in assertion: [org/jfree/chart/axis/CategoryLabelWidthType.equals]
+org/jfree/chart/axis/CategoryLabelWidthType.equals
+top 10 recommendations: 
+org/jfree/chart/axis/CategoryLabelWidthType.equals
+after post processing ......
+org/jfree/chart/axis/CategoryLabelWidthType.equals
+perfect match

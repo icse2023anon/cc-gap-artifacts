@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeXmlAllCharacters:458
+Methods call in assertion: [org/apache/commons/lang3/text/translate/CharSequenceTranslator.translate]
+org/apache/commons/lang3/text/translate/AggregateTranslator.translate
+top 10 recommendations: 
+org/apache/commons/lang3/text/translate/AggregateTranslator.translate
+after post processing ......
+org/apache/commons/lang3/text/translate/AggregateTranslator.translate
+perfect match

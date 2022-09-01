@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.reflect.MethodUtilsTest.testGetAccessiblePublicMethod:655
+Methods call in assertion: [org/apache/commons/lang3/reflect/MethodUtils.getAccessibleMethod]
+org/apache/commons/lang3/reflect/MethodUtils.getAccessibleMethod
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+top 10 recommendations: 
+org/apache/commons/lang3/reflect/MethodUtils.getAccessibleMethod
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+after post processing ......
+org/apache/commons/lang3/reflect/MethodUtils.getAccessibleMethod
+org/apache/commons/lang3/reflect/MemberUtils.isAccessible
+perfect match

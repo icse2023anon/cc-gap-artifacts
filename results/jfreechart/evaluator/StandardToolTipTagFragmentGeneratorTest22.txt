@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.imagemap.StandardToolTipTagFragmentGeneratorTest.testGenerateURLFragment:58
+Methods call in assertion: [org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.generateToolTipFragment]
+org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.generateToolTipFragment
+top 10 recommendations: 
+org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.generateToolTipFragment
+after post processing ......
+org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.generateToolTipFragment
+perfect match

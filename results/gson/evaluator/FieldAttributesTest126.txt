@@ -1,0 +1,8 @@
+slicing criterion: com.google.gson.FieldAttributesTest.testDeclaringClass:50
+Methods call in assertion: [com/google/gson/FieldAttributes.getDeclaringClass]
+com/google/gson/FieldAttributes.getDeclaringClass
+top 10 recommendations: 
+com/google/gson/FieldAttributes.getDeclaringClass
+after post processing ......
+com/google/gson/FieldAttributes.getDeclaringClass
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.dial.StandardDialScaleTest.testAngleToValue:270
+Methods call in assertion: [org/jfree/chart/plot/dial/StandardDialScale.angleToValue]
+org/jfree/chart/plot/dial/StandardDialScale.angleToValue
+top 10 recommendations: 
+org/jfree/chart/plot/dial/StandardDialScale.angleToValue
+after post processing ......
+org/jfree/chart/plot/dial/StandardDialScale.angleToValue
+perfect match

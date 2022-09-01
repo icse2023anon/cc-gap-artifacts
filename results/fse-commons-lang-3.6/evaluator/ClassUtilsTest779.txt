@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ClassUtilsTest.test_getPackageCanonicalName_Object:1256
+Methods call in assertion: [org/apache/commons/lang3/ClassUtils.getPackageCanonicalName]
+org/apache/commons/lang3/ClassUtils.getPackageCanonicalName
+top 10 recommendations: 
+org/apache/commons/lang3/ClassUtils.getPackageCanonicalName
+after post processing ......
+org/apache/commons/lang3/ClassUtils.getPackageCanonicalName
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestLocalDate_Basics.testProperty:1448
+Methods call in assertion: [org/joda/time/DateTimeFieldType.dayOfYear, org/joda/time/LocalDate.property, org/joda/time/LocalDate.dayOfYear]
+org/joda/time/LocalDate.compareTo
+org/joda/time/DateTimeFieldType.dayOfYear
+top 10 recommendations: 
+org/joda/time/LocalDate.compareTo
+org/joda/time/DateTimeFieldType.dayOfYear
+after post processing ......
+org/joda/time/LocalDate.compareTo
+org/joda/time/DateTimeFieldType.dayOfYear
+not matched

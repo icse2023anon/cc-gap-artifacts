@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.FormattableUtilsTest.testAlternatePadCharacter:57
+Methods call in assertion: [org/apache/commons/lang3/text/FormattableUtils.append]
+org/apache/commons/lang3/text/FormattableUtils.append
+top 10 recommendations: 
+org/apache/commons/lang3/text/FormattableUtils.append
+after post processing ......
+org/apache/commons/lang3/text/FormattableUtils.append
+perfect match

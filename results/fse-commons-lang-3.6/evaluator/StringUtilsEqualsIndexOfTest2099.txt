@@ -1,0 +1,23 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsEqualsIndexOfTest.testEqualsAnyIgnoreCase:254
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.equalsAnyIgnoreCase]
+org/apache/commons/lang3/StringUtils.equalsAnyIgnoreCase
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ArrayUtils.isNotEmpty
+org/apache/commons/lang3/StringUtils.equalsIgnoreCase
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/CharSequenceUtils.regionMatches
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.equalsAnyIgnoreCase
+org/apache/commons/lang3/ArrayUtils.isNotEmpty
+org/apache/commons/lang3/StringUtils.equalsIgnoreCase
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/CharSequenceUtils.regionMatches
+after post processing ......
+org/apache/commons/lang3/StringUtils.equalsAnyIgnoreCase
+org/apache/commons/lang3/ArrayUtils.isNotEmpty
+org/apache/commons/lang3/StringUtils.equalsIgnoreCase
+org/apache/commons/lang3/ArrayUtils.isEmpty
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/CharSequenceUtils.regionMatches
+perfect match

@@ -1,0 +1,32 @@
+slicing criterion: org.joda.time.convert.TestStringConverter.testGetDateTime2:283
+Methods call in assertion: [org/joda/time/DateTime.getZone]
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/base/AbstractInstant.getZone
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/convert/AbstractConverter.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/convert/AbstractConverter.getChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/base/AbstractInstant.getZone
+after post processing ......
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/convert/AbstractConverter.getChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/base/AbstractInstant.getZone
+not matched

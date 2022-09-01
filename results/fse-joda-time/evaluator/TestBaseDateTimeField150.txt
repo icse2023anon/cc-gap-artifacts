@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.field.TestBaseDateTimeField.test_getMinimumValue_RP_intarray:448
+Methods call in assertion: [org/joda/time/field/BaseDateTimeField.getMinimumValue]
+org/joda/time/field/BaseDateTimeField.getMinimumValue
+top 10 recommendations: 
+org/joda/time/field/BaseDateTimeField.getMinimumValue
+after post processing ......
+org/joda/time/field/BaseDateTimeField.getMinimumValue
+perfect match

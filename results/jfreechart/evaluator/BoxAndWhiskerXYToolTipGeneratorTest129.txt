@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.labels.BoxAndWhiskerXYToolTipGeneratorTest.testHashCode:118
+Methods call in assertion: [org/jfree/chart/labels/BoxAndWhiskerXYToolTipGenerator.hashCode]
+org/jfree/chart/labels/BoxAndWhiskerXYToolTipGenerator.<init>
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.hashCode
+org/jfree/chart/HashUtils.hashCode
+top 10 recommendations: 
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.hashCode
+org/jfree/chart/labels/BoxAndWhiskerXYToolTipGenerator.<init>
+org/jfree/chart/HashUtils.hashCode
+after post processing ......
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.hashCode
+org/jfree/chart/labels/BoxAndWhiskerXYToolTipGenerator.<init>
+org/jfree/chart/HashUtils.hashCode
+found in top 10

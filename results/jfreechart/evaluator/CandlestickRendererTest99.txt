@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.xy.CandlestickRendererTest.testConstructor:86
+Methods call in assertion: [org/jfree/chart/renderer/xy/CandlestickRenderer.getVolumePaint]
+org/jfree/chart/renderer/xy/CandlestickRenderer.getVolumePaint
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/CandlestickRenderer.getVolumePaint
+after post processing ......
+org/jfree/chart/renderer/xy/CandlestickRenderer.getVolumePaint
+perfect match

@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestPeriod_Constructors.testFactoryHours:1423
+Methods call in assertion: [org/joda/time/Period.getWeeks]
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/Period.getWeeks
+org/joda/time/PeriodType.standard
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/base/BasePeriod.getValue
+top 10 recommendations: 
+org/joda/time/Period.getWeeks
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.standard
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/base/BasePeriod.getValue
+after post processing ......
+org/joda/time/Period.getWeeks
+org/joda/time/base/BasePeriod.getPeriodType
+org/joda/time/PeriodType.standard
+org/joda/time/PeriodType.getIndexedField
+org/joda/time/base/BasePeriod.getValue
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.chrono.TestISOChronology.testFactory_Zone:139
+Methods call in assertion: [org/joda/time/chrono/ISOChronology.getInstance]
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/ISOChronology.getInstance
+top 10 recommendations: 
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/ISOChronology.getInstance
+after post processing ......
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/chrono/ISOChronology.getInstance
+found in top 10

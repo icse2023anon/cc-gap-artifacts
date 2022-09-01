@@ -1,0 +1,65 @@
+slicing criterion: org.joda.time.TestYears.testFactory_yearsIn_RInterval:135
+Methods call in assertion: [org/joda/time/Years.getYears, org/joda/time/Years.yearsIn]
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/ZonedChronology.getInstance
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/DurationFieldType.years
+org/joda/time/field/ScaledDurationField.hashCode
+org/joda/time/chrono/AssembledChronology.centuries
+org/joda/time/DateTime.getMillis
+org/joda/time/Years.getYears
+org/joda/time/base/BaseSingleFieldPeriod.between
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/Years.years
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/Years.yearsIn
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/field/BaseDurationField.getType
+org/joda/time/chrono/ZonedChronology.assemble
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/chrono/AssembledChronology.years
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/Years.yearsIn
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/base/BaseSingleFieldPeriod.between
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/ZonedChronology.getInstance
+org/joda/time/base/BaseDateTime.getChronology
+after post processing ......
+org/joda/time/Years.yearsIn
+org/joda/time/base/BaseInterval.<init>
+org/joda/time/base/BaseSingleFieldPeriod.between
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getInstantChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/ZonedChronology.getInstance
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/field/DecoratedDurationField.getWrappedField
+org/joda/time/DurationFieldType.years
+org/joda/time/field/ScaledDurationField.hashCode
+org/joda/time/chrono/AssembledChronology.centuries
+org/joda/time/DateTime.getMillis
+org/joda/time/Years.getYears
+org/joda/time/Years.years
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/field/BaseDurationField.getType
+org/joda/time/chrono/ZonedChronology.assemble
+org/joda/time/base/BaseInterval.getChronology
+org/joda/time/chrono/AssembledChronology.years
+all method calls are suggested

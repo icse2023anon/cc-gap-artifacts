@@ -1,0 +1,17 @@
+slicing criterion: org.jaxen.test.AddNamespaceTest.testDefaultContext:73
+Methods call in assertion: [org/jaxen/NamespaceContext.translateNamespacePrefixToUri]
+org/jaxen/SimpleNamespaceContext.addNamespace
+org/jaxen/BaseXPath.getContextSupport
+org/jaxen/BaseXPath.addNamespace
+org/jaxen/SimpleNamespaceContext.translateNamespacePrefixToUri
+top 10 recommendations: 
+org/jaxen/BaseXPath.addNamespace
+org/jaxen/SimpleNamespaceContext.addNamespace
+org/jaxen/BaseXPath.getContextSupport
+org/jaxen/SimpleNamespaceContext.translateNamespacePrefixToUri
+after post processing ......
+org/jaxen/BaseXPath.addNamespace
+org/jaxen/SimpleNamespaceContext.addNamespace
+org/jaxen/BaseXPath.getContextSupport
+org/jaxen/SimpleNamespaceContext.translateNamespacePrefixToUri
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.binary.StringUtilsTest.testEqualsString:219
+Methods call in assertion: [org/apache/commons/codec/binary/StringUtils.equals]
+org/apache/commons/codec/binary/StringUtils.equals
+top 10 recommendations: 
+org/apache/commons/codec/binary/StringUtils.equals
+after post processing ......
+org/apache/commons/codec/binary/StringUtils.equals
+perfect match

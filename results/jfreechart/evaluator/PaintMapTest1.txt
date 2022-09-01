@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.PaintMapTest.testKeysOfDifferentClasses:179
+Methods call in assertion: [org/jfree/chart/PaintMap.getPaint]
+org/jfree/chart/PaintMap.getPaint
+org/jfree/chart/PaintMap.put
+top 10 recommendations: 
+org/jfree/chart/PaintMap.getPaint
+org/jfree/chart/PaintMap.put
+after post processing ......
+org/jfree/chart/PaintMap.getPaint
+org/jfree/chart/PaintMap.put
+perfect match

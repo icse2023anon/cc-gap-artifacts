@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ArrayUtilsTest.testCloneBoolean:606
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.clone]
+org/apache/commons/lang3/ArrayUtils.clone
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.clone
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.clone
+perfect match

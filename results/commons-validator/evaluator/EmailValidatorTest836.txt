@@ -1,0 +1,29 @@
+slicing criterion: org.apache.commons.validator.routines.EmailValidatorTest.testEmailWithNumericAddress:68
+Methods call in assertion: [org/apache/commons/validator/routines/EmailValidator.isValid]
+org/apache/commons/validator/routines/InetAddressValidator.getInstance
+org/apache/commons/validator/routines/EmailValidator.isValid
+org/apache/commons/validator/routines/InetAddressValidator.isValid
+org/apache/commons/validator/routines/RegexValidator.match
+org/apache/commons/validator/routines/EmailValidator.isValidDomain
+org/apache/commons/validator/routines/EmailValidator.getInstance
+org/apache/commons/validator/routines/InetAddressValidator.isValidInet4Address
+org/apache/commons/validator/routines/EmailValidator.isValidUser
+top 10 recommendations: 
+org/apache/commons/validator/routines/EmailValidator.isValid
+org/apache/commons/validator/routines/EmailValidator.isValidDomain
+org/apache/commons/validator/routines/InetAddressValidator.isValid
+org/apache/commons/validator/routines/InetAddressValidator.isValidInet4Address
+org/apache/commons/validator/routines/InetAddressValidator.getInstance
+org/apache/commons/validator/routines/RegexValidator.match
+org/apache/commons/validator/routines/EmailValidator.getInstance
+org/apache/commons/validator/routines/EmailValidator.isValidUser
+after post processing ......
+org/apache/commons/validator/routines/EmailValidator.isValid
+org/apache/commons/validator/routines/EmailValidator.isValidDomain
+org/apache/commons/validator/routines/InetAddressValidator.isValid
+org/apache/commons/validator/routines/InetAddressValidator.isValidInet4Address
+org/apache/commons/validator/routines/InetAddressValidator.getInstance
+org/apache/commons/validator/routines/RegexValidator.match
+org/apache/commons/validator/routines/EmailValidator.getInstance
+org/apache/commons/validator/routines/EmailValidator.isValidUser
+perfect match

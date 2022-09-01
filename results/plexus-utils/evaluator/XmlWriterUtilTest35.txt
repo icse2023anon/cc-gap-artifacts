@@ -1,0 +1,32 @@
+slicing criterion: org.codehaus.plexus.util.xml.XmlWriterUtilTest.testWriteLineBreakXMLWriterInt:88
+Methods call in assertion: [org/codehaus/plexus/util/StringUtils.countMatches]
+org/codehaus/plexus/util/WriterFactory.newXmlWriter
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.getElementStack
+org/codehaus/plexus/util/xml/XmlStreamWriter.<init>
+org/codehaus/plexus/util/xml/XmlStreamWriter.write
+org/codehaus/plexus/util/StringUtils.unifyLineSeparators
+org/codehaus/plexus/util/xml/XmlWriterUtil.writeLineBreak
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.writeMarkup
+org/codehaus/plexus/util/StringUtils.countMatches
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.getWriter
+top 10 recommendations: 
+org/codehaus/plexus/util/WriterFactory.newXmlWriter
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.getElementStack
+org/codehaus/plexus/util/xml/XmlStreamWriter.<init>
+org/codehaus/plexus/util/xml/XmlStreamWriter.write
+org/codehaus/plexus/util/StringUtils.unifyLineSeparators
+org/codehaus/plexus/util/xml/XmlWriterUtil.writeLineBreak
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.writeMarkup
+org/codehaus/plexus/util/StringUtils.countMatches
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.getWriter
+after post processing ......
+org/codehaus/plexus/util/WriterFactory.newXmlWriter
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.getElementStack
+org/codehaus/plexus/util/xml/XmlStreamWriter.<init>
+org/codehaus/plexus/util/xml/XmlStreamWriter.write
+org/codehaus/plexus/util/StringUtils.unifyLineSeparators
+org/codehaus/plexus/util/xml/XmlWriterUtil.writeLineBreak
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.writeMarkup
+org/codehaus/plexus/util/StringUtils.countMatches
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter.getWriter
+found in top 10

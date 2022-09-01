@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.axis.NumberAxisTest.testEquals:108
+Methods call in assertion: [org/jfree/chart/axis/NumberAxis.equals]
+org/jfree/chart/axis/NumberAxis.setAutoRangeStickyZero
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/NumberAxis.setAutoRangeIncludesZero
+top 10 recommendations: 
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/axis/NumberAxis.setAutoRangeStickyZero
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/NumberAxis.setAutoRangeIncludesZero
+after post processing ......
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/axis/NumberAxis.setAutoRangeStickyZero
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/axis/NumberAxis.setAutoRangeIncludesZero
+perfect match

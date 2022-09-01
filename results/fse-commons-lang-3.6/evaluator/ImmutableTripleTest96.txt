@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.tuple.ImmutableTripleTest.testEquals:97
+Methods call in assertion: [org/apache/commons/lang3/tuple/ImmutableTriple.equals]
+org/apache/commons/lang3/tuple/ImmutableTriple.getMiddle
+org/apache/commons/lang3/tuple/Triple.equals
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/ImmutableTriple.getMiddle
+org/apache/commons/lang3/tuple/Triple.equals
+after post processing ......
+org/apache/commons/lang3/tuple/ImmutableTriple.getMiddle
+org/apache/commons/lang3/tuple/Triple.equals
+found in top 10

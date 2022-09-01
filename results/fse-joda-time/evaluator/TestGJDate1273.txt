@@ -1,0 +1,41 @@
+slicing criterion: org.joda.time.chrono.TestGJDate.test_plusYears_negativeToPositive_crossCutover:131
+Methods call in assertion: [org/joda/time/LocalDate.plusYears]
+org/joda/time/LocalDate.withLocalMillis
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.getChronology
+org/joda/time/chrono/GJChronology.withUTC
+org/joda/time/chrono/GJChronology.getZone
+org/joda/time/LocalDate.getLocalMillis
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/GJChronology.getDateTimeMillis
+org/joda/time/chrono/GJChronology.withZone
+org/joda/time/LocalDate.plusYears
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/chrono/AssembledChronology.years
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/LocalDate.plusYears
+org/joda/time/LocalDate.withLocalMillis
+org/joda/time/chrono/GJChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/chrono/GJChronology.withZone
+org/joda/time/LocalDate.getChronology
+org/joda/time/chrono/GJChronology.getZone
+org/joda/time/LocalDate.getLocalMillis
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/GJChronology.getDateTimeMillis
+after post processing ......
+org/joda/time/LocalDate.plusYears
+org/joda/time/LocalDate.withLocalMillis
+org/joda/time/chrono/GJChronology.withUTC
+org/joda/time/LocalDate.<init>
+org/joda/time/chrono/GJChronology.withZone
+org/joda/time/LocalDate.getChronology
+org/joda/time/chrono/GJChronology.getZone
+org/joda/time/LocalDate.getLocalMillis
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/GJChronology.getDateTimeMillis
+org/joda/time/chrono/AssembledChronology.getBase
+org/joda/time/chrono/AssembledChronology.years
+org/joda/time/DateTimeUtils.getChronology
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testHexToByte:752
+Methods call in assertion: [org/apache/commons/lang3/Conversion.hexToByte]
+org/apache/commons/lang3/Conversion.hexToByte
+org/apache/commons/lang3/Conversion.hexDigitToInt
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.hexToByte
+org/apache/commons/lang3/Conversion.hexDigitToInt
+after post processing ......
+org/apache/commons/lang3/Conversion.hexToByte
+org/apache/commons/lang3/Conversion.hexDigitToInt
+perfect match

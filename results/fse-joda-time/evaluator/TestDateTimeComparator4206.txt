@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestDateTimeComparator.testStaticGetInstance:237
+Methods call in assertion: [org/joda/time/DateTimeComparator.getUpperLimit]
+org/joda/time/DateTimeComparator.getInstance
+org/joda/time/DateTimeComparator.getUpperLimit
+top 10 recommendations: 
+org/joda/time/DateTimeComparator.getInstance
+org/joda/time/DateTimeComparator.getUpperLimit
+after post processing ......
+org/joda/time/DateTimeComparator.getInstance
+org/joda/time/DateTimeComparator.getUpperLimit
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.SystemUtilsTest.testJavaVersionMatches:300
+Methods call in assertion: [org/apache/commons/lang3/SystemUtils.isJavaVersionMatch]
+org/apache/commons/lang3/SystemUtils.isJavaVersionMatch
+top 10 recommendations: 
+org/apache/commons/lang3/SystemUtils.isJavaVersionMatch
+after post processing ......
+org/apache/commons/lang3/SystemUtils.isJavaVersionMatch
+perfect match

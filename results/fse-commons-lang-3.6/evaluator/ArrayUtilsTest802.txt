@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.ArrayUtilsTest.testSameLengthShort:1880
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.isSameLength]
+org/apache/commons/lang3/ArrayUtils.getLength
+org/apache/commons/lang3/ArrayUtils.isSameLength
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.isSameLength
+org/apache/commons/lang3/ArrayUtils.getLength
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.isSameLength
+org/apache/commons/lang3/ArrayUtils.getLength
+perfect match

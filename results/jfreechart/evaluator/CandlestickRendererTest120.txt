@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.xy.CandlestickRendererTest.testEquals:123
+Methods call in assertion: [org/jfree/chart/renderer/xy/CandlestickRenderer.equals]
+org/jfree/chart/renderer/xy/CandlestickRenderer.equals
+org/jfree/chart/renderer/xy/CandlestickRenderer.setCandleWidth
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/CandlestickRenderer.equals
+org/jfree/chart/renderer/xy/CandlestickRenderer.setCandleWidth
+after post processing ......
+org/jfree/chart/renderer/xy/CandlestickRenderer.equals
+org/jfree/chart/renderer/xy/CandlestickRenderer.setCandleWidth
+perfect match

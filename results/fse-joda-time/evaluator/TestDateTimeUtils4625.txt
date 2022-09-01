@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDateTimeUtils.testMillisProvider:316
+Methods call in assertion: [org/joda/time/DateTimeUtils.currentTimeMillis]
+org/joda/time/DateTimeUtils.currentTimeMillis
+top 10 recommendations: 
+org/joda/time/DateTimeUtils.currentTimeMillis
+after post processing ......
+org/joda/time/DateTimeUtils.currentTimeMillis
+perfect match

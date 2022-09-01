@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.urls.CustomXYURLGeneratorTest.testAddURLSeries:159
+Methods call in assertion: [org/jfree/chart/urls/CustomXYURLGenerator.getURL]
+org/jfree/chart/urls/CustomXYURLGenerator.getURL
+org/jfree/chart/urls/CustomXYURLGenerator.getListCount
+org/jfree/chart/urls/CustomXYURLGenerator.addURLSeries
+top 10 recommendations: 
+org/jfree/chart/urls/CustomXYURLGenerator.getURL
+org/jfree/chart/urls/CustomXYURLGenerator.getListCount
+org/jfree/chart/urls/CustomXYURLGenerator.addURLSeries
+after post processing ......
+org/jfree/chart/urls/CustomXYURLGenerator.getURL
+org/jfree/chart/urls/CustomXYURLGenerator.getListCount
+org/jfree/chart/urls/CustomXYURLGenerator.addURLSeries
+perfect match

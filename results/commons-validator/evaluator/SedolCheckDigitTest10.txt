@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.validator.routines.checkdigit.SedolCheckDigitTest.testVALIDATOR_346:65
+Methods call in assertion: [org/apache/commons/validator/routines/checkdigit/CheckDigit.isValid]
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/checkdigit/SedolCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/SedolCheckDigit.toInt
+top 10 recommendations: 
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/checkdigit/SedolCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/SedolCheckDigit.toInt
+after post processing ......
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.isValid
+org/apache/commons/validator/routines/checkdigit/SedolCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/ModulusCheckDigit.calculateModulus
+org/apache/commons/validator/routines/checkdigit/SedolCheckDigit.toInt
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.chrono.TestEthiopicChronology.testWithUTC:219
+Methods call in assertion: [org/joda/time/chrono/EthiopicChronology.getInstanceUTC, org/joda/time/chrono/EthiopicChronology.withUTC]
+org/joda/time/chrono/EthiopicChronology.getInstanceUTC
+org/joda/time/chrono/EthiopicChronology.withUTC
+top 10 recommendations: 
+org/joda/time/chrono/EthiopicChronology.getInstanceUTC
+org/joda/time/chrono/EthiopicChronology.withUTC
+after post processing ......
+org/joda/time/chrono/EthiopicChronology.getInstanceUTC
+org/joda/time/chrono/EthiopicChronology.withUTC
+perfect match

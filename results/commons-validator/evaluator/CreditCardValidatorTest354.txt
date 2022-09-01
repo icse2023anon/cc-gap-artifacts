@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.validator.routines.CreditCardValidatorTest.testAmexOption:205
+Methods call in assertion: [org/apache/commons/validator/routines/CreditCardValidator.isValid]
+org/apache/commons/validator/routines/CreditCardValidator.isValid
+org/apache/commons/validator/routines/CreditCardValidator.<init>
+top 10 recommendations: 
+org/apache/commons/validator/routines/CreditCardValidator.isValid
+org/apache/commons/validator/routines/CreditCardValidator.<init>
+after post processing ......
+org/apache/commons/validator/routines/CreditCardValidator.isValid
+org/apache/commons/validator/routines/CreditCardValidator.<init>
+perfect match

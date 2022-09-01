@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableShortTest.testEquals:106
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableShort.equals]
+org/apache/commons/lang3/mutable/MutableShort.shortValue
+org/apache/commons/lang3/mutable/MutableShort.equals
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableShort.equals
+org/apache/commons/lang3/mutable/MutableShort.shortValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableShort.equals
+org/apache/commons/lang3/mutable/MutableShort.shortValue
+perfect match

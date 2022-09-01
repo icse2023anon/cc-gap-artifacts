@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.chrono.TestEthiopicChronology.testEpoch:393
+Methods call in assertion: [org/joda/time/DateTime.withChronology]
+org/joda/time/DateTime.withChronology
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/DateTime.withChronology
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/DateTime.withChronology
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeUtils.getChronology
+perfect match

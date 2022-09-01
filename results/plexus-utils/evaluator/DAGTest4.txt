@@ -1,0 +1,23 @@
+slicing criterion: org.codehaus.plexus.util.dag.DAGTest.testDAG:122
+Methods call in assertion: [org/codehaus/plexus/util/dag/Vertex.getChildLabels]
+org/codehaus/plexus/util/dag/DAG.addEdge
+org/codehaus/plexus/util/dag/Vertex.getLabel
+org/codehaus/plexus/util/dag/DAG.addVertex
+org/codehaus/plexus/util/dag/DAG.getVertex
+org/codehaus/plexus/util/dag/Vertex.addEdgeTo
+org/codehaus/plexus/util/dag/Vertex.getChildLabels
+top 10 recommendations: 
+org/codehaus/plexus/util/dag/DAG.addEdge
+org/codehaus/plexus/util/dag/Vertex.getChildLabels
+org/codehaus/plexus/util/dag/Vertex.getLabel
+org/codehaus/plexus/util/dag/DAG.addVertex
+org/codehaus/plexus/util/dag/DAG.getVertex
+org/codehaus/plexus/util/dag/Vertex.addEdgeTo
+after post processing ......
+org/codehaus/plexus/util/dag/DAG.addEdge
+org/codehaus/plexus/util/dag/Vertex.getChildLabels
+org/codehaus/plexus/util/dag/Vertex.getLabel
+org/codehaus/plexus/util/dag/DAG.addVertex
+org/codehaus/plexus/util/dag/DAG.getVertex
+org/codehaus/plexus/util/dag/Vertex.addEdgeTo
+found in top 10

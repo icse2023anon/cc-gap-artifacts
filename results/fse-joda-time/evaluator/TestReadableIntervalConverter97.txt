@@ -1,0 +1,51 @@
+slicing criterion: org.joda.time.convert.TestReadableIntervalConverter.testSetIntoInterval_Object2:176
+Methods call in assertion: [org/joda/time/MutableInterval.getStartMillis]
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.equals
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/convert/ReadableIntervalConverter.setInto
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/chrono/JulianChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/tz/FixedDateTimeZone.hashCode
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/chrono/GJCacheKey.hashCode
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/DateTimeZone.getID
+org/joda/time/MutableInterval.setInterval
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/base/BaseInterval.getStartMillis
+top 10 recommendations: 
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/chrono/JulianChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.equals
+after post processing ......
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/GJChronology.getInstance
+org/joda/time/DateTimeUtils.getZone
+org/joda/time/chrono/JulianChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/Instant.toInstant
+org/joda/time/chrono/GJCacheKey.equals
+org/joda/time/convert/ReadableIntervalConverter.setInto
+org/joda/time/tz/FixedDateTimeZone.hashCode
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/chrono/GJCacheKey.hashCode
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/DateTimeZone.getID
+org/joda/time/MutableInterval.setInterval
+org/joda/time/base/BaseInterval.getStartMillis
+all method calls are suggested

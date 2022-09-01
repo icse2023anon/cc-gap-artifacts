@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestInstant_Basics.testGetMethods:217
+Methods call in assertion: [org/joda/time/Instant.getZone]
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/Instant.getChronology
+org/joda/time/base/AbstractInstant.getZone
+top 10 recommendations: 
+org/joda/time/Instant.getChronology
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractInstant.getZone
+after post processing ......
+org/joda/time/Instant.getChronology
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/base/AbstractInstant.getZone
+found in top 10

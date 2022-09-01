@@ -1,0 +1,61 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormat.testFormat_year_twoDigit:423
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.parseDateTime]
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/format/DateTimeFormatterBuilder.estimateParsedLength
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/format/DateTimeParserBucket.getZone
+org/joda/time/UTCDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/format/DateTimeFormatter.parseDateTime
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeParserBucket.<init>
+org/joda/time/DateTime.withZone
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/DateTime.withChronology
+org/joda/time/format/DateTimeFormatter.withZone
+org/joda/time/format/DateTimeFormatter.withZoneUTC
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatter.parseDateTime
+org/joda/time/DateTime.withZone
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/format/DateTimeParserBucket.<init>
+org/joda/time/DateTime.withChronology
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeFormatter.withZoneUTC
+org/joda/time/format/DateTimeFormatterBuilder.estimateParsedLength
+after post processing ......
+org/joda/time/format/DateTimeFormatter.parseDateTime
+org/joda/time/DateTime.withZone
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/format/DateTimeParserBucket.<init>
+org/joda/time/DateTime.withChronology
+org/joda/time/chrono/ISOChronology.withZone
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeFormatter.withZoneUTC
+org/joda/time/format/DateTimeFormatterBuilder.estimateParsedLength
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/format/DateTimeParserBucket.getZone
+org/joda/time/UTCDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/format/DateTimeFormatterBuilder.<init>
+org/joda/time/format/DateTimeFormatter.withZone
+org/joda/time/format/DateTimeFormat.forPattern
+org/joda/time/format/DateTimeFormatterBuilder.toFormatter
+org/joda/time/DateTimeZone.getID
+org/joda/time/tz/CachedDateTimeZone.hashCode
+perfect match

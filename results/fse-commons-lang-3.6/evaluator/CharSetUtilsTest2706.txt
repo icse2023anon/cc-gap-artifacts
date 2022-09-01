@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.lang3.CharSetUtilsTest.testContainsAny_StringStringarray:131
+Methods call in assertion: [org/apache/commons/lang3/CharSetUtils.containsAny]
+org/apache/commons/lang3/StringUtils.isNotEmpty
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/CharSetUtils.containsAny
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.isNotEmpty
+org/apache/commons/lang3/CharSetUtils.containsAny
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/StringUtils.isNotEmpty
+org/apache/commons/lang3/CharSetUtils.containsAny
+org/apache/commons/lang3/StringUtils.isEmpty
+found in top 10

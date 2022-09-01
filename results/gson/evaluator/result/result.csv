@@ -1,0 +1,8 @@
+package,total_assertion,exact_match(%),top_1(%),top_5(%),top_10(%),all_method_suggested(%)
+com.google.gson.regression,0,0,0,0,0,0,
+com.google.gson.internal,32,23,23,30,30,30,
+com.google.gson.functional,277,172,172,229,236,238,
+com.google.gson.internal.bind,52,14,14,39,44,52,
+com.google.gson.stream,279,152,152,239,265,279,
+com.google.gson,211,96,96,175,180,182,
+com.google.gson.reflect,20,0,0,0,0,0,

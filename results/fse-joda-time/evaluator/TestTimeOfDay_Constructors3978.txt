@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Constructors.testConstructor_int_int:572
+Methods call in assertion: [org/joda/time/TimeOfDay.getSecondOfMinute]
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.getSecondOfMinute
+org/joda/time/TimeOfDay.setCopy
+top 10 recommendations: 
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.getSecondOfMinute
+org/joda/time/TimeOfDay.setCopy
+after post processing ......
+org/joda/time/base/BasePartial.getValue
+org/joda/time/TimeOfDay.getSecondOfMinute
+org/joda/time/TimeOfDay.setCopy
+found in top 10

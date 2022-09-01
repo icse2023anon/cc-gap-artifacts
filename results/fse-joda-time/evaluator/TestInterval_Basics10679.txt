@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestInterval_Basics.testEqualsHashCode:240
+Methods call in assertion: [org/joda/time/Interval.equals]
+org/joda/time/base/AbstractInterval.equals
+top 10 recommendations: 
+org/joda/time/base/AbstractInterval.equals
+after post processing ......
+org/joda/time/base/AbstractInterval.equals
+perfect match

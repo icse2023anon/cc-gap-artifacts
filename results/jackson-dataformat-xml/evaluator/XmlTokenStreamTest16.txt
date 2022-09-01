@@ -1,0 +1,8 @@
+slicing criterion: com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStreamTest._testRootAttributes:58
+Methods call in assertion: [com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getCurrentToken]
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getCurrentToken
+top 10 recommendations: 
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getCurrentToken
+after post processing ......
+com/fasterxml/jackson/dataformat/xml/deser/XmlTokenStream.getCurrentToken
+perfect match

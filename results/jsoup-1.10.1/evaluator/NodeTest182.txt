@@ -1,0 +1,23 @@
+slicing criterion: org.jsoup.nodes.NodeTest.handlesBaseUri:29
+Methods call in assertion: [org/jsoup/nodes/Element.absUrl]
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Node.absUrl
+org/jsoup/nodes/Attributes.hasKeyIgnoreCase
+org/jsoup/nodes/Node.hasAttr
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/helper/StringUtil.resolve
+top 10 recommendations: 
+org/jsoup/nodes/Node.absUrl
+org/jsoup/nodes/Node.hasAttr
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attributes.hasKeyIgnoreCase
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/helper/StringUtil.resolve
+after post processing ......
+org/jsoup/nodes/Node.absUrl
+org/jsoup/nodes/Node.hasAttr
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attributes.hasKeyIgnoreCase
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/helper/StringUtil.resolve
+found in top 10

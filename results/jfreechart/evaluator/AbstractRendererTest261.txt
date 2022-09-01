@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.renderer.AbstractRendererTest.testPaintLookup:733
+Methods call in assertion: [org/jfree/chart/renderer/category/BarRenderer.getSeriesPaint]
+org/jfree/chart/util/PaintList.getPaint
+org/jfree/chart/renderer/AbstractRenderer.getSeriesPaint
+org/jfree/chart/util/AbstractObjectList.get
+top 10 recommendations: 
+org/jfree/chart/renderer/AbstractRenderer.getSeriesPaint
+org/jfree/chart/util/PaintList.getPaint
+org/jfree/chart/util/AbstractObjectList.get
+after post processing ......
+org/jfree/chart/renderer/AbstractRenderer.getSeriesPaint
+org/jfree/chart/util/PaintList.getPaint
+org/jfree/chart/util/AbstractObjectList.get
+found in top 10

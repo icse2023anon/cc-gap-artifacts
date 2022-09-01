@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.axis.PeriodAxisTest.testEquals:144
+Methods call in assertion: [org/jfree/chart/axis/PeriodAxis.equals]
+org/jfree/chart/axis/PeriodAxis.equals
+org/jfree/chart/axis/PeriodAxis.isMinorTickMarksVisible
+top 10 recommendations: 
+org/jfree/chart/axis/PeriodAxis.equals
+org/jfree/chart/axis/PeriodAxis.isMinorTickMarksVisible
+after post processing ......
+org/jfree/chart/axis/PeriodAxis.equals
+org/jfree/chart/axis/PeriodAxis.isMinorTickMarksVisible
+perfect match

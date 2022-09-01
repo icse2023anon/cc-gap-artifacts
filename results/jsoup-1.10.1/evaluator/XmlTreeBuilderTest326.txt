@@ -1,0 +1,17 @@
+slicing criterion: org.jsoup.parser.XmlTreeBuilderTest.testSimpleXmlParse:36
+Methods call in assertion: [org/jsoup/TextUtil.stripNewlines, org/jsoup/nodes/Document.html]
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/parser/TreeBuilder.currentElement
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Node.ownerDocument
+top 10 recommendations: 
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/parser/TreeBuilder.currentElement
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Node.ownerDocument
+after post processing ......
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/parser/TreeBuilder.currentElement
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Node.ownerDocument
+not matched

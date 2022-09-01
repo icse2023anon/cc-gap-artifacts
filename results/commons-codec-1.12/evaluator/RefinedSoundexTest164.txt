@@ -1,0 +1,23 @@
+slicing criterion: org.apache.commons.codec.language.RefinedSoundexTest.testDifference:56
+Methods call in assertion: [org/apache/commons/codec/language/RefinedSoundex.difference]
+org/apache/commons/codec/language/RefinedSoundex.encode
+org/apache/commons/codec/language/RefinedSoundex.difference
+org/apache/commons/codec/language/SoundexUtils.difference
+org/apache/commons/codec/language/SoundexUtils.clean
+org/apache/commons/codec/language/SoundexUtils.differenceEncoded
+org/apache/commons/codec/language/RefinedSoundex.soundex
+top 10 recommendations: 
+org/apache/commons/codec/language/RefinedSoundex.encode
+org/apache/commons/codec/language/RefinedSoundex.difference
+org/apache/commons/codec/language/SoundexUtils.difference
+org/apache/commons/codec/language/RefinedSoundex.soundex
+org/apache/commons/codec/language/SoundexUtils.clean
+org/apache/commons/codec/language/SoundexUtils.differenceEncoded
+after post processing ......
+org/apache/commons/codec/language/RefinedSoundex.encode
+org/apache/commons/codec/language/RefinedSoundex.difference
+org/apache/commons/codec/language/SoundexUtils.difference
+org/apache/commons/codec/language/RefinedSoundex.soundex
+org/apache/commons/codec/language/SoundexUtils.clean
+org/apache/commons/codec/language/SoundexUtils.differenceEncoded
+found in top 10

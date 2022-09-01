@@ -1,0 +1,61 @@
+slicing criterion: org.joda.time.TestWeeks.testAddToLocalDate:428
+Methods call in assertion: [org/joda/time/LocalDate.plus]
+org/joda/time/LocalDate.withLocalMillis
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/Weeks.weeks
+org/joda/time/LocalDate.<init>
+org/joda/time/base/BaseSingleFieldPeriod.getFieldType
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/LocalDate.getChronology
+org/joda/time/field/FieldUtils.safeMultiply
+org/joda/time/base/BaseSingleFieldPeriod.size
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/DurationFieldType.weeks
+org/joda/time/LocalDate.isSupported
+org/joda/time/LocalDate.getLocalMillis
+org/joda/time/chrono/AssembledChronology.weeks
+org/joda/time/field/PreciseDurationField.add
+org/joda/time/field/PreciseDurationDateTimeField.roundFloor
+org/joda/time/LocalDate.withPeriodAdded
+org/joda/time/Weeks.getFieldType
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/LocalDate.plus
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/LocalDate.plus
+org/joda/time/LocalDate.withPeriodAdded
+org/joda/time/LocalDate.withLocalMillis
+org/joda/time/field/PreciseDurationField.add
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.isSupported
+org/joda/time/Weeks.getFieldType
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/Weeks.weeks
+after post processing ......
+org/joda/time/LocalDate.plus
+org/joda/time/LocalDate.withPeriodAdded
+org/joda/time/LocalDate.withLocalMillis
+org/joda/time/field/PreciseDurationField.add
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.isSupported
+org/joda/time/Weeks.getFieldType
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/field/FieldUtils.safeAdd
+org/joda/time/Weeks.weeks
+org/joda/time/base/BaseSingleFieldPeriod.getFieldType
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/LocalDate.getChronology
+org/joda/time/field/FieldUtils.safeMultiply
+org/joda/time/base/BaseSingleFieldPeriod.size
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/DurationFieldType.weeks
+org/joda/time/LocalDate.getLocalMillis
+org/joda/time/chrono/AssembledChronology.weeks
+org/joda/time/field/PreciseDurationDateTimeField.roundFloor
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/AssembledChronology.getDateTimeMillis
+org/joda/time/DateTimeUtils.getChronology
+perfect match

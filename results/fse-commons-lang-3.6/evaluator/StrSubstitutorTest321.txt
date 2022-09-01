@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.text.StrSubstitutorTest.testGetSetPrefix:521
+Methods call in assertion: [org/apache/commons/lang3/text/StrSubstitutor.getVariablePrefixMatcher]
+org/apache/commons/lang3/text/StrSubstitutor.getVariablePrefixMatcher
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrSubstitutor.getVariablePrefixMatcher
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+after post processing ......
+org/apache/commons/lang3/text/StrSubstitutor.getVariablePrefixMatcher
+org/apache/commons/lang3/text/StrMatcher.charMatcher
+perfect match

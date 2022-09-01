@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.TestInstant_Basics.testGet_DateTimeFieldType:175
+Methods call in assertion: [org/joda/time/DateTimeFieldType.millisOfSecond, org/joda/time/Instant.get]
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/Instant.getChronology
+org/joda/time/base/AbstractInstant.get
+org/joda/time/DateTimeFieldType.millisOfSecond
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/Instant.getMillis
+top 10 recommendations: 
+org/joda/time/Instant.getChronology
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/AbstractInstant.get
+org/joda/time/DateTimeFieldType.millisOfSecond
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/Instant.getMillis
+after post processing ......
+org/joda/time/Instant.getChronology
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/chrono/AssembledChronology.millisOfSecond
+org/joda/time/DateTimeUtils.currentTimeMillis
+org/joda/time/base/AbstractInstant.get
+org/joda/time/DateTimeFieldType.millisOfSecond
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/Instant.getMillis
+found in top 10

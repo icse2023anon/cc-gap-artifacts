@@ -1,0 +1,47 @@
+slicing criterion: org.jfree.chart.renderer.xy.WindItemRendererTest.testCloning:89
+Methods call in assertion: [org/jfree/chart/renderer/xy/WindItemRenderer.equals]
+org/jfree/chart/renderer/AbstractRenderer.getItemLabelPaint
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesFillPaint
+org/jfree/chart/renderer/AbstractRenderer.hashCode
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesShape
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/util/CloneUtils.cloneMapValues
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.equals
+org/jfree/chart/labels/StandardXYSeriesLabelGenerator.clone
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.clone
+org/jfree/chart/renderer/AbstractRenderer.getItemLabelFont
+org/jfree/chart/util/ObjectUtils.deepClone
+org/jfree/chart/util/SerialUtils.writeStroke
+org/jfree/chart/util/SerialUtils.writePaint
+org/jfree/chart/labels/StandardXYSeriesLabelGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.clone
+org/jfree/chart/util/CloneUtils.cloneMapValues
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.equals
+org/jfree/chart/util/ObjectUtils.deepClone
+org/jfree/chart/renderer/AbstractRenderer.getItemLabelPaint
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesFillPaint
+org/jfree/chart/renderer/AbstractRenderer.hashCode
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesShape
+org/jfree/chart/util/SerialUtils.writeShape
+after post processing ......
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.clone
+org/jfree/chart/util/CloneUtils.cloneMapValues
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.equals
+org/jfree/chart/util/ObjectUtils.deepClone
+org/jfree/chart/renderer/AbstractRenderer.getItemLabelPaint
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesFillPaint
+org/jfree/chart/renderer/AbstractRenderer.hashCode
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/renderer/AbstractRenderer.lookupSeriesShape
+org/jfree/chart/util/SerialUtils.writeShape
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/StandardXYSeriesLabelGenerator.clone
+org/jfree/chart/renderer/AbstractRenderer.getItemLabelFont
+org/jfree/chart/util/SerialUtils.writeStroke
+org/jfree/chart/util/SerialUtils.writePaint
+org/jfree/chart/labels/StandardXYSeriesLabelGenerator.equals
+found in top 10

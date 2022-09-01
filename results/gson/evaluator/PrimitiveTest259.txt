@@ -1,0 +1,35 @@
+slicing criterion: com.google.gson.functional.PrimitiveTest.testPrimitiveClassLiteral:585
+Methods call in assertion: [com/google/gson/Gson.fromJson]
+com/google/gson/Gson.fromJson
+com/google/gson/JsonPrimitive.getAsNumber
+com/google/gson/JsonPrimitive.getAsInt
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/internal/bind/JsonTreeReader.peek
+com/google/gson/JsonPrimitive.isString
+top 10 recommendations: 
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/internal/bind/JsonTreeReader.peek
+com/google/gson/JsonPrimitive.getAsInt
+com/google/gson/Gson.fromJson
+com/google/gson/JsonPrimitive.getAsNumber
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/JsonPrimitive.isString
+after post processing ......
+com/google/gson/internal/bind/JsonTreeReader.nextInt
+com/google/gson/internal/bind/JsonTreeReader.peek
+com/google/gson/JsonPrimitive.getAsInt
+com/google/gson/Gson.fromJson
+com/google/gson/JsonPrimitive.getAsNumber
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/JsonPrimitive.isString
+found in top 10

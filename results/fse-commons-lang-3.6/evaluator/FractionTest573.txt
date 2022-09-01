@@ -1,0 +1,23 @@
+slicing criterion: org.apache.commons.lang3.math.FractionTest.testDivide:1240
+Methods call in assertion: [org/apache/commons/lang3/math/Fraction.getNumerator]
+org/apache/commons/lang3/math/Fraction.divideBy
+org/apache/commons/lang3/math/Fraction.getNumerator
+org/apache/commons/lang3/math/Fraction.invert
+org/apache/commons/lang3/math/Fraction.multiplyBy
+org/apache/commons/lang3/math/Fraction.getReducedFraction
+org/apache/commons/lang3/math/Fraction.getFraction
+top 10 recommendations: 
+org/apache/commons/lang3/math/Fraction.divideBy
+org/apache/commons/lang3/math/Fraction.multiplyBy
+org/apache/commons/lang3/math/Fraction.getFraction
+org/apache/commons/lang3/math/Fraction.getNumerator
+org/apache/commons/lang3/math/Fraction.invert
+org/apache/commons/lang3/math/Fraction.getReducedFraction
+after post processing ......
+org/apache/commons/lang3/math/Fraction.divideBy
+org/apache/commons/lang3/math/Fraction.multiplyBy
+org/apache/commons/lang3/math/Fraction.getFraction
+org/apache/commons/lang3/math/Fraction.getNumerator
+org/apache/commons/lang3/math/Fraction.invert
+org/apache/commons/lang3/math/Fraction.getReducedFraction
+found in top 10

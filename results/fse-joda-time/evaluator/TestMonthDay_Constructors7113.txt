@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.TestMonthDay_Constructors.testConstructor_long2_Chronology:255
+Methods call in assertion: [org/joda/time/MonthDay.getDayOfMonth]
+org/joda/time/base/BasePartial.<init>
+org/joda/time/MonthDay.getFieldType
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/MonthDay.getDayOfMonth
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/MonthDay.size
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BasePartial.<init>
+org/joda/time/MonthDay.getFieldType
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/MonthDay.getDayOfMonth
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/MonthDay.size
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/base/BasePartial.<init>
+org/joda/time/MonthDay.getFieldType
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/MonthDay.getDayOfMonth
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/MonthDay.size
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

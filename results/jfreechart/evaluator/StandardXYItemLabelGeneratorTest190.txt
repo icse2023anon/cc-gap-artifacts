@@ -1,0 +1,26 @@
+slicing criterion: org.jfree.chart.labels.StandardXYItemLabelGeneratorTest.testHashCode:135
+Methods call in assertion: [org/jfree/chart/labels/StandardXYItemLabelGenerator.hashCode]
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.equals
+org/jfree/chart/labels/StandardXYItemLabelGenerator.<init>
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/StandardXYItemLabelGenerator.equals
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.hashCode
+org/jfree/chart/HashUtils.hashCode
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.clone
+top 10 recommendations: 
+org/jfree/chart/labels/StandardXYItemLabelGenerator.equals
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.equals
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.hashCode
+org/jfree/chart/labels/StandardXYItemLabelGenerator.<init>
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/HashUtils.hashCode
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.clone
+after post processing ......
+org/jfree/chart/labels/StandardXYItemLabelGenerator.equals
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.equals
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.hashCode
+org/jfree/chart/labels/StandardXYItemLabelGenerator.<init>
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/HashUtils.hashCode
+org/jfree/chart/labels/AbstractXYItemLabelGenerator.clone
+found in top 10

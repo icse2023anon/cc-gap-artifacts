@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.builder.ToStringStyleTest.testSetFieldSeparator:96
+Methods call in assertion: [org/apache/commons/lang3/builder/ToStringStyle.getFieldSeparator]
+org/apache/commons/lang3/builder/ToStringStyle.getFieldSeparator
+org/apache/commons/lang3/builder/ToStringStyle.setFieldSeparator
+top 10 recommendations: 
+org/apache/commons/lang3/builder/ToStringStyle.getFieldSeparator
+org/apache/commons/lang3/builder/ToStringStyle.setFieldSeparator
+after post processing ......
+org/apache/commons/lang3/builder/ToStringStyle.getFieldSeparator
+org/apache/commons/lang3/builder/ToStringStyle.setFieldSeparator
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.text.StrBuilderTest.testLastIndexOf_StrMatcher_int:1735
+Methods call in assertion: [org/apache/commons/lang3/text/StrBuilder.lastIndexOf]
+org/apache/commons/lang3/text/StrBuilder.lastIndexOf
+top 10 recommendations: 
+org/apache/commons/lang3/text/StrBuilder.lastIndexOf
+after post processing ......
+org/apache/commons/lang3/text/StrBuilder.lastIndexOf
+perfect match

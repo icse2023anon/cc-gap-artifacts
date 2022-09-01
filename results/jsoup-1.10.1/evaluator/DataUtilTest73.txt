@@ -1,0 +1,23 @@
+slicing criterion: org.jsoup.helper.DataUtilTest.testQuotedCharset:32
+Methods call in assertion: [org/jsoup/helper/DataUtil.getCharsetFromContentType]
+org/jsoup/helper/DataUtil.load
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/parser/Parser.parseInput
+org/jsoup/helper/DataUtil.parseByteData
+org/jsoup/Jsoup.parse
+org/jsoup/helper/DataUtil.getCharsetFromContentType
+top 10 recommendations: 
+org/jsoup/Jsoup.parse
+org/jsoup/helper/DataUtil.load
+org/jsoup/helper/DataUtil.parseByteData
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/parser/Parser.parseInput
+org/jsoup/helper/DataUtil.getCharsetFromContentType
+after post processing ......
+org/jsoup/Jsoup.parse
+org/jsoup/helper/DataUtil.load
+org/jsoup/helper/DataUtil.parseByteData
+org/jsoup/nodes/Document.quirksMode
+org/jsoup/parser/Parser.parseInput
+org/jsoup/helper/DataUtil.getCharsetFromContentType
+found in top 10

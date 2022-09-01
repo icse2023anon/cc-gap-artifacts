@@ -1,0 +1,11 @@
+slicing criterion: com.thoughtworks.xstream.persistence.FilePersistenceStrategyTest.testEscapesNullKeyWhileExtractingKey:121
+Methods call in assertion: [com/thoughtworks/xstream/persistence/FilePersistenceStrategy.extractKey]
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.unescape
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.extractKey
+top 10 recommendations: 
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.extractKey
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.unescape
+after post processing ......
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.extractKey
+com/thoughtworks/xstream/persistence/FilePersistenceStrategy.unescape
+perfect match

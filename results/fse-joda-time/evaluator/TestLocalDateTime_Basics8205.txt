@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Basics.testGetValues:304
+Methods call in assertion: [org/joda/time/LocalDateTime.getValues]
+org/joda/time/base/AbstractPartial.getValues
+org/joda/time/LocalDateTime.size
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.getValues
+org/joda/time/LocalDateTime.size
+after post processing ......
+org/joda/time/base/AbstractPartial.getValues
+org/joda/time/LocalDateTime.size
+not matched

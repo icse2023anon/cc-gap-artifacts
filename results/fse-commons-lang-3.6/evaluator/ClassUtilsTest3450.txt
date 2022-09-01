@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ClassUtilsTest.test_getAllInterfaces_Class:332
+Methods call in assertion: [org/apache/commons/lang3/ClassUtils.getAllInterfaces]
+org/apache/commons/lang3/ClassUtils.getAllInterfaces
+top 10 recommendations: 
+org/apache/commons/lang3/ClassUtils.getAllInterfaces
+after post processing ......
+org/apache/commons/lang3/ClassUtils.getAllInterfaces
+perfect match

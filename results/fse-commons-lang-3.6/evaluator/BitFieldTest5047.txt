@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.lang3.BitFieldTest.testSetShortValue:171
+Methods call in assertion: [org/apache/commons/lang3/BitField.getShortValue, org/apache/commons/lang3/BitField.setShortValue]
+org/apache/commons/lang3/BitField.getShortValue
+org/apache/commons/lang3/BitField.setValue
+org/apache/commons/lang3/BitField.getRawValue
+org/apache/commons/lang3/BitField.setShortValue
+org/apache/commons/lang3/BitField.getValue
+top 10 recommendations: 
+org/apache/commons/lang3/BitField.getShortValue
+org/apache/commons/lang3/BitField.setShortValue
+org/apache/commons/lang3/BitField.getValue
+org/apache/commons/lang3/BitField.setValue
+org/apache/commons/lang3/BitField.getRawValue
+after post processing ......
+org/apache/commons/lang3/BitField.getShortValue
+org/apache/commons/lang3/BitField.setShortValue
+org/apache/commons/lang3/BitField.getValue
+org/apache/commons/lang3/BitField.setValue
+org/apache/commons/lang3/BitField.getRawValue
+found in top 10

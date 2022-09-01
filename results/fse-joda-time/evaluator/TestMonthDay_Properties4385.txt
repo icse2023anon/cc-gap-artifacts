@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.TestMonthDay_Properties.testPropertyGetDayOfMonth:214
+Methods call in assertion: [org/joda/time/MonthDay.dayOfMonth, org/joda/time/MonthDay$Property.getMaximumShortTextLength]
+org/joda/time/field/AbstractPartialFieldProperty.getRangeDurationField
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/MonthDay.getField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumShortTextLength
+org/joda/time/base/AbstractPartial.getField
+top 10 recommendations: 
+org/joda/time/field/AbstractPartialFieldProperty.getRangeDurationField
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/MonthDay.getField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumShortTextLength
+org/joda/time/base/AbstractPartial.getField
+after post processing ......
+org/joda/time/field/AbstractPartialFieldProperty.getRangeDurationField
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/MonthDay.getField
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/field/AbstractPartialFieldProperty.getMaximumShortTextLength
+org/joda/time/base/AbstractPartial.getField
+not matched

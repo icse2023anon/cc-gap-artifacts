@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.math.NumberUtilsTest.compareLong:1607
+Methods call in assertion: [org/apache/commons/lang3/math/NumberUtils.compare]
+org/apache/commons/lang3/math/NumberUtils.compare
+top 10 recommendations: 
+org/apache/commons/lang3/math/NumberUtils.compare
+after post processing ......
+org/apache/commons/lang3/math/NumberUtils.compare
+perfect match

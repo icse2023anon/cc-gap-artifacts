@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestWeeks.testIsGreaterThan:205
+Methods call in assertion: [org/joda/time/Weeks.weeks, org/joda/time/Weeks.isGreaterThan]
+org/joda/time/Weeks.weeks
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Weeks.isGreaterThan
+top 10 recommendations: 
+org/joda/time/Weeks.weeks
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Weeks.isGreaterThan
+after post processing ......
+org/joda/time/Weeks.weeks
+org/joda/time/base/BaseSingleFieldPeriod.getValue
+org/joda/time/Weeks.isGreaterThan
+found in top 10

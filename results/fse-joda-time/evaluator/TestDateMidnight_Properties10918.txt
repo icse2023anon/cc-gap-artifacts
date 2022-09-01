@@ -1,0 +1,45 @@
+slicing criterion: org.joda.time.TestDateMidnight_Properties.testPropertyEqualsHashCodeStrict:578
+Methods call in assertion: [org/joda/time/DateMidnight$Property.hashCode, org/joda/time/DateMidnight.dayOfMonth]
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/field/AbstractReadableInstantFieldProperty.hashCode
+org/joda/time/field/AbstractReadableInstantFieldProperty.getFieldType
+org/joda/time/chrono/StrictChronology.convertField
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/StrictChronology.assemble
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/StrictChronology.getInstance
+org/joda/time/field/StrictDateTimeField.getInstance
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/field/AbstractReadableInstantFieldProperty.hashCode
+org/joda/time/chrono/StrictChronology.assemble
+org/joda/time/chrono/StrictChronology.convertField
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/field/AbstractReadableInstantFieldProperty.getFieldType
+org/joda/time/base/BaseDateTime.getChronology
+after post processing ......
+org/joda/time/field/AbstractReadableInstantFieldProperty.hashCode
+org/joda/time/chrono/StrictChronology.assemble
+org/joda/time/chrono/StrictChronology.convertField
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/field/AbstractReadableInstantFieldProperty.get
+org/joda/time/field/BaseDateTimeField.isSupported
+org/joda/time/field/BaseDateTimeField.getType
+org/joda/time/DateMidnight.addWrapFieldToCopy
+org/joda/time/field/AbstractReadableInstantFieldProperty.getFieldType
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/chrono/StrictChronology.getInstance
+org/joda/time/field/StrictDateTimeField.getInstance
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/AssembledChronology.<init>
+org/joda/time/DateTimeUtils.getChronology
+not matched

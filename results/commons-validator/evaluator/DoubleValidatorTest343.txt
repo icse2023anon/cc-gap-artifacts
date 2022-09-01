@@ -1,0 +1,32 @@
+slicing criterion: org.apache.commons.validator.routines.DoubleValidatorTest.testDoubleRangeMinMax:129
+Methods call in assertion: [org/apache/commons/validator/routines/DoubleValidator.minValue]
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/DoubleValidator.minValue
+org/apache/commons/validator/routines/DoubleValidator.validate
+org/apache/commons/validator/routines/DoubleValidator.getInstance
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/DoubleValidator.processParsedValue
+org/apache/commons/validator/routines/DoubleValidator.<init>
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+top 10 recommendations: 
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/DoubleValidator.minValue
+org/apache/commons/validator/routines/DoubleValidator.validate
+org/apache/commons/validator/routines/DoubleValidator.getInstance
+org/apache/commons/validator/routines/DoubleValidator.processParsedValue
+org/apache/commons/validator/routines/DoubleValidator.<init>
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+after post processing ......
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/AbstractNumberValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isStrict
+org/apache/commons/validator/routines/DoubleValidator.minValue
+org/apache/commons/validator/routines/DoubleValidator.validate
+org/apache/commons/validator/routines/DoubleValidator.getInstance
+org/apache/commons/validator/routines/DoubleValidator.processParsedValue
+org/apache/commons/validator/routines/DoubleValidator.<init>
+org/apache/commons/validator/routines/AbstractNumberValidator.getFormat
+found in top 10

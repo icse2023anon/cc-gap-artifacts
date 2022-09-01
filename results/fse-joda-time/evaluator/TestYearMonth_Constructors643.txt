@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestYearMonth_Constructors.testConstructor_int_int:386
+Methods call in assertion: [org/joda/time/YearMonth.getMonthOfYear]
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonth.setCopy
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/YearMonth.getMonthOfYear
+top 10 recommendations: 
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonth.setCopy
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/YearMonth.getMonthOfYear
+after post processing ......
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonth.setCopy
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/YearMonth.getMonthOfYear
+found in top 10

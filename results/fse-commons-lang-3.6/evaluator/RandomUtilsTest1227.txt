@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.RandomUtilsTest.testNextIntMinimalRange:151
+Methods call in assertion: [org/apache/commons/lang3/RandomUtils.nextInt]
+org/apache/commons/lang3/RandomUtils.nextInt
+top 10 recommendations: 
+org/apache/commons/lang3/RandomUtils.nextInt
+after post processing ......
+org/apache/commons/lang3/RandomUtils.nextInt
+perfect match

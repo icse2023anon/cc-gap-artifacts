@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.PaintMapTest.testGetPaint:64
+Methods call in assertion: [org/jfree/chart/PaintMap.getPaint]
+org/jfree/chart/PaintMap.getPaint
+top 10 recommendations: 
+org/jfree/chart/PaintMap.getPaint
+after post processing ......
+org/jfree/chart/PaintMap.getPaint
+perfect match

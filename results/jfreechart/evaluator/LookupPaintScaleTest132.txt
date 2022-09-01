@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.LookupPaintScaleTest.testConstructor2:148
+Methods call in assertion: [org/jfree/chart/renderer/LookupPaintScale.getUpperBound]
+org/jfree/chart/renderer/LookupPaintScale.getUpperBound
+top 10 recommendations: 
+org/jfree/chart/renderer/LookupPaintScale.getUpperBound
+after post processing ......
+org/jfree/chart/renderer/LookupPaintScale.getUpperBound
+perfect match

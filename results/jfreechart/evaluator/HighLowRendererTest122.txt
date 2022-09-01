@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.xy.HighLowRendererTest.testEquals:81
+Methods call in assertion: [org/jfree/chart/renderer/xy/HighLowRenderer.equals]
+org/jfree/chart/renderer/xy/HighLowRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/HighLowRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/xy/HighLowRenderer.equals
+perfect match

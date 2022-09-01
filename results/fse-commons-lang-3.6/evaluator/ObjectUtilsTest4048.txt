@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ObjectUtilsTest.testMedian:414
+Methods call in assertion: [org/apache/commons/lang3/ObjectUtils.median]
+org/apache/commons/lang3/ObjectUtils.median
+top 10 recommendations: 
+org/apache/commons/lang3/ObjectUtils.median
+after post processing ......
+org/apache/commons/lang3/ObjectUtils.median
+perfect match

@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestLocalDate_Properties.testPropertyGetMaxMinValuesYear:137
+Methods call in assertion: [org/joda/time/LocalDate.year, org/joda/time/LocalDate$Property.getMaximumValueOverall]
+org/joda/time/chrono/GregorianChronology.getMaxYear
+org/joda/time/LocalDate.compareTo
+org/joda/time/chrono/BasicYearDateTimeField.getMaximumValue
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValueOverall
+top 10 recommendations: 
+org/joda/time/chrono/GregorianChronology.getMaxYear
+org/joda/time/LocalDate.compareTo
+org/joda/time/chrono/BasicYearDateTimeField.getMaximumValue
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValueOverall
+after post processing ......
+org/joda/time/chrono/GregorianChronology.getMaxYear
+org/joda/time/LocalDate.compareTo
+org/joda/time/chrono/BasicYearDateTimeField.getMaximumValue
+org/joda/time/field/AbstractReadableInstantFieldProperty.getMaximumValueOverall
+not matched

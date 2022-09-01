@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.renderer.OutlierTest.testConstructor:66
+Methods call in assertion: [org/jfree/chart/renderer/Outlier.getRadius]
+org/jfree/chart/renderer/Outlier.getRadius
+top 10 recommendations: 
+org/jfree/chart/renderer/Outlier.getRadius
+after post processing ......
+org/jfree/chart/renderer/Outlier.getRadius
+perfect match

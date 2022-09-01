@@ -1,0 +1,59 @@
+slicing criterion: org.joda.time.TestLocalDateTime_Constructors.testConstructor_long_nullChronology:410
+Methods call in assertion: [org/joda/time/LocalDateTime.getSecondOfMinute]
+org/joda/time/LocalDateTime.getSecondOfMinute
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/LocalDateTime.parse
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/format/DateTimeFormatter.parseLocalDateTime
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/LocalDateTime.<init>
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/LocalDateTime.parse
+org/joda/time/format/DateTimeFormatter.parseLocalDateTime
+org/joda/time/LocalDateTime.<init>
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/LocalDateTime.getSecondOfMinute
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/chrono/ISOChronology.withUTC
+after post processing ......
+org/joda/time/LocalDateTime.parse
+org/joda/time/format/DateTimeFormatter.parseLocalDateTime
+org/joda/time/LocalDateTime.<init>
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/LocalDateTime.getSecondOfMinute
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/field/PreciseDurationDateTimeField.getUnitMillis
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/field/PreciseDateTimeField.get
+org/joda/time/LocalDateTime.getChronology
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/LocalDateTime.getLocalMillis
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/chrono/AssembledChronology.secondOfMinute
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.convertLocalToUTC
+found in top 10

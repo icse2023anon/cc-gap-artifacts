@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableFloatTest.testCompareTo:151
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableFloat.compareTo]
+org/apache/commons/lang3/mutable/MutableFloat.compareTo
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableFloat.compareTo
+after post processing ......
+org/apache/commons/lang3/mutable/MutableFloat.compareTo
+perfect match

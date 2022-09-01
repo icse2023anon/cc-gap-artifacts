@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.csv.CSVFormatTest.testEqualsOne:871
+Methods call in assertion: [org/apache/commons/csv/CSVFormat.getEscapeCharacter]
+org/apache/commons/csv/CSVFormat.getEscapeCharacter
+top 10 recommendations: 
+org/apache/commons/csv/CSVFormat.getEscapeCharacter
+after post processing ......
+org/apache/commons/csv/CSVFormat.getEscapeCharacter
+perfect match

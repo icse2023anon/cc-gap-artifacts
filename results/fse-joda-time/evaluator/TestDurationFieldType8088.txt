@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDurationFieldType.test_months:97
+Methods call in assertion: [org/joda/time/DurationFieldType.months]
+org/joda/time/DurationFieldType.months
+top 10 recommendations: 
+org/joda/time/DurationFieldType.months
+after post processing ......
+org/joda/time/DurationFieldType.months
+perfect match

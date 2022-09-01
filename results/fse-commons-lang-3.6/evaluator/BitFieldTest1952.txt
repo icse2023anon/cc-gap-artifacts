@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.BitFieldTest.testGetShortRawValue:98
+Methods call in assertion: [org/apache/commons/lang3/BitField.getShortRawValue]
+org/apache/commons/lang3/BitField.getShortRawValue
+org/apache/commons/lang3/BitField.getRawValue
+top 10 recommendations: 
+org/apache/commons/lang3/BitField.getShortRawValue
+org/apache/commons/lang3/BitField.getRawValue
+after post processing ......
+org/apache/commons/lang3/BitField.getShortRawValue
+org/apache/commons/lang3/BitField.getRawValue
+perfect match

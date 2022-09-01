@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.lang3.builder.NoClassNameToStringStyleTest.testLong:104
+Methods call in assertion: [org/apache/commons/lang3/builder/ToStringBuilder.append, org/apache/commons/lang3/builder/ToStringBuilder.toString]
+org/apache/commons/lang3/builder/ToStringBuilder.append
+org/apache/commons/lang3/builder/ToStringBuilder.<init>
+org/apache/commons/lang3/builder/ToStringBuilder.getStringBuffer
+org/apache/commons/lang3/builder/ToStringBuilder.toString
+top 10 recommendations: 
+org/apache/commons/lang3/builder/ToStringBuilder.toString
+org/apache/commons/lang3/builder/ToStringBuilder.append
+org/apache/commons/lang3/builder/ToStringBuilder.<init>
+org/apache/commons/lang3/builder/ToStringBuilder.getStringBuffer
+after post processing ......
+org/apache/commons/lang3/builder/ToStringBuilder.toString
+org/apache/commons/lang3/builder/ToStringBuilder.append
+org/apache/commons/lang3/builder/ToStringBuilder.<init>
+org/apache/commons/lang3/builder/ToStringBuilder.getStringBuffer
+found in top 10

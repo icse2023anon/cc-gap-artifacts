@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestPartial_Constructors.testConstructor_Type_int_Chrono:163
+Methods call in assertion: [org/joda/time/Partial.size]
+org/joda/time/Partial.size
+top 10 recommendations: 
+org/joda/time/Partial.size
+after post processing ......
+org/joda/time/Partial.size
+perfect match

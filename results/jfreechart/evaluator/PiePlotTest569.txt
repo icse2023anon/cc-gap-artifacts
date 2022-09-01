@@ -1,0 +1,49 @@
+slicing criterion: org.jfree.chart.plot.PiePlotTest.testEquals:322
+Methods call in assertion: [org/jfree/chart/plot/PiePlot.equals]
+org/jfree/chart/plot/PiePlot.setExplodePercent
+org/jfree/chart/plot/PiePlot.setInteriorGap
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/PaintMap.put
+org/jfree/chart/StrokeMap.getStroke
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/PiePlot.setSectionOutlinePaint
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+org/jfree/chart/plot/PiePlot.setSectionOutlineStroke
+org/jfree/chart/PaintMap.getPaint
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/plot/PiePlot.isCircular
+org/jfree/chart/StrokeMap.put
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/plot/PiePlot.equals
+org/jfree/chart/plot/PiePlot.setSectionPaint
+top 10 recommendations: 
+org/jfree/chart/plot/PiePlot.equals
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/plot/PiePlot.setSectionOutlinePaint
+org/jfree/chart/plot/PiePlot.setSectionOutlineStroke
+org/jfree/chart/plot/PiePlot.setSectionPaint
+org/jfree/chart/plot/PiePlot.setExplodePercent
+org/jfree/chart/plot/PiePlot.setInteriorGap
+org/jfree/chart/PaintMap.put
+after post processing ......
+org/jfree/chart/plot/PiePlot.equals
+org/jfree/chart/StrokeMap.equals
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/util/ShapeUtils.equal
+org/jfree/chart/plot/PiePlot.setSectionOutlinePaint
+org/jfree/chart/plot/PiePlot.setSectionOutlineStroke
+org/jfree/chart/plot/PiePlot.setSectionPaint
+org/jfree/chart/plot/PiePlot.setExplodePercent
+org/jfree/chart/plot/PiePlot.setInteriorGap
+org/jfree/chart/PaintMap.put
+org/jfree/chart/StrokeMap.getStroke
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/labels/StandardPieSectionLabelGenerator.equals
+org/jfree/chart/PaintMap.getPaint
+org/jfree/chart/plot/PiePlot.isCircular
+org/jfree/chart/StrokeMap.put
+org/jfree/chart/util/PaintUtils.equal
+perfect match

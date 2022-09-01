@@ -1,0 +1,23 @@
+slicing criterion: org.apache.commons.lang3.math.NumberUtilsTest.testCreateNumber:291
+Methods call in assertion: [org/apache/commons/lang3/math/NumberUtils.createNumber]
+org/apache/commons/lang3/StringUtils.isNumeric
+org/apache/commons/lang3/math/NumberUtils.createNumber
+org/apache/commons/lang3/math/NumberUtils.createLong
+org/apache/commons/lang3/math/NumberUtils.createBigInteger
+org/apache/commons/lang3/StringUtils.isEmpty
+org/apache/commons/lang3/math/NumberUtils.isDigits
+top 10 recommendations: 
+org/apache/commons/lang3/math/NumberUtils.createNumber
+org/apache/commons/lang3/math/NumberUtils.isDigits
+org/apache/commons/lang3/StringUtils.isNumeric
+org/apache/commons/lang3/math/NumberUtils.createLong
+org/apache/commons/lang3/math/NumberUtils.createBigInteger
+org/apache/commons/lang3/StringUtils.isEmpty
+after post processing ......
+org/apache/commons/lang3/math/NumberUtils.createNumber
+org/apache/commons/lang3/math/NumberUtils.isDigits
+org/apache/commons/lang3/StringUtils.isNumeric
+org/apache/commons/lang3/math/NumberUtils.createLong
+org/apache/commons/lang3/math/NumberUtils.createBigInteger
+org/apache/commons/lang3/StringUtils.isEmpty
+perfect match

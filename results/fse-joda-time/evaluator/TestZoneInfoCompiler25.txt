@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.tz.TestZoneInfoCompiler.testParseZoneCharFive:89
+Methods call in assertion: [org/joda/time/tz/ZoneInfoCompiler.parseZoneChar]
+org/joda/time/tz/ZoneInfoCompiler.parseZoneChar
+top 10 recommendations: 
+org/joda/time/tz/ZoneInfoCompiler.parseZoneChar
+after post processing ......
+org/joda/time/tz/ZoneInfoCompiler.parseZoneChar
+perfect match

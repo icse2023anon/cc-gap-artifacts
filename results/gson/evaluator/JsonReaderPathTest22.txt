@@ -1,0 +1,43 @@
+slicing criterion: com.google.gson.stream.JsonReaderPathTest.skipObjectNames:180
+Methods call in assertion: [com/google/gson/stream/JsonReader.getPath]
+com/google/gson/stream/JsonReader.getPath
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/internal/LinkedTreeMap.put
+com/google/gson/internal/LinkedTreeMap.entrySet
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/stream/JsonReader.peek
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/internal/bind/JsonTreeReader.nextName
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/internal/bind/JsonTreeReader.getPath
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/internal/bind/JsonTreeReader.peek
+top 10 recommendations: 
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/internal/LinkedTreeMap.put
+com/google/gson/stream/JsonReader.peek
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/stream/JsonReader.getPath
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/internal/LinkedTreeMap.entrySet
+com/google/gson/internal/LinkedTreeMap.find
+after post processing ......
+com/google/gson/internal/Streams.parse
+com/google/gson/stream/JsonReader.nextName
+com/google/gson/internal/LinkedTreeMap.put
+com/google/gson/stream/JsonReader.peek
+com/google/gson/internal/bind/JsonTreeReader.<init>
+com/google/gson/stream/JsonReader.hasNext
+com/google/gson/stream/JsonReader.getPath
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/internal/LinkedTreeMap.entrySet
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/internal/bind/JsonTreeReader.nextName
+com/google/gson/internal/bind/JsonTreeReader.getPath
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/internal/bind/JsonTreeReader.peek
+found in top 10

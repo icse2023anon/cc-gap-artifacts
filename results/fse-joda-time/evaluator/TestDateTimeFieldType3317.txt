@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDateTimeFieldType.test_secondOfDay:273
+Methods call in assertion: [org/joda/time/DateTimeFieldType.secondOfDay]
+org/joda/time/DateTimeFieldType.secondOfDay
+top 10 recommendations: 
+org/joda/time/DateTimeFieldType.secondOfDay
+after post processing ......
+org/joda/time/DateTimeFieldType.secondOfDay
+perfect match

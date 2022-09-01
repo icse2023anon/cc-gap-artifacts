@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testRemoveDoubleConsonants_MISSISSIPPI_RemovedSuccessfully:92
+Methods call in assertion: [org/apache/commons/codec/language/MatchRatingApproachEncoder.removeDoubleConsonants]
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeDoubleConsonants
+top 10 recommendations: 
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeDoubleConsonants
+after post processing ......
+org/apache/commons/codec/language/MatchRatingApproachEncoder.removeDoubleConsonants
+perfect match

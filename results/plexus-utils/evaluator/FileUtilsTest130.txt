@@ -1,0 +1,14 @@
+slicing criterion: org.codehaus.plexus.util.FileUtilsTest.testCopyURLToFile:247
+Methods call in assertion: [org/codehaus/plexus/util/IOUtil.contentEquals]
+org/codehaus/plexus/util/io/URLInputStreamFacade.getInputStream
+org/codehaus/plexus/util/IOUtil.contentEquals
+org/codehaus/plexus/util/FileUtils.copyStreamToFile
+top 10 recommendations: 
+org/codehaus/plexus/util/io/URLInputStreamFacade.getInputStream
+org/codehaus/plexus/util/IOUtil.contentEquals
+org/codehaus/plexus/util/FileUtils.copyStreamToFile
+after post processing ......
+org/codehaus/plexus/util/io/URLInputStreamFacade.getInputStream
+org/codehaus/plexus/util/IOUtil.contentEquals
+org/codehaus/plexus/util/FileUtils.copyStreamToFile
+found in top 10

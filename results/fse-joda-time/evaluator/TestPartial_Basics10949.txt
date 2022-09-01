@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testGetFormatter2:891
+Methods call in assertion: [org/joda/time/Partial.getFormatter]
+org/joda/time/Partial.size
+org/joda/time/Partial.getFormatter
+top 10 recommendations: 
+org/joda/time/Partial.getFormatter
+org/joda/time/Partial.size
+after post processing ......
+org/joda/time/Partial.getFormatter
+org/joda/time/Partial.size
+perfect match

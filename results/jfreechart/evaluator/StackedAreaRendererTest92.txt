@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.category.StackedAreaRendererTest.testCloning:127
+Methods call in assertion: [org/jfree/chart/renderer/category/StackedAreaRenderer.equals]
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getDefaultItemURLGenerator
+org/jfree/chart/renderer/category/StackedAreaRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getDefaultItemURLGenerator
+org/jfree/chart/renderer/category/StackedAreaRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.getDefaultItemURLGenerator
+org/jfree/chart/renderer/category/StackedAreaRenderer.equals
+found in top 10

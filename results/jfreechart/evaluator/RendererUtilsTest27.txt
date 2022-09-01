@@ -1,0 +1,23 @@
+slicing criterion: org.jfree.chart.renderer.RendererUtilsTest.testFindLiveItemsUpperBound_Unordered:304
+Methods call in assertion: [org/jfree/chart/renderer/RendererUtils.findLiveItemsUpperBound]
+org/jfree/data/xy/DefaultXYDataset.getItemCount
+org/jfree/data/xy/DefaultXYDataset.indexOf
+org/jfree/data/xy/DefaultXYDataset.getXValue
+org/jfree/data/xy/DefaultXYDataset.addSeries
+org/jfree/data/xy/DefaultXYDataset.getDomainOrder
+org/jfree/chart/renderer/RendererUtils.findLiveItemsUpperBound
+top 10 recommendations: 
+org/jfree/data/xy/DefaultXYDataset.addSeries
+org/jfree/data/xy/DefaultXYDataset.getItemCount
+org/jfree/data/xy/DefaultXYDataset.indexOf
+org/jfree/data/xy/DefaultXYDataset.getXValue
+org/jfree/data/xy/DefaultXYDataset.getDomainOrder
+org/jfree/chart/renderer/RendererUtils.findLiveItemsUpperBound
+after post processing ......
+org/jfree/data/xy/DefaultXYDataset.addSeries
+org/jfree/data/xy/DefaultXYDataset.getItemCount
+org/jfree/data/xy/DefaultXYDataset.indexOf
+org/jfree/data/xy/DefaultXYDataset.getXValue
+org/jfree/data/xy/DefaultXYDataset.getDomainOrder
+org/jfree/chart/renderer/RendererUtils.findLiveItemsUpperBound
+found in top 10

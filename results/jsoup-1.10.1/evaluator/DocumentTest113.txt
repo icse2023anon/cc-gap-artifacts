@@ -1,0 +1,35 @@
+slicing criterion: org.jsoup.nodes.DocumentTest.testMetaCharsetUpdateXmlDisabledNoChanges:382
+Methods call in assertion: [org/jsoup/nodes/XmlDeclaration.attr]
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Document.<init>
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Node.childNode
+org/jsoup/nodes/Element.prependChild
+org/jsoup/nodes/Attribute.getValue
+org/jsoup/nodes/Attributes.getIgnoreCase
+org/jsoup/nodes/Element.appendElement
+org/jsoup/nodes/Node.attr
+org/jsoup/nodes/Node.addChildren
+top 10 recommendations: 
+org/jsoup/nodes/Node.attr
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attributes.getIgnoreCase
+org/jsoup/nodes/Document.<init>
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Node.childNode
+org/jsoup/nodes/Element.prependChild
+org/jsoup/nodes/Attribute.getValue
+org/jsoup/nodes/Element.appendElement
+org/jsoup/nodes/Node.addChildren
+after post processing ......
+org/jsoup/nodes/Node.attr
+org/jsoup/nodes/Attributes.put
+org/jsoup/nodes/Attributes.getIgnoreCase
+org/jsoup/nodes/Document.<init>
+org/jsoup/nodes/Attribute.getKey
+org/jsoup/nodes/Node.childNode
+org/jsoup/nodes/Element.prependChild
+org/jsoup/nodes/Attribute.getValue
+org/jsoup/nodes/Element.appendElement
+org/jsoup/nodes/Node.addChildren
+found in top 10

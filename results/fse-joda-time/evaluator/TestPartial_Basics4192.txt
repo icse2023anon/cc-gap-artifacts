@@ -1,0 +1,49 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testWith_baseHasNoRange:531
+Methods call in assertion: [org/joda/time/DateTimeFieldType.year, org/joda/time/Partial.indexOf]
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/DateTimeFieldType.year
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/field/BaseDurationField.compareTo
+org/joda/time/Partial.size
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/Partial.getFormatter
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/Partial.with
+org/joda/time/Partial.getFieldType
+org/joda/time/Partial.<init>
+org/joda/time/Partial.toString
+org/joda/time/chrono/AssembledChronology.years
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/Partial.toString
+org/joda/time/Partial.getFormatter
+org/joda/time/Partial.with
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/Partial.<init>
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/DateTimeFieldType.year
+org/joda/time/base/AbstractPartial.indexOf
+after post processing ......
+org/joda/time/Partial.toString
+org/joda/time/Partial.getFormatter
+org/joda/time/Partial.with
+org/joda/time/format/ISODateTimeFormat.forFields
+org/joda/time/Partial.<init>
+org/joda/time/field/PreciseDurationField.getUnitMillis
+org/joda/time/DateTimeFieldType.hourOfDay
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/DateTimeFieldType.year
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/field/BaseDurationField.compareTo
+org/joda/time/Partial.size
+org/joda/time/field/BaseDurationField.isSupported
+org/joda/time/chrono/AssembledChronology.hours
+org/joda/time/Partial.getFieldType
+org/joda/time/chrono/AssembledChronology.years
+org/joda/time/DateTimeUtils.getChronology
+not matched

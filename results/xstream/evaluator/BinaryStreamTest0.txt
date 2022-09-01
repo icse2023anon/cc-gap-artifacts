@@ -1,0 +1,39 @@
+slicing criterion: com.thoughtworks.xstream.io.binary.BinaryStreamTest.testHandlesMoreThan256Ids:64
+Methods call in assertion: [com/thoughtworks/xstream/io/HierarchicalStreamReader.getNodeName]
+com/thoughtworks/xstream/io/binary/BinaryStreamReader.getNodeName
+com/thoughtworks/xstream/io/binary/ReaderDepthState.getName
+com/thoughtworks/xstream/io/binary/ReaderDepthState.hasNext
+com/thoughtworks/xstream/io/binary/Token.getId
+com/thoughtworks/xstream/io/binary/Token.getType
+com/thoughtworks/xstream/io/binary/BinaryStreamReader.<init>
+com/thoughtworks/xstream/io/binary/BinaryStreamWriter.<init>
+com/thoughtworks/xstream/io/binary/Token.writeId
+com/thoughtworks/xstream/io/binary/Token.readString
+com/thoughtworks/xstream/io/binary/Token.writeString
+com/thoughtworks/xstream/io/binary/Token.readId
+com/thoughtworks/xstream/io/binary/Token.getValue
+top 10 recommendations: 
+com/thoughtworks/xstream/io/binary/BinaryStreamReader.getNodeName
+com/thoughtworks/xstream/io/binary/ReaderDepthState.getName
+com/thoughtworks/xstream/io/binary/ReaderDepthState.hasNext
+com/thoughtworks/xstream/io/binary/Token.getId
+com/thoughtworks/xstream/io/binary/Token.getType
+com/thoughtworks/xstream/io/binary/BinaryStreamReader.<init>
+com/thoughtworks/xstream/io/binary/BinaryStreamWriter.<init>
+com/thoughtworks/xstream/io/binary/Token.writeId
+com/thoughtworks/xstream/io/binary/Token.readString
+com/thoughtworks/xstream/io/binary/Token.writeString
+after post processing ......
+com/thoughtworks/xstream/io/binary/BinaryStreamReader.getNodeName
+com/thoughtworks/xstream/io/binary/ReaderDepthState.getName
+com/thoughtworks/xstream/io/binary/ReaderDepthState.hasNext
+com/thoughtworks/xstream/io/binary/Token.getId
+com/thoughtworks/xstream/io/binary/Token.getType
+com/thoughtworks/xstream/io/binary/BinaryStreamReader.<init>
+com/thoughtworks/xstream/io/binary/BinaryStreamWriter.<init>
+com/thoughtworks/xstream/io/binary/Token.writeId
+com/thoughtworks/xstream/io/binary/Token.readString
+com/thoughtworks/xstream/io/binary/Token.writeString
+com/thoughtworks/xstream/io/binary/Token.readId
+com/thoughtworks/xstream/io/binary/Token.getValue
+not matched

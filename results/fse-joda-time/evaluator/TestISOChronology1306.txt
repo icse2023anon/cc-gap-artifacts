@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.chrono.TestISOChronology.testDurationFields:226
+Methods call in assertion: [org/joda/time/DurationField.isPrecise, org/joda/time/chrono/ISOChronology.minutes]
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/field/PreciseDurationField.isPrecise
+org/joda/time/chrono/AssembledChronology.minutes
+top 10 recommendations: 
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/field/PreciseDurationField.isPrecise
+org/joda/time/chrono/AssembledChronology.minutes
+after post processing ......
+org/joda/time/chrono/ISOChronology.getInstanceUTC
+org/joda/time/field/PreciseDurationField.isPrecise
+org/joda/time/chrono/AssembledChronology.minutes
+found in top 10

@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsTest.testRemoveAll:2922
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.removeAll]
+org/apache/commons/lang3/StringUtils.removeAll
+org/apache/commons/lang3/StringUtils.replaceAll
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.removeAll
+org/apache/commons/lang3/StringUtils.replaceAll
+after post processing ......
+org/apache/commons/lang3/StringUtils.removeAll
+org/apache/commons/lang3/StringUtils.replaceAll
+perfect match

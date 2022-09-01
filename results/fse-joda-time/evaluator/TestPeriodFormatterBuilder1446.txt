@@ -1,0 +1,23 @@
+slicing criterion: org.joda.time.format.TestPeriodFormatterBuilder.testFormatSeparatorIfFieldsAfter:900
+Methods call in assertion: [org/joda/time/format/PeriodFormatter.getPrinter, org/joda/time/format/PeriodPrinter.calculatePrintedLength]
+org/joda/time/format/PeriodFormatterBuilder.appendYears
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/format/PeriodFormatter.getPrinter
+org/joda/time/format/PeriodFormatterBuilder.appendSeparatorIfFieldsAfter
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+org/joda/time/format/PeriodFormatterBuilder.appendHours
+top 10 recommendations: 
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+org/joda/time/format/PeriodFormatterBuilder.appendYears
+org/joda/time/format/PeriodFormatter.getPrinter
+org/joda/time/format/PeriodFormatterBuilder.appendSeparatorIfFieldsAfter
+org/joda/time/format/PeriodFormatterBuilder.appendHours
+after post processing ......
+org/joda/time/format/PeriodFormatter.print
+org/joda/time/format/PeriodFormatterBuilder.toFormatter
+org/joda/time/format/PeriodFormatterBuilder.appendYears
+org/joda/time/format/PeriodFormatter.getPrinter
+org/joda/time/format/PeriodFormatterBuilder.appendSeparatorIfFieldsAfter
+org/joda/time/format/PeriodFormatterBuilder.appendHours
+not matched

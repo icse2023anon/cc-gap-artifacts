@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableByteTest.testEquals:117
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableByte.equals]
+org/apache/commons/lang3/mutable/MutableByte.equals
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableByte.equals
+after post processing ......
+org/apache/commons/lang3/mutable/MutableByte.equals
+perfect match

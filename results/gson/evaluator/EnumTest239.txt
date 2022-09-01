@@ -1,0 +1,65 @@
+slicing criterion: com.google.gson.functional.EnumTest.testEnumSubclassWithRegisteredTypeAdapter:129
+Methods call in assertion: [com/google/gson/Gson.fromJson]
+com/google/gson/Gson.<init>
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/internal/Streams.parse
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/Gson.toJson
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/JsonPrimitive.getAsString
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/Gson.getAdapter
+com/google/gson/internal/bind/TypeAdapters.create
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/Gson.fromJson
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/internal/bind/TreeTypeAdapter.read
+com/google/gson/stream/JsonReader.peek
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/GsonBuilder.create
+com/google/gson/GsonBuilder.registerTypeHierarchyAdapter
+com/google/gson/JsonElement.isJsonNull
+com/google/gson/Gson.newJsonReader
+com/google/gson/internal/bind/CollectionTypeAdapterFactory.create
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/internal/Excluder.excludeClass
+com/google/gson/internal/Excluder.create
+top 10 recommendations: 
+com/google/gson/Gson.fromJson
+com/google/gson/internal/bind/TreeTypeAdapter.read
+com/google/gson/internal/bind/CollectionTypeAdapterFactory.create
+com/google/gson/internal/Streams.parse
+com/google/gson/JsonPrimitive.getAsString
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/internal/Excluder.create
+com/google/gson/Gson.toJson
+com/google/gson/stream/JsonReader.peek
+com/google/gson/GsonBuilder.create
+after post processing ......
+com/google/gson/Gson.fromJson
+com/google/gson/internal/bind/TreeTypeAdapter.read
+com/google/gson/internal/bind/CollectionTypeAdapterFactory.create
+com/google/gson/internal/Streams.parse
+com/google/gson/JsonPrimitive.getAsString
+com/google/gson/stream/JsonReader.nextString
+com/google/gson/internal/Excluder.create
+com/google/gson/Gson.toJson
+com/google/gson/stream/JsonReader.peek
+com/google/gson/GsonBuilder.create
+com/google/gson/Gson.newJsonReader
+com/google/gson/Gson.<init>
+com/google/gson/stream/JsonReader.<init>
+com/google/gson/JsonPrimitive.setValue
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/Gson.getAdapter
+com/google/gson/internal/bind/TypeAdapters.create
+com/google/gson/stream/JsonReader.doPeek
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/JsonPrimitive.isBoolean
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/GsonBuilder.registerTypeHierarchyAdapter
+com/google/gson/JsonElement.isJsonNull
+com/google/gson/JsonPrimitive.isNumber
+com/google/gson/internal/Excluder.excludeClass
+perfect match

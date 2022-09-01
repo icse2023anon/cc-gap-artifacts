@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsContainsTest.testContainsOnly_CharArray:453
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.containsOnly]
+org/apache/commons/lang3/StringUtils.containsOnly
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.containsOnly
+after post processing ......
+org/apache/commons/lang3/StringUtils.containsOnly
+perfect match

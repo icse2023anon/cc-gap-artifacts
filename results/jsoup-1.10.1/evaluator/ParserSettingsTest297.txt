@@ -1,0 +1,8 @@
+slicing criterion: org.jsoup.parser.ParserSettingsTest.caseSupport:23
+Methods call in assertion: [org/jsoup/parser/ParseSettings.normalizeTag]
+org/jsoup/parser/ParseSettings.normalizeTag
+top 10 recommendations: 
+org/jsoup/parser/ParseSettings.normalizeTag
+after post processing ......
+org/jsoup/parser/ParseSettings.normalizeTag
+perfect match

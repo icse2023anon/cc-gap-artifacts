@@ -1,0 +1,8 @@
+slicing criterion: org.codehaus.plexus.util.dag.CycleDetectedExceptionTest.testException:43
+Methods call in assertion: [org/codehaus/plexus/util/dag/CycleDetectedException.getMessage]
+org/codehaus/plexus/util/dag/CycleDetectedException.getMessage
+top 10 recommendations: 
+org/codehaus/plexus/util/dag/CycleDetectedException.getMessage
+after post processing ......
+org/codehaus/plexus/util/dag/CycleDetectedException.getMessage
+perfect match

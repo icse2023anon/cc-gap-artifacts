@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.xy.StackedXYAreaRenderer2Test.testEquals:111
+Methods call in assertion: [org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.equals]
+org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.equals
+org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.getRoundXCoordinates
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.equals
+org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.getRoundXCoordinates
+after post processing ......
+org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.equals
+org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.getRoundXCoordinates
+perfect match

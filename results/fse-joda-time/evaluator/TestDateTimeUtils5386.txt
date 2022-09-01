@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestDateTimeUtils.testGetReadableInterval_ReadableInterval:419
+Methods call in assertion: [org/joda/time/DateTimeUtils.getReadableInterval]
+org/joda/time/DateTimeUtils.getReadableInterval
+top 10 recommendations: 
+org/joda/time/DateTimeUtils.getReadableInterval
+after post processing ......
+org/joda/time/DateTimeUtils.getReadableInterval
+perfect match

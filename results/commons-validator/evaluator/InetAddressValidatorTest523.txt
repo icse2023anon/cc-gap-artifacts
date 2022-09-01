@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.validator.routines.InetAddressValidatorTest.testInetAddressesFromTheWild:49
+Methods call in assertion: [org/apache/commons/validator/routines/InetAddressValidator.isValid]
+org/apache/commons/validator/routines/InetAddressValidator.isValid
+org/apache/commons/validator/routines/RegexValidator.match
+org/apache/commons/validator/routines/InetAddressValidator.isValidInet4Address
+org/apache/commons/validator/routines/RegexValidator.<init>
+top 10 recommendations: 
+org/apache/commons/validator/routines/InetAddressValidator.isValid
+org/apache/commons/validator/routines/InetAddressValidator.isValidInet4Address
+org/apache/commons/validator/routines/RegexValidator.match
+org/apache/commons/validator/routines/RegexValidator.<init>
+after post processing ......
+org/apache/commons/validator/routines/InetAddressValidator.isValid
+org/apache/commons/validator/routines/InetAddressValidator.isValidInet4Address
+org/apache/commons/validator/routines/RegexValidator.match
+org/apache/commons/validator/routines/RegexValidator.<init>
+perfect match

@@ -1,0 +1,11 @@
+slicing criterion: org.joda.time.TestPeriodType.testTime:356
+Methods call in assertion: [org/joda/time/PeriodType.millis, org/joda/time/PeriodType.equals]
+org/joda/time/PeriodType.millis
+org/joda/time/PeriodType.equals
+top 10 recommendations: 
+org/joda/time/PeriodType.millis
+org/joda/time/PeriodType.equals
+after post processing ......
+org/joda/time/PeriodType.millis
+org/joda/time/PeriodType.equals
+perfect match

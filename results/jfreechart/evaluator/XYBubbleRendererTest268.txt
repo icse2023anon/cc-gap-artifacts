@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.renderer.xy.XYBubbleRendererTest.testCloning:101
+Methods call in assertion: [org/jfree/chart/renderer/xy/XYBubbleRenderer.equals]
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getSeriesToolTipGenerator
+org/jfree/chart/renderer/xy/XYBubbleRenderer.equals
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getSeriesToolTipGenerator
+org/jfree/chart/renderer/xy/XYBubbleRenderer.equals
+after post processing ......
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer.getSeriesToolTipGenerator
+org/jfree/chart/renderer/xy/XYBubbleRenderer.equals
+found in top 10

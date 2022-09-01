@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.plot.PiePlotTest.testCloning_URLGenerator:440
+Methods call in assertion: [org/jfree/chart/plot/PiePlot.getURLGenerator]
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/plot/PiePlot.getURLGenerator
+org/jfree/chart/urls/CustomPieURLGenerator.clone
+org/jfree/chart/plot/PiePlot.clone
+top 10 recommendations: 
+org/jfree/chart/plot/PiePlot.clone
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/plot/PiePlot.getURLGenerator
+org/jfree/chart/urls/CustomPieURLGenerator.clone
+after post processing ......
+org/jfree/chart/plot/PiePlot.clone
+org/jfree/chart/util/ObjectUtils.clone
+org/jfree/chart/plot/PiePlot.getURLGenerator
+org/jfree/chart/urls/CustomPieURLGenerator.clone
+found in top 10

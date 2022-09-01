@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Constructors.testConstantMidnight:146
+Methods call in assertion: [org/joda/time/TimeOfDay.getChronology]
+org/joda/time/base/BasePartial.getChronology
+top 10 recommendations: 
+org/joda/time/base/BasePartial.getChronology
+after post processing ......
+org/joda/time/base/BasePartial.getChronology
+perfect match

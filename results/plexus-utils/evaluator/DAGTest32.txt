@@ -1,0 +1,14 @@
+slicing criterion: org.codehaus.plexus.util.dag.DAGTest.testDAG:41
+Methods call in assertion: [org/codehaus/plexus/util/dag/Vertex.getLabel, org/codehaus/plexus/util/dag/DAG.getVertex]
+org/codehaus/plexus/util/dag/Vertex.getLabel
+org/codehaus/plexus/util/dag/DAG.addVertex
+org/codehaus/plexus/util/dag/DAG.getVertex
+top 10 recommendations: 
+org/codehaus/plexus/util/dag/Vertex.getLabel
+org/codehaus/plexus/util/dag/DAG.addVertex
+org/codehaus/plexus/util/dag/DAG.getVertex
+after post processing ......
+org/codehaus/plexus/util/dag/Vertex.getLabel
+org/codehaus/plexus/util/dag/DAG.addVertex
+org/codehaus/plexus/util/dag/DAG.getVertex
+found in top 10

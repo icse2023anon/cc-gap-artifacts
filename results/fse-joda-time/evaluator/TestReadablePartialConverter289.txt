@@ -1,0 +1,43 @@
+slicing criterion: org.joda.time.convert.TestReadablePartialConverter.testGetChronology_Object_Chronology:119
+Methods call in assertion: [org/joda/time/Chronology.withUTC, org/joda/time/convert/ReadablePartialConverter.getChronology]
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/JulianChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/tz/FixedDateTimeZone.hashCode
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/chrono/BuddhistChronology.withUTC
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/convert/ReadablePartialConverter.getChronology
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/DateTimeZone.getID
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/JulianChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/convert/ReadablePartialConverter.getChronology
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/tz/FixedDateTimeZone.hashCode
+org/joda/time/tz/ZoneInfoProvider.getZone
+after post processing ......
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/chrono/JulianChronology.getInstance
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/convert/ReadablePartialConverter.getChronology
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/tz/FixedDateTimeZone.hashCode
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/chrono/BuddhistChronology.withUTC
+org/joda/time/tz/DateTimeZoneBuilder.readMillis
+org/joda/time/DateTimeZone.getID
+org/joda/time/DateTimeUtils.getChronology
+all method calls are suggested

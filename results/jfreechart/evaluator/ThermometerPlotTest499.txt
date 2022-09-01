@@ -1,0 +1,32 @@
+slicing criterion: org.jfree.chart.plot.ThermometerPlotTest.testEquals:107
+Methods call in assertion: [org/jfree/chart/plot/ThermometerPlot.equals]
+org/jfree/chart/plot/ThermometerPlot.equals
+org/jfree/chart/plot/ThermometerPlot.setThermometerPaint
+org/jfree/chart/ui/RectangleInsets.equals
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/ThermometerPlot.setValueLocation
+org/jfree/chart/plot/ThermometerPlot.setThermometerStroke
+org/jfree/chart/plot/ThermometerPlot.setUnits
+top 10 recommendations: 
+org/jfree/chart/plot/ThermometerPlot.equals
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/plot/ThermometerPlot.setThermometerPaint
+org/jfree/chart/ui/RectangleInsets.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/ThermometerPlot.setValueLocation
+org/jfree/chart/plot/ThermometerPlot.setThermometerStroke
+org/jfree/chart/plot/ThermometerPlot.setUnits
+after post processing ......
+org/jfree/chart/plot/ThermometerPlot.equals
+org/jfree/chart/axis/NumberAxis.equals
+org/jfree/chart/plot/ThermometerPlot.setThermometerPaint
+org/jfree/chart/ui/RectangleInsets.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/ThermometerPlot.setValueLocation
+org/jfree/chart/plot/ThermometerPlot.setThermometerStroke
+org/jfree/chart/plot/ThermometerPlot.setUnits
+perfect match

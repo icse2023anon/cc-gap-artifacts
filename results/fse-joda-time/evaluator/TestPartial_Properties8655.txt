@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestPartial_Properties.testPropertyGetMinute:268
+Methods call in assertion: [org/joda/time/Partial$Property.getAsString, org/joda/time/DateTimeFieldType.minuteOfHour, org/joda/time/Partial.property]
+org/joda/time/Partial.getValue
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/field/AbstractPartialFieldProperty.getAsString
+org/joda/time/base/AbstractPartial.indexOfSupported
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/Partial.getValue
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/field/AbstractPartialFieldProperty.getAsString
+after post processing ......
+org/joda/time/base/AbstractPartial.indexOfSupported
+org/joda/time/Partial.getValue
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/Partial.getFieldType
+org/joda/time/DateTimeFieldType.minuteOfHour
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/field/AbstractPartialFieldProperty.getAsString
+not matched

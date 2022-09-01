@@ -1,0 +1,8 @@
+slicing criterion: com.google.gson.JsonObjectTest.testEqualsNonEmptyObject:154
+Methods call in assertion: [com/google/gson/JsonObject.equals]
+com/google/gson/JsonObject.equals
+top 10 recommendations: 
+com/google/gson/JsonObject.equals
+after post processing ......
+com/google/gson/JsonObject.equals
+perfect match

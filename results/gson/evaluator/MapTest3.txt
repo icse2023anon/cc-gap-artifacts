@@ -1,0 +1,17 @@
+slicing criterion: com.google.gson.functional.MapTest.testSerializeMaps:445
+Methods call in assertion: [com/google/gson/GsonBuilder.setPrettyPrinting, com/google/gson/Gson.toJson, com/google/gson/GsonBuilder.serializeNulls, com/google/gson/GsonBuilder.create]
+com/google/gson/GsonBuilder.setPrettyPrinting
+com/google/gson/Gson.newJsonReader
+com/google/gson/Gson.toJson
+com/google/gson/GsonBuilder.serializeNulls
+top 10 recommendations: 
+com/google/gson/GsonBuilder.setPrettyPrinting
+com/google/gson/Gson.newJsonReader
+com/google/gson/Gson.toJson
+com/google/gson/GsonBuilder.serializeNulls
+after post processing ......
+com/google/gson/GsonBuilder.setPrettyPrinting
+com/google/gson/Gson.newJsonReader
+com/google/gson/Gson.toJson
+com/google/gson/GsonBuilder.serializeNulls
+not matched

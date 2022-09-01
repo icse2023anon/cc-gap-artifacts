@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.convert.TestDateConverter.testGetInstantMillis_Object_Chronology:107
+Methods call in assertion: [org/joda/time/convert/DateConverter.getInstantMillis]
+org/joda/time/convert/DateConverter.getInstantMillis
+top 10 recommendations: 
+org/joda/time/convert/DateConverter.getInstantMillis
+after post processing ......
+org/joda/time/convert/DateConverter.getInstantMillis
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: com.google.gson.FieldAttributesTest.testIsSynthetic:65
+Methods call in assertion: [com/google/gson/FieldAttributes.isSynthetic]
+com/google/gson/FieldAttributes.isSynthetic
+top 10 recommendations: 
+com/google/gson/FieldAttributes.isSynthetic
+after post processing ......
+com/google/gson/FieldAttributes.isSynthetic
+perfect match

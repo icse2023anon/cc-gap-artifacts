@@ -1,0 +1,14 @@
+slicing criterion: com.thoughtworks.xstream.core.util.CloneablesTest.testPossibleCloneOfCloneable:45
+Methods call in assertion: [com/thoughtworks/xstream/core/util/TypedNull.getType]
+com/thoughtworks/xstream/core/util/Cloneables.clone
+com/thoughtworks/xstream/core/util/Cloneables.cloneIfPossible
+com/thoughtworks/xstream/core/util/TypedNull.getType
+top 10 recommendations: 
+com/thoughtworks/xstream/core/util/Cloneables.cloneIfPossible
+com/thoughtworks/xstream/core/util/Cloneables.clone
+com/thoughtworks/xstream/core/util/TypedNull.getType
+after post processing ......
+com/thoughtworks/xstream/core/util/Cloneables.cloneIfPossible
+com/thoughtworks/xstream/core/util/Cloneables.clone
+com/thoughtworks/xstream/core/util/TypedNull.getType
+found in top 10

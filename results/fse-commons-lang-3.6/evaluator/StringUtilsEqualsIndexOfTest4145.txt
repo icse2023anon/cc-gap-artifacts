@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsEqualsIndexOfTest.testIndexOfAny_StringStringArray:502
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.indexOfAny]
+org/apache/commons/lang3/StringUtils.indexOfAny
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.indexOfAny
+after post processing ......
+org/apache/commons/lang3/StringUtils.indexOfAny
+perfect match

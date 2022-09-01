@@ -1,0 +1,67 @@
+slicing criterion: org.joda.time.TestLocalDate_Constructors.testConstructor_long_nullDateTimeZone:341
+Methods call in assertion: [org/joda/time/LocalDate.getYear]
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/LocalDate.parse
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/format/DateTimeFormatter.parseLocalDateTime
+org/joda/time/field/PreciseDurationDateTimeField.roundFloor
+org/joda/time/format/DateTimeFormatter.parseLocalDate
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/LocalDate.<init>
+org/joda/time/LocalDate.getChronology
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/LocalDate.getLocalMillis
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/LocalDate.getYear
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/LocalDate.<init>
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/LocalDate.parse
+org/joda/time/LocalDate.getYear
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/format/DateTimeFormatter.parseLocalDate
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/chrono/ISOChronology.withUTC
+after post processing ......
+org/joda/time/LocalDate.<init>
+org/joda/time/DateTimeZone.getMillisKeepLocal
+org/joda/time/LocalDate.parse
+org/joda/time/LocalDate.getYear
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/format/DateTimeFormatter.parseLocalDate
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/chrono/BasicYearDateTimeField.get
+org/joda/time/chrono/ZonedChronology.getLeapAmount
+org/joda/time/chrono/ISOChronology.withUTC
+org/joda/time/chrono/GregorianChronology.getApproxMillisAtEpochDividedByTwo
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/chrono/BasicChronology.getYear
+org/joda/time/UTCDateTimeZone.getOffset
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/format/DateTimeFormatter.parseLocalDateTime
+org/joda/time/field/PreciseDurationDateTimeField.roundFloor
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/chrono/AssembledChronology.getZone
+org/joda/time/LocalDate.getChronology
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/LocalDate.getLocalMillis
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/chrono/GregorianChronology.getAverageMillisPerYearDividedByTwo
+org/joda/time/tz/CachedDateTimeZone.hashCode
+found in top 10

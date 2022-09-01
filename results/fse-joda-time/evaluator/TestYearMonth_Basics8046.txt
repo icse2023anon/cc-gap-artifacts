@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestYearMonth_Basics.testIsSupported:223
+Methods call in assertion: [org/joda/time/DateTimeFieldType.monthOfYear, org/joda/time/YearMonth.isSupported]
+org/joda/time/YearMonth.size
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/YearMonth.getFieldType
+org/joda/time/DateTimeFieldType.monthOfYear
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/YearMonth.size
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/YearMonth.getFieldType
+org/joda/time/DateTimeFieldType.monthOfYear
+after post processing ......
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/YearMonth.size
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/YearMonth.getFieldType
+org/joda/time/DateTimeFieldType.monthOfYear
+not matched

@@ -1,0 +1,6 @@
+package,total_assertion,exact_match(%),top_1(%),top_5(%),top_10(%),all_method_suggested(%)
+org.apache.commons.codec.net,60,40,40,55,57,60,
+org.apache.commons.codec.binary,72,59,64,68,72,72,
+org.apache.commons.codec.language,300,273,273,300,300,300,
+org.apache.commons.codec,19,4,4,5,5,5,
+org.apache.commons.codec.digest,81,67,67,81,81,81,

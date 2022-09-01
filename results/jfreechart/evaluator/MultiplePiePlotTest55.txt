@@ -1,0 +1,29 @@
+slicing criterion: org.jfree.chart.plot.MultiplePiePlotTest.testGetLegendItems:190
+Methods call in assertion: [org/jfree/chart/LegendItemCollection.getItemCount]
+org/jfree/chart/LegendItemCollection.getItemCount
+org/jfree/data/DefaultKeyedValues2D.setValue
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/data/DefaultKeyedValues2D.addValue
+org/jfree/data/DefaultKeyedValues2D.getRowIndex
+org/jfree/data/category/DefaultCategoryDataset.getRowKeys
+org/jfree/chart/plot/MultiplePiePlot.getLegendItems
+org/jfree/chart/LegendItemCollection.add
+top 10 recommendations: 
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/data/DefaultKeyedValues2D.addValue
+org/jfree/data/DefaultKeyedValues2D.setValue
+org/jfree/chart/plot/MultiplePiePlot.getLegendItems
+org/jfree/chart/LegendItemCollection.getItemCount
+org/jfree/data/DefaultKeyedValues2D.getRowIndex
+org/jfree/data/category/DefaultCategoryDataset.getRowKeys
+org/jfree/chart/LegendItemCollection.add
+after post processing ......
+org/jfree/data/category/DefaultCategoryDataset.addValue
+org/jfree/data/DefaultKeyedValues2D.addValue
+org/jfree/data/DefaultKeyedValues2D.setValue
+org/jfree/chart/plot/MultiplePiePlot.getLegendItems
+org/jfree/chart/LegendItemCollection.getItemCount
+org/jfree/data/DefaultKeyedValues2D.getRowIndex
+org/jfree/data/category/DefaultCategoryDataset.getRowKeys
+org/jfree/chart/LegendItemCollection.add
+found in top 10

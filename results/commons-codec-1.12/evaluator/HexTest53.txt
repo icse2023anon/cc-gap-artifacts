@@ -1,0 +1,14 @@
+slicing criterion: org.apache.commons.codec.binary.HexTest.testEncodeHexByteBufferEmpty:410
+Methods call in assertion: [org/apache/commons/codec/binary/Hex.encode]
+org/apache/commons/codec/binary/Hex.getCharset
+org/apache/commons/codec/binary/Hex.encodeHexString
+org/apache/commons/codec/binary/Hex.encode
+top 10 recommendations: 
+org/apache/commons/codec/binary/Hex.encode
+org/apache/commons/codec/binary/Hex.getCharset
+org/apache/commons/codec/binary/Hex.encodeHexString
+after post processing ......
+org/apache/commons/codec/binary/Hex.encode
+org/apache/commons/codec/binary/Hex.getCharset
+org/apache/commons/codec/binary/Hex.encodeHexString
+perfect match

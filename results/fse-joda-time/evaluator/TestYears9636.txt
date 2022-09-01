@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.TestYears.testFactory_years_int:94
+Methods call in assertion: [org/joda/time/Years.years]
+org/joda/time/Years.years
+top 10 recommendations: 
+org/joda/time/Years.years
+after post processing ......
+org/joda/time/Years.years
+perfect match

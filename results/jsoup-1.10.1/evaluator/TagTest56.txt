@@ -1,0 +1,14 @@
+slicing criterion: org.jsoup.parser.TagTest.isCaseSensitive:14
+Methods call in assertion: [org/jsoup/parser/Tag.equals]
+org/jsoup/parser/Tag.valueOf
+org/jsoup/parser/Tag.equals
+org/jsoup/parser/ParseSettings.normalizeTag
+top 10 recommendations: 
+org/jsoup/parser/Tag.valueOf
+org/jsoup/parser/Tag.equals
+org/jsoup/parser/ParseSettings.normalizeTag
+after post processing ......
+org/jsoup/parser/Tag.valueOf
+org/jsoup/parser/Tag.equals
+org/jsoup/parser/ParseSettings.normalizeTag
+found in top 10

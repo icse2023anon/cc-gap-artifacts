@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.validator.routines.checkdigit.ModulusTenCUSIPCheckDigitTest.testVALIDATOR_336_ValidCheckDigits:71
+Methods call in assertion: [org/apache/commons/validator/routines/checkdigit/CheckDigit.isValid]
+org/apache/commons/validator/routines/checkdigit/ModulusTenCheckDigit.isValid
+top 10 recommendations: 
+org/apache/commons/validator/routines/checkdigit/ModulusTenCheckDigit.isValid
+after post processing ......
+org/apache/commons/validator/routines/checkdigit/ModulusTenCheckDigit.isValid
+not matched

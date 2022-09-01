@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.ValueMarkerTest.test1808376:235
+Methods call in assertion: [org/jfree/chart/plot/ValueMarker.getValue]
+org/jfree/chart/plot/ValueMarker.getValue
+top 10 recommendations: 
+org/jfree/chart/plot/ValueMarker.getValue
+after post processing ......
+org/jfree/chart/plot/ValueMarker.getValue
+perfect match

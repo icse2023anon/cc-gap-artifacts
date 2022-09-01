@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ConversionTest.testHexToLong:705
+Methods call in assertion: [org/apache/commons/lang3/Conversion.hexToLong]
+org/apache/commons/lang3/Conversion.hexToLong
+top 10 recommendations: 
+org/apache/commons/lang3/Conversion.hexToLong
+after post processing ......
+org/apache/commons/lang3/Conversion.hexToLong
+perfect match

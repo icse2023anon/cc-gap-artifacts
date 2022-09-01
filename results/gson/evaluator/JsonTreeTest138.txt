@@ -1,0 +1,20 @@
+slicing criterion: com.google.gson.functional.JsonTreeTest.testToJsonTree:32
+Methods call in assertion: [com/google/gson/JsonElement.isJsonObject]
+com/google/gson/internal/bind/JsonTreeWriter.beginObject
+com/google/gson/internal/bind/JsonTreeWriter.get
+com/google/gson/Gson.toJson
+com/google/gson/Gson.toJsonTree
+com/google/gson/JsonElement.isJsonObject
+top 10 recommendations: 
+com/google/gson/Gson.toJsonTree
+com/google/gson/internal/bind/JsonTreeWriter.beginObject
+com/google/gson/internal/bind/JsonTreeWriter.get
+com/google/gson/Gson.toJson
+com/google/gson/JsonElement.isJsonObject
+after post processing ......
+com/google/gson/Gson.toJsonTree
+com/google/gson/internal/bind/JsonTreeWriter.beginObject
+com/google/gson/internal/bind/JsonTreeWriter.get
+com/google/gson/Gson.toJson
+com/google/gson/JsonElement.isJsonObject
+found in top 10

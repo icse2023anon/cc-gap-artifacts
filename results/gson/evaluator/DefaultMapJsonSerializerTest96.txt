@@ -1,0 +1,67 @@
+slicing criterion: com.google.gson.DefaultMapJsonSerializerTest.testNonEmptyMapSerialization:62
+Methods call in assertion: [com/google/gson/JsonObject.has]
+com/google/gson/Gson.<init>
+com/google/gson/internal/LinkedTreeMap.put
+com/google/gson/internal/bind/JsonTreeWriter.get
+com/google/gson/internal/bind/JsonTreeWriter.name
+com/google/gson/Gson.toJson
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/internal/bind/MapTypeAdapterFactory.<init>
+com/google/gson/Gson.getAdapter
+com/google/gson/JsonObject.has
+com/google/gson/internal/bind/TypeAdapters.create
+com/google/gson/reflect/TypeToken.getSuperclassTypeParameter
+com/google/gson/Gson.toJsonTree
+com/google/gson/JsonElement.getAsJsonObject
+com/google/gson/internal/bind/MapTypeAdapterFactory.create
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/internal/LinkedTreeMap.containsKey
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/internal/bind/TypeAdapterRuntimeTypeWrapper.write
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/JsonElement.isJsonObject
+com/google/gson/JsonElement.isJsonNull
+com/google/gson/internal/bind/CollectionTypeAdapterFactory.create
+com/google/gson/internal/bind/JsonTreeWriter.beginObject
+com/google/gson/internal/Excluder.excludeClass
+com/google/gson/internal/Excluder.create
+com/google/gson/internal/bind/JsonTreeWriter.value
+top 10 recommendations: 
+com/google/gson/Gson.toJsonTree
+com/google/gson/internal/bind/MapTypeAdapterFactory.create
+com/google/gson/internal/bind/CollectionTypeAdapterFactory.create
+com/google/gson/internal/Excluder.create
+com/google/gson/Gson.<init>
+com/google/gson/internal/LinkedTreeMap.put
+com/google/gson/Gson.toJson
+com/google/gson/JsonObject.has
+com/google/gson/JsonElement.getAsJsonObject
+com/google/gson/internal/bind/TypeAdapterRuntimeTypeWrapper.write
+after post processing ......
+com/google/gson/Gson.toJsonTree
+com/google/gson/internal/bind/MapTypeAdapterFactory.create
+com/google/gson/internal/bind/CollectionTypeAdapterFactory.create
+com/google/gson/internal/Excluder.create
+com/google/gson/Gson.<init>
+com/google/gson/internal/LinkedTreeMap.put
+com/google/gson/Gson.toJson
+com/google/gson/JsonObject.has
+com/google/gson/JsonElement.getAsJsonObject
+com/google/gson/internal/bind/TypeAdapterRuntimeTypeWrapper.write
+com/google/gson/internal/bind/JsonTreeWriter.get
+com/google/gson/internal/bind/JsonTreeWriter.name
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/internal/bind/MapTypeAdapterFactory.<init>
+com/google/gson/Gson.getAdapter
+com/google/gson/internal/bind/TypeAdapters.create
+com/google/gson/reflect/TypeToken.getSuperclassTypeParameter
+com/google/gson/reflect/TypeToken.getType
+com/google/gson/internal/LinkedTreeMap.containsKey
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/internal/LinkedTreeMap.find
+com/google/gson/JsonElement.isJsonObject
+com/google/gson/JsonElement.isJsonNull
+com/google/gson/internal/bind/JsonTreeWriter.beginObject
+com/google/gson/internal/Excluder.excludeClass
+com/google/gson/internal/bind/JsonTreeWriter.value
+found in top 10

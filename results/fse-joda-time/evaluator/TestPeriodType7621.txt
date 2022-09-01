@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestPeriodType.testIsSupported:941
+Methods call in assertion: [org/joda/time/DurationFieldType.hours, org/joda/time/PeriodType.isSupported]
+org/joda/time/PeriodType.withMillisRemoved
+org/joda/time/DurationFieldType.hours
+org/joda/time/PeriodType.setIndexedField
+org/joda/time/PeriodType.indexOf
+org/joda/time/PeriodType.isSupported
+org/joda/time/PeriodType.size
+org/joda/time/PeriodType.dayTime
+org/joda/time/DurationFieldType.days
+top 10 recommendations: 
+org/joda/time/PeriodType.isSupported
+org/joda/time/PeriodType.dayTime
+org/joda/time/PeriodType.indexOf
+org/joda/time/PeriodType.withMillisRemoved
+org/joda/time/DurationFieldType.hours
+org/joda/time/PeriodType.setIndexedField
+org/joda/time/PeriodType.size
+org/joda/time/DurationFieldType.days
+after post processing ......
+org/joda/time/PeriodType.isSupported
+org/joda/time/PeriodType.dayTime
+org/joda/time/PeriodType.indexOf
+org/joda/time/PeriodType.withMillisRemoved
+org/joda/time/DurationFieldType.hours
+org/joda/time/PeriodType.setIndexedField
+org/joda/time/PeriodType.size
+org/joda/time/DurationFieldType.days
+found in top 10

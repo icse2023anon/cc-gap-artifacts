@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.net.BCodecTest.testNullInput:57
+Methods call in assertion: [org/apache/commons/codec/net/BCodec.doDecoding]
+org/apache/commons/codec/net/BCodec.doDecoding
+top 10 recommendations: 
+org/apache/commons/codec/net/BCodec.doDecoding
+after post processing ......
+org/apache/commons/codec/net/BCodec.doDecoding
+perfect match

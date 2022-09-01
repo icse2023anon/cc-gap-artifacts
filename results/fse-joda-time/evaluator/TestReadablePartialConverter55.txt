@@ -1,0 +1,8 @@
+slicing criterion: org.joda.time.convert.TestReadablePartialConverter.testSupportedType:106
+Methods call in assertion: [org/joda/time/convert/ReadablePartialConverter.getSupportedType]
+org/joda/time/convert/ReadablePartialConverter.getSupportedType
+top 10 recommendations: 
+org/joda/time/convert/ReadablePartialConverter.getSupportedType
+after post processing ......
+org/joda/time/convert/ReadablePartialConverter.getSupportedType
+perfect match

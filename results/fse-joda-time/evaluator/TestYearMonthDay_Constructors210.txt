@@ -1,0 +1,39 @@
+slicing criterion: org.joda.time.TestYearMonthDay_Constructors.testConstructor_nullObject_Chronology:379
+Methods call in assertion: [org/joda/time/YearMonthDay.getMonthOfYear]
+org/joda/time/base/BasePartial.<init>
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/YearMonthDay.getMonthOfYear
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/YearMonthDay.size
+org/joda/time/YearMonthDay.getFieldType
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/convert/AbstractConverter.getPartialValues
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/convert/AbstractConverter.getChronology
+top 10 recommendations: 
+org/joda/time/base/BasePartial.<init>
+org/joda/time/convert/AbstractConverter.getChronology
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/YearMonthDay.getMonthOfYear
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/YearMonthDay.size
+org/joda/time/YearMonthDay.getFieldType
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/chrono/BaseChronology.get
+after post processing ......
+org/joda/time/base/BasePartial.<init>
+org/joda/time/convert/AbstractConverter.getChronology
+org/joda/time/base/BasePartial.getValue
+org/joda/time/base/BasePartial.getChronology
+org/joda/time/YearMonthDay.getMonthOfYear
+org/joda/time/chrono/GregorianChronology.withUTC
+org/joda/time/YearMonthDay.size
+org/joda/time/YearMonthDay.getFieldType
+org/joda/time/chrono/AssembledChronology.monthOfYear
+org/joda/time/chrono/BaseChronology.get
+org/joda/time/convert/AbstractConverter.getPartialValues
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

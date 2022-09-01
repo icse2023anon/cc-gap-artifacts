@@ -1,0 +1,14 @@
+slicing criterion: org.codehaus.plexus.util.OsTest.testOs:66
+Methods call in assertion: [org/codehaus/plexus/util/Os.isOs]
+org/codehaus/plexus/util/Os.isOs
+org/codehaus/plexus/util/Os.getValidFamilies
+org/codehaus/plexus/util/Os.isFamily
+top 10 recommendations: 
+org/codehaus/plexus/util/Os.isOs
+org/codehaus/plexus/util/Os.isFamily
+org/codehaus/plexus/util/Os.getValidFamilies
+after post processing ......
+org/codehaus/plexus/util/Os.isOs
+org/codehaus/plexus/util/Os.isFamily
+org/codehaus/plexus/util/Os.getValidFamilies
+perfect match

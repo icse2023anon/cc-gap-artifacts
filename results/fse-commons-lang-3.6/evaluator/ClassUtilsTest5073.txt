@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.ClassUtilsTest.test_getSimpleName_Class:196
+Methods call in assertion: [org/apache/commons/lang3/ClassUtils.getSimpleName]
+org/apache/commons/lang3/ClassUtils.getShortClassName
+org/apache/commons/lang3/ClassUtils.getSimpleName
+top 10 recommendations: 
+org/apache/commons/lang3/ClassUtils.getShortClassName
+org/apache/commons/lang3/ClassUtils.getSimpleName
+after post processing ......
+org/apache/commons/lang3/ClassUtils.getShortClassName
+org/apache/commons/lang3/ClassUtils.getSimpleName
+found in top 10

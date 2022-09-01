@@ -1,0 +1,41 @@
+slicing criterion: org.jsoup.safety.CleanerTest.testRemoveAttributes:60
+Methods call in assertion: [org/jsoup/TextUtil.stripNewlines]
+org/jsoup/safety/Cleaner.clean
+org/jsoup/nodes/Node.childNodesAsArray
+org/jsoup/nodes/Document.body
+org/jsoup/nodes/Attributes.equals
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/nodes/Document.createShell
+org/jsoup/nodes/Element.appendElement
+org/jsoup/nodes/Node.ownerDocument
+org/jsoup/nodes/Document.<init>
+org/jsoup/Jsoup.clean
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Document.nodeName
+org/jsoup/nodes/Element.appendChild
+top 10 recommendations: 
+org/jsoup/Jsoup.clean
+org/jsoup/safety/Cleaner.clean
+org/jsoup/nodes/Document.createShell
+org/jsoup/nodes/Element.appendElement
+org/jsoup/nodes/Node.childNodesAsArray
+org/jsoup/nodes/Document.body
+org/jsoup/nodes/Attributes.equals
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/nodes/Node.ownerDocument
+org/jsoup/nodes/Document.<init>
+after post processing ......
+org/jsoup/Jsoup.clean
+org/jsoup/safety/Cleaner.clean
+org/jsoup/nodes/Document.createShell
+org/jsoup/nodes/Element.appendElement
+org/jsoup/nodes/Node.childNodesAsArray
+org/jsoup/nodes/Document.body
+org/jsoup/nodes/Attributes.equals
+org/jsoup/nodes/Document.outputSettings
+org/jsoup/nodes/Node.ownerDocument
+org/jsoup/nodes/Document.<init>
+org/jsoup/nodes/Element.html
+org/jsoup/nodes/Document.nodeName
+org/jsoup/nodes/Element.appendChild
+not matched

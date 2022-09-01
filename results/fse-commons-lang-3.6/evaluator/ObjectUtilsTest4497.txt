@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ObjectUtilsTest.testAllNotNull:147
+Methods call in assertion: [org/apache/commons/lang3/ObjectUtils.allNotNull]
+org/apache/commons/lang3/ObjectUtils.allNotNull
+top 10 recommendations: 
+org/apache/commons/lang3/ObjectUtils.allNotNull
+after post processing ......
+org/apache/commons/lang3/ObjectUtils.allNotNull
+perfect match

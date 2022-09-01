@@ -1,0 +1,14 @@
+slicing criterion: org.jsoup.parser.CharacterReaderTest.nextIndexOfChar:82
+Methods call in assertion: [org/jsoup/parser/CharacterReader.consumeToEnd]
+org/jsoup/parser/CharacterReader.consumeTo
+org/jsoup/parser/CharacterReader.nextIndexOf
+org/jsoup/parser/CharacterReader.consumeToEnd
+top 10 recommendations: 
+org/jsoup/parser/CharacterReader.consumeTo
+org/jsoup/parser/CharacterReader.nextIndexOf
+org/jsoup/parser/CharacterReader.consumeToEnd
+after post processing ......
+org/jsoup/parser/CharacterReader.consumeTo
+org/jsoup/parser/CharacterReader.nextIndexOf
+org/jsoup/parser/CharacterReader.consumeToEnd
+found in top 10

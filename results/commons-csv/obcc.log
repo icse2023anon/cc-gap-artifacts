@@ -1,0 +1,20 @@
+Aug 25, 2022 6:36:57 PM omc_ob.OMCob main
+INFO: total slices = total criteria = total assertions = 898
+Aug 25, 2022 6:36:59 PM omc_ob.OMCob printOMC_ob
+INFO: Total condition covered: 234
+Aug 25, 2022 6:36:59 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.csv.CSVFileParserTest$1 class not found in the jacoco report report
+Aug 25, 2022 6:36:59 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.csv.TokenMatchers$1 class not found in the jacoco report report
+Aug 25, 2022 6:36:59 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per class coverage for object branch!
+Aug 25, 2022 6:36:59 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.csv.TokenMatchers$1.matchesSafely not found in the jacoco report
+Aug 25, 2022 6:36:59 PM omc_ob.OMCob printOMC_ob
+WARNING: org.apache.commons.csv.CSVFileParserTest$1.accept not found in the jacoco report
+Aug 25, 2022 6:36:59 PM omc_ob.OMCob printOMC_ob
+INFO: successfully generate per method coverage for object branch!
+Aug 25, 2022 6:36:59 PM omc_ob.OMCob main
+INFO: OBC :88.02083333333334
+Aug 25, 2022 6:36:59 PM omc_ob.OMCob main
+INFO: OMC_OBC :40.625

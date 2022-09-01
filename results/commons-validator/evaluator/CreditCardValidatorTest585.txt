@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.validator.routines.CreditCardValidatorTest.testValidLength:618
+Methods call in assertion: [org/apache/commons/validator/routines/CreditCardValidator.validLength]
+org/apache/commons/validator/routines/CreditCardValidator.validLength
+top 10 recommendations: 
+org/apache/commons/validator/routines/CreditCardValidator.validLength
+after post processing ......
+org/apache/commons/validator/routines/CreditCardValidator.validLength
+perfect match

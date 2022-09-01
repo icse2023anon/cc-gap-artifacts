@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestDateMidnight_Constructors.testConstructor_nullObject_Chronology:481
+Methods call in assertion: [org/joda/time/DateMidnight.getChronology, org/joda/time/chrono/GregorianChronology.getInstance]
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/chrono/GregorianChronology.getInstance
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/convert/AbstractConverter.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/GregorianChronology.getInstance
+org/joda/time/convert/AbstractConverter.getChronology
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/chrono/GregorianChronology.getInstance
+org/joda/time/convert/AbstractConverter.getChronology
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/base/BaseDateTime.getChronology
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/DateTimeUtils.getChronology
+found in top 10

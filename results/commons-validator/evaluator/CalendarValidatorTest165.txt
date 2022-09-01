@@ -1,0 +1,26 @@
+slicing criterion: org.apache.commons.validator.routines.CalendarValidatorTest.testCalendarValidatorMethods:83
+Methods call in assertion: [org/apache/commons/validator/routines/CalendarValidator.getInstance, org/apache/commons/validator/routines/CalendarValidator.isValid]
+org/apache/commons/validator/routines/AbstractFormatValidator.isValid
+org/apache/commons/validator/routines/AbstractCalendarValidator.getFormat
+org/apache/commons/validator/routines/AbstractCalendarValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/CalendarValidator.validate
+org/apache/commons/validator/routines/AbstractCalendarValidator.isValid
+org/apache/commons/validator/routines/CalendarValidator.getInstance
+top 10 recommendations: 
+org/apache/commons/validator/routines/AbstractCalendarValidator.isValid
+org/apache/commons/validator/routines/AbstractCalendarValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isValid
+org/apache/commons/validator/routines/AbstractCalendarValidator.getFormat
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/CalendarValidator.validate
+org/apache/commons/validator/routines/CalendarValidator.getInstance
+after post processing ......
+org/apache/commons/validator/routines/AbstractCalendarValidator.isValid
+org/apache/commons/validator/routines/AbstractCalendarValidator.parse
+org/apache/commons/validator/routines/AbstractFormatValidator.isValid
+org/apache/commons/validator/routines/AbstractCalendarValidator.getFormat
+org/apache/commons/validator/routines/AbstractFormatValidator.parse
+org/apache/commons/validator/routines/CalendarValidator.validate
+org/apache/commons/validator/routines/CalendarValidator.getInstance
+found in top 10

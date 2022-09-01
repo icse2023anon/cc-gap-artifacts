@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.title.LegendGraphicTest.testEquals:80
+Methods call in assertion: [org/jfree/chart/title/LegendGraphic.equals]
+org/jfree/chart/title/LegendGraphic.isShapeVisible
+org/jfree/chart/title/LegendGraphic.equals
+top 10 recommendations: 
+org/jfree/chart/title/LegendGraphic.isShapeVisible
+org/jfree/chart/title/LegendGraphic.equals
+after post processing ......
+org/jfree/chart/title/LegendGraphic.isShapeVisible
+org/jfree/chart/title/LegendGraphic.equals
+found in top 10

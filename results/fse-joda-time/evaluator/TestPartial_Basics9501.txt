@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.TestPartial_Basics.testGetFields:223
+Methods call in assertion: [org/joda/time/chrono/CopticChronology.hourOfDay, org/joda/time/chrono/CopticChronology.getInstanceUTC]
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/base/AbstractPartial.getFields
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/Partial.<init>
+org/joda/time/Partial.size
+org/joda/time/Partial.getField
+org/joda/time/Partial.getChronology
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.getFields
+org/joda/time/Partial.<init>
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/Partial.size
+org/joda/time/Partial.getField
+org/joda/time/Partial.getChronology
+org/joda/time/DateTimeUtils.getChronology
+after post processing ......
+org/joda/time/base/AbstractPartial.getFields
+org/joda/time/Partial.<init>
+org/joda/time/chrono/AssembledChronology.hourOfDay
+org/joda/time/chrono/CopticChronology.withUTC
+org/joda/time/chrono/CopticChronology.getInstanceUTC
+org/joda/time/base/AbstractPartial.getField
+org/joda/time/Partial.size
+org/joda/time/Partial.getField
+org/joda/time/Partial.getChronology
+org/joda/time/DateTimeUtils.getChronology
+not matched

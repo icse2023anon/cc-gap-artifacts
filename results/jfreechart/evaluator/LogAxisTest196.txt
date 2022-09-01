@@ -1,0 +1,14 @@
+slicing criterion: org.jfree.chart.axis.LogAxisTest.testSetLowerBound:254
+Methods call in assertion: [org/jfree/chart/axis/LogAxis.getLowerBound]
+org/jfree/data/Range.getUpperBound
+org/jfree/chart/axis/ValueAxis.getLowerBound
+org/jfree/chart/axis/ValueAxis.setLowerBound
+top 10 recommendations: 
+org/jfree/chart/axis/ValueAxis.setLowerBound
+org/jfree/data/Range.getUpperBound
+org/jfree/chart/axis/ValueAxis.getLowerBound
+after post processing ......
+org/jfree/chart/axis/ValueAxis.setLowerBound
+org/jfree/data/Range.getUpperBound
+org/jfree/chart/axis/ValueAxis.getLowerBound
+found in top 10

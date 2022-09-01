@@ -1,0 +1,11 @@
+slicing criterion: com.thoughtworks.xstream.core.util.XmlHeaderAwareReaderTest.testCanHandleImproperSizedPushbackInputStream:63
+Methods call in assertion: [com/thoughtworks/xstream/core/util/XmlHeaderAwareReader.getVersion]
+com/thoughtworks/xstream/core/util/XmlHeaderAwareReader.getVersion
+com/thoughtworks/xstream/core/util/XmlHeaderAwareReader.<init>
+top 10 recommendations: 
+com/thoughtworks/xstream/core/util/XmlHeaderAwareReader.getVersion
+com/thoughtworks/xstream/core/util/XmlHeaderAwareReader.<init>
+after post processing ......
+com/thoughtworks/xstream/core/util/XmlHeaderAwareReader.getVersion
+com/thoughtworks/xstream/core/util/XmlHeaderAwareReader.<init>
+perfect match

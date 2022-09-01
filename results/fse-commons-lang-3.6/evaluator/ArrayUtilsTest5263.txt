@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.ArrayUtilsTest.testLastIndexOfIntWithStartIndex:3916
+Methods call in assertion: [org/apache/commons/lang3/ArrayUtils.lastIndexOf]
+org/apache/commons/lang3/ArrayUtils.lastIndexOf
+top 10 recommendations: 
+org/apache/commons/lang3/ArrayUtils.lastIndexOf
+after post processing ......
+org/apache/commons/lang3/ArrayUtils.lastIndexOf
+perfect match

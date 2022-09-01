@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.renderer.category.BoxAndWhiskerRendererTest.testEquals:119
+Methods call in assertion: [org/jfree/chart/renderer/category/BoxAndWhiskerRenderer.equals]
+org/jfree/chart/renderer/category/BoxAndWhiskerRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/category/BoxAndWhiskerRenderer.setMeanVisible
+org/jfree/chart/renderer/category/BoxAndWhiskerRenderer.getFillBox
+top 10 recommendations: 
+org/jfree/chart/renderer/category/BoxAndWhiskerRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/category/BoxAndWhiskerRenderer.setMeanVisible
+org/jfree/chart/renderer/category/BoxAndWhiskerRenderer.getFillBox
+after post processing ......
+org/jfree/chart/renderer/category/BoxAndWhiskerRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/category/BoxAndWhiskerRenderer.setMeanVisible
+org/jfree/chart/renderer/category/BoxAndWhiskerRenderer.getFillBox
+perfect match

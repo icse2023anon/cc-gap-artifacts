@@ -1,0 +1,20 @@
+slicing criterion: org.apache.commons.codec.StringEncoderComparatorTest.testComparatorWithSoundex:43
+Methods call in assertion: [org/apache/commons/codec/StringEncoderComparator.compare]
+org/apache/commons/codec/language/Soundex.<init>
+org/apache/commons/codec/language/Soundex.encode
+org/apache/commons/codec/language/SoundexUtils.clean
+org/apache/commons/codec/language/Soundex.soundex
+org/apache/commons/codec/StringEncoderComparator.compare
+top 10 recommendations: 
+org/apache/commons/codec/language/Soundex.encode
+org/apache/commons/codec/language/Soundex.soundex
+org/apache/commons/codec/language/Soundex.<init>
+org/apache/commons/codec/language/SoundexUtils.clean
+org/apache/commons/codec/StringEncoderComparator.compare
+after post processing ......
+org/apache/commons/codec/language/Soundex.encode
+org/apache/commons/codec/language/Soundex.soundex
+org/apache/commons/codec/language/Soundex.<init>
+org/apache/commons/codec/language/SoundexUtils.clean
+org/apache/commons/codec/StringEncoderComparator.compare
+found in top 10

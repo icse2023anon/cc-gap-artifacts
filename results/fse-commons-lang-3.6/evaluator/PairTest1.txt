@@ -1,0 +1,26 @@
+slicing criterion: org.apache.commons.lang3.tuple.PairTest.testCompatibilityBetweenPairs:73
+Methods call in assertion: [org/apache/commons/lang3/tuple/Pair.hashCode]
+org/apache/commons/lang3/tuple/ImmutablePair.getLeft
+org/apache/commons/lang3/tuple/MutablePair.getRight
+org/apache/commons/lang3/tuple/ImmutablePair.getRight
+org/apache/commons/lang3/tuple/Pair.getValue
+org/apache/commons/lang3/tuple/Pair.hashCode
+org/apache/commons/lang3/tuple/MutablePair.getLeft
+org/apache/commons/lang3/tuple/Pair.getKey
+top 10 recommendations: 
+org/apache/commons/lang3/tuple/Pair.hashCode
+org/apache/commons/lang3/tuple/ImmutablePair.getLeft
+org/apache/commons/lang3/tuple/MutablePair.getRight
+org/apache/commons/lang3/tuple/ImmutablePair.getRight
+org/apache/commons/lang3/tuple/Pair.getValue
+org/apache/commons/lang3/tuple/MutablePair.getLeft
+org/apache/commons/lang3/tuple/Pair.getKey
+after post processing ......
+org/apache/commons/lang3/tuple/Pair.hashCode
+org/apache/commons/lang3/tuple/ImmutablePair.getLeft
+org/apache/commons/lang3/tuple/MutablePair.getRight
+org/apache/commons/lang3/tuple/ImmutablePair.getRight
+org/apache/commons/lang3/tuple/Pair.getValue
+org/apache/commons/lang3/tuple/MutablePair.getLeft
+org/apache/commons/lang3/tuple/Pair.getKey
+perfect match

@@ -1,0 +1,29 @@
+slicing criterion: org.joda.time.TestPeriodType.testYearDayTime:302
+Methods call in assertion: [org/joda/time/PeriodType.yearDayTime, org/joda/time/PeriodType.hashCode]
+org/joda/time/DurationFieldType.minutes
+org/joda/time/PeriodType.yearDayTime
+org/joda/time/DurationFieldType.millis
+org/joda/time/DurationFieldType.hours
+org/joda/time/DurationFieldType.seconds
+org/joda/time/DurationFieldType.years
+org/joda/time/PeriodType.hashCode
+org/joda/time/DurationFieldType.days
+top 10 recommendations: 
+org/joda/time/PeriodType.yearDayTime
+org/joda/time/DurationFieldType.minutes
+org/joda/time/DurationFieldType.millis
+org/joda/time/DurationFieldType.hours
+org/joda/time/DurationFieldType.seconds
+org/joda/time/DurationFieldType.years
+org/joda/time/PeriodType.hashCode
+org/joda/time/DurationFieldType.days
+after post processing ......
+org/joda/time/PeriodType.yearDayTime
+org/joda/time/DurationFieldType.minutes
+org/joda/time/DurationFieldType.millis
+org/joda/time/DurationFieldType.hours
+org/joda/time/DurationFieldType.seconds
+org/joda/time/DurationFieldType.years
+org/joda/time/PeriodType.hashCode
+org/joda/time/DurationFieldType.days
+found in top 10

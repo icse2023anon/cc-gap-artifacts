@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestInterval_Basics.test_useCase_ContainsOverlapAbutGap:364
+Methods call in assertion: [org/joda/time/Interval.overlaps]
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/AbstractInterval.overlaps
+org/joda/time/base/BaseInterval.getStartMillis
+top 10 recommendations: 
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/AbstractInterval.overlaps
+org/joda/time/base/BaseInterval.getStartMillis
+after post processing ......
+org/joda/time/base/BaseInterval.getEndMillis
+org/joda/time/base/AbstractInterval.overlaps
+org/joda/time/base/BaseInterval.getStartMillis
+found in top 10

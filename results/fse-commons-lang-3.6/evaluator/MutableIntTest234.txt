@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableIntTest.testDecrement:206
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableInt.intValue]
+org/apache/commons/lang3/mutable/MutableInt.intValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableInt.intValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableInt.intValue
+perfect match

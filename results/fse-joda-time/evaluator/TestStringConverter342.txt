@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology7:572
+Methods call in assertion: [org/joda/time/MutableInterval.getEnd, org/joda/time/chrono/BuddhistChronology.getInstance]
+org/joda/time/DateTime.getMillis
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+top 10 recommendations: 
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/DateTime.getMillis
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+after post processing ......
+org/joda/time/chrono/BuddhistChronology.getInstance
+org/joda/time/DateTime.getMillis
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/DateTimeZone.setDefault
+org/joda/time/DateTimeZone.getDefault
+not matched

@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.TestIllegalFieldValueException.testReadablePartialValidate:284
+Methods call in assertion: [org/joda/time/IllegalFieldValueException.getIllegalValueAsString]
+org/joda/time/base/BasePartial.<init>
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonthDay.addToCopy
+org/joda/time/YearMonthDay.size
+org/joda/time/IllegalFieldValueException.getIllegalValueAsString
+org/joda/time/chrono/BasicMonthOfYearDateTimeField.getMinimumValue
+org/joda/time/chrono/BaseChronology.validate
+top 10 recommendations: 
+org/joda/time/base/BasePartial.<init>
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonthDay.addToCopy
+org/joda/time/YearMonthDay.size
+org/joda/time/IllegalFieldValueException.getIllegalValueAsString
+org/joda/time/chrono/BasicMonthOfYearDateTimeField.getMinimumValue
+org/joda/time/chrono/BaseChronology.validate
+after post processing ......
+org/joda/time/base/BasePartial.<init>
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonthDay.addToCopy
+org/joda/time/YearMonthDay.size
+org/joda/time/IllegalFieldValueException.getIllegalValueAsString
+org/joda/time/chrono/BasicMonthOfYearDateTimeField.getMinimumValue
+org/joda/time/chrono/BaseChronology.validate
+found in top 10

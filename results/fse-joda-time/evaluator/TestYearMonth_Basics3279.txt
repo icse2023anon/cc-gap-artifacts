@@ -1,0 +1,17 @@
+slicing criterion: org.joda.time.TestYearMonth_Basics.testCompareTo:283
+Methods call in assertion: [org/joda/time/YearMonth.compareTo]
+org/joda/time/YearMonth.size
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonth.setCopy
+org/joda/time/base/AbstractPartial.compareTo
+top 10 recommendations: 
+org/joda/time/YearMonth.size
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonth.setCopy
+org/joda/time/base/AbstractPartial.compareTo
+after post processing ......
+org/joda/time/YearMonth.size
+org/joda/time/base/BasePartial.getValue
+org/joda/time/YearMonth.setCopy
+org/joda/time/base/AbstractPartial.compareTo
+not matched

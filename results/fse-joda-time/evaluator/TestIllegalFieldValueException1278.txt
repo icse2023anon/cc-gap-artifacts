@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.TestIllegalFieldValueException.testSetText:185
+Methods call in assertion: [org/joda/time/IllegalFieldValueException.getIllegalStringValue]
+org/joda/time/chrono/GJEraDateTimeField.set
+org/joda/time/chrono/GJDayOfWeekDateTimeField.convertText
+org/joda/time/IllegalFieldValueException.getIllegalStringValue
+org/joda/time/chrono/GJLocaleSymbols.forLocale
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/DateTimeUtils.getDateFormatSymbols
+org/joda/time/chrono/GJLocaleSymbols.dayOfWeekTextToValue
+top 10 recommendations: 
+org/joda/time/chrono/GJDayOfWeekDateTimeField.convertText
+org/joda/time/chrono/GJEraDateTimeField.set
+org/joda/time/IllegalFieldValueException.getIllegalStringValue
+org/joda/time/chrono/GJLocaleSymbols.forLocale
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/DateTimeUtils.getDateFormatSymbols
+org/joda/time/chrono/GJLocaleSymbols.dayOfWeekTextToValue
+after post processing ......
+org/joda/time/chrono/GJDayOfWeekDateTimeField.convertText
+org/joda/time/chrono/GJEraDateTimeField.set
+org/joda/time/IllegalFieldValueException.getIllegalStringValue
+org/joda/time/chrono/GJLocaleSymbols.forLocale
+org/joda/time/field/BaseDateTimeField.set
+org/joda/time/DateTimeUtils.getDateFormatSymbols
+org/joda/time/chrono/GJLocaleSymbols.dayOfWeekTextToValue
+found in top 10

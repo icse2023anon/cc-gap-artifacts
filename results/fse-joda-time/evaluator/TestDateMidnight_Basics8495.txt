@@ -1,0 +1,37 @@
+slicing criterion: org.joda.time.TestDateMidnight_Basics.testWithChronology_Chronology:746
+Methods call in assertion: [org/joda/time/DateMidnight.getMillis]
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/DateMidnight.checkInstant
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/chrono/ISOChronology.getInstance
+org/joda/time/DateTimeUtils.getChronology
+top 10 recommendations: 
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/DateMidnight.checkInstant
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeZone.convertLocalToUTC
+after post processing ......
+org/joda/time/base/BaseDateTime.<init>
+org/joda/time/base/BaseDateTime.checkChronology
+org/joda/time/DateTimeUtils.getChronology
+org/joda/time/DateTimeZone.convertUTCToLocal
+org/joda/time/DateMidnight.checkInstant
+org/joda/time/chrono/AssembledChronology.dayOfMonth
+org/joda/time/tz/CachedDateTimeZone.getOffset
+org/joda/time/tz/CachedDateTimeZone.hashCode
+org/joda/time/base/BaseDateTime.getMillis
+org/joda/time/DateTimeZone.convertLocalToUTC
+org/joda/time/chrono/ISOChronology.getInstance
+found in top 10

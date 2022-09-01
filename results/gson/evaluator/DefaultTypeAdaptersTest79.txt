@@ -1,0 +1,26 @@
+slicing criterion: com.google.gson.functional.DefaultTypeAdaptersTest.testJsonArrayDeserialization:593
+Methods call in assertion: [com/google/gson/Gson.fromJson]
+com/google/gson/Gson.<init>
+com/google/gson/Gson.fromJson
+com/google/gson/reflect/TypeToken.<init>
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/Gson.getAdapter
+com/google/gson/internal/bind/TypeAdapters.create
+com/google/gson/reflect/TypeToken.getRawType
+top 10 recommendations: 
+com/google/gson/Gson.fromJson
+com/google/gson/Gson.<init>
+com/google/gson/reflect/TypeToken.<init>
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/Gson.getAdapter
+com/google/gson/internal/bind/TypeAdapters.create
+com/google/gson/reflect/TypeToken.getRawType
+after post processing ......
+com/google/gson/Gson.fromJson
+com/google/gson/Gson.<init>
+com/google/gson/reflect/TypeToken.<init>
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/Gson.getAdapter
+com/google/gson/internal/bind/TypeAdapters.create
+com/google/gson/reflect/TypeToken.getRawType
+perfect match

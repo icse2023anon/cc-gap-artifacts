@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.format.TestDateTimeFormatter.testParseInto_offsetParsed:940
+Methods call in assertion: [org/joda/time/format/DateTimeFormatter.parseInto, org/joda/time/format/DateTimeFormatter.withOffsetParsed]
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/DateTimeFormatter.parseInto
+org/joda/time/format/DateTimeFormatter.withOffsetParsed
+top 10 recommendations: 
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/DateTimeFormatter.parseInto
+org/joda/time/format/DateTimeFormatter.withOffsetParsed
+after post processing ......
+org/joda/time/format/ISODateTimeFormat.dateTimeNoMillis
+org/joda/time/format/DateTimeFormatter.parseInto
+org/joda/time/format/DateTimeFormatter.withOffsetParsed
+found in top 10

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.RandomUtilsTest.testNextFloatMinimalRange:186
+Methods call in assertion: [org/apache/commons/lang3/RandomUtils.nextFloat]
+org/apache/commons/lang3/RandomUtils.nextFloat
+top 10 recommendations: 
+org/apache/commons/lang3/RandomUtils.nextFloat
+after post processing ......
+org/apache/commons/lang3/RandomUtils.nextFloat
+perfect match

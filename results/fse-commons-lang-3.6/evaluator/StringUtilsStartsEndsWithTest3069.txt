@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.StringUtilsStartsEndsWithTest.testStartsWithIgnoreCase:89
+Methods call in assertion: [org/apache/commons/lang3/StringUtils.startsWithIgnoreCase]
+org/apache/commons/lang3/StringUtils.startsWithIgnoreCase
+top 10 recommendations: 
+org/apache/commons/lang3/StringUtils.startsWithIgnoreCase
+after post processing ......
+org/apache/commons/lang3/StringUtils.startsWithIgnoreCase
+perfect match

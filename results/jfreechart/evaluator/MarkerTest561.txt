@@ -1,0 +1,8 @@
+slicing criterion: org.jfree.chart.plot.MarkerTest.testGetSetLabelAnchor:259
+Methods call in assertion: [org/jfree/chart/plot/ValueMarker.getLabelAnchor]
+org/jfree/chart/plot/Marker.getLabelAnchor
+top 10 recommendations: 
+org/jfree/chart/plot/Marker.getLabelAnchor
+after post processing ......
+org/jfree/chart/plot/Marker.getLabelAnchor
+perfect match

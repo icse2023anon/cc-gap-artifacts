@@ -1,0 +1,20 @@
+slicing criterion: org.joda.time.TestTimeOfDay_Basics.testIsSupported:255
+Methods call in assertion: [org/joda/time/TimeOfDay.isSupported, org/joda/time/DateTimeFieldType.dayOfMonth]
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/TimeOfDay.getFieldType
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/TimeOfDay.size
+org/joda/time/DateTimeFieldType.dayOfMonth
+top 10 recommendations: 
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/TimeOfDay.getFieldType
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/TimeOfDay.size
+org/joda/time/DateTimeFieldType.dayOfMonth
+after post processing ......
+org/joda/time/base/AbstractPartial.isSupported
+org/joda/time/TimeOfDay.getFieldType
+org/joda/time/base/AbstractPartial.indexOf
+org/joda/time/TimeOfDay.size
+org/joda/time/DateTimeFieldType.dayOfMonth
+found in top 10

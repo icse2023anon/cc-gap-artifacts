@@ -1,0 +1,35 @@
+slicing criterion: org.joda.time.tz.TestBuilder.testFixed:324
+Methods call in assertion: [org/joda/time/DateTimeZone.previousTransition]
+org/joda/time/tz/DateTimeZoneBuilder.setFixedSavings
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/tz/DateTimeZoneBuilder.writeMillis
+org/joda/time/tz/DateTimeZoneBuilder.writeTo
+org/joda/time/tz/FixedDateTimeZone.getStandardOffset
+org/joda/time/tz/FixedDateTimeZone.getNameKey
+org/joda/time/tz/FixedDateTimeZone.getOffset
+org/joda/time/tz/DateTimeZoneBuilder.toDateTimeZone
+org/joda/time/tz/DateTimeZoneBuilder.setStandardOffset
+org/joda/time/tz/FixedDateTimeZone.previousTransition
+top 10 recommendations: 
+org/joda/time/tz/DateTimeZoneBuilder.writeTo
+org/joda/time/tz/DateTimeZoneBuilder.setFixedSavings
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/tz/DateTimeZoneBuilder.writeMillis
+org/joda/time/tz/FixedDateTimeZone.getStandardOffset
+org/joda/time/tz/FixedDateTimeZone.getNameKey
+org/joda/time/tz/FixedDateTimeZone.getOffset
+org/joda/time/tz/DateTimeZoneBuilder.toDateTimeZone
+org/joda/time/tz/DateTimeZoneBuilder.setStandardOffset
+org/joda/time/tz/FixedDateTimeZone.previousTransition
+after post processing ......
+org/joda/time/tz/DateTimeZoneBuilder.writeTo
+org/joda/time/tz/DateTimeZoneBuilder.setFixedSavings
+org/joda/time/tz/DateTimeZoneBuilder.readFrom
+org/joda/time/tz/DateTimeZoneBuilder.writeMillis
+org/joda/time/tz/FixedDateTimeZone.getStandardOffset
+org/joda/time/tz/FixedDateTimeZone.getNameKey
+org/joda/time/tz/FixedDateTimeZone.getOffset
+org/joda/time/tz/DateTimeZoneBuilder.toDateTimeZone
+org/joda/time/tz/DateTimeZoneBuilder.setStandardOffset
+org/joda/time/tz/FixedDateTimeZone.previousTransition
+found in top 10

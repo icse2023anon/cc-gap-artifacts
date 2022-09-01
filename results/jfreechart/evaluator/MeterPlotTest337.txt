@@ -1,0 +1,29 @@
+slicing criterion: org.jfree.chart.plot.MeterPlotTest.testEquals:162
+Methods call in assertion: [org/jfree/chart/plot/MeterPlot.equals]
+org/jfree/chart/plot/MeterPlot.addInterval
+org/jfree/chart/plot/MeterPlot.setTickLabelFont
+org/jfree/chart/plot/MeterPlot.setTickLabelsVisible
+org/jfree/chart/plot/MeterPlot.setTickLabelPaint
+org/jfree/data/Range.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/plot/MeterPlot.equals
+top 10 recommendations: 
+org/jfree/chart/plot/MeterPlot.equals
+org/jfree/chart/plot/MeterPlot.addInterval
+org/jfree/chart/plot/MeterPlot.setTickLabelFont
+org/jfree/chart/plot/MeterPlot.setTickLabelsVisible
+org/jfree/chart/plot/MeterPlot.setTickLabelPaint
+org/jfree/data/Range.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/plot/MeterPlot.equals
+org/jfree/chart/plot/MeterPlot.addInterval
+org/jfree/chart/plot/MeterPlot.setTickLabelFont
+org/jfree/chart/plot/MeterPlot.setTickLabelsVisible
+org/jfree/chart/plot/MeterPlot.setTickLabelPaint
+org/jfree/data/Range.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

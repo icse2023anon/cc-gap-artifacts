@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.codec.language.DoubleMetaphoneTest.testEmpty:1116
+Methods call in assertion: [org/apache/commons/codec/language/DoubleMetaphone.doubleMetaphone]
+org/apache/commons/codec/language/DoubleMetaphone.doubleMetaphone
+top 10 recommendations: 
+org/apache/commons/codec/language/DoubleMetaphone.doubleMetaphone
+after post processing ......
+org/apache/commons/codec/language/DoubleMetaphone.doubleMetaphone
+perfect match

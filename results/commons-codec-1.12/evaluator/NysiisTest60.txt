@@ -1,0 +1,17 @@
+slicing criterion: org.apache.commons.codec.language.NysiisTest.assertEncodings:46
+Methods call in assertion: [org/apache/commons/codec/language/Nysiis.encode]
+org/apache/commons/codec/language/Nysiis.isStrict
+org/apache/commons/codec/language/SoundexUtils.clean
+org/apache/commons/codec/language/Nysiis.encode
+org/apache/commons/codec/language/Nysiis.nysiis
+top 10 recommendations: 
+org/apache/commons/codec/language/Nysiis.encode
+org/apache/commons/codec/language/Nysiis.nysiis
+org/apache/commons/codec/language/Nysiis.isStrict
+org/apache/commons/codec/language/SoundexUtils.clean
+after post processing ......
+org/apache/commons/codec/language/Nysiis.encode
+org/apache/commons/codec/language/Nysiis.nysiis
+org/apache/commons/codec/language/Nysiis.isStrict
+org/apache/commons/codec/language/SoundexUtils.clean
+perfect match

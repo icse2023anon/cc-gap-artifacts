@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.renderer.xy.CandlestickRendererTest.testEquals:131
+Methods call in assertion: [org/jfree/chart/renderer/xy/CandlestickRenderer.equals]
+org/jfree/chart/renderer/xy/CandlestickRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/xy/CandlestickRenderer.setCandleWidth
+org/jfree/chart/renderer/xy/CandlestickRenderer.setDrawVolume
+top 10 recommendations: 
+org/jfree/chart/renderer/xy/CandlestickRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/xy/CandlestickRenderer.setCandleWidth
+org/jfree/chart/renderer/xy/CandlestickRenderer.setDrawVolume
+after post processing ......
+org/jfree/chart/renderer/xy/CandlestickRenderer.equals
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/renderer/xy/CandlestickRenderer.setCandleWidth
+org/jfree/chart/renderer/xy/CandlestickRenderer.setDrawVolume
+perfect match

@@ -1,0 +1,8 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableLongTest.testGetSet:81
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableLong.getValue]
+org/apache/commons/lang3/mutable/MutableLong.getValue
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableLong.getValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableLong.getValue
+perfect match

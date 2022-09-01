@@ -1,0 +1,26 @@
+slicing criterion: org.joda.time.field.TestUnsupportedDateTimeField.testMethodsThatShouldAlwaysReturnNull:152
+Methods call in assertion: [org/joda/time/DateTimeField.getLeapDurationField]
+org/joda/time/DurationFieldType.weeks
+org/joda/time/DateTimeFieldType.centuryOfEra
+org/joda/time/field/UnsupportedDateTimeField.getDurationField
+org/joda/time/field/UnsupportedDurationField.getInstance
+org/joda/time/DurationFieldType.months
+org/joda/time/field/UnsupportedDateTimeField.getInstance
+org/joda/time/field/UnsupportedDateTimeField.getLeapDurationField
+top 10 recommendations: 
+org/joda/time/field/UnsupportedDateTimeField.getInstance
+org/joda/time/DurationFieldType.weeks
+org/joda/time/DateTimeFieldType.centuryOfEra
+org/joda/time/field/UnsupportedDateTimeField.getDurationField
+org/joda/time/field/UnsupportedDurationField.getInstance
+org/joda/time/DurationFieldType.months
+org/joda/time/field/UnsupportedDateTimeField.getLeapDurationField
+after post processing ......
+org/joda/time/field/UnsupportedDateTimeField.getInstance
+org/joda/time/DurationFieldType.weeks
+org/joda/time/DateTimeFieldType.centuryOfEra
+org/joda/time/field/UnsupportedDateTimeField.getDurationField
+org/joda/time/field/UnsupportedDurationField.getInstance
+org/joda/time/DurationFieldType.months
+org/joda/time/field/UnsupportedDateTimeField.getLeapDurationField
+found in top 10

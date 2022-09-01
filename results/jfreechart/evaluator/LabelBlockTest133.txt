@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.block.LabelBlockTest.testCloning:128
+Methods call in assertion: [org/jfree/chart/block/LabelBlock.equals]
+org/jfree/chart/block/AbstractBlock.clone
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/block/LabelBlock.equals
+top 10 recommendations: 
+org/jfree/chart/block/LabelBlock.equals
+org/jfree/chart/block/AbstractBlock.clone
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/block/LabelBlock.equals
+org/jfree/chart/block/AbstractBlock.clone
+org/jfree/chart/util/PaintUtils.equal
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

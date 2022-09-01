@@ -1,0 +1,26 @@
+slicing criterion: com.google.gson.ObjectTypeAdapterTest.testSerializeNullValue:45
+Methods call in assertion: [com/google/gson/TypeAdapter.toJson]
+com/google/gson/Gson.<init>
+com/google/gson/reflect/TypeToken.<init>
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/Gson.getAdapter
+com/google/gson/TypeAdapter.toJson
+com/google/gson/reflect/TypeToken.getRawType
+com/google/gson/GsonBuilder.create
+top 10 recommendations: 
+com/google/gson/GsonBuilder.create
+com/google/gson/Gson.<init>
+com/google/gson/reflect/TypeToken.<init>
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/Gson.getAdapter
+com/google/gson/TypeAdapter.toJson
+com/google/gson/reflect/TypeToken.getRawType
+after post processing ......
+com/google/gson/GsonBuilder.create
+com/google/gson/Gson.<init>
+com/google/gson/reflect/TypeToken.<init>
+com/google/gson/reflect/TypeToken.hashCode
+com/google/gson/Gson.getAdapter
+com/google/gson/TypeAdapter.toJson
+com/google/gson/reflect/TypeToken.getRawType
+found in top 10

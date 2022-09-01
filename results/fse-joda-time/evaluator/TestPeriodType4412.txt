@@ -1,0 +1,14 @@
+slicing criterion: org.joda.time.TestPeriodType.testDayTime:331
+Methods call in assertion: [org/joda/time/PeriodType.getFieldType, org/joda/time/DurationFieldType.seconds]
+org/joda/time/PeriodType.getFieldType
+org/joda/time/DurationFieldType.seconds
+org/joda/time/PeriodType.dayTime
+top 10 recommendations: 
+org/joda/time/PeriodType.dayTime
+org/joda/time/PeriodType.getFieldType
+org/joda/time/DurationFieldType.seconds
+after post processing ......
+org/joda/time/PeriodType.dayTime
+org/joda/time/PeriodType.getFieldType
+org/joda/time/DurationFieldType.seconds
+found in top 10

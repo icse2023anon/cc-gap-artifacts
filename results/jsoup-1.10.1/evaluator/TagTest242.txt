@@ -1,0 +1,11 @@
+slicing criterion: org.jsoup.parser.TagTest.equality:32
+Methods call in assertion: [org/jsoup/parser/Tag.equals]
+org/jsoup/parser/Tag.valueOf
+org/jsoup/parser/Tag.equals
+top 10 recommendations: 
+org/jsoup/parser/Tag.valueOf
+org/jsoup/parser/Tag.equals
+after post processing ......
+org/jsoup/parser/Tag.valueOf
+org/jsoup/parser/Tag.equals
+found in top 10

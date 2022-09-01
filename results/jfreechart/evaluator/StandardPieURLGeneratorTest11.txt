@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.urls.StandardPieURLGeneratorTest.testEquals:79
+Methods call in assertion: [org/jfree/chart/urls/StandardPieURLGenerator.equals]
+org/jfree/chart/util/ObjectUtils.equal
+org/jfree/chart/urls/StandardPieURLGenerator.equals
+top 10 recommendations: 
+org/jfree/chart/urls/StandardPieURLGenerator.equals
+org/jfree/chart/util/ObjectUtils.equal
+after post processing ......
+org/jfree/chart/urls/StandardPieURLGenerator.equals
+org/jfree/chart/util/ObjectUtils.equal
+perfect match

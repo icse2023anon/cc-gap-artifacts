@@ -1,0 +1,11 @@
+slicing criterion: org.apache.commons.lang3.mutable.MutableBooleanTest.testEquals:90
+Methods call in assertion: [org/apache/commons/lang3/mutable/MutableBoolean.equals]
+org/apache/commons/lang3/mutable/MutableBoolean.booleanValue
+org/apache/commons/lang3/mutable/MutableBoolean.equals
+top 10 recommendations: 
+org/apache/commons/lang3/mutable/MutableBoolean.equals
+org/apache/commons/lang3/mutable/MutableBoolean.booleanValue
+after post processing ......
+org/apache/commons/lang3/mutable/MutableBoolean.equals
+org/apache/commons/lang3/mutable/MutableBoolean.booleanValue
+perfect match

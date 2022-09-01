@@ -1,0 +1,17 @@
+slicing criterion: org.jfree.chart.PaintMapTest.testEquals:125
+Methods call in assertion: [org/jfree/chart/PaintMap.equals]
+org/jfree/chart/PaintMap.getPaint
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/PaintMap.put
+org/jfree/chart/util/PaintUtils.equal
+top 10 recommendations: 
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/PaintMap.getPaint
+org/jfree/chart/PaintMap.put
+org/jfree/chart/util/PaintUtils.equal
+after post processing ......
+org/jfree/chart/PaintMap.equals
+org/jfree/chart/PaintMap.getPaint
+org/jfree/chart/PaintMap.put
+org/jfree/chart/util/PaintUtils.equal
+perfect match

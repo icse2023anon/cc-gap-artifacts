@@ -1,0 +1,265 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m----------------------< [0;36mcommons-cli:commons-cli[0;1m >-----------------------[m
+[[1;34mINFO[m] [1mBuilding Apache Commons CLI 1.4[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mpitest-maven:1.6.7:mutationCoverage[m [1m(default-cli)[m @ [36mcommons-cli[0;1m ---[m
+[[1;34mINFO[m] Found plugin : Default csv report plugin
+[[1;34mINFO[m] Found plugin : Default xml report plugin
+[[1;34mINFO[m] Found plugin : Default html report plugin
+[[1;34mINFO[m] Found plugin : Static initializer code detector plugin
+[[1;34mINFO[m] Found plugin : Static initializer filter plugin
+[[1;34mINFO[m] Found plugin : Excluded annotations plugin
+[[1;34mINFO[m] Found plugin : Try with resources filter
+[[1;34mINFO[m] Found plugin : Inlined finally block filter plugin
+[[1;34mINFO[m] Found plugin : Implicit null check filter
+[[1;34mINFO[m] Found plugin : Method reference null check filter
+[[1;34mINFO[m] Found plugin : For each loop filter
+[[1;34mINFO[m] Found plugin : Enum constructor filter
+[[1;34mINFO[m] Found plugin : Logging calls filter
+[[1;34mINFO[m] Found plugin : Infinite for loop filter
+[[1;34mINFO[m] Found plugin : Long running iterator loop filter
+[[1;34mINFO[m] Found plugin : For loop counter filter
+[[1;34mINFO[m] Found plugin : Kotlin junk mutations filter
+[[1;34mINFO[m] Found plugin : Max mutations per class limit
+[[1;34mINFO[m] Found plugin : Equals shortcut equivalent mutant filter
+[[1;34mINFO[m] Found plugin : Trivial return vals equivalence filter
+[[1;34mINFO[m] Found plugin : Mutant export plugin
+[[1;34mINFO[m] Found shared classpath plugin : Default mutation engine
+[[1;34mINFO[m] Found shared classpath plugin : JUnit plugin
+[[1;34mINFO[m] Found shared classpath plugin : TestNG plugin
+[[1;34mINFO[m] Adding org.pitest:pitest to SUT classpath
+[[1;34mINFO[m] Mutating from /home/stg/omc_experiments/subjects/commons-cli/rq2_test_suites/test_suite_55/target/classes
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting d to desired type: For input string: "2.1"
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting f to desired type: Unable to find the class: test.properties
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+/stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+stderr  : Exception found converting d to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting i to desired type: java.lang.IllegalAccessException; Unable to create an instance of: java.util.Calendar
+stderr  : Exception found converting n to desired type: Unable to find the class: System.DateTime
+stderr  : Exception found converting v to desired type: Unable to parse the URL: foo://commons.apache.org
+stderr  : Exception found converting x to desired type: For input string: "3,5"
+-\|/-\|/-\|/-\|/-\|/-\================================================================================
+- Mutators
+================================================================================
+> org.pitest.mutationtest.engine.gregor.mutators.BooleanTrueReturnValsMutator
+>> Generated 32 Killed 23 (72%)
+> KILLED 23 SURVIVED 6 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 3 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.EmptyObjectReturnValsMutator
+>> Generated 47 Killed 39 (83%)
+> KILLED 39 SURVIVED 5 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 3 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.ConditionalsBoundaryMutator
+>> Generated 34 Killed 17 (50%)
+> KILLED 16 SURVIVED 12 TIMED_OUT 1 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 5 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.IncrementsMutator
+>> Generated 8 Killed 8 (100%)
+> KILLED 8 SURVIVED 0 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 0 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator
+>> Generated 117 Killed 56 (48%)
+> KILLED 56 SURVIVED 20 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 41 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.NullReturnValsMutator
+>> Generated 108 Killed 76 (70%)
+> KILLED 76 SURVIVED 23 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 9 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.experimental.SwitchMutator
+>> Generated 1 Killed 1 (100%)
+> KILLED 1 SURVIVED 0 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 0 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.RemoveConditionalMutator_EQUAL_ELSE
+>> Generated 297 Killed 172 (58%)
+> KILLED 171 SURVIVED 83 TIMED_OUT 1 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 42 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.MathMutator
+>> Generated 27 Killed 17 (63%)
+> KILLED 16 SURVIVED 3 TIMED_OUT 1 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 7 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.BooleanFalseReturnValsMutator
+>> Generated 17 Killed 11 (65%)
+> KILLED 11 SURVIVED 1 TIMED_OUT 0 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 5 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator
+>> Generated 332 Killed 256 (77%)
+> KILLED 255 SURVIVED 29 TIMED_OUT 1 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 47 
+--------------------------------------------------------------------------------
+> org.pitest.mutationtest.engine.gregor.mutators.PrimitiveReturnsMutator
+>> Generated 13 Killed 11 (85%)
+> KILLED 10 SURVIVED 1 TIMED_OUT 1 NON_VIABLE 0 
+> MEMORY_ERROR 0 NOT_STARTED 0 STARTED 0 RUN_ERROR 0 
+> NO_COVERAGE 1 
+--------------------------------------------------------------------------------
+================================================================================
+- Timings
+================================================================================
+> pre-scan for mutations : < 1 second
+> scan classpath : < 1 second
+> coverage and dependency analysis : 1 seconds
+> build mutation tests : < 1 second
+> run mutation analysis : 1 minutes and 29 seconds
+--------------------------------------------------------------------------------
+> Total  : 1 minutes and 32 seconds
+--------------------------------------------------------------------------------
+================================================================================
+- Statistics
+================================================================================
+>> Line Coverage: 976/1178 (83%)
+>> Generated 1033 mutations Killed 687 (67%)
+>> Mutations with no coverage 163. Test strength 79%
+>> Ran 4024 tests (3.9 tests per mutation)
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  01:34 min
+[[1;34mINFO[m] Finished at: 2022-08-30T16:28:11Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m

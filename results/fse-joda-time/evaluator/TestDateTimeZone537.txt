@@ -1,0 +1,32 @@
+slicing criterion: org.joda.time.TestDateTimeZone.testForTimeZone_TimeZone:564
+Methods call in assertion: [org/joda/time/DateTimeZone.getID]
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/format/DateTimeParserBucket.doParseMillis
+org/joda/time/format/DateTimeFormatter.parseMillis
+org/joda/time/DateTimeZone.getID
+org/joda/time/format/DateTimeParserBucket.computeMillis
+org/joda/time/format/FormatUtils.parseTwoDigits
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/DateTimeZone.getDefault
+top 10 recommendations: 
+org/joda/time/format/DateTimeFormatter.parseMillis
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/format/DateTimeParserBucket.doParseMillis
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/DateTimeZone.getID
+org/joda/time/format/DateTimeParserBucket.computeMillis
+org/joda/time/format/FormatUtils.parseTwoDigits
+after post processing ......
+org/joda/time/format/DateTimeFormatter.parseMillis
+org/joda/time/DateTimeZone.forTimeZone
+org/joda/time/DateTimeZone.getDefault
+org/joda/time/format/DateTimeParserBucket.doParseMillis
+org/joda/time/tz/ZoneInfoProvider.getZone
+org/joda/time/DateTimeZone.getProvider
+org/joda/time/DateTimeZone.getID
+org/joda/time/format/DateTimeParserBucket.computeMillis
+org/joda/time/format/FormatUtils.parseTwoDigits
+found in top 10

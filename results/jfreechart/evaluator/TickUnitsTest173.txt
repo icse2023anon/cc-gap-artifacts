@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.axis.TickUnitsTest.testCloning:76
+Methods call in assertion: [org/jfree/chart/axis/TickUnits.equals]
+org/jfree/chart/axis/TickUnits.clone
+org/jfree/chart/axis/TickUnits.equals
+top 10 recommendations: 
+org/jfree/chart/axis/TickUnits.clone
+org/jfree/chart/axis/TickUnits.equals
+after post processing ......
+org/jfree/chart/axis/TickUnits.clone
+org/jfree/chart/axis/TickUnits.equals
+found in top 10

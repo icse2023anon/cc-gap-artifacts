@@ -1,0 +1,11 @@
+slicing criterion: org.jfree.chart.needle.PointerNeedleTest.testCloning:73
+Methods call in assertion: [org/jfree/chart/needle/PointerNeedle.equals]
+org/jfree/chart/needle/PointerNeedle.clone
+org/jfree/chart/needle/PointerNeedle.equals
+top 10 recommendations: 
+org/jfree/chart/needle/PointerNeedle.clone
+org/jfree/chart/needle/PointerNeedle.equals
+after post processing ......
+org/jfree/chart/needle/PointerNeedle.clone
+org/jfree/chart/needle/PointerNeedle.equals
+found in top 10
